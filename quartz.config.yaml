@@ -12,23 +12,22 @@ configuration:
     - private
     - templates
     - .obsidian
-  theme:
   fontOrigin: googleFonts
   cdnCaching: true
   typography:
-    header: "Schibsted Grotesk"
-    body: "Source Sans Pro"
-    code: "IBM Plex Mono"
+    header: "Inter"
+    body: "Inter"
+    code: "JetBrains Mono"
   colors:
     lightMode:
-      light: "#faf8f8"
-      lightgray: "#e5e5e5"
-      gray: "#b8b8b8"
-      darkgray: "#4e4e4e"
-      dark: "#2b2b2b"
-      secondary: "#284b63"
-      tertiary: "#84a59d"
-      highlight: "rgba(143, 159, 169, 0.15)"
+      light: "#ffffff"          # Clean white background (Minimal theme)
+      lightgray: "#f2f2f3"      # Muted borders & card background
+      gray: "#8c8c8c"           # Secondary text & subtle elements
+      darkgray: "#383838"       # Main text color
+      dark: "#111111"           # Headers and titles
+      secondary: "#206694"     # Link color / Accent
+      tertiary: "#5865f2"      # Hover state links
+      highlight: "rgba(0, 0, 0, 0.04)"
       textHighlight: "#fff23688"
     darkMode:
       light: "#161618"
@@ -215,86 +214,3 @@ plugins:
   - source: "@quartz-community/breadcrumbs"
     enabled: true
     layout:
-      position: beforeBody
-      priority: 5
-      condition: not-index
-  - source: "@quartz-community/comments"
-    enabled: false
-    options:
-      provider: giscus
-      options: {}
-    layout:
-      position: afterBody
-      priority: 10
-  - source: "@quartz-community/footer"
-    enabled: true
-    options:
-      links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
-    layout:
-      position: footer
-      priority: 50
-  - source: "@quartz-community/recent-notes"
-    enabled: false
-  - source: "@quartz-community/spacer"
-    enabled: true
-    options: {}
-    order: 25
-    layout:
-      position: left
-      priority: 25
-      display: mobile-only
-  - source: "@quartz-community/bases-page"
-    enabled: true
-    options: {}
-    order: 50
-  - source: "@quartz-community/note-properties"
-    enabled: true
-    options:
-      includeAll: false
-      includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
-      hidePropertiesView: false
-      delimiters: ---
-      language: yaml
-    order: 5
-    layout:
-      position: beforeBody
-      priority: 15
-      display: all
-  - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
-    options:
-      enableInteraction: true
-      darkMode: auto
-      exportPadding: 20
-    order: 50
-layout:
-  groups:
-    toolbar:
-      priority: 35
-      direction: row
-      gap: 0.5rem
-  byPageType:
-    "404":
-      positions:
-        beforeBody: []
-        left: []
-        right: []
-    content: {}
-    folder:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    tag:
-      exclude:
-        - reader-mode
-      positions:
-        right: []
-    canvas: {}
-    bases: {}
