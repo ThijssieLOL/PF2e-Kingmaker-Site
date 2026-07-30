@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: ThijssieLol.github.io/quartz
+  baseUrl: thijssielol.github.io/PF2e-Kingmaker-Site
   ignorePatterns:
     - private
     - templates
