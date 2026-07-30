@@ -12,33 +12,34 @@ configuration:
     - private
     - templates
     - .obsidian
-  fontOrigin: googleFonts
-  cdnCaching: true
-  typography:
-    header: "Inter"
-    body: "Inter"
-    code: "JetBrains Mono"
-  colors:
-    lightMode:
-      light: "#ffffff"          # Clean white background (Minimal theme)
-      lightgray: "#f2f2f3"      # Muted borders & card background
-      gray: "#8c8c8c"           # Secondary text & subtle elements
-      darkgray: "#383838"       # Main text color
-      dark: "#111111"           # Headers and titles
-      secondary: "#206694"     # Link color / Accent
-      tertiary: "#5865f2"      # Hover state links
-      highlight: "rgba(0, 0, 0, 0.04)"
-      textHighlight: "#fff23688"
-    darkMode:
-      light: "#161618"
-      lightgray: "#393639"
-      gray: "#646464"
-      darkgray: "#d4d4d4"
-      dark: "#ebebec"
-      secondary: "#7b97aa"
-      tertiary: "#84a59d"
-      highlight: "rgba(143, 159, 169, 0.15)"
-      textHighlight: "#b3aa0288"
+  theme:
+    fontOrigin: googleFonts
+    cdnCaching: true
+    typography:
+      header: "Inter"
+      body: "Inter"
+      code: "JetBrains Mono"
+    colors:
+      lightMode:
+        light: "#ffffff"          # Crisp white background (Obsidian Minimal)
+        lightgray: "#f0f0f0"      # Minimal subtle light gray borders/containers
+        gray: "#8c8c8c"           # Subtle text & icons
+        darkgray: "#3a3a3a"       # Body text
+        dark: "#1c1c1c"           # Headings & primary text
+        secondary: "#2c5282"     # Subtle link accent
+        tertiary: "#4299e1"      # Hover link accent
+        highlight: "rgba(0, 0, 0, 0.04)"
+        textHighlight: "#fff23688"
+      darkMode:
+        light: "#161618"
+        lightgray: "#393639"
+        gray: "#646464"
+        darkgray: "#d4d4d4"
+        dark: "#ebebec"
+        secondary: "#7b97aa"
+        tertiary: "#84a59d"
+        highlight: "rgba(143, 159, 169, 0.15)"
+        textHighlight: "#b3aa0288"
 plugins:
   - source: "@quartz-community/created-modified-date"
     enabled: true
@@ -110,10 +111,7 @@ plugins:
   - source: "@quartz-community/quartz-fonts"
     enabled: true
   - source: "@quartz-themes/core"
-    enabled: true
-    options:
-      theme: default
-      mode: both
+    enabled: false                # DISABLED: Prevents default Quartz theme from overriding your custom colors
   - source: "@quartz-community/remove-draft"
     enabled: true
   - source: "@quartz-community/explicit-publish"
@@ -176,41 +174,3 @@ plugins:
         grow: true
   - source: "@quartz-community/backlinks"
     enabled: true
-    layout:
-      position: right
-      priority: 50
-  - source: "@quartz-community/article-title"
-    enabled: true
-    layout:
-      position: beforeBody
-      priority: 10
-  - source: "@quartz-community/content-meta"
-    enabled: true
-    layout:
-      position: beforeBody
-      priority: 20
-  - source: "@quartz-community/tag-list"
-    enabled: false
-    layout:
-      position: beforeBody
-      priority: 30
-  - source: "@quartz-community/page-title"
-    enabled: true
-    layout:
-      position: left
-      priority: 10
-  - source: "@quartz-community/darkmode"
-    enabled: true
-    layout:
-      position: left
-      priority: 30
-      group: toolbar
-  - source: "@quartz-community/reader-mode"
-    enabled: true
-    layout:
-      position: left
-      priority: 35
-      group: toolbar
-  - source: "@quartz-community/breadcrumbs"
-    enabled: true
-    layout:
