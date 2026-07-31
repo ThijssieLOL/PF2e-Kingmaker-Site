@@ -165,7 +165,7 @@ The Church operates with the administrative scale and organizational rigor of a 
 
 ### Clergy Attire
 - **Ceremonial Vestments:** An ankle-length black cassock featuring high collars and gold engravings, often paired with a long white stole embroidered with gold floral and solar patterns.
-- **Traveler's Attire:** A comfortable dark tunic and trousers, paired with a white traveler's poncho-capelet adorned with gold engravings.
+- **Traveller's Attire:** A comfortable dark tunic and trousers, paired with a white traveller's poncho-capelet adorned with gold engravings.
 
 ---
 
