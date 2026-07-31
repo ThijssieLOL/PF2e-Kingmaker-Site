@@ -86,7 +86,7 @@ To advance to a higher grade, a member of the clergy must meet strict power and 
 
 The Church operates with the administrative scale and organizational rigor of a sovereign empire. Rather than relying on informal orders, executive authority is divided among nine supreme ministries known as the High Chancelleries. Each Chancellery is led by high-ranking clergy and manages a distinct pillar of statecraft, divine law, and civil service.
 
-### 1. The Chancellery of Silent Illumination (Intelligence & Covert Operations)
+### 1. [[The Chancellery of Silent Illumination]] (Intelligence & Covert Operations)
 - **Primary Function:** State security, espionage, counter-intelligence, and internal oversight.
 - **Operations:** Monitors internal clerical corruption and tracks external existential threats. It commands the Church's covert military branch—a disciplined order of orphan-warriors trained in lethal martial arts and spirit-binding to execute surgical, unseen missions in defense of the faith.
 

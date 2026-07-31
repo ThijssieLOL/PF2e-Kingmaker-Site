@@ -15,7 +15,7 @@ status: Alive
 > "..." - Aurelius
 
 ## Overview
-Aurelius is a religious warrior-philosopher who lives a double life. By day, he is a scholarly missionary, scribe, and teacher; by night, he is a lethal [[Divine commando]] trained in martial arts and spirit-binding. Gifted from birth with a rare spiritual sight, he has dedicated his life to establishing a kingdom where human law, military order, and divine cleansing work in balanced harmony.
+Aurelius is a religious warrior-philosopher who lives a double life. By day, he is a scholarly missionary, scribe, and teacher; by night, he is a lethal [[The Chancellery of Silent Illumination]] trained in martial arts and spirit-binding. Gifted from birth with a rare spiritual sight, he has dedicated his life to establishing a kingdom where human law, military order, and divine cleansing work in balanced harmony.
 
 ### Quick Facts
 - **Full Name:** Aurelius (Leo)
@@ -95,7 +95,7 @@ Aurelius is the creator and chief proponent of the Trias Politicas.
 ## Abilities
 
 ### Combat Style
-He fights utilizing the unarmed, highly kinetic combat style of a [[Divine commando]]. 
+He fights utilizing the unarmed, highly kinetic combat style of a [[The Chancellery of Silent Illumination]]. 
 - **Combat Limits:** He fights strictly without weapons, relying primarily on close-range divine magic and spirit manipulation, reserving physical unarmed strikes purely as a last resort.
 - **Demeanor:** He is trained to maintain absolute focus and emotional detachment in battle. However, if he is pushed to the brink of death, this structured discipline breaks down, and his style shifts into a raw, desperate, survival-oriented martial art.
 
