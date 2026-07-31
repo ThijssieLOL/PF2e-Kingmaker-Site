@@ -47,9 +47,9 @@ Skip this section if your character has no magic/can't cast spells.
 
 ### Family and Relationships
 21. Describe your character's parents. Are they still alive? What are they doing now? 
-
+	- They were murdered when he was 6 years old, leaving leo and orphan
 22. Does your character have any siblings? What is your character's relationship with them? 
-
+	- While aurelius does not have blood related siblings, he considers the other orphans of his year as siblings
 23. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
 
 24. What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?
