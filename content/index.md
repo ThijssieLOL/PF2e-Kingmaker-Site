@@ -2,7 +2,7 @@
 
 # ☀️ Pathfinder 2e: Kingmaker Wiki
 
-> *"Praise the Sun."* — Common Liturgical Greeting
+> *"..."* — 
 
 ---
 
@@ -15,25 +15,15 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 ## 👥 Key Characters (The Cohort)
 
-<<<<<<< HEAD
-| Character        | Class / Role       | Focus & Description                                                                                                                               |
-| ---------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[[Aurelius]]** | Animist / Magister | Religious warrior-philosopher, spiritual architect of the [[Holy Ground Project]], and champion of the [[Trias Politicas]] governance model [^3]. |
-| **[[Zephan]]** | Swashbuckler |  |
-| **[[Jock Finch]]** | Bard |  |
-| **[[Oliver]]** | Commander |  |
-| *Lord Edge* | Necromancer |  |
-| *Essie* |  |  |
-=======
-| Character          | Class / Role       | Focus & Description                                                                                                                               |
-| ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **[[Aurelius]]**   | Animist / Magister | Religious warrior-philosopher, spiritual architect of the [[Holy Ground Project]], and champion of the [[Trias Politicas]] governance model [^3]. |
-| **[[Zephan]]**     | Swashbuckler       |                                                                                                                                                   |
-| **[[Jock Finch]]** | Bard               |                                                                                                                                                   |
-| *Boterbram*        | Commander          |                                                                                                                                                   |
-| *Lord Edge*        | Necromancer        |                                                                                                                                                   |
-| *Essie*            |                    |                                                                                                                                                   |
->>>>>>> origin/v5
+| Character          | Class / Role       | Focus & Description                                                                                                                                                                        |
+| ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **[[Aurelius]]**   | Animist / Magister | Religious warrior-philosopher, spiritual architect of the [[Holy Ground Project]], and champion of the [[Trias Politicas]] governance model <span class="copilot-citation-ref">[3]</span>. |
+| **[[Zephan]]**     | Swashbuckler       |                                                                                                                                                                                            |
+| **[[Jock Finch]]** | Bard               |                                                                                                                                                                                            |
+| **[[Oliver]]**     | Commander          |                                                                                                                                                                                            |
+| *Boterbram*        | Commander          |                                                                                                                                                                                            |
+| *Lord Edge*        | Necromancer        |                                                                                                                                                                                            |
+| Essie              |                    |                                                                                                                                                                                            |
 
 ---
 
