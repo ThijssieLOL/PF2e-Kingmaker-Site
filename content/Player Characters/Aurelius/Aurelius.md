@@ -126,8 +126,7 @@ Rescued from the brink of total darkness, he was taken in by [[The Church of the
 ### Training & Upbringing in Silent Illumination
 Recognizing his physical potential and spiritual discipline, the Church inducted Aurelius into [[The Chancellery of Silent Illumination]] as part of their elite orphan-warrior program. 
 - **The Squad:** He was raised and trained alongside four squadmates—[[Gideon]], [[Julian]], [[Vespera]], and [[Lyra]]—forming a deeply bonded family of divine commandos.
-- **The Double Life:** Aurelius rose to the rank of **Grade 8 (Cinder)**, establishing a dual identity: publicly serving as a warm, humble scribe and clergyman, while secretly operating as a lethal unarmed commando and spirit-binder.
-- **Scholarly & Strategic Pursuits:** During this period, he formulated the [[Trias Politicas]]—his political thesis on balancing Royal, Church, and Military power—and began co-developing the [[Holy Ground Project]] with [[Lyra]], aiming to anchor divine warding barriers using natural ley-lines.
+- **The Double Life:** Aurelius rose to the rank of **Grade 8 (Cinder)**, establishing a dual identity: publicly serving as a warm, humble scribe and clergyman, while secretly operating as a lethal unarmed commando and spirit-binder
 
 ### Call to the Frontier: Mission to the Stolen Lands
 Two years prior to the exploration charter, Aurelius began experiencing sudden, intense sensory overloads in the spirit realm, accompanied by faint, resonant whispers speaking of the "Stolen Lands." Because Aurelius's spiritual sight scales with his personal power, the fact that these whispering entities remained completely invisible to him indicated they were spirits of immense, high-planar standing. 
