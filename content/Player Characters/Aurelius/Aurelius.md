@@ -21,7 +21,7 @@ Aurelius is a religious warrior-philosopher who lives a double life. By day, he 
 - **Full Name:** Aurelius (Leo)
 - **Ancestry/Species:** Human
 - **Class/Profession:** Animist (Pathfinder 2e) / Missionary, Clergyman, and Divine Commando
-- **Affiliation:** [[The Church of the Eternal Blazing Sun]] (Sarenrae)
+- **Affiliation:** [[The Church of the Eternal Blazing Sun]]
 - **Role/Rank:** Grade 8 - Anointed (Publicly: Clergyman & Scribe / Secretly: Divine Commando)
 
 ---
