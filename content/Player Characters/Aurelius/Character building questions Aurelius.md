@@ -21,14 +21,14 @@
 10. Does your character have a particular set of nice clothes? If so, what does it look like?
 	- No, he does not, perhaps his clergy attire but he will not wear that to balls for example
 11. What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?
-
+	- ...
 #### Magic
 Skip this section if your character has no magic/can't cast spells.
 
 12. Where does your character tell people their magic came from?
-
+	- Leo tells people his magic comes from the sun goddess
 13. Where does your character actually get their magic?
-
+	- Di
 14. Does this origin affect the magic's working and visuals?
 
 15. What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
