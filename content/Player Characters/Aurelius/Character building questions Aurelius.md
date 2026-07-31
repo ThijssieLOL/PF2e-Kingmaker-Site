@@ -51,13 +51,13 @@ Skip this section if your character has no magic/can't cast spells.
 22. Does your character have any siblings? What is your character's relationship with them? 
 	- While aurelius does not have blood related siblings, he considers the other orphans of his year as siblings
 23. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
-
+	- He does not
 24. What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?
-
+	- They are dead
 25. Is your character part of any organization? If so, is this organization known?
-
+	- [[The Church of the Eternal Blazing Sun]]
 26. Does your character have many friends? 
-
+	- 
 27. Did your character have a mentor? Are they still in contact? What did this mentor teach? 
 
 28. Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.
