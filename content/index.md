@@ -9,7 +9,7 @@
 ## 📖 Campaign Overview
 Welcome to the official campaign vault for **Pathfinder 2e: Kingmaker**. This wiki tracks the journey, faction dynamics, and overarching political and spiritual movements within the realm. The core narrative heavily features agents tied to the cohort, ...
 
-The campaign is following 
+The campaign is following an adventuring party of heroes on their quest to found a new nation in the stolen lands. It takes place in the homebrew world of Kaelerum
 
 ---
 
