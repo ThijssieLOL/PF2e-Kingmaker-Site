@@ -59,7 +59,7 @@ The hierarchy of the church is structured around a strict, fire-themed grade sys
   - *Role:* Legendary figures of immense spiritual and political influence within the church.
 - **Grade 2: Solstice** (Levels 19–20)
   - *Role:* The supreme leader of the church (pope-equivalent). This individual is chosen directly by the sun goddess to be the leader of the church on earth.
-- **Grade 1: Star 
+- **Grade 1: Star**
   - *Role:* In the Church's mythology the stars or saints function as a cast of minor deities believed to be mortals that have ascended to the realm of gods. The church believes in them as patron saints of various aspects of life. They are each represented by a star or constellation
 - **Grade 0: The Eternal Blazing Sun**
   - *Note:* The Goddess herself.
