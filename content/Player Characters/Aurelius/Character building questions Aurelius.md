@@ -61,16 +61,16 @@ Skip this section if your character has no magic/can't cast spells.
 27. Did your character have a mentor? Are they still in contact? What did this mentor teach? 
 	- The priest of the local church he grew up in has acted as a mentor to him for most of his life
 28. Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.
-	- Aurelius would consider the cult that has murdered his parents as enemies, which is currently still searching for
+	- Aurelius would consider the cult that has murdered his parents as enemies, which is currently still searching for him
 29. Is your character or has your character been in a romantic relationship?
-
+	- He has not, he devoted his life to celibacy from the age of 8
 ### Backstory and Upbringing
 30. Where did your character grow up?
-
+	- ...
 31. Who raised them? If not their parents, why?
-
+	- The church of the eternal blazing sun
 32. Did your character have any form of education? Did they go to school? Were they home schooled? 
-
+	- [[The Chancellery of Silent Illumination]]
 33. How has your upbringing shaped your worldview?
 
 34. Is your character's family well-off or are they fucking peasants?
