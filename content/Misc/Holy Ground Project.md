@@ -8,16 +8,6 @@ lead_engineer: "[[Lyra]]"
 affiliation: "[[The Church of the Eternal Blazing Sun]]"
 status: In Development
 ---
----
-tags:
-  - project
-  - lore
-  - magic
-architect: "[[Aurelius]]"
-lead_engineer: "[[Lyra]]"
-affiliation: "[[The Church of the Eternal Blazing Sun]]"
-status: In Development
----
 
 # The Holy Ground Project
 
@@ -37,8 +27,8 @@ By synthesizing divine theology, animist spirit manipulation, and advanced alche
 - **Nocturnal Projection:** During the night, the batteries gradually release their stored energy, maintaining a continuous, uninterrupted protective barrier across the kingdom.
 
 ### The Cleansing Barrier
-- **Automated Detection:** The boundary acts as an automated filter for anyone entering or residing within the protected territory, constantly scanning for parasitic, malicious, or unholy entities.
-- **Host-Safe Purification:** Evil or parasitic spirits attached to mortal hosts are forcibly separated and cleansed by holy fire upon crossing the border, without inflicting physical trauma or psychological damage on the host.
+- **Automated Detection:** The boundary acts as an automated filter for any spirit entering or residing within the protected territory, constantly scanning for parasitic, malicious, or unholy entities.
+- **Host-Safe Purification:** Evil or parasitic spirits are forcibly separated and cleansed by holy fire upon crossing the border, without inflicting physical trauma or psychological damage on the host.
 
 ### Spirit-Node Architecture
 - **Spiritual Anchors:** To stabilize the network over vast geographical distances, the project utilizes localized spiritual anchors across key territorial points.
