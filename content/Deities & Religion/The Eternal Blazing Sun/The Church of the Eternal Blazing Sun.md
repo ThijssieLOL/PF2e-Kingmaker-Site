@@ -84,7 +84,7 @@ To advance to a higher grade, a member of the clergy must meet strict power and 
 ### Regional Structure
 - The church utilizes a formal archdiocese system adapted to the geography of the world, allowing regional bishops and archbishops to manage local parishes while maintaining direct communication with the central headquarters.
 
-## Governance & The High Chancelleries
+## The Chancelleries
 
 The Church operates with the administrative scale and organizational rigor of a sovereign empire. Rather than relying on informal orders, executive authority is divided among nine supreme ministries known as the High Chancelleries. Each Chancellery is led by high-ranking clergy and manages a distinct pillar of statecraft, divine law, and civil service.
 
