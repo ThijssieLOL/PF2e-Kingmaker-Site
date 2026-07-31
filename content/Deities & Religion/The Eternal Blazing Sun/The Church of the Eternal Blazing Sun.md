@@ -55,10 +55,10 @@ The hierarchy of the church is structured around a strict, fire-themed grade sys
   - **Chancellery Requirement:** Active service and operational experience across **2 Chancelleries**.
 - **Grade 6: Ignis** (Levels 8–10)
   - **Role:** Bishops overseeing regional dioceses containing multiple churches.
-  - **Chancellery Requirement:** Proven administrative involvement across **3 Chancelleries**.
+  - **Chancellery Requirement:** Proven administrative involvement across **2 Chancelleries**.
 - **Grade 5: Pyre** (Levels 11–13)
   - **Role:** Archbishops managing vast territories, major metropolitan cathedrals, and strategic initiatives.
-  - **Chancellery Requirement:** Leadership experience and oversight across **4 Chancelleries**.
+  - **Chancellery Requirement:** Leadership experience and oversight across **3 Chancelleries**.
 - **Grade 4: Vesta** (Levels 14–16)
   - **Role:** High-ranking administrators, senior inquisitors, and regional executive directors.
   - **Chancellery Requirement:** High administrative authority spanning **3 Chancelleries**.
