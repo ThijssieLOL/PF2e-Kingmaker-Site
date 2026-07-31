@@ -30,10 +30,11 @@ Skip this section if your character has no magic/can't cast spells.
 13. Where does your character actually get their magic?
 	- Divinity and Spirit apparitions
 14. Does this origin affect the magic's working and visuals?
-	- Yes, most spells (both apparition and spell list) have a holy like appearance, often in white flames
+	- Yes, most spells (both apparition and spell list) have a holy like appearance, often in white flames 
 15. What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
-	- [[i]]
+	- [[Aurelius#Casting Sensation and Visuals| White divine flames]]
 16. Is there a cost to the magic?
+-=
 
 #### Combat style
 17. How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?
