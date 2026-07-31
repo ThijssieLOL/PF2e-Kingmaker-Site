@@ -12,7 +12,7 @@ status: Alive
 
 # Aurelius
 
-![[Aurelius final design.png|372]]
+![[aurelius]]
 
 > "..." - Aurelius
 
