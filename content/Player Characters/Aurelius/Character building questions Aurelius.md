@@ -6,12 +6,12 @@
 3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
 	- Diplomacy, Religion
 4. What languages does your character speak and why?
-	- C
+	- Common, ....
 ### Visual Design and Aesthetics
 5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
-
+	- Athletic but lean
 6. What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character's look distinct.
-
+	- [[Tattoos of Penance]] across his forearms and legs, as well as [[Ocular of Kaelen]]
 7. Is your character well groomed? Do they bathe often? Do they brush their teeth? 
 
 8. Does your character have a condition or other distinction that makes them different from others of their race/species.
