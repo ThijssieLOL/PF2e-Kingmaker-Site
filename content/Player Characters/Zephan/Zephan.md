@@ -10,7 +10,7 @@ status: Alive
 
 # Zephan
 
-![[Zephan.png|356]]
+![[Zephan.png|375]]
 
 > ""
 
