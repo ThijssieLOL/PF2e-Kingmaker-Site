@@ -28,11 +28,11 @@ Skip this section if your character has no magic/can't cast spells.
 12. Where does your character tell people their magic came from?
 	- Leo tells people his magic comes from the sun goddess
 13. Where does your character actually get their magic?
-	- Di
+	- Divinity and Spirit apparitions
 14. Does this origin affect the magic's working and visuals?
-
+	- Yes, most spells (both apparition and spell list) have a holy like appearance, often in white flames
 15. What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
-
+	
 16. Is there a cost to the magic?
 
 #### Combat style
