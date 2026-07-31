@@ -39,7 +39,7 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 Use these templates to maintain consistent formatting across the vault:
 
-- **[[Character template]]**: Template for detailing PCs, NPCs, and major figures.
+- **[[Character Template]]**: Template for detailing PCs, NPCs, and major figures.
 - **[[Faction Template]]**: Structure for political factions, guilds, and holy orders.
 - **[[Location Template]]**: Layout for hexes, regions, landmarks, and settlements.
 - **[[Session Note Template]]**: Standard format for logging session recaps, combat encounters, and kingdom updates.
