@@ -1,0 +1,18 @@
+---
+tags:
+  - Religion
+  - Constellation
+  - Saint
+deity: "[[The Eternal Blazing Sun]]"
+Saintly Domain:
+  - Travellers
+  - Sailors
+Constellation: "[[The North Star]]"
+Alternate names:
+  - The Hermit
+  - The Traveller
+  - The lone Wanderer
+True name:
+---
+
+As all Saints in [[The Church of the Eternal Blazing Sun]] Saint Matthew was once a living man. He was ascended to sainthood and became the patron saint of travelers. The lone Wanderer is represented by the North star as this star serves as a major guide in traveler's navigation.
