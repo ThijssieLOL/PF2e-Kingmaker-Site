@@ -42,9 +42,9 @@ Skip this section if your character has no magic/can't cast spells.
 18. How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?
 	- This was the fighting style taught during his combat regimen, whereas his versatility came from his animist powers which he was taught to control by the church priest
 19. How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
-
+	- ...
 20. Does your character have rules or a code of honor for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?
-
+	- ...
 ### Family and Relationships
 21. Describe your character's parents. Are they still alive? What are they doing now? 
 	- They were murdered when he was 6 years old, leaving leo and orphan
@@ -72,9 +72,9 @@ Skip this section if your character has no magic/can't cast spells.
 32. Did your character have any form of education? Did they go to school? Were they home schooled? 
 	- [[The Chancellery of Silent Illumination#Training Curriculum & Education|Yes, the church taught him in magic, theology and combat]]
 33. How has your upbringing shaped your worldview?
-
+	- Leo's upbringing in the church of the eternal blazing sun has made him  empathetic and joyful, with an optimistic view on life
 34. Is your character's family well-off or are they fucking peasants?
-
+	- 
 35. What is your (tragic) backstory?
 
 ### Motivations and morality
