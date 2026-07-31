@@ -44,4 +44,7 @@ Use these templates to maintain consistent formatting across the vault:
 - **[[Location Template]]**: Layout for hexes, regions, landmarks, and settlements.
 - **[[Session Note Template]]**: Standard format for logging session recaps, combat encounters, and kingdom updates.
 
+---
+## Writing conventi
+
 ***
