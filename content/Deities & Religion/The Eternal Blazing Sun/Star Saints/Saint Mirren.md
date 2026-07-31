@@ -5,10 +5,11 @@ tags:
   - Saint
 deity: "[[The Eternal Blazing Sun]]"
 Saintly Domain:
+  - Union
+  - Devotion
+  - Marriage
 Constellation: "[[The Newlyweds]]"
 Alternate names:
-  - Union
-  - Marriage
 True name:
 ---
 
