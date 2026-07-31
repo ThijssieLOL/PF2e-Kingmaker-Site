@@ -9,6 +9,8 @@
 ## 📖 Campaign Overview
 Welcome to the official campaign vault for **Pathfinder 2e: Kingmaker**. This wiki tracks the journey, faction dynamics, and overarching political and spiritual movements within the realm. The core narrative heavily features agents tied to the cohort, ...
 
+The campaign is following 
+
 ---
 
 ## 👥 Key Characters (The Cohort)
