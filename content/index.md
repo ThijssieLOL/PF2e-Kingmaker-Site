@@ -2,7 +2,7 @@
 
 # ☀️ Pathfinder 2e: Kingmaker Wiki
 
-> *"Praise the Sun."* — Common Liturgical Greeting
+> *"..."* — 
 
 ---
 
