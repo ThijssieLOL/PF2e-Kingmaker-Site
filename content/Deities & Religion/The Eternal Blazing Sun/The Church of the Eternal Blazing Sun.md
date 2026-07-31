@@ -9,7 +9,7 @@ status: Active
 
 # The Church of the Eternal Blazing Sun
 
-
+![[sun logo.png|0]]
 
 > "Praise the Sun." — Common Liturgical Greeting
 
