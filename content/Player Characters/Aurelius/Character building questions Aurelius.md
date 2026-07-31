@@ -57,7 +57,7 @@ Skip this section if your character has no magic/can't cast spells.
 25. Is your character part of any organization? If so, is this organization known?
 	- [[The Church of the Eternal Blazing Sun]]
 26. Does your character have many friends? 
-	- 
+	- His greatest friends are mainly his siblings
 27. Did your character have a mentor? Are they still in contact? What did this mentor teach? 
 
 28. Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.
