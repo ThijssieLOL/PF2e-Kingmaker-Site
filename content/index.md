@@ -15,6 +15,7 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 ## 👥 Key Characters (The Cohort)
 
+<<<<<<< HEAD
 | Character        | Class / Role       | Focus & Description                                                                                                                               |
 | ---------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[[Aurelius]]** | Animist / Magister | Religious warrior-philosopher, spiritual architect of the [[Holy Ground Project]], and champion of the [[Trias Politicas]] governance model [^3]. |
@@ -23,6 +24,16 @@ The campaign is following an adventuring party of heroes on their quest to found
 | **[[Oliver]]** | Commander |  |
 | *Lord Edge* | Necromancer |  |
 | *Essie* |  |  |
+=======
+| Character          | Class / Role       | Focus & Description                                                                                                                               |
+| ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **[[Aurelius]]**   | Animist / Magister | Religious warrior-philosopher, spiritual architect of the [[Holy Ground Project]], and champion of the [[Trias Politicas]] governance model [^3]. |
+| **[[Zephan]]**     | Swashbuckler       |                                                                                                                                                   |
+| **[[Jock Finch]]** | Bard               |                                                                                                                                                   |
+| *Boterbram*        | Commander          |                                                                                                                                                   |
+| *Lord Edge*        | Necromancer        |                                                                                                                                                   |
+| *Essie*            |                    |                                                                                                                                                   |
+>>>>>>> origin/v5
 
 ---
 
