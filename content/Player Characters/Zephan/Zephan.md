@@ -2,6 +2,8 @@
 tags:
   - character
   - pc
+aliases:
+  - Zephan
 ancestry:
 class: Swashbuckler
 faction:
@@ -10,7 +12,7 @@ status: Alive
 
 # Zephan
 
-![[Zephan.png|356]]
+![[Zephan.png|375]]
 
 > ""
 
