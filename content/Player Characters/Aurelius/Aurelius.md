@@ -117,25 +117,27 @@ As an Animist, his relationship with the spirit world is central to his magic. H
 
 ## History
 
-### Background & Early Life
-His early childhood was relatively stable, raised normally by his parents until the age of six. However, his life was shattered when his parents were murdered by an enigmatic organization hunting the [[Ocular of Kaelen]]. His parents only learned of the prophecy at the moment of the assassination itself, giving up their lives to ensure Aurelius could escape.
+### Childhood & Tragic Origins
+Aurelius was born with an exceptionally rare spiritual sight—a gift and curse that allows him to peer directly into the spirit realm (though neither he nor the Church yet know this trait is called the [[Ocular of Kaelen]], instead nicknaming it the "Eyes of God"). His early life was shattered when a shadowy, mysterious organization discovered his unique ocular condition and hunted his family to claim them. In the tragic chaos and desperate survival of his youth, Aurelius committed dark transgressions—including theft, assault, and the terrible murder of an innocent family—sins that would haunt his conscience forever.
 
-Fleeing this group, he survived as a homeless beggar and a thief on the streets from ages six to eight, relying on his spirit sight to navigate his surroundings, find food, and evade pursuers. His sight also forced him to see the horrific, parasitic spirits attached to corrupt people, fracturing his early mental stability. This culminated in a desperate act of vigilante justice: he assassinated a man he knew was profoundly evil. However, to keep his deed a secret, he felt forced to kill the man's innocent family to eliminate witnesses.
+### Redemption & Adoption by the Church
+Rescued from the brink of total darkness, he was taken in by [[The Church of the Eternal Blazing Sun]]. Seeking atonement, he voluntarily accepted the sacred [[Tattoos of Penance]]—alchemical brands permanently etched into his skin to bear witness to his past atrocities. Under the guidance of a compassionate senior priest who mentored him in controlling his Animist powers (despite the priest lacking spiritual sight himself), Aurelius embraced the theology of the Sun Goddess, finding purpose in absolute discipline, spiritual cleansing, and the pursuit of righteous balance.
 
-### Redemption & The Church
-He was eventually taken in by [[The Church of the Eternal Blazing Sun]]. Rather than executing him, the church recognized his inherent worth and offered him shelter and redemption. His mentor, the head priest of the city, knows his entire history, and Aurelius does not attempt to hide his past from other members of the clergy or his fellow commandos.
+### Training & Upbringing in Silent Illumination
+Recognizing his physical potential and spiritual discipline, the Church inducted Aurelius into [[The Chancellery of Silent Illumination]] as part of their elite orphan-warrior program. 
+- **The Squad:** He was raised and trained alongside four squadmates—[[Gideon]], [[Julian]], [[Vespera]], and [[Lyra]]—forming a deeply bonded family of divine commandos.
+- **The Double Life:** Aurelius rose to the rank of **Grade 8 (Cinder)**, establishing a dual identity: publicly serving as a warm, humble scribe and clergyman, while secretly operating as a lethal unarmed commando and spirit-binder.
+- **Scholarly & Strategic Pursuits:** During this period, he formulated the [[Trias Politicas]]—his political thesis on balancing Royal, Church, and Military power—and began co-developing the [[Holy Ground Project]] with [[Lyra]], aiming to anchor divine warding barriers using natural ley-lines.
 
-He was placed in the secret, highly rigorous orphan commando program, graduating within a close-knit class of seven commandos who all treat each other as brothers and sisters.
+### Call to the Frontier: Mission to the Stolen Lands
+Two years prior to the exploration charter, Aurelius began experiencing sudden, intense sensory overloads in the spirit realm, accompanied by faint, resonant whispers speaking of the "Stolen Lands." Because Aurelius's spiritual sight scales with his personal power, the fact that these whispering entities remained completely invisible to him indicated they were spirits of immense, high-planar standing. 
 
-### Public Cover Duties
-To the general public, his commando status is kept strictly secret. Publicly, he is seen as a Grade 8 member of the clergy. His cover duties consist of:
-- **Chancellery Scribe:** Managing historical records and translating theological texts.
-- **Catechist:** Teaching basic tenets of the faith to children and new converts.
-- **Almoner:** Managing and distributing charity, food, and basic aid to the poor.
-- **Sacristan:** Overseeing the physical maintenance of the temple, its relics, and its solar-prism instruments.
+Discussing these occurrences with his priest mentor, they concluded that the voices were a direct manifestation of his spiritual destiny. To pursue this divine calling, Aurelius sought an unprecedented administrative path:
 
-### The "Holy Ground" Project
-His ultimate magical and political ambition is the [[Holy Ground Project]]. He acts as the spiritual and philosophical architect of this kingdom-scale defense barrier, collaborating closely with his sister [[Lyra]] to turn his theories into physical reality.
+- **The Bureaucratic Risk:** He formally requested a transfer from [[The Chancellery of Silent Illumination]] to [[The Chancellery of the Outer Horizon]] to represent the Church as a missionary on the Stolen Lands exploration charter.
+- **The Selection Trial:** The Church’s Selection Council initially hesitated, viewing his covert commando background as a hindrance to diplomacy and exploration when compared to traditional candidates from rival archdioceses. However, his mentor successfully argued that his unique spiritual vision, paired with his rare dual proficiency as both a scholar and a protective warrior, made him uniquely suited for the uncharted wilderness.
+- **Strategic Opportunities:** Aurelius saw this deployment as a divine canvas: a blank slate where he could build a new nation founded on the [[Trias Politicas]], while actively seeking sacred sites to test the [[Holy Ground Project]].
+- **Farewells & Hidden Dangers:** His commando squad supported his appointment with immense pride, though heartbroken to see him leave. Meanwhile, Church leadership approved the expedition partly out of pragmatic safety: an active, mobile adventurer constantly moving through the wild frontier would be far harder for the shadowy cabal hunting his eyes to track than a stationary clergyman residing in a city cathedral.
 
 ---
 
