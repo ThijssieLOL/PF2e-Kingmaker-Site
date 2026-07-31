@@ -3,7 +3,7 @@ tags:
   - Religion
   - Constellation
   - Saint
-deity: The Eternal Blazing Sun (Sarenrae)
+deity: "[[The Eternal Blazing Sun]]"
 Saintly Domain:
   - Health
   - Healing
