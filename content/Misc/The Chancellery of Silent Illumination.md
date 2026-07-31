@@ -34,7 +34,7 @@ The Chancellery of Silent Illumination serves as the premier intelligence servic
 The Chancellery’s primary operative force relies on an elite program of orphan-warriors trained from early childhood.
 
 ### Selection of the Gifted
-- **Orphanage Sourcing:** Candidates are identified at a very young age from state-run orphanages managed by [[The Church of the Eternal Blazing Sun]]. 
+- **Orphanage Sourcing:** Candidates are identified at a very young age from delinquents trialled and found guilty of crime by [[The Church of the Eternal Blazing Sun]]. 
 - **Innate Potential:** Recruitment targets children who exhibit exceptional physical resilience, tactical instincts, or rare spiritual and magical gifts.
 
 ### The Seven-Member Cohorts
