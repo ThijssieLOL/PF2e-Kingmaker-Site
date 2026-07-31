@@ -74,13 +74,13 @@ Skip this section if your character has no magic/can't cast spells.
 33. How has your upbringing shaped your worldview?
 	- Leo's upbringing in the church of the eternal blazing sun has made him  empathetic and joyful, with an optimistic view on life
 34. Is your character's family well-off or are they fucking peasants?
-	- 
+	- Fucking peasants
 35. What is your (tragic) backstory?
-
+	- [[Aurelius#History|Backstory]]
 ### Motivations and morality
 
 36. Why is your character out adventuring?
-
+	...
 37. Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?
 
 38. What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?
