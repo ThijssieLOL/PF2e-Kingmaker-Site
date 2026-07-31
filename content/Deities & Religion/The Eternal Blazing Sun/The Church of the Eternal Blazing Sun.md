@@ -49,20 +49,27 @@ The hierarchy of the church is structured around a strict, fire-themed grade sys
   - *Role:* The entry-level grade for newly initiated clergy.
 - **Grade 8: Cinder** (Levels 2–4)
   - *Role:* Standard clergymen, scribes, and active field agents (such as [[Aurelius]]).
+  - *Chancellery Involvement:* Must be actively assigned to **1 Chancellery**.
 - **Grade 7: Blaze** (Levels 5–7)
   - *Role:* Priests responsible for managing their own local churches.
+  - *Chancellery Involvement:* Requires active service and experience across **2 Chancelleries**.
 - **Grade 6: Ignis** (Levels 8–10)
   - *Role:* Bishops overseeing regional dioceses containing multiple churches.
+  - *Chancellery Involvement:* Requires proven administrative involvement across **3 Chancelleries**.
 - **Grade 5: Pyre** (Levels 11–13)
   - *Role:* Archbishops managing vast territories and major metropolitan cathedrals.
+  - *Chancellery Involvement:* Requires leadership experience and operational command across **4–5 Chancelleries**.
 - **Grade 4: Vesta** (Levels 14–16)
   - *Role:* High-ranking administrators and regional leaders.
+  - *Chancellery Involvement:* Requires high administrative authority spanning **6–7 Chancelleries**.
 - **Grade 3: Zenith** (Levels 17–18)
   - *Role:* Legendary figures of immense spiritual and political influence within the church.
+  - *Chancellery Involvement:* Requires executive oversight and governance across **8 Chancelleries**.
 - **Grade 2: Solstice** (Levels 19–20)
   - *Role:* The supreme leader of the church (pope-equivalent). This individual is chosen directly by the sun goddess to be the leader of the church on earth.
+  - *Chancellery Involvement:* Direct supreme command and complete oversight over **all 9 Chancelleries**.
 - **Grade 1: Star**
-  - *Role:* In the Church's mythology the stars or saints function as a cast of minor deities believed to be mortals that have ascended to the realm of gods. The church believes in them as patron saints of various aspects of life. They are each represented by a star or constellation
+  - *Role:* In the Church's mythology, the stars or saints function as a cast of minor deities believed to be mortals that have ascended to the realm of gods. The church believes in them as patron saints of various aspects of life. They are each represented by a star or constellation.
 - **Grade 0: The Eternal Blazing Sun**
   - *Note:* The Goddess herself.
 
@@ -84,7 +91,7 @@ To advance to a higher grade, a member of the clergy must meet strict power and 
 ### Regional Structure
 - The church utilizes a formal archdiocese system adapted to the geography of the world, allowing regional bishops and archbishops to manage local parishes while maintaining direct communication with the central headquarters.
 
-## Governance & The High Chancelleries
+## The Chancelleries
 
 The Church operates with the administrative scale and organizational rigor of a sovereign empire. Rather than relying on informal orders, executive authority is divided among nine supreme ministries known as the High Chancelleries. Each Chancellery is led by high-ranking clergy and manages a distinct pillar of statecraft, divine law, and civil service.
 
