@@ -70,7 +70,7 @@ Skip this section if your character has no magic/can't cast spells.
 31. Who raised them? If not their parents, why?
 	- The church of the eternal blazing sun
 32. Did your character have any form of education? Did they go to school? Were they home schooled? 
-	- [[The Chancellery of Silent Illumination]]
+	- [[The Chancellery of Silent Illumination#Training Curriculum & Education|Yes, the church taught him in magic, theology and combat]]
 33. How has your upbringing shaped your worldview?
 
 34. Is your character's family well-off or are they fucking peasants?
