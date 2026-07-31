@@ -188,7 +188,7 @@ The Church operates with the administrative scale and organizational rigor of a 
 
 ### Origin Myth
 - **The Creation:** The sun goddess, alongside other true gods, shaped the cosmos, giving rise to the universe and the mortal world. [Details of the creation myth to be expanded].
-- **The Founder:** The church was founded in antiquity by the very first Grade 2 (Corona) of the faith, whose identity has been lost to time. [Details to be established].
+- **The Founder:** The church was founded in antiquity by the very first Grade 2 (Solstice) of the faith, whose identity has been lost to time. [Details to be established].
 
 ### Historical Conflicts
 - **Major Wars:** The church has participated in several major historical conflicts and holy crusades throughout its long history, particularly against rising undead threats and corrupt empires. [Specific historical events to be established].
