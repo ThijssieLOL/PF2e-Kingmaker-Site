@@ -3,14 +3,13 @@ tags:
   - Religion
   - Constellation
   - Saint
-deity: The Eternal Blazing Sun (Sarenrae)
+deity: "[[The Eternal Blazing Sun]]"
 Saintly Domain:
   - The Hearth
   - The Home
   - Family
-Constellation: The Mother
+Constellation: "[[The Mother]]"
 Alternate names:
   - 
-True name: Irena Hestina Raleveare
+True name:
 ---
-%%Hera%%

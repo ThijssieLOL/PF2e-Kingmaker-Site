@@ -3,9 +3,9 @@ tags:
   - Religion
   - Constellation
   - Saint
-deity: The Eternal Blazing Sun (Sarenrae)
+deity: "[[The Eternal Blazing Sun]]"
 Saintly Domain:
-Constellation: The Stargazer
+Constellation: "[[The Stargazer]]"
 Alternate names:
   - 
 True name:

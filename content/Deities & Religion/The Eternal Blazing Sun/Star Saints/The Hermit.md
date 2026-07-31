@@ -3,11 +3,11 @@ tags:
   - Religion
   - Constellation
   - Saint
-deity: The Eternal Blazing Sun (Sarenrae)
+deity: "[[The Eternal Blazing Sun]]"
 Saintly Domain:
   - Travellers
   - Sailors
-Constellation: North Star
+Constellation: "[[The North Star]]"
 Alternate names:
   - The Hermit
   - The Traveller

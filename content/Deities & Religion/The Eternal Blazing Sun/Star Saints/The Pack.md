@@ -3,11 +3,11 @@ tags:
   - Religion
   - Constellation
   - Saint
-deity: The Eternal Blazing Sun (Sarenrae)
+deity: "[[The Eternal Blazing Sun]]"
 Saintly Domain:
   - The Wilds
   - Beasts
-Constellation: The Pack
+Constellation: "[[The Pack]]"
 Alternate names:
   - 
 True name:

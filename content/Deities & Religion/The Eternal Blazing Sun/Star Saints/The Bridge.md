@@ -3,10 +3,10 @@ tags:
   - Religion
   - Constellation
   - Saint
-deity: The Eternal Blazing Sun (Sarenrae)
+deity: "[[The Eternal Blazing Sun]]"
 Saintly Domain:
   - Change
-Constellation: The Bridge
+Constellation: "[[The Bridge]]"
 Alternate names:
   - 
 True name:

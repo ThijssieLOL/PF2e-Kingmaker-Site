@@ -3,11 +3,11 @@ tags:
   - Religion
   - Constellation
   - Saint
-deity: The Eternal Blazing Sun (Sarenrae)
+deity: "[[The Eternal Blazing Sun]]"
 Saintly Domain:
   - Death
   - Redemption
-Constellation: The Follower
+Constellation: "[[The Follower]]"
 Alternate names:
   - 
 True name:
