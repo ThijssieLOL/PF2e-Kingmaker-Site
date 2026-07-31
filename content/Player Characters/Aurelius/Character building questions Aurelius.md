@@ -11,9 +11,9 @@
 5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
 	- Athletic but lean
 6. What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character's look distinct.
-	- [[Tattoos of Penance]] across his forearms and legs, as well as [[Ocular of Kaelen]]
+	- [[Tattoos of Penance]] across his forearms and legs, as well as [[Ocular of Kaelen|mandela shaped iris']]
 7. Is your character well groomed? Do they bathe often? Do they brush their teeth? 
-
+	- 	They are often well groomed, they br
 8. Does your character have a condition or other distinction that makes them different from others of their race/species.
 
 9. What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?
