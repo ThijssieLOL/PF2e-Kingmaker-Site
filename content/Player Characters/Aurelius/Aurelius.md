@@ -15,7 +15,7 @@ status: Alive
 > "..." - Aurelius
 
 ## Overview
-Aurelius is a religious warrior-philosopher who lives a double life. By day, he is a scholarly missionary, scribe, and teacher; by night, he is a lethal [[The Chancellery of Silent Illumination]] trained in martial arts and spirit-binding. Gifted from birth with a rare spiritual sight, he has dedicated his life to establishing a kingdom where human law, military order, and divine cleansing work in balanced harmony.
+Aurelius is a religious warrior-philosopher who lives a double life. By day, he is a scholarly missionary, scribe, and teacher; by night, he is a lethal [[The Chancellery of Silent Illumination]] trained in martial arts and spirit-binding. Gifted from birth with a rare spiritual sight, he has dedicated his life to establishing a kingdom where human law, military order, and divine cleansing work in balanced harmony..
 
 ### Quick Facts
 - **Full Name:** Aurelius (Leo)
