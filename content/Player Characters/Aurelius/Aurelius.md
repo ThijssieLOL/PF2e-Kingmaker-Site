@@ -2,6 +2,8 @@
 tags:
   - character
   - pc
+aliases:
+  - Aurelius
 ancestry: Human
 class: Animist
 faction: The Church of the Eternal Blazing Sun
