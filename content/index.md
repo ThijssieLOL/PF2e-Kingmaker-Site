@@ -19,9 +19,9 @@ The campaign is following an adventuring party of heroes on their quest to found
 | ---------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[[Aurelius]]** | Animist / Magister | Religious warrior-philosopher, spiritual architect of the [[Holy Ground Project]], and champion of the [[Trias Politicas]] governance model [^3]. |
 | **[[Zephan]]** | Swashbuckler |  |
-| **[[Jock Finch]]** |  |  |
-| *Boterbram* |  |  |
-| *Angenoob* | Necromancer |  |
+| **[[Jock Finch]]** | Bard |  |
+| *Boterbram* | Commander |  |
+| *Lord Edge* | Necromancer |  |
 | *Essie* |  |  |
 
 ---
