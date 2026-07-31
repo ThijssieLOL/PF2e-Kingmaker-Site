@@ -11,7 +11,7 @@ status: In Development
 
 # The Holy Ground Project
 
-> "A divine shield over the realm—where no spirit may parasite the living, and no tyrant may rule without righteousness." — [[Aurelius]]
+> "..." — [[Aurelius]]
 
 ## Overview
 The **Holy Ground Project** is the ultimate magical, spiritual, and political ambition of [[Aurelius]]. Conceived as a theoretical, kingdom-scale spiritual defense network, the project aims to permanently shield entire mortal populations from spiritual corruption, parasitic entity possession, and undead incursions.
@@ -48,7 +48,7 @@ Due to the colossal infrastructural demands of encircling an entire kingdom, the
 - **Ecclesiastical Subsidies:** Direct financial support, consecrated building materials, and ancient sacred relics supplied by [[The Church of the Eternal Blazing Sun]], managed in coordination with [[The Chancellery of the Shared Hearth]].
 
 ### Personal Capital & Spoils
-- **Private Spoils:** Supplemental funding secured through ancient relics, adventuring spoils, and personal capital acquired by Aurelius, Lyra, and their allies.
+- **Private Spoils:** Supplemental funding secured through ancient relics, adventuring spoils, and personal capital acquired by Aurelius
 
 ---
 
