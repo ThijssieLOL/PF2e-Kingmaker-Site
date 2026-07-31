@@ -1,5 +1,3 @@
-Here is a styled layout for your **[[index]]** homepage, designed to give an aesthetic overview of your Pathfinder 2e Kingmaker campaign [^1] and direct visitors to key notes across your vault.
-
 ***
 
 # ☀️ Pathfinder 2e: Kingmaker Wiki
