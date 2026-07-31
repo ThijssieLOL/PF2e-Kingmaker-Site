@@ -14,142 +14,139 @@ status: Alive
 
 ![[Aurelius final design.png|375]]
 
-> "..." - Aurelius
+> "..."
+> — Aurelius
 
 ## Overview
-Aurelius is a religious warrior-philosopher who lives a double life. By day, he is a scholarly missionary, scribe, and teacher; by night, he is a lethal [[The Chancellery of Silent Illumination]] trained in martial arts and spirit-binding. Gifted from birth with a rare spiritual sight, he has dedicated his life to establishing a kingdom where human law, military order, and divine cleansing work in balanced harmony.
+
+Aurelius is a religious warrior-philosopher living a delicate double life. By day, he presents himself as a soft-spoken, scholarly missionary, scribe, and teacher of scriptures; by night, he operates as a lethal, spirit-binding divine commando forged within [[The Chancellery of Silent Illumination]]. Gifted—and cursed—from birth with a rare spiritual sight, he bears the scars and alchemical marks of past atrocities. Driven by a quest for redemption, he seeks to establish a realm in the Stolen Lands governed by balanced law, divine cleansing, and political harmony.
 
 ### Quick Facts
-- **Full Name:** Aurelius (Leo)
-- **Ancestry/Species:** Human
-- **Class/Profession:** Animist (Pathfinder 2e) / Missionary, Clergyman, and Divine Commando
+- **Full Name:** Aurelius (Birth name: Leo)
+- **Ancestry:** Human
+- **Class & Archetype:** Animist (Pathfinder 2e)
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
-- **Role/Rank:** Grade 8 - Anointed (Publicly: Clergyman & Scribe / Secretly: Divine Commando)
+- **Current Chancellery:** [[The Chancellery of the Outer Horizon]] (Formerly [[The Chancellery of Silent Illumination]])
+- **Church Rank:** Grade 8 — Anointed
+- **Public Persona:** Gentle Clergyman, Scribe, and Missionary
+- **Covert Persona:** Divine Commando & Spirit-Binder
 
 ---
 
 ## Appearance
 
 ### Physicality & Features
-He has a tall, lean, and athletic build with broad shoulders and a slim waist—the silhouette of an agile martial artist who relies on speed, dexterity, and precise movement. His face is youthful and refined, with sharp cheekbones, a straight nose, and expressive, soft lips. His thick, dark hair is styled in loose, windswept layers that frame his face.
+Aurelius stands tall with a lean, highly athletic build—broad across the shoulders yet narrow in the waist, embodying the silhouette of an agile martial artist built for speed, precision, and relentless kinetic movement. His features are youthful and remarkably refined, defined by high cheekbones, a straight nose, and expressive, gentle lips. Thick, dark hair falls in loose, windswept layers framing his face.
 
 ### The "Eyes of God" ([[Ocular of Kaelen]])
-Aurelius possesses a rare and prophetic ocular trait. When he believes he is actively being hunted, he relies on a deep traveler's hood pulled low to keep his face in shadow, paired with a humble, downcast gaze that maintains a quiet, scholarly profile.
+Aurelius possesses an extraordinarily rare and prophetic ocular condition known within ancient texts as the [[Ocular of Kaelen]] (referred to informally by the Church as the "Eyes of God"). His eyes allow him to gaze directly into the spiritual layer of reality. When operating covertly or avoiding detection by the shadowy cabal hunting his ocular trait, he pulls a thick traveler’s hood low over his brow, maintaining a humble, downcast gaze to blend seamlessly into scholarly crowds.
 
 ### The [[Tattoos of Penance]]
-His forearms and legs are heavily tattooed in a style reminiscent of traditional criminal brands, depicting past sins (including theft, assault, and the murder of an innocent family). 
-- **Ink and Appearance:** Applied using a sacred alchemical ink. In their resting state, they have a warm, reddish-brown color similar to rust. When he channels divine magic, the ink reacts and glows a brilliant **Aureolin White** (a searing, pure white light with a faint golden-yellow halo).
-- **Public Reaction:** He displays them publicly as a testament to Sarenrae’s capacity for forgiveness and a badge of humility, though they are covered when wearing formal ceremonial gloves or long traveling sleeves. He views them with a detached, clinical acceptance as a constant reminder of the sun goddess's mercy.
+Inscribed across his forearms and shins are intricate, dark tattoos styling traditional criminal brands, marking his past transgressions—theft, assault, and the murder of an innocent family.
+- **Alchemical Reaction:** Etched using sacred alchemical ink, the brands normally rest in a muted, rust-colored reddish-brown. When Aurelius channels divine magic, the ink ignites into a blinding **Aureolin White**—a searing, pure light haloed by faint golden-yellow radiance.
+- **Public & Personal Perception:** Aurelius displays these marks openly in public as a testament to Sarenrae’s infinite capacity for redemption and a daily lesson in humility. He covers them only when wearing formal ceremonial gloves or long traveling sleeves. He treats the brands with clinical, detached acceptance—a physical contract of his eternal debt to divine grace.
 
 ### Attire & Outfits
-- **Clergy Vestments (Day-to-Day / Ceremonial):** An ankle-length black cassock with a high collar fastened by gold frog-closures. Over this, he wears a long, flowing white stole draped around his neck that reaches his shins, embroidered with gold floral and solar patterns. The waist is secured by a sturdy brown leather belt with a circular gold buckle, paired with black gloves and polished black shoes.
-- **Travel & Mission Outfit:** For traveling through the wild Stolen Lands, he wears comfortable black trousers and a shorter dark tunic. Over his shoulders, he drapes a loose, flowing, hooded white poncho-capelet featuring the same gold-embroidered trim as his clergy stole.
+- **Clergy Vestments (Civilian & Ceremonial):** An ankle-length black cassock featuring a crisp, high collar secured by gold frog-closures. Draped across his shoulders is a long white stole embroidered with solar patterns and golden floral filigree that reaches down to his shins. A sturdy brown leather belt with a circular golden buckle fastens his waist, complemented by polished black boots and thin leather gloves.
+- **Travel & Frontier Gear:** Tailored for the rugged terrain of the Stolen Lands, he wears durable black trousers and a fitted dark tunic underneath a loose, flowing, hooded white poncho-capelet. The capelet shares the same gold-embroidered solar trim as his formal stole, balancing practical movement with holy symbolism.
 
 ![[Aurelius in outfits.png|362]]
 
 ---
 
-## Personality
+## Personality & Psychology
 
-### Interpersonal Dynamics (Interacting with Aurelius)
+### Interpersonal Dynamics
+- **The Warm Clergyman:** In daily interactions, Aurelius radiates genuine warmth, patience, and lighthearted grace. Approaching him feels like stepping into steady sunlight. He is inherently approachable, seeking the good in every soul and offering a soft, listening ear.
+- **Disciplined Kindness:** His compassion is never soft, naive, or distracted. Even while sharing dry clerical humor, his mind remains sharp, watchful, and intensely disciplined. His kindness is an active, deliberate choice rather than passivity.
+- **Stately Boundaries:** While his humor relies on an archaic, dry wit shaped by [[The Liturgical Cadence]], his vows of temperance and clerical boundaries are unwavering. He maintains a quiet line of spiritual dignity that commands natural respect.
 
-- **The Warm Clergyman:** At his core, Aurelius is an incredibly nice, gentle, and compassionate person who carries himself with the joyful grace of a warm, lighthearted clergy member. Interacting with him feels like being bathed in a steady, comforting light. He is approachable, easy to talk to, and always seeks to find the good in people, making others feel safe and valued.
-- **Focused Kindness:** He is an active, deeply attentive listener who never lets his warmth compromise his focus. Even when sharing a lighthearted moment or indulging in his dry, clerical humor, his mind remains disciplined and sharp; his kindness is never soft or lazy, but deliberate, strong, and attentive.
-- **Approachable yet Stately:** Because of his formal [[The Liturgical Cadence]], his humor often carries a charming, archaic wit. However, his rigid boundaries (such as his strict temperance and vows) mean there is always a line of professional, spiritual respect that he gently but firmly maintains.
+### Daily Habits & Quirks
+- **Scribe's Routine:** Aurelius maintains a strict, military-precise morning routine inherited from his commando training. Every act—from folding his bedcloths to preparing inkwells—is executed with silent efficiency and primed with prayer.
+- **Physical Honesty:** Aurelius never conceals physical injuries or fatigue from his companions. Taught in commando training that masked wounds endanger the team, he reports his physical status with absolute, practical candor.
+- **Subconscious Somatic Gestures:** When his hands are at rest, his fingers subconsciously trace holy spellcasting gestures or twitch as if holding a scribe's feather.
+- **Inaudible Speech:** When communicating with spirits, his lips move in rapid, silent patterns, speaking on a spatial frequency inaudible to human ears.
+- **Spirit Overload:** Fresh battlefields or sites of mass tragedy flood his [[Ocular of Kaelen]] with chaotic spiritual echoes, causing severe sensory overload, migraines, and physical disorientation that force him to retreat into quiet meditation.
 
-### Daily Routine, Quirks & Habits
+### Trauma Response: "The Eclipse"
+- **The Executioner Persona:** When confronted with unsalvageable cruelty, severe blasphemy, or deep personal trauma triggers, Aurelius experiences a total psychological shutdown known as **The Eclipse**. His gentle warmth vanishes instantly, replaced by a terrifying, cold, and emotionless executioner state.
+- **Internal Shame:** Aurelius does not consider "The Eclipse" a holy state; he views it as a sinful lapse into trauma-driven survival instincts where divine mercy is replaced by raw, cold violence.
+- **The Recovery:** As the state fades, he requires absolute isolation to pray, cool his spirit, and realign with Sarenrae's light. If his cold demeanor frightens his allies, he offers them sincere, humble apologies once restored.
 
-- **The Disciplined Scribe:** Aurelius maintains a rigid, military-like morning routine (a relic of his commando training) where every action—from making his bed to brushing his teeth—is sharp, unchanging, and preceded by prayer.
-- **Physical Honesty:** Unlike his emotions, Aurelius does not attempt to hide physical pain or injuries from his allies. He learned during his commando training that hiding wounds is a liability to the team, so he is practical and upfront about his physical limits.
-- **Subconscious Somatic Gestures:** When his hands are idle, he subconsciously practices spellcasting hand gestures or fidgets with a writing feather.
-- **Silent Speech:** When communicating with spirits, his mouth moves rapidly with no sound coming out, as if speaking on an inaudible wavelength.
-- **Spirit Overload:** In areas with a high concentration of recently deceased spirits (like fresh battlefields), he suffers from severe sensory overload, which he struggles to manage.
-
-### The Eclipse (Trauma Response)
-
-- **The Cold State:** When confronted with "unsalvageable sin" or specific trauma triggers, Aurelius slips into a state known as **The Eclipse**. His warm demeanor instantly vanishes, replaced by a cold, clinical, and detached executioner persona.
-- **A Sinful Lapse:** Aurelius does not view this state as righteous; he sees it as a sinful trauma response. In this state, he loses his theological clarity and his ability to act with true divine justice, reverting to raw, cold survival instinct.
-- **The Aftermath:** As the state fades, he experiences a deep need to isolate himself in quiet prayer to cool down and realign his spirit. If his coldness frightened his companions, he will offer them a sincere, vulnerable apology.
-
-### Social Boundaries & Vulnerability
-
-- **Guarded Vulnerability:** As a spiritual figure, Aurelius is naturally skilled at showing vulnerability to comfort others. However, due to his past trauma, actually letting his own guard down and trusting someone with his personal pain is incredibly difficult, even though he outwardly appears to trust people easily.
-- **Celibacy:** He is strictly celibate, dedicating his physical and spiritual energy entirely to his divine calling.
-- **The Patronizing Missionary:** He possesses immense patience with non-believers, but this often manifests as a gentle, condescending pity. He genuinely believes this approach serves the greater good.
-- **The Strict Mentor:** He trains new church converts and commandos with a demanding, highly protective hand.
-
-### Speech & Dialect
-
-- **[[The Liturgical Cadence]]:** Aurelius speaks in a formal, rhythmic, "Shakespearean-lite" dialect. He naturally avoids modern contractions and phrasing, a habit born from a lifetime of translating ancient scriptures.
-
-***
-
-## Political Philosophy
-
-### The [[Trias Politicas]]
-Aurelius is the creator and chief proponent of the Trias Politicas. 
-- **Separation of Power:** He believes a stable kingdom must be governed by a strict, three-faction separation of power between the Royal, Church, and Military factions to prevent absolute control by any single group.
-- **The Clergy's Role:** He firmly believes that members of the clergy (including himself) must never accept a crown or hold direct political rule; their place is strictly to guide, advise, and judge from within the Church.
-
+### Dialect & Boundaries
+- **[[The Liturgical Cadence]]:** Aurelius speaks exclusively in a rhythmic, elevated dialect reminiscent of high classical scripture. He naturally avoids modern contractions and informal phrasing, a habit formed through years of translating ancient texts.
+- **Guarded Vulnerability:** Though he readily offers comfort to others, letting down his own guard to trust someone with his personal trauma is immensely difficult.
+- **Vow of Celibacy:** He adheres strictly to celibacy, channeling his bodily and spiritual energy entirely into his sacred duties.
+- **The Condescending Missionary:** His boundless patience with non-believers can occasionally translate into a quiet, patronizing pity—viewing their skepticism as a gentle ignorance that time and divine grace will inevitably heal.
 
 ---
 
-## Abilities
+## Political & Spiritual Philosophy
 
-### Combat Style
-He fights utilizing the unarmed, highly kinetic combat style of a [[The Chancellery of Silent Illumination]]. 
-- **Combat Limits:** He fights strictly without weapons, relying primarily on close-range divine magic and spirit manipulation, reserving physical unarmed strikes purely as a last resort.
-- **Demeanor:** He is trained to maintain absolute focus and emotional detachment in battle. However, if he is pushed to the brink of death, this structured discipline breaks down, and his style shifts into a raw, desperate, survival-oriented martial art.
+### The [[Trias Politicas]]
+Aurelius is the author and champion of the *Trias Politicas*, a tri-fold governance theory designed to prevent tyranny and maintain eternal stability in a kingdom.
+- **Separation of Governance:** Power must be divided into three equal, self-balancing pillars: the **Crown** (Executive Law & Civil Administration), the **Military** (External Defense & Order), and the **Church** (Moral Judgment & Spiritual Guidance).
+- **The Clerical Vow:** Aurelius firmly believes that members of the clergy must never sit upon a throne or hold direct secular office. Their sacred duty is to advise, balance, and judge rulers from within the Church, ensuring power remains uncorrupted.
 
-### Spirit Interaction and Binding
-As an Animist, his relationship with the spirit world is central to his magic. He communicates with these entities directly through the spirit dimension, which manifests to onlookers as silent speech.
-- **Weak Spirits:** Naturally submit to him, viewing him as a ruler due to his spiritual strength.
-- **Good Spirits:** Act with cooperation and mutual respect. He commands them through willing partnership.
-- **Neutral Spirits:** Treated with respect. He gently attempts to guide them toward Sarenrae's orderly light.
-- **Evil Spirits:** Treated as parasites to be bound, utilized without respect, and cleansed. He binds these uncooperative spirits using holy chains, which appear as solid links of glowing white-gold light wrapping around his targets. Controlling them requires significant mental and physical exertion.
-- **Sourcing New Spirits:** As he grows in power, he seeks out stronger spirits within specific lines by consulting spirits he has already befriended, who direct him to unique, remote locations.
+### The [[Holy Ground Project]]
+In collaboration with Church researchers, Aurelius aims to establish consecrated holy zones across the frontier capable of purifying lingering corruption, pacifying hostile spirits, and harboring safe havens for civilization.
 
-### Casting Sensation and Visuals
-- **The Sensation of Casting:** His independent divine magic manifests as an overwhelming rush of internal heat. To control this energy, he must maintain a hyper-focused state of absolute clarity. If his concentration is broken, this heat recoils, causing physical pain and fatigue.
-- **Visual Flavor:** All of his magic, as well as the magic of his bound spirits, takes the appearance of divine white flames. These flames can either act as physical fire that burns the environment, or as purely spiritual energy targeting only the soul.
+---
+
+## Combat & Divine Abilities
+
+### Martial Combat Style
+Aurelius practices the highly kinetic, unarmed martial style of [[The Chancellery of Silent Illumination]].
+- **Weaponless Engagement:** He fights entirely without weapons, utilizing agile footwork, divine energy shields, and spirit manipulation. Physical unarmed strikes are reserved strictly as an emergency last resort.
+- **Disciplined Precision:** In combat, he maintains absolute emotional detachment and spatial awareness. However, if pushed to the brink of death, his structured discipline breaks down into a brutal, desperate survival technique.
+
+### Spirit Interaction & Binding
+As an Animist, Aurelius bridges the physical realm and the spirit dimension.
+- **Weak Spirits:** Instinctively recognize his spiritual authority, submitting to his presence without contest.
+- **Good Spirits:** Work with him in mutual respect and willing partnership.
+- **Neutral Spirits:** Guided gently toward order and Sarenrae's light through patient negotiation.
+- **Evil Spirits:** Treated as unnatural parasites. Aurelius forcibly binds them using holy chains of pure white-gold light, bending them to serve divine justice before cleansing them. Managing evil spirits demands intense mental focus and causes physical strain.
+
+### Visual Effects & Casting Sensations
+- **Internal Heat:** Casting divine magic fills Aurelius with an overwhelming surge of internal thermal energy. He must maintain absolute mental focus to direct this heat; if his concentration breaks, the magic recoils internally, causing severe fatigue and pain.
+- **Divine White Flames:** All spellwork and spirit phenomena manifest as pure **Aureolin White** flames. These holy flames can be manifested either as physical fire that ignites objects or as purely spiritual light that cleanses the target's soul without harming physical matter.
 
 ---
 
 ## History
 
-### Childhood & Tragic Origins
-Aurelius was born with an exceptionally rare spiritual sight—a gift and curse that allows him to peer directly into the spirit realm (though neither he nor the Church yet know this trait is called the [[Ocular of Kaelen]], instead nicknaming it the "Eyes of God"). His early life was shattered when a shadowy, mysterious organization discovered his unique ocular condition and hunted his family to claim them. In the tragic chaos and desperate survival of his youth, Aurelius committed dark transgressions—including theft, assault, and the terrible murder of an innocent family—sins that would haunt his conscience forever.
+### Childhood & The Tragic Origin
+Born with the rare [[Ocular of Kaelen]] ("Eyes of God"), young Leo could see the spirits of the dead floating through the world. His life was torn apart when a dark cabal learned of his eyes and raided his home to harvest him. Fleeing into the streets as an orphan, survival drove him to desperate acts. In a tragic spiral of violence, he committed grave crimes—including theft, assault, and the accidental murder of an innocent family—acts that permanently scarred his soul.
 
-### Redemption & Adoption by the Church
-Rescued from the brink of total darkness, he was taken in by [[The Church of the Eternal Blazing Sun]]. Seeking atonement, he voluntarily accepted the sacred [[Tattoos of Penance]]—alchemical brands permanently etched into his skin to bear witness to his past atrocities. Under the guidance of a compassionate senior priest who mentored him in controlling his Animist powers (despite the priest lacking spiritual sight himself), Aurelius embraced the theology of the Sun Goddess, finding purpose in absolute discipline, spiritual cleansing, and the pursuit of righteous balance.
+### Adoption & Alchemical Redemption
+Rescued from absolute ruin by [[The Church of the Eternal Blazing Sun]], he sought total atonement. He voluntarily submitted to the alchemical ritual of the [[Tattoos of Penance]], etching his crimes permanently onto his body. Under the guidance of a compassionate senior priest—who mentored him in controlling his Animist powers despite having no spiritual sight himself—Aurelius embraced the faith of Sarenrae, finding salvation in structure, divine order, and holy service.
 
-### Training & Upbringing in Silent Illumination
-Recognizing his physical potential and spiritual discipline, the Church inducted Aurelius into [[The Chancellery of Silent Illumination]] as part of their elite orphan-warrior program. 
-- **The Squad:** He was raised and trained alongside four squadmates—[[Gideon]], [[Julian]], [[Vespera]], and [[Lyra]]—forming a deeply bonded family of divine commandos.
-- **The Double Life:** Aurelius rose to the rank of **Grade 8 (Cinder)**, establishing a dual identity: publicly serving as a warm, humble scribe and clergyman, while secretly operating as a lethal unarmed commando and spirit-binder
+### Upbringing in [[The Chancellery of Silent Illumination]]
+Recognizing his rare spiritual sight and exceptional physical discipline, the Church enrolled Aurelius in the covert orphan-warrior program of [[The Chancellery of Silent Illumination]].
+- **The Squad:** Raised alongside five fellow orphans, he forged unbreakable bonds during grueling commando conditioning.
+- **Double Identity:** Rising to the rank of **Grade 8 (Anointed / Cinder)**, Aurelius established his dual existence: publicly serving as a soft-spoken clergyman and scribe, while covertly executing high-risk commando and spirit-binding missions.
 
 ### Call to the Frontier: Mission to the Stolen Lands
-Two years prior to the exploration charter, Aurelius began experiencing sudden, intense sensory overloads in the spirit realm, accompanied by faint, resonant whispers speaking of the "Stolen Lands." Because Aurelius's spiritual sight scales with his personal power, the fact that these whispering entities remained completely invisible to him indicated they were spirits of immense, high-planar standing. 
+Two years prior to the grand exploration charter, Aurelius began experiencing severe spiritual sensory overloads accompanied by echoing, high-planar whispers calling him to the untamed Stolen Lands. Because these entities remained invisible even to his [[Ocular of Kaelen]], his mentor concluded they were ancient spirits of massive power beckoning him to his destiny.
 
-Discussing these occurrences with his priest mentor, they concluded that the voices were a direct manifestation of his spiritual destiny. To pursue this divine calling, Aurelius sought an unprecedented administrative path:
-
-- **The Bureaucratic Risk:** He formally requested a transfer from [[The Chancellery of Silent Illumination]] to [[The Chancellery of the Outer Horizon]] to represent the Church as a missionary on the Stolen Lands exploration charter.
-- **The Selection Trial:** The Church’s Selection Council initially hesitated, viewing his covert commando background as a hindrance to diplomacy and exploration when compared to traditional candidates from rival archdioceses. However, his mentor successfully argued that his unique spiritual vision, paired with his rare dual proficiency as both a scholar and a protective warrior, made him uniquely suited for the uncharted wilderness.
-- **Strategic Opportunities:** Aurelius saw this deployment as a divine canvas: a blank slate where he could build a new nation founded on the [[Trias Politicas]], while actively seeking sacred sites to test the [[Holy Ground Project]].
-- **Farewells & Hidden Dangers:** His commando squad supported his appointment with immense pride, though heartbroken to see him leave. Meanwhile, Church leadership approved the expedition partly out of pragmatic safety: an active, mobile adventurer constantly moving through the wild frontier would be far harder for the shadowy cabal hunting his eyes to track than a stationary clergyman residing in a city cathedral.
+Determined to answer this calling, Aurelius engineered an unprecedented administrative transition:
+- **The Bureaucratic Transfer:** He formally applied for a transfer from [[The Chancellery of Silent Illumination]] to [[The Chancellery of the Outer Horizon]] to serve as an official missionary on the Stolen Lands charter.
+- **The Selection Trial:** Though Church leaders initially worried his covert commando background made him ill-suited for frontier diplomacy, his mentor successfully argued that his unique blend of scholarly diplomacy, spirit-binding, and deadly self-defense made him the ultimate candidate for dangerous uncharted lands.
+- **Strategic Vision:** Aurelius views the frontier as a blank canvas to construct a nation guided by his [[Trias Politicas]] while field-testing the [[Holy Ground Project]].
+- **Hidden Protection:** Beyond divine destiny, Church high command quietly approved his assignment for security: a mobile missionary moving through the wilderness is exponentially harder for the ocular-hunting cabal to track than a high-ranking priest residing in a city cathedral.
 
 ---
 
 ## Relationships
 
-Aurelius was raised alongside six other orphans in his year. Although they are not biologically related, they share a deep, brotherly and sisterly love developed through their rigorous training and shared survival. All surviving members are 21 years old, and while they have friendly arguments, there is no long-lasting tension between them.
+Aurelius was raised alongside five other orphans in his training cohort within [[The Chancellery of Silent Illumination]]. Bound by shared survival and rigorous discipline, they share a deep sibling bond. All surviving members are 21 years old.
 
-### The Deceased Siblings
-- **[[Tristan]] — The "Protector" Archetype (Champion):** Tristan was the protective shield of the orphan class. His relationship with Aurelius was built on deep trust; Aurelius knew Tristan would always have his back. Tristan died a holy, heroic death holding back a horde of monsters to allow his siblings to escape. Aurelius carries a profound sense of gratitude and grief for Tristan's sacrifice.
-- **[[Valerius]] — The "Hot Head" Archetype (Fighter):** Valerius was passionate, impulsive, and lived for the thrill of the vanguard. He and Aurelius often had friendly clashes due to Aurelius's highly structured, focused approach to combat versus Valerius's aggressive instincts. Valerius died a holy, heroic death defending the city walls from attackers during an invasion, a loss that reminds Aurelius of the high cost of their calling.
+### The Fallen Siblings
+- **[[Tristan]] — The Shield (Champion):** The protective older-brother figure of the class who gave his life holding back a monstrous horde so his siblings could escape. Aurelius holds Tristan’s memory as the supreme standard of holy sacrifice.
+- **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius lived for the clash of blades. Though he often bickered with Aurelius over discipline versus instinct, Valerius died heroically defending city walls during an invasion. His death reminds Aurelius of the brutal cost of war.
 
 ### The Living Siblings
-- **[[Gideon]] — The "Big Brother" Archetype (Warpriest):** Gideon serves as the emotional anchor for the remaining siblings. He represents the gentle, healing aspect of Sarenrae. He is the one who monitors Aurelius’s mental state and checks on him when Aurelius slips into his cold, detached executioner persona, gently pulling him back toward his warm, human self.
-- **[[Julian]] — The "Funny Charismatic One" Archetype (Swashbuckler):** Julian is funny and charismatic. His relationship with Aurelius is lively; Julian constantly teases him and initiates lighthearted banter to snap Aurelius out of his serious, brooding moods.
-- **[[Vespera]] — The "Serious Strategist" Archetype (Investigator):** Vespera is highly analytical, quiet, and logical. She serves as Aurelius’s intellectual sparring partner. While they respect each other immensely, they frequently debate politics and tactics, with Vespera challenging Aurelius’s grand political ideals with cold, practical logistics.
-- **[[Lyra]] — The "Chaotic Genius" Archetype (Alchemist):** Lyra is an eccentric researcher obsessed with the physical properties of divine energy. She is Aurelius’s primary technical collaborator on the [[Holy Ground Project]]. While Aurelius provides the spiritual and philosophical framework, Lyra works to turn his theories into physical reality through her chaotic, brilliant inventions.
+- **[[Gideon]] — The Anchor (Warpriest):** The emotional heart of the group, embodying Sarenrae's healing grace. Gideon actively monitors Aurelius’s mental health, gently pulling him back to humanity whenever he slips into "The Eclipse."
+- **[[Julian]] — The Wit (Swashbuckler):** Charismatic, theatrical, and quick-witted, Julian uses humor and playful banter to keep Aurelius grounded and break his overly somber moods.
+- **[[Vespera]] — The Mind (Investigator):** Analytical, quiet, and razor-sharp. Vespera is Aurelius’s intellectual counterpart, regularly challenging his grand political theories with practical logic and tactical realism.
+- **[[Lyra]] — The Catalyst (Alchemist):** A chaotic genius obsessed with sacred alchemy. Lyra serves as Aurelius’s primary collaborator on the [[Holy Ground Project]], turning his spiritual theories into physical alchemical instruments.
