@@ -32,7 +32,7 @@ Skip this section if your character has no magic/can't cast spells.
 14. Does this origin affect the magic's working and visuals?
 	- Yes, most spells (both apparition and spell list) have a holy like appearance, often in white flames
 15. What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
-	
+	- [[i]]
 16. Is there a cost to the magic?
 
 #### Combat style
