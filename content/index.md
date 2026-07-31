@@ -42,15 +42,3 @@ Use these templates to maintain consistent formatting across the vault:
 - **[[Session Note Template]]**: Standard format for logging session recaps, combat encounters, and kingdom updates.
 
 ***
-
-#### Sources
-[^1]: [[README]]
-[^2]: [[The Church of the Eternal Blazing Sun]]
-[^3]: [[Aurelius]]
-[^4]: [[Gideon]]
-[^5]: [[Julian]]
-[^6]: [[Lyra]]
-[^7]: [[Vespera]]
-[^8]: [[Holy Ground Project]]
-[^9]: [[Trias Politicas]]
-[^10]: [[The Liturgical Cadence]]
