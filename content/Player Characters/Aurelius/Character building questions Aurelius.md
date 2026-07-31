@@ -17,10 +17,10 @@
 8. Does your character have a condition or other distinction that makes them different from others of their race/species.
 	- He has [[Ocular of Kaelen|eyes]] that are able to see the spirit dimension
 9. What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?
-- 
-5. Does your character have a particular set of nice clothes? If so, what does it look like?
+	- [[Aurelius]]
+10. Does your character have a particular set of nice clothes? If so, what does it look like?
 
-6. What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?
+11. What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?
 
 #### Magic
 Skip this section if your character has no magic/can't cast spells.
