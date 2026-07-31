@@ -27,13 +27,8 @@ By synthesizing divine theology, animist spirit manipulation, and advanced alche
 - **Nocturnal Projection:** During the night, the batteries gradually release their stored energy, maintaining a continuous, uninterrupted protective barrier across the kingdom.
 
 ### The Cleansing Barrier
-- **Automated Detection:** The boundary acts as an automated filter for any spirit entering or residing within the protected territory, constantly scanning for parasitic, malicious, or unholy entities.
+- **Automated Detection:** The boundary acts as an automated filter for any spirit entering or residing within the protected territory, constantly scanning for parasitic, malicious, or unholy spirits.
 - **Host-Safe Purification:** Evil or parasitic spirits are forcibly separated and cleansed by holy fire upon crossing the border, without inflicting physical trauma or psychological damage on the host.
-
-### Spirit-Node Architecture
-- **Spiritual Anchors:** To stabilize the network over vast geographical distances, the project utilizes localized spiritual anchors across key territorial points.
-- **Willing Cooperation:** Using Aurelius's animist abilities, the project contracts powerful benevolent and neutral spirits to act as stable guardian nodes for the barrier.
-- **Binding Parasitic Spirits:** Evil or uncooperative entities encountered along the border are suppressed using holy chains of white-gold light, neutralizing their influence or converting their residual energy into the grid.
 
 ### Engineering & High Alchemy
 - **Technical Leadership:** While Aurelius provides the theoretical framework, spiritual doctrine, and spirit-binding protocols, his sister [[Lyra]] serves as the lead technical engineer.
