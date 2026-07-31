@@ -55,10 +55,10 @@ The hierarchy of the church is structured around a strict, fire-themed grade sys
   - **Chancellery Requirement:** Active service and operational experience across **2 Chancelleries**.
 - **Grade 6: Ignis** (Levels 8–10)
   - **Role:** Bishops overseeing regional dioceses containing multiple churches.
-  - **Chancellery Requirement:** Proven administrative involvement across **3 Chancelleries**.
+  - **Chancellery Requirement:** Proven administrative involvement across **2 Chancelleries**.
 - **Grade 5: Pyre** (Levels 11–13)
   - **Role:** Archbishops managing vast territories, major metropolitan cathedrals, and strategic initiatives.
-  - **Chancellery Requirement:** Leadership experience and oversight across **4 Chancelleries**.
+  - **Chancellery Requirement:** Leadership experience and oversight across **3 Chancelleries**.
 - **Grade 4: Vesta** (Levels 14–16)
   - **Role:** High-ranking administrators, senior inquisitors, and regional executive directors.
   - **Chancellery Requirement:** High administrative authority spanning **3 Chancelleries**.
@@ -99,35 +99,35 @@ The Church operates with the administrative scale and organizational rigor of a 
 - **Primary Function:** State security, espionage, counter-intelligence, and internal oversight.
 - **Operations:** Monitors internal clerical corruption and tracks external existential threats. It commands the Church's covert military branch—a disciplined order of orphan-warriors trained in lethal martial arts and spirit-binding to execute surgical, unseen missions in defense of the faith.
 
-### 2. The Chancellery of the Shared Hearth (Finance & Public Welfare)
+### 2. [[The Chancellery of the Shared Hearth]] (Finance & Public Welfare)
 - **Primary Function:** Treasury management, tithing, economic regulation, and public relief.
 - **Operations:** Oversees all church coffers and enforces strict anti-wealth-hoarding doctrines. It funds and manages social safety networks, including state-run soup kitchens, orphanages, public housing, and community aid programs.
 
-### 3. The Chancellery of Prismatic Inquiry (Science & Arcane Optics)
+### 3. [[The Chancellery of Prismatic Inquiry]] (Science & Arcane Optics)
 - **Primary Function:** Scientific research, technological innovation, and arcane studies.
 - **Operations:** Conducts research into solar-prism technology, alchemical advancements, medical breakthroughs, and the physical properties of divine energy.
 
-### 4. The Chancellery of Sacred Canon (Education, Dogma & Examinations)
+### 4. [[The Chancellery of Sacred Canon]] (Education, Dogma & Examinations)
 - **Primary Function:** Public education, higher learning, doctrinal purity, and clerical advancement.
 - **Operations:** Manages public literacy programs, higher academies, and seminaries. It maintains the central theological archives and designs and administers the mandatory written Theological Examinations for clergy advancing through the Grade system.
 
-### 5. The Chancellery of the Purifying Flame (Judiciary & Anti-Corruption)
+### 5. [[The Chancellery of the Purifying Flame]] (Judiciary & Anti-Corruption)
 - **Primary Function:** Legal administration, internal purges, and inquisitorial justice.
 - **Operations:** Functions as the supreme judicial branch, prosecuting internal clerical corruption, enforcing moral standards, and trying ecclesiastical offenses. It is responsible for formally issuing and approving the Moral Veto against corrupt secular rulers.
 
-### 6. The Chancellery of the Outer Horizon (Foreign Affairs & External Missions)
+### 6. [[The Chancellery of the Outer Horizon]] (Foreign Affairs & External Missions)
 - **Primary Function:** Diplomacy, foreign policy, and international proselytization.
 - **Operations:** Directs diplomatic treaties and alliances with benevolent sovereign nations. It coordinates covert missionary deployments and humanitarian aid into foreign lands where the Church is outlawed or suppressed.
 
-### 7. The Chancellery of Celestial Aegis (Defense & Holy Military)
+### 7. [[The Chancellery of Celestial Aegis]] (Defense & Holy Military)
 - **Primary Function:** High military command and territorial defense.
 - **Operations:** Commands the standing armed forces of the Church, including temple guardians, heavily armored paladin orders, and military fleets dedicated to large-scale warfare against undead incursions and demonic threats.
 
-### 8. The Chancellery of Consecrated Solace (Public Health & Sacred Rites)
+### 8. [[The Chancellery of Consecrated Solace]] (Public Health & Sacred Rites)
 - **Primary Function:** Healthcare, disaster response, and sacred cremation protocols.
 - **Operations:** Operates hospitals, sanatoriums, and emergency disaster relief networks. It manages public sanitation and strictly enforces mandatory cremation rites using holy fire across all parishes to prevent the threat of necromancy.
 
-### 9. The Chancellery of the Meridian Cadastre (Civil Administration & Archives)
+### 9. [[The Chancellery of the Meridian Cadastre]] (Civil Administration & Archives)
 - **Primary Function:** Bureaucracy, civil registry, land administration, and historical record-keeping.
 - **Operations:** Serves as the administrative backbone of the Church. It maintains population censuses, civil registries (births, deaths, marriages), land ownership deeds across all archdioceses, and historical vaults.
 
