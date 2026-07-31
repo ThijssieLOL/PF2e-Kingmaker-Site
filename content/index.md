@@ -24,7 +24,10 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 ## 📜 Core Lore & Projects
 
-...
+
+
+### Thom's current projects
+- [[Constellations and Cosmology]]
 
 ---
 
