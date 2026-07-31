@@ -18,7 +18,7 @@ The campaign is following an adventuring party of heroes on their quest to found
 | Character        | Class / Role       | Focus & Description                                                                                                                               |
 | ---------------- | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **[[Aurelius]]** | Animist / Magister | Religious warrior-philosopher, spiritual architect of the [[Holy Ground Project]], and champion of the [[Trias Politicas]] governance model [^3]. |
-
+| **[[Zephan]]** | Swashbuckler |  |
 
 ---
 
