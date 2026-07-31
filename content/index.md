@@ -45,6 +45,7 @@ Use these templates to maintain consistent formatting across the vault:
 - **[[Session Note Template]]**: Standard format for logging session recaps, combat encounters, and kingdom updates.
 
 ---
-## Writing conventi
+## Writing conventions
+#Tags start with a capital letter, as do 
 
 ***
