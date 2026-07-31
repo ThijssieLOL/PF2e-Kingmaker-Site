@@ -10,7 +10,7 @@
 ### Visual Design and Aesthetics
 5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
 
-6. What notable physical features does your character have? Impressive scars, unusual hair colour or glamorous tattoos and piercings, what makes your character's look distinct.
+6. What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character's look distinct.
 
 7. Is your character well groomed? Do they bathe often? Do they brush their teeth? 
 
