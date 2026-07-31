@@ -1,7 +1,11 @@
-### Constellations and Starsigns:
+---
+tags:
+  - Constellation
+---
 
+### Constellations and Starsigns:
 - [[The North Star]]
-- The Cosmic Caravan
+- The Cosmic Caravan %% https://pathfinderwiki.com/wiki/Cosmic_Caravan %%
     - [[The Thrush]]
     - [[The Lantern Bearer]]
     - [[The Newlyweds]]
