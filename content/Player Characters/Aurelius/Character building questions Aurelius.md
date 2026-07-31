@@ -2,11 +2,11 @@
 1. What is your character's class
 	- 	Animist
 2. What is your character's species/race(Ancestry)
-	- 
+	- Human (Aasimaar)
 3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
-
+	- Diplomacy, Religion
 4. What languages does your character speak and why?
-
+	- C
 ### Visual Design and Aesthetics
 5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
 
