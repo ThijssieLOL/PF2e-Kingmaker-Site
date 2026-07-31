@@ -2,6 +2,8 @@
 tags:
   - character
   - pc
+aliases:
+  - Zephan
 ancestry:
 class: Swashbuckler
 faction:
