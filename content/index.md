@@ -7,7 +7,7 @@
 ---
 
 ## 📖 Campaign Overview
-Welcome to the official campaign vault for **Pathfinder 2e: Kingmaker** [^1]. This wiki tracks the journey, faction dynamics, and overarching political and spiritual movements within the realm. The core narrative heavily features agents tied to **[[The Church of the Eternal Blazing Sun]]**, a Lawful Good institution dedicated to redemption, community support, and divine protection against planar corruption [^2].
+Welcome to the official campaign vault for **Pathfinder 2e: Kingmaker** [^1]. This wiki tracks the journey, faction dynamics, and overarching political and spiritual movements within the realm. The core narrative heavily features agents tied to **[[The Church of the Eternal Blazing Sun]]**, a Lawful Good institution dedicated to redemption, community support, and divine protection against planar corruption.
 
 ---
 
