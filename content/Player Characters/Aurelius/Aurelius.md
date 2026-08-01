@@ -127,11 +127,11 @@ Recognizing his rare spiritual sight and exceptional physical discipline, the Ch
 - **Double Identity:** Rising to the rank of **Grade 8 (Anointed / Cinder)**, Aurelius established his dual existence: publicly serving as a soft-spoken clergyman and scribe, while covertly executing high-risk commando and spirit-binding missions.
 
 ### Call to the Frontier: Mission to the Stolen Lands
-Two years prior to the grand exploration charter, Aurelius began experiencing severe spiritual sensory overloads accompanied by echoing, high-planar whispers calling him to the untamed Stolen Lands. Because these entities remained invisible even to his [[Ocular of Kaelen]], his mentor concluded they were ancient spirits of massive power beckoning him to his destiny.
+Two years prior to the grand exploration charter, Aurelius began experiencing severe spiritual sensory overloads accompanied by echoing, high-planar whispers calling him to the untamed Stolen Lands. Because these entities remained invisible even to his [[Ocular of Kaelen]], [[Lucian]] concluded they were ancient spirits of massive power beckoning him to his destiny.
 
 Determined to answer this calling, Aurelius engineered an unprecedented administrative transition:
 - **The Bureaucratic Transfer:** He formally applied for a transfer from [[The Chancellery of Silent Illumination]] to [[The Chancellery of the Outer Horizon]] to serve as an official missionary on the Stolen Lands charter.
-- **The Selection Trial:** Though Church leaders initially worried his covert commando background made him ill-suited for frontier diplomacy, his mentor successfully argued that his unique blend of scholarly diplomacy, spirit-binding, and deadly self-defense made him the ultimate candidate for dangerous uncharted lands.
+- **The Selection Trial:** Though Church leaders initially worried his covert commando background made him ill-suited for frontier diplomacy, [[Lucian]] successfully argued that his unique blend of scholarly diplomacy, spirit-binding, and deadly self-defense made him the ultimate candidate for dangerous uncharted lands.
 - **Strategic Vision:** Aurelius views the frontier as a blank canvas to construct a nation guided by his [[Trias Politicas]] while field-testing the [[Holy Ground Project]].
 - **Hidden Protection:** Beyond divine destiny, Church high command quietly approved his assignment for security: a mobile missionary moving through the wilderness is exponentially harder for the ocular-hunting cabal to track than a high-ranking priest residing in a city cathedral.
 
