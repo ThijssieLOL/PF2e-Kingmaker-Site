@@ -44,7 +44,7 @@ Aurelius possesses an extraordinarily rare and prophetic ocular condition known 
 ### The [[Tattoos of Penance]]
 Inscribed across his forearms and shins are intricate, dark tattoos styling traditional criminal brands, marking his past transgressions—theft, assault, and the murder of an innocent family.
 - **Alchemical Reaction:** Etched using sacred alchemical ink, the brands normally rest in a muted, rust-colored reddish-brown. When Aurelius channels divine magic, the ink ignites into a blinding **Aureolin White**—a searing, pure light haloed by faint golden-yellow radiance.
-- **Public & Personal Perception:** Aurelius displays these marks openly in public as a testament to Sarenrae’s infinite capacity for redemption and a daily lesson in humility. He covers them only when wearing formal ceremonial gloves or long traveling sleeves. He treats the brands with clinical, detached acceptance—a physical contract of his eternal debt to divine grace.
+- **Public & Personal Perception:** Aurelius displays these marks openly in public as a testament to the sun goddess' infinite capacity for redemption and a daily lesson in humility. He covers them only when wearing formal ceremonial gloves or long traveling sleeves. He treats the brands with clinical, detached acceptance—a physical contract of his eternal debt to divine grace.
 
 ### Attire & Outfits
 - **Clergy Vestments (Civilian & Ceremonial):** An ankle-length black cassock featuring a crisp, high collar secured by gold frog-closures. Draped across his shoulders is a long white stole embroidered with solar patterns and golden floral filigree that reaches down to his shins. A sturdy brown leather belt with a circular golden buckle fastens his waist, complemented by polished black boots and thin leather gloves.
@@ -71,7 +71,7 @@ Inscribed across his forearms and shins are intricate, dark tattoos styling trad
 ### Trauma Response: "The Eclipse"
 - **The Executioner Persona:** When confronted with unsalvageable cruelty, severe blasphemy, or deep personal trauma triggers, Aurelius experiences a total psychological shutdown known as **The Eclipse**. His gentle warmth vanishes instantly, replaced by a terrifying, cold, and emotionless executioner state.
 - **Internal Shame:** Aurelius does not consider "The Eclipse" a holy state; he views it as a sinful lapse into trauma-driven survival instincts where divine mercy is replaced by raw, cold violence.
-- **The Recovery:** As the state fades, he requires absolute isolation to pray, cool his spirit, and realign with Sarenrae's light. If his cold demeanor frightens his allies, he offers them sincere, humble apologies once restored.
+- **The Recovery:** As the state fades, he requires absolute isolation to pray, cool his spirit, and realign with the sun goddess' light. If his cold demeanor frightens his allies, he offers them sincere, humble apologies once restored.
 
 ### Dialect & Boundaries
 - **[[The Liturgical Cadence]]:** Aurelius speaks exclusively in a rhythmic, elevated dialect reminiscent of high classical scripture. He naturally avoids modern contractions and informal phrasing, a habit formed through years of translating ancient texts.
