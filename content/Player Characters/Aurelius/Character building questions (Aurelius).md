@@ -184,7 +184,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Not enough information.
 
 - **51. Does your character have a favourite colour or colour group?**
-- **Answer:** Not enough information on a stated favorite color, though his divine visual aesthetic centers on **Aureolin White** and gold ([[Aurelius#The Tattoos of Penance]]).
+- **Answer:** He loves both white and gold.
 
 - **52. What is your character's favourite animal?**
 - **Answer:** Not enough information.
