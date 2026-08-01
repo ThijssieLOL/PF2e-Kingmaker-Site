@@ -38,7 +38,7 @@ Selion Helisar is a necromancer who works for an alternative version of the chur
 
 ## History
 
-- **Background:** [[content/Player Characters/Selion/Character building questions#Selion|Character building questions]]
+- **Background:** [[Selion]]
 
 ---
 
