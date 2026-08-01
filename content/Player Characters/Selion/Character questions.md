@@ -44,11 +44,11 @@ Skip this section if your character has no magic/can’t cast spells.
 17. How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?
      they always calculate their attack and using their summons to inflict poison on enemies and keep them at bay. they themselves would not be in the frontlines but makes sure their thralls are.
 18. How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?
-    they made it up themselves to fight in the best and efficiently possible way
+    they made it up themselves to fight in the best and most efficiently possible way that makes sure harm does not come to him, but harm does come to his enemies. 
 19. How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
-    
+     so far he has not experienced many battles other then the trials set up by the church. 
 20. Does your character have rules or a code of honor for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?
-    
+     My character believes that ever fight should always be fought
 
 ### Family and Relationships
 
