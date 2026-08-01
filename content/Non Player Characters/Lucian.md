@@ -47,7 +47,6 @@ When young Aurelius was brought to the church, Lucian was surprised by the boy's
 
 - **Paternal Dynamic:** Having no biological family of his own, Lucian considers the orphans under his care—including Aurelius, [[Gideon]], [[Julian]], [[Vespera]], [[Lyra]], and the late [[Tristan]] and [[Valerius]]—to be his true sons and daughters.
 - **Coping with Loss:** The deaths of Tristan and Valerius weighed heavily on Lucian, causing him deep personal grief. However, having trained operatives for years, he carries the burden with stoic resolve, channeling his grief into protecting and guiding the surviving cohort.
-- **View on the Trias Politicas:** Lucian does not see Aurelius’s governance theory, the [[Trias Politicas]], as conflicting with Church scripture. While he remains thoughtful and cautious about how states should be run, he deeply respects Aurelius's philosophical ambition and critical mind.
 - **The Ocular Hunters:** Aurelius and his siblings fully confided in Lucian regarding the shadowy cabal hunting the [[Ocular of Kaelen]]. Lucian immediately reported the threat to appropriate Church channels to ensure Aurelius was protected and monitored.
 
 ---
