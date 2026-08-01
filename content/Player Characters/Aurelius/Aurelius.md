@@ -141,6 +141,9 @@ Determined to answer this calling, Aurelius engineered an unprecedented administ
 
 Aurelius was raised alongside five other orphans in his training cohort within [[The Chancellery of Silent Illumination]]. Bound by shared survival and rigorous discipline, they share a deep sibling bond. All surviving members are 21 years old.
 
+### The Church Clergy
+- 
+
 ### The Fallen Siblings
 - **[[Tristan]] — The Shield (Champion):** The protective older-brother figure of the class who gave his life holding back a monstrous horde so his siblings could escape. Aurelius holds Tristan’s memory as the supreme standard of holy sacrifice.
 - **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius lived for the clash of blades. Though he often bickered with Aurelius over discipline versus instinct, Valerius died heroically defending city walls during an invasion. His death reminds Aurelius of the brutal cost of war.
