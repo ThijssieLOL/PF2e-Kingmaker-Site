@@ -121,7 +121,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** His tragic past and strict commando upbringing made him deeply disciplined, committed to divine redemption, and cautious of tyranny, inspiring his governance theory ([[Aurelius#Political & Spiritual Philosophy]], [[Aurelius#Personality & Psychology]]).
 
 - **34. Is your character's family well-off or are they fucking peasants?**
-- **Answer:** He was an impoverished street orphan before being taken in and supported by [[The Church of the Eternal Blazing Sun#Economic Stance]] ([[Aurelius#Childhood & The Tragic Origin]]).
+- **Answer:** Fucking peasants
 
 - **35. What is your (tragic) backstory?**
 - **Answer:** Born with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home was destroyed by a dark cabal. Fleeing as an orphan, desperation led him to theft, assault, and the accidental murder of an innocent family. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings during evaluations, and now seeks out the frontier of the stolen lands ([[Aurelius#History]]).
@@ -137,7 +137,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** As an official missionary under [[The Chancellery of the Outer Horizon]], his goal is to help build a kingdom guided by the [[Aurelius#The Trias Politicas|Trias Politicas]] and test the [[Aurelius#The Holy Ground Project|Holy Ground Project]] ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
 
 - **38. What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?**
-- **Answer:** Not enough information on specific mechanical Kingmaker player guide role titles, though politically he prefers a religious/advisory role in accordance with his [[Aurelius#The Trias Politicas|Trias Politicas]] (refusing to sit directly upon the Crown).
+- **Answer:** Magister (Flavored as the role of High Priest)
 
 - **39. How does your character think a country should be run?**
 - **Answer:** Through his [[Aurelius#The Trias Politicas|Trias Politicas]] model: power split equally between the Crown (Civil Law), Military (Defense), and Church (Moral Guidance), with clergy strictly forbidden from holding executive political thrones ([[Aurelius#The Trias Politicas]]).
