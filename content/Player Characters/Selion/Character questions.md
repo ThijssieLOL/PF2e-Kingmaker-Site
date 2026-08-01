@@ -91,11 +91,11 @@ Skip this section if your character has no magic/can’t cast spells.
 36. Why is your character out adventuring?
      to spread the belief and exterminate all evil
 37. Why are they at Lady Aldori’s mansion for the kingmaker expedition? What is their goal in this expedition?
-     To be aided in their quest by exterm
+     To be aided in their quest by exterminating evil and bringing his belief to more people
 38. What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?
-    
+     a military power or of the church, so they can aid their quest in either spreading the gossip or killing evil. 
 39. How does your character think a country should be run?
-    
+     they believe a country should be run on kindess and freedom, with rules that keep up society so that no crimes
 40. What are, in your opinion, the fundamental rights a citizen of your country should have?
     
 41. Would you sacrifice yourself for your friends, allies or future citizens?
