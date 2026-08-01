@@ -41,7 +41,7 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - **The Resting Hero**: When he is recovering from another high stakes adventure, he wears more comfortable but still fashionable outfits. He often wears a crisp untucked white linen shirt with the top few buttons open (for the audiences enjoyment), loose fitting charcoal trousers and soft and comfortable indoor boots. 
   ![[Pasted image 20260801154113.png|232]]![[Pasted image 20260801154229.png|192]]![[Pasted image 20260801154313.png|229]]
 - **Diamond in the Rough**: When he is traveling terrains that would put him in danger of being dirtied, he wears more simple looking garments. He often wears a incredibly dark blue cloak, lined with a silver star pattern on the inside, over a dark grey double-breasted doublet with silver buttons. The outfit is finished with flexible dark blue leather pants and well worn travelers boots.
-
+  ![[Pasted image 20260801154454.png|235]]
 ### Misc Appearance
 - Zephan always walks in quick measured strides
 - Zephan has immaculate posture
