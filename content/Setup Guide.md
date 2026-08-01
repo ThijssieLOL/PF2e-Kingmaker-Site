@@ -6,7 +6,8 @@
 6. Set your email address in command prompt: git config --global user.email "MY_NAME@example.com" (Make sure this is the same as your github account email)
 7. Clone repository in command prompt: Git clone https://github.com/ThijssieLOL/PF2e-Kingmaker-Site.git
 8. App Thijs if he can give you github permissions
-9. Open repository folder with obsidian
-10. Download Git plugin for obsidian
-11. Set auto commit and sync interval to 1 minute
-12. Turn on pull on startup
+9. Open email and accept github invitation
+10. Open repository folder with obsidian
+11. Download Git plugin for obsidian
+12. Set auto commit and sync interval to 1 minute
+13. Turn on pull on startup
