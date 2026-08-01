@@ -68,7 +68,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 ## Talents and Abilities
 
 - **Way of the Hero:** He fights with the elegance of a dancer, the nimbleness of a butterfly and the sharp tongue of a poet. He usually tries to dart in and out of combat with acrobatic movements and whenever possible he tries to capitalize on the opportunity of a flashy move for the inevitable audience.
-- **Supernatural intuition**: Zephan has a very attuned intuition due to his ties with fate
+- **Tied to fate**: Zephan has a very attuned intuition due to his ties with fate, and even appears to be listening to the stars on clear nights. 
+- Sharp Tongue and Quick wit: Zephan is very charismatic. He is adept at
 
 ---
 
