@@ -46,7 +46,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - He mostly looks either cocky, bored, annoyed, arrogant or ambivalent. He very rarely genuinely smiles
 - Often impatiently crosses his arms and taps his foot when he waits
 - He is always incredibly well groomed, even in the wilderness
-- He smells like Bergamot, Cedarwood, & Night-Blooming Jasmine
+- He smells often smells like Bergamot, Cedarwood, & Night-Blooming Jasmine
+- He has a necklace crafted out of a meteor that fell close to his family's territory when he was younger, that his mother helped create. Almost always wears it as a good luck charm underneath his clothing.
 ---
 
 ## Personality
