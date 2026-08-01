@@ -14,11 +14,11 @@ Selion Helisar is a necromancer who works for an alternative version of the chur
 - **Ancestry/Species:** Vishkanya
 - **Class/Profession:** Necromancer
 - **Affiliation:** Church of the eternal blazing sun
-- **Role/Rank:** Grade 7.9 (just to be better then thijs)
+- **Role/Rank:** Grade 7.99 (just to be better then thijs)
 
 ## Appearance
 
-- **Description:** (What they look like, what they wear, and any distinguishing features)
+- **Description:** Look at the picture because I spent enough time on it to not describe him again
 
 ---
 
