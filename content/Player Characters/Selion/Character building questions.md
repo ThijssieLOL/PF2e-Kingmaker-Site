@@ -34,7 +34,7 @@ Selion Helisar is a necromancer who works for an alternative version of the chur
 
 ## Abilities
 
-- **Skills & Magic:** (How they fight, what magic they use, or their main talents)
+- **Skills & Magic:** they use a form of necromancy by not summoning off of corpses, but thralls, for Selion hates all things dealing with undead/unholy. He also 
 
 ---
 
