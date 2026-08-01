@@ -8,10 +8,10 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Human ([[Aurelius#Quick Facts]]).
 
 - **3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?**
-- **Answer:** Spirit-binding, divine martial magic, sacred scripture translation, Church civil law/theology, stealth, and alchemical research ([[Aurelius#Overview]], [[Aurelius#Dialect & Boundaries]], [[The Chancellery of Silent Illumination#Training Curriculum & Education]]).
+- **Answer:** Religion and Diplomacy
 
 - **4. What languages does your character speak and why?**
-- **Answer:** Not enough information regarding specific Pathfinder 2e mechanical languages, though he speaks exclusively in [[Aurelius#Dialect & Boundaries|The Liturgical Cadence]]—a high classical scripture dialect formed through years of translating ancient texts.
+- **Answer:** Common and spirit language (?)
 
 ---
 
@@ -36,7 +36,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** An ankle-length black cassock with a crisp high collar secured by gold frog-closures, draped with a long white stole embroidered with solar patterns and golden floral filigree ([[Aurelius#Attire & Outfits]]).
 
 - **11. What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?**
-- **Answer:** Not enough information.
+- **Answer:** 
 
 ---
 
