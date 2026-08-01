@@ -21,14 +21,9 @@ The campaign is following an adventuring party of heroes on their quest to found
 | **[[Zephan]]**     | Swashbuckler       |                                                              |
 | **[[Jock Finch]]** | Bard               |                                                              |
 | **[[Oliver]]**     | Commander          |                                                              |
-<<<<<<< HEAD
-| [[Indepth info]]   | Necromancer        |                                                              |
-| Essie              | Gunslinger         |                                                              |
-=======
 | [[Selion]]         | Necromancer        |                                                              |
-| Essie              |                    |                                                              |
+| Essie              | Gunslinger         |                                                              |
 |                    |                    |                                                              |
->>>>>>> origin/v5
 
 ---
 
