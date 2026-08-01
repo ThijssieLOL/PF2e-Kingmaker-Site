@@ -1,5 +1,5 @@
 # Tattoos of Penance
-The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[The Church of the Eternal Blazing Sun]]. They serve as a physical, indelible testament to a person's past sins, Sarenrae's capacity for redemptive mercy, and the bearer's commitment to humility. While the core practice is universal across the faith, individual churches have slight variations in how they are administered.
+The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[The Church of the Eternal Blazing Sun]]. They serve as a physical, indelible testament to a person's past sins, and the sun goddess' capacity for redemptive mercy, and the bearer's commitment to humility. While the core practice is universal across the faith, individual churches have slight variations in how they are administered.
 
 ## The Initiation Ritual & Application
 - The tattoos are typically applied by a clergy member of Grade 8 (Anointed) or higher, usually the specific priest performing the individual's initiation ritual into the church.

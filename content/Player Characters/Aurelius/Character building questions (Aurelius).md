@@ -168,7 +168,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** He views non-believers with patient, slightly patronizing pity, treating skepticism as ignorance that divine grace will heal, while accepting benevolent orthodox faiths and seeking to destroy evil cults ([[Aurelius#Dialect & Boundaries]], [[The Church of the Eternal Blazing Sun#Relations with Other Faiths]]).
 
 - **47. What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?**
-- **Answer:** Holds strictly to orthodox Church doctrine; seeks to correct heretical drift while maintaining diplomatic respect toward other benevolent orthodox deities ([[The Church of the Eternal Blazing Sun#Relations with Other Faiths]]).
+- **Answer:** Holds strictly to orthodox Church doctrine; seeks to correct heretical drift while maintaining diplomatic respect toward other benevolent orthodox deities and denominations within the church of the eternal blazing sun ([[The Church of the Eternal Blazing Sun#Relations with Other Faiths]]).
 
 - **48. Do you believe in an afterlife(heaven) and do you think you are going to end up there?**
 - **Answer:** He believes in the Sunlit Fields ([[The Church of the Eternal Blazing Sun#Afterlife & Purification]]) and views his life as an eternal contract of debt to earn redemption and entry into her light ([[Aurelius#The Tattoos of Penance]]).

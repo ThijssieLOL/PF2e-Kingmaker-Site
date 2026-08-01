@@ -37,7 +37,7 @@ Because Aurelius wears different masks, his dialect should shift slightly depend
 When talking to children, commoners, or trying to uplift his companions, his archaic speech should sound gentle, poetic, and comforting—like a grandfatherly priest, despite his young age.
 - **The Tone:** Soft, patient, and reassuring.
 - **Example:** *"Fret not, little one. The sun must set so that we may appreciate the glory of its rising. Come, let us speak of the stars."*
-- **Example:** *"Verily, your courage today was a sight to behold. Sarenrae smiles upon your efforts."*
+- **Example:** *"Verily, your courage today was a sight to behold. The sun smiles upon your efforts."*
 
 ### Voice B: The Patronizing Missionary (His Scholarly/Debating Voice)
 When dealing with stubborn non-believers, debating politics with [[Vespera]], or dealing with mundane paperwork. He is polite, but his high-register vocabulary carries a subtle, academic condescension.
