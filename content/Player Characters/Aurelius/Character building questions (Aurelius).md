@@ -178,7 +178,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 ### Personality and Preferences
 
 - **49. What is your character's favourite food?**
-- **Answer:** 
+- **Answer:** Pancakes with maple syrup. 
 
 - **50. What is your character's favourite drink?**
 - **Answer:** Some variation of Ale.
@@ -190,10 +190,10 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** A phoenix.
 
 - **53. What would be your character's spirit animal and why?**
-- **Answer:** A lion 
+- **Answer:** A lion.
 
 - **54. What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
-- **Answer:** Literature, mostly poetry
+- **Answer:** Literature, mostly poetry.
 
 - **55. What does your character like to spend their free time on if they have a break from adventuring?**
 - **Answer:** He likes to journal, philosophize and write letters to his siblings, updating them about his journey.
@@ -202,7 +202,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Not enough information.
 
 - **57. What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?**
-- **Answer:** Failing his quest for redemption, permanently slipping into "The Eclipse" executioner state, and losing divine grace ([[Aurelius#Trauma Response: "The Eclipse"]]).
+- **Answer:** Permanently slipping into "The Eclipse" executioner state, and losing divine grace ([[Aurelius#Trauma Response: "The Eclipse"]]).
 
 - **58. What is your character's biggest pet peeve?**
 - **Answer:** Writing with a pen, rather than a quill
@@ -211,7 +211,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Subconsciously twitching his fingers in spell patterns, speaking in inaudible lip movements to spirits, and expressing condescending pity toward non-believers ([[Aurelius#Daily Habits & Quirks]], [[Aurelius#Dialect & Boundaries]]).
 
 - **60. Sweet, sour, salty or bitter?**
-- **Answer:** Salty
+- **Answer:** Salty.
 
 - **61. Soldier, Poet or King?**
 - **Answer:** A blend of Soldier (covert commando) and Poet (scholarly scribe), while explicitly rejecting being King ([[Aurelius#Overview]], [[Aurelius#The Trias Politicas]]).
@@ -229,7 +229,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** 
 
 - **66. Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
-- **Answer:** 
+- **Answer:** He quite enjoys parties as he loves to see people happy.
 
 - **67. What is your character's least funny joke that they think is great?**
 - **Answer:** 
