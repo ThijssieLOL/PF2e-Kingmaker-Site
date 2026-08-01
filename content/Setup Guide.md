@@ -14,6 +14,6 @@
 14. Set auto commit and sync interval to 1 minute
 15. Turn on pull on startup
 16. Exit the git plugin settings
-17. Press ctrl + p, go to git: commit and sync
+17. Make a small change to one of the documents in content (make sure to change it back afterwards), Press ctrl + p, go to git: commit and sync
 18. A github pop up will appear, login with your github
 19. You are finished!
