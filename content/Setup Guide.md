@@ -12,4 +12,5 @@
 12. Go to git plugin options
 13. Set auto commit and sync interval to 1 minute
 14. Turn on pull on startup
-15. 
+	1. Press ctrl + p
+15. You are finished!
