@@ -229,7 +229,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** 
 
 - **66. Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
-- **Answer:** He quite enjoys seeing party so happy
+- **Answer:** He quite enjoys parties as he loves to see people happy.
 
 - **67. What is your character's least funny joke that they think is great?**
 - **Answer:** 
