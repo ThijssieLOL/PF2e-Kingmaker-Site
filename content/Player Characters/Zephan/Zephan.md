@@ -51,7 +51,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - He is always incredibly well groomed, even in the wilderness
 - He smells often smells like Bergamot, Cedarwood, & Night-Blooming Jasmine
 - He has a necklace crafted out of a meteor that fell close to his family's territory when he was younger, that his mother helped create. Almost always wears it as a good luck charm underneath his clothing.
-- He stops any and all movement when pretending not to be attentively listing to a story
+- He stops any and all movement when pretending not to be attentively listening to a story
+- He always keeps a close eye on the lighting in any given room, so the can stand in a way that ,i
 ---
 
 ## Personality
