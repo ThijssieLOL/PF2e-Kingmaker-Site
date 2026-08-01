@@ -13,7 +13,7 @@ status: Alive
 
 # Father Lucian Soler
 
-
+![[Lucian.png||375]]
 
 > "Light does not shout to disperse the dark; it simply exists, steady and unyielding. Be the light."
 > — Father Lucian Soler
@@ -36,7 +36,6 @@ Father Lucian Soler is a Grade 7 (Blaze) priest within [[The Church of the Etern
 
 ### Teaching the First Animist
 When young Aurelius was brought to the church, Lucian was surprised by the boy's unique [[Ocular of Kaelen]]. Since the Church had no prior experience training spirit-binders, Lucian worked directly alongside Aurelius and researched deep within Church archives. Together, they developed the foundation of Aurelius’s Animist combat style.
-- **Blindfold Conditioning:** Recognizing that reliance on spiritual sight could leave Aurelius vulnerable to spirit masking or physical blindsides, Lucian subjected Aurelius to rigorous blindfolded combat and survival drills to hone his physical instincts.
 - **The Non-Sighted Anchor:** Though Lucian possesses no spiritual sight, he views Aurelius's gift as extraordinary rather than bizarre, serving as a grounded physical anchor during Aurelius's early spiritual awakenings.
 
 ### Church Grade & Loyalty
