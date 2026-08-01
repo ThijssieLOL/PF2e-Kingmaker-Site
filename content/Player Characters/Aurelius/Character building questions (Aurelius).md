@@ -187,7 +187,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** He loves both white and gold.
 
 - **52. What is your character's favourite animal?**
-- **Answer:** Not enough information.
+- **Answer:** A phoenix
 
 - **53. What would be your character's spirit animal and why?**
 - **Answer:** Not enough information.
