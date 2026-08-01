@@ -205,7 +205,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Failing his quest for redemption, permanently slipping into "The Eclipse" executioner state, and losing divine grace ([[Aurelius#Trauma Response: "The Eclipse"]]).
 
 - **58. What is your character's biggest pet peeve?**
-- **Answer:** Not enough information.
+- **Answer:** Writing with a pen, rather than a quill
 
 - **59. Do you have any bad or annoying habits?**
 - **Answer:** Subconsciously twitching his fingers in spell patterns, speaking in inaudible lip movements to spirits, and expressing condescending pity toward non-believers ([[Aurelius#Daily Habits & Quirks]], [[Aurelius#Dialect & Boundaries]]).
