@@ -37,9 +37,12 @@ Zephan is slightly above average length (1.75m) and has a slender but toned body
 ### Attire and Outfits
 Zephan must always looks his best for his adoring fans, so he has a plethora of outfits for many different occasions.
 - **The Dashing Rogue:** His go to outfit is a classic for a reason. He wears a white undershirt underneath his signature blueberry blue trench coat with golden lining. He also wears a pristine white cravat pinned with a golden brooch, fitted midnight-black riding breaches and high polished leather boots. 
+  ![[Pasted image 20260801153606.png|241]]![[Pasted image 20260801153707.png|230]]![[Pasted image 20260801153835.png|168]]
 - **The Resting Hero**: When he is recovering from another high stakes adventure, he wears more comfortable but still fashionable outfits. He often wears a crisp untucked white linen shirt with the top few buttons open (for the audiences enjoyment), loose fitting charcoal trousers and soft and comfortable indoor boots. 
+  ![[Pasted image 20260801154113.png|232]]![[Pasted image 20260801154229.png|192]]![[Pasted image 20260801154313.png|229]]
 - **Diamond in the Rough**: When he is traveling terrains that would put him in danger of being dirtied, he wears more simple looking garments. He often wears a incredibly dark blue cloak, lined with a silver star pattern on the inside, over a dark grey double-breasted doublet with silver buttons. The outfit is finished with flexible dark blue leather pants and well worn travelers boots.
-
+  ![[Pasted image 20260801154454.png|178]]![[Pasted image 20260801154622.png|245]]![[Pasted image 20260801154704.png|234]]
+(The cloak is the general concept, what i described is really hard to find)
 ### Misc Appearance
 - Zephan always walks in quick measured strides
 - Zephan has immaculate posture
@@ -48,7 +51,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - He is always incredibly well groomed, even in the wilderness
 - He smells often smells like Bergamot, Cedarwood, & Night-Blooming Jasmine
 - He has a necklace crafted out of a meteor that fell close to his family's territory when he was younger, that his mother helped create. Almost always wears it as a good luck charm underneath his clothing.
-- He stops any and all movement when pretending not to be attentively listing to a story
+- He stops any and all movement when pretending not to be attentively listening to a story
+- He always keeps a close eye on the lighting in any given room, so the can stand in a way that ,i
 ---
 
 ## Personality
@@ -88,6 +92,6 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 ## Relationships
 ### Family
 - **His mother, Lyra Ásteri:** Lyra was always the softer of the two parents. She had an aloof, whimsical personality, and delighted in flowers, reading and nature. Despite of this she still was very strong willed, and could win many arguments with her husband with merely a glance. She was married off to Castor from a poorer family, but seemed content in her role in life. Shortly after Zephans exile, she became sick and bedridden, causing much worry to her family because even very skilled healer where not able to cure this disease, and some even speculated it was a curse. Zephan knows all of this because he still keeps in contact with her via letter
-- **His Father, Castor Áteri**: Castor was the head of his house, and acted like it. He is quite a broad, tall man and is in very good physical condition. However, despite his noble background he still holds a humble and kind demeanor. He is even seen as somewhat of a pushover by other noble families, but his skill in leadership, military tactics and trade have kept his family in a relatively stable economic position. He feels tremendously guilty for having made the call to exile Zephan, but he also knows that if he had not done what he did, his whole house could have been disbanded for the assault of the nobleman by Zephan.
+- **His Father, Castor Ásteri**: Castor was the head of his house, and acted like it. He is quite a broad, tall man and is in very good physical condition. However, despite his noble background he still holds a humble and kind demeanor. He is even seen as somewhat of a pushover by other noble families, but his skill in leadership, military tactics and trade have kept his family in a relatively stable economic position. He feels tremendously guilty for having made the call to exile Zephan, but he also knows that if he had not done what he did, his whole house could have been disbanded for the assault of the nobleman by Zephan.
 - **The younger twin, Orion Ásteri**: Orion is a kind boy that takes after his mother in many ways, but was unlucky enough to be born blind. This did not leave him many choices of career, but eventually he found his place in a clergy (of a yet undermined god). He looked up to his older brother, finding him a comforting presence in many ways because he never treated him differently than others because his disability. He does find his worldview and perspective on religion slightly concerning, but he does not know what could possibly convince Zephan on this matter. He also finds Rhea slightly too overbearing.
 - **The older twin, Rhea Ásteri**: Rhea is an adventurous and protective girl. She greatly enjoyed discovering the terrain surrounding their estate, learning stories of battle from her father and most of all watching Zephan when he was dueling. She idolized her brother growing up, she found his relentless confidence inspiring and often deferred to his judgement without a second thought. She even started aspiring to be a knight after Zephan said that she could be a greater knight than one in the story he was reading her. She does however feel conflicted about his exile. She finds it astounding that he would be banished for doing the right thing, but also selfishly wishes he would come back so that she would not be the heir of the family, since she was born 9 minutes earlier than her twin brother (a fact she uses relentlessly to dote on him) but is afraid she cannot handle the task.
