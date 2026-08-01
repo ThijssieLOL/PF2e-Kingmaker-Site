@@ -24,7 +24,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** He possesses the rare [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]] ("Eyes of God") and the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]]—dark branded criminal tattoos across his forearms and shins that ignite into brilliant **Aureolin White** light when he channels divine magic ([[Aurelius#Appearance]]).
 
 - **7. Is your character well groomed? Do they bathe often? Do they brush their teeth?**
-- **Answer:** Not enough information regarding specific bathing or hygiene habits, though he maintains immaculate clerical vestments and a strict, military-precise morning routine ([[Aurelius#Personality & Psychology]], [[Aurelius#Attire & Outfits]]).
+- **Answer:** 
 
 - **8. Does your character have a condition or other distinction that makes them different from others of their race/species.**
 - **Answer:** He possesses the rare ocular trait known as the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], which allows him to perceive the spiritual layer of reality directly ([[Aurelius#The "Eyes of God" (Ocular of Kaelen)]]).
