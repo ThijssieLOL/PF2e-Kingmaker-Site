@@ -162,7 +162,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Yes, [[The Church of the Eternal Blazing Sun]] ([[Aurelius#Quick Facts]]).
 
 - **45. Do they follow a particular god within their religion?**
-- **Answer:** The sun goddess (The Eternal Blazing Sun) ([[The Church of the Eternal Blazing Sun#The Sun Goddess]], [[Aurelius#Adoption & Alchemical Redemption]]).
+- **Answer:** The Sun goddess (The Eternal Blazing Sun) ([[The Church of the Eternal Blazing Sun#The Sun Goddess]], [[Aurelius#Adoption & Alchemical Redemption]]).
 
 - **46. What is their opinion on people of other religions?**
 - **Answer:** He views non-believers with patient, slightly patronizing pity, treating skepticism as ignorance that divine grace will heal, while accepting benevolent orthodox faiths and seeking to destroy evil cults ([[Aurelius#Dialect & Boundaries]], [[The Church of the Eternal Blazing Sun#Relations with Other Faiths]]).
@@ -193,10 +193,10 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Not enough information.
 
 - **54. What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
-- **Answer:** High classical scripture, ancient written texts, and scribal calligraphy ([[Aurelius#Dialect & Boundaries]], [[Aurelius#Daily Habits & Quirks]]).
+- **Answer:** 
 
 - **55. What does your character like to spend their free time on if they have a break from adventuring?**
-- **Answer:** Practicing scribal routine, translating ancient scripture, preparing inkwells, and engaging in quiet meditation ([[Aurelius#Daily Habits & Quirks]], [[Aurelius#Trauma Response: "The Eclipse"]]).
+- **Answer:** 
 
 - **56. What is your character's worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?**
 - **Answer:** Not enough information.
@@ -211,7 +211,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Subconsciously twitching his fingers in spell patterns, speaking in inaudible lip movements to spirits, and expressing condescending pity toward non-believers ([[Aurelius#Daily Habits & Quirks]], [[Aurelius#Dialect & Boundaries]]).
 
 - **60. Sweet, sour, salty or bitter?**
-- **Answer:** Not enough information.
+- **Answer:** Salty
 
 - **61. Soldier, Poet or King?**
 - **Answer:** A blend of Soldier (covert commando) and Poet (scholarly scribe), while explicitly rejecting being King ([[Aurelius#Overview]], [[Aurelius#The Trias Politicas]]).
