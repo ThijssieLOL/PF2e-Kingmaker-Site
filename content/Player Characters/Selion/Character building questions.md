@@ -24,9 +24,9 @@ Selion Helisar is a necromancer who works for an alternative version of the chur
 
 ## Personality
 
-- **Demeanor:** They're a bit cocky but overall kind and belief they have to make the world a place where no evil shall exist. 
+- **Demeanor:** They're a bit cocky but overall kind and belief they have to make the world a place where no evil shall exist and above all else finds it most important that those who cannot protect themselves must be protected
 - **Core beliefs:** The sun goddess is the 1 true powerful god, Those that cannot protect themselves must be protected at all costs
-- **Hates:
+- **Hates:** all things related to evil/unholy, parents who are abusers/don't care about their children
 
 ---
 
