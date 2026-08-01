@@ -1,5 +1,5 @@
 1. Create a github account
-2. Download GIT (https://git-scm.com/install/windows)
+2. Download en setup GIT (https://git-scm.com/install/windows)
 3. Open Command prompt
 4. Set your username in command prompt: git config --global user.name "FIRST_NAME LAST_NAME"
 5. Set your email address in command prompt: git config --global user.email "MY_NAME@example.com" (Make sure this is the same as your github account email)
