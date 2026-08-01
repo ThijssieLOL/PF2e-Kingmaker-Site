@@ -80,18 +80,18 @@ Skip this section if your character has no magic/can’t cast spells.
 32. Did your character have any form of education? Did they go to school? Were they home schooled? 
      just home schooled
 33. How has your upbringing shaped your worldview?
-    
+     it shaped his worldview in a way where all evil must be eradicated for it brings forth horrors no one needs to experience
 34. Is your character’s family well-off or are they fucking peasants?
-    
+     they were normal
 35. What is your (tragic) backstory?
-    
+     [[Selion]]
 
 ### Motivations and morality
 
 36. Why is your character out adventuring?
-    
+     to spread the belief and exterminate all evil
 37. Why are they at Lady Aldori’s mansion for the kingmaker expedition? What is their goal in this expedition?
-    
+     To be aided in their quest by exterm
 38. What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?
     
 39. How does your character think a country should be run?
