@@ -87,4 +87,5 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 
 ## Relationships
 ### Family
-- 
+- **His mother, Lyra Ásteri:** Lyra was always the softer of the two parents. She had an aloof, whimsical personality, and delighted in flowers, reading and nature. Despite of this she still was very strong willed, and could win many arguments with her husband with merely a glance. She was married off to Castor from a poorer family, but seemed content in her role in life. Shortly after Zephans exile, she became sick and bedridden, causing much worry to her family because even very skilled healer where not able to cure this disease, and some even speculated it was a curse. Zephan knows all of this because he still keeps in contact with her via letter
+- His Father
