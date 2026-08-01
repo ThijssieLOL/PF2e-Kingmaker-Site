@@ -103,16 +103,16 @@ Skip this section if your character has no magic/can’t cast spells.
 42. How would you describe your character’s moral compass?
      they are morally good, with a bit of anger issues towards unholy/undead
 43. Where does your character draw the line? When do the ends stop justifying the means?
-     he stops justifying good causes if there were too many casualties, if the person is in touch with undead/
+     he stops justifying good causes if there were too many casualties, if the person is in touch with undead/unholy stuff or if they are at a point of no return to good
 
 ### Religion
 
 44. Is your character religious? If so, what religion do they follow?
-    
+     yes, they follow the church of the eternal blazing sun
 45. Do they follow a particular god within their religion?
-    
+     the sun goddess
 46. What is their opinion on people of other religions?
-    
+     they dont stand against it, unless its something with undead/unholy but do believe their goddess is the most superior
 47. What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?
     
 48. Do you believe in an afterlife(heaven) and do you think you are going to end up there?
