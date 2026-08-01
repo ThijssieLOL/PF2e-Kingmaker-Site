@@ -1,6 +1,6 @@
 # Selion 
 
-![[Pasted image 20260801132542.png|304]]
+![[Selion.png|304]]
 
 > “Praise the eternal sun”
 
