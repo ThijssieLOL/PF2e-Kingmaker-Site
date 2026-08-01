@@ -181,7 +181,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Not enough information.
 
 - **50. What is your character's favourite drink?**
-- **Answer:** Not enough information.
+- **Answer:** Some variation of Ale
 
 - **51. Does your character have a favourite colour or colour group?**
 - **Answer:** He loves both white and gold.
