@@ -45,7 +45,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - Zephan has immaculate posture
 - He mostly looks either cocky, bored, annoyed, arrogant or ambivalent. He very rarely genuinely smiles
 - Often impatiently crosses his arms and taps his foot when he waits
-- He is always immac
+- He is always incredibly well groomed, even in the wilderness
+- He smells like Bergamot, Cedarwood, & Night-Blooming Jasmine
 ---
 
 ## Personality
