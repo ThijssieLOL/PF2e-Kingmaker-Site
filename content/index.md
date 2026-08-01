@@ -15,14 +15,14 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 ## 👥 Key Characters (The Cohort)
 
-| Character          | Class / Role       | Focus & Description                                                                                                                                                                        |
-| ------------------ | ------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **[[Aurelius]]**   | Animist / Magister | Religious warrior-philosopher, spiritual architect of the [[Holy Ground Project]], and champion of the [[Trias Politicas]] governance model <span class="copilot-citation-ref">[3]</span>. |
-| **[[Zephan]]**     | Swashbuckler       |                                                                                                                                                                                            |
-| **[[Jock Finch]]** | Bard               |                                                                                                                                                                                            |
-| **[[Oliver]]**     | Commander          |                                                                                                                                                                                            |
-| *Lord Edge*        | Necromancer        |                                                                                                                                                                                            |
-| Essie              |                    |                                                                                                                                                                                            |
+| Character          | Class / Role       | Focus & Description                                          |
+| ------------------ | ------------------ | ------------------------------------------------------------ |
+| **[[Aurelius]]**   | Animist / Magister | Missionary for the [[The Church of the Eternal Blazing Sun]] |
+| **[[Zephan]]**     | Swashbuckler       |                                                              |
+| **[[Jock Finch]]** | Bard               |                                                              |
+| **[[Oliver]]**     | Commander          |                                                              |
+| *Lord Edge*        | Necromancer        |                                                              |
+| Essie              |                    |                                                              |
 
 ---
 
