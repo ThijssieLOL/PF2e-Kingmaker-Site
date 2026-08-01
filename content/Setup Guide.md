@@ -6,7 +6,7 @@
 6. Set your username in command prompt: git config --global user.name "FIRST_NAME" (From the :, make sure to type the double - yourself, do not copy and paste! Make sure to include the ")
 7. Set your email address in command prompt: git config --global user.email "MY_NAME@example.com" (Make sure this is the same as your github account email)
 8. Clone repository in command prompt: Git clone https://github.com/ThijssieLOL/PF2e-Kingmaker-Site.git
-9. App Thijs if he can give you github permissions
+9. App Thijs (WITH YOUR GITHUB EMAIL) if he can give you github permissions
 10. Open email and accept github invitation
 11. Open obsidian, and click open folder as vault. Locate the Kingmaker-Site.git folder and open that
 12. Go to obsidian settings, community plugin setting and install the Git plugin for obsidian, and enable the plugin. 
