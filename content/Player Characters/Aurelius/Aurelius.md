@@ -142,7 +142,7 @@ Determined to answer this calling, Aurelius engineered an unprecedented administ
 Aurelius was raised alongside five other orphans in his training cohort within [[The Chancellery of Silent Illumination]]. Bound by shared survival and rigorous discipline, they share a deep sibling bond. All surviving members are 21 years old.
 
 ### The Church Clergy
-- - **[[Father Lucian Soler]] — The Mentor & Father Figure:** A Grade 7 Warpriest and head instructor within [[The Chancellery of Silent Illumination]]. Lucian served as Aurelius’s tactical instructor and worked directly with him to forge his Animist combat style. Acting as a paternal anchor and protector against the ocular-hunting cabal, Lucian gifted Aurelius his personal combat talisman before his departure to the Stolen Lands and maintains continuous contact with him through encrypted Church missives.
+-  **[[Father Lucian Soler]] — The Mentor & Father Figure:** A Grade 7 Warpriest and head instructor within [[The Chancellery of Silent Illumination]]. Lucian served as Aurelius’s tactical instructor and worked directly with him to forge his Animist combat style. Acting as a paternal anchor and protector against the ocular-hunting cabal, Lucian gifted Aurelius his personal combat talisman before his departure to the Stolen Lands and maintains continuous contact with him through encrypted Church missives.
 
 ### The Fallen Siblings
 - **[[Tristan]] — The Shield (Champion):** The protective older-brother figure of the class who gave his life holding back a monstrous horde so his siblings could escape. Aurelius holds Tristan’s memory as the supreme standard of holy sacrifice.
