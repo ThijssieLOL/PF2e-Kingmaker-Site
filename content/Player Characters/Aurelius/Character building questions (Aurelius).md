@@ -143,7 +143,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Through his [[Aurelius#The Trias Politicas|Trias Politicas]] model: power split equally between the Crown (Civil Law), Military (Defense), and Church (Moral Guidance), with clergy strictly forbidden from holding executive political thrones ([[Aurelius#The Trias Politicas]]).
 
 - **40. What are, in your opinion, the fundamental rights a citizen of your country should have?**
-- **Answer:** Freedom from poverty, protection from undead threats and tyranny, the right to redemption, and governance free from state wealth hoarding ([[The Church of the Eternal Blazing Sun#Political & Economic Philosophy]], [[Aurelius#Political & Spiritual Philosophy]]).
+- **Answer:** Apart from the basic human right; freedom from poverty, protection from undead threats and tyranny, the right to redemption, and governance free from state wealth hoarding ([[The Church of the Eternal Blazing Sun#Political & Economic Philosophy]], [[Aurelius#Political & Spiritual Philosophy]]).
 
 - **41. Would you sacrifice yourself for your friends, allies or future citizens?**
 - **Answer:** Yes. He views self-sacrifice as the highest standard of holy duty, inspired by his fallen cohort brother [[Tristan]] ([[Aurelius#The Fallen Siblings]]).
@@ -162,7 +162,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Yes, [[The Church of the Eternal Blazing Sun]] ([[Aurelius#Quick Facts]]).
 
 - **45. Do they follow a particular god within their religion?**
-- **Answer:** The sun goddess (The Eternal Blazing Sun / Sarenrae) ([[The Church of the Eternal Blazing Sun#The Sun Goddess]], [[Aurelius#Adoption & Alchemical Redemption]]).
+- **Answer:** The sun goddess (The Eternal Blazing Sun) ([[The Church of the Eternal Blazing Sun#The Sun Goddess]], [[Aurelius#Adoption & Alchemical Redemption]]).
 
 - **46. What is their opinion on people of other religions?**
 - **Answer:** He views non-believers with patient, slightly patronizing pity, treating skepticism as ignorance that divine grace will heal, while accepting benevolent orthodox faiths and seeking to destroy evil cults ([[Aurelius#Dialect & Boundaries]], [[The Church of the Eternal Blazing Sun#Relations with Other Faiths]]).
