@@ -42,7 +42,6 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 
 ### Expression and Posture
 
-
 ---
 
 ## Personality
