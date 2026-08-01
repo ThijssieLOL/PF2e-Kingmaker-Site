@@ -27,3 +27,4 @@ The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[Th
 - **[[Gideon]]:** Located across his back and shoulders, depicting a dry, cracked well surrounded by dead trees, representing his childhood sin of hoarding food and water during a famine. They glow with a soft, warm light when he channels magic.
 - **[[Julian]]:** Wrapped tightly around his throat and collarbones, depicting a stylized, split-tongued serpent representing his childhood sins of malicious deceit, rumor-mongering, and betrayal of street allies. They glow a brilliant, blinding white when channeling.
 - **[[Lyra]]:** Scorched, blackened handprints covering her palms and running up her wrists, representing her past sins of reckless arson and the accidental destruction of a civilian shelter. They glow like molten gold when she channels her alchemy or divine power.
+- [[Selion]]: Located on his forearms and torso, are
