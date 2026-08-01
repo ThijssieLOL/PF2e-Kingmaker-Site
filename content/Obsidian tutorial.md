@@ -28,6 +28,9 @@ __Bold__
 
 Lists are made simply with:
 1. number followed by a . and space 1. 
+- A - or * followed by a space for an unordered list
+
+> Profound quote
 
 You can link a file by putting it in between double square brackets like so [[Example]]
 If you want the text to say something different than the link, you can put a | in the middle like so link|example text in brackets looks like ->[[link|example text]]
