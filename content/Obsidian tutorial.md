@@ -16,7 +16,10 @@ __Bold__
 ```
 **Bold**
 
-
+```
+~~Strikethrough~~
+```
+~~Stikethrough~~
 
 #\s give you headers. The more hashtags the smaller the header
 ```
