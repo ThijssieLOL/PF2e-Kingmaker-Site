@@ -181,13 +181,13 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** 
 
 - **50. What is your character's favourite drink?**
-- **Answer:** Some variation of Ale
+- **Answer:** Some variation of Ale.
 
 - **51. Does your character have a favourite colour or colour group?**
 - **Answer:** He loves both white and gold.
 
 - **52. What is your character's favourite animal?**
-- **Answer:** A phoenix
+- **Answer:** A phoenix.
 
 - **53. What would be your character's spirit animal and why?**
 - **Answer:** A lion 
