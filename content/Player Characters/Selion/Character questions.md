@@ -114,20 +114,20 @@ Skip this section if your character has no magic/can’t cast spells.
 46. What is their opinion on people of other religions?
      they dont stand against it, unless its something with undead/unholy but do believe their goddess is the most superior
 47. What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?
-    
+    no comment
 48. Do you believe in an afterlife(heaven) and do you think you are going to end up there?
-    
+     yes he beliefs in the sunlit fields and that he will end up there
 
 ### Personality and Preferences
 
 49. What is your character’s favourite food?
-    
+     sun dried tomato's
 50. What is your character’s favourite drink?
-    
+     orange juice
 51. Does your character have a favourite colour or colour group?
-    
+     orange
 52. What is your character’s favourite animal?
-    
+     
 53. What would be your character’s spirit animal and why?
     
 54. What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?
