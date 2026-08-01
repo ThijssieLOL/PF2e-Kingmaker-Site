@@ -178,7 +178,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 ### Personality and Preferences
 
 - **49. What is your character's favourite food?**
-- **Answer:** Not enough information.
+- **Answer:** 
 
 - **50. What is your character's favourite drink?**
 - **Answer:** Some variation of Ale
@@ -190,7 +190,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** A phoenix
 
 - **53. What would be your character's spirit animal and why?**
-- **Answer:** Not enough information.
+- **Answer:** A lion 
 
 - **54. What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
 - **Answer:** Literature, mostly poetry
