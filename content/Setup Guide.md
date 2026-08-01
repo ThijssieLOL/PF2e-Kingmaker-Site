@@ -8,7 +8,7 @@
 8. Clone repository in command prompt: Git clone https://github.com/ThijssieLOL/PF2e-Kingmaker-Site.git
 9. App Thijs (WITH YOUR GITHUB EMAIL) if he can give you github permissions
 10. Open email and accept github invitation
-11. Open obsidian, and click open folder as vault. Locate the Kingmaker-Site.git folder and open that
+11. Open obsidian, and click open folder as vault. Locate the PF2e-Kingmaker-Site. folder and open that
 12. Go to obsidian settings, community plugin setting and install the Git plugin for obsidian, and enable the plugin. 
 13. Go to git plugin options
 14. Set auto commit and sync interval to 1 minute
