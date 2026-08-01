@@ -1,5 +1,12 @@
 ## Markdown 
-**
+
+*Italics* 
+**Bold**
+
+You can link a file by putting it in between double square brackets like so [[Example]]
+If you want the text to say something different than the link, you can put a | in the middle 
+
+---
 
 ## Writing conventions
 1. Start #Tags and Note Names with capital letters
