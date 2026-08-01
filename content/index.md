@@ -34,6 +34,7 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 ### Thom's current projects
 - [[Constellations and Cosmology]]
+- [[Languages]]
 
 ---
 
