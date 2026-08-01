@@ -37,8 +37,9 @@ Zephan is slightly above average length (1.75m) and has a slender but toned body
 ### Attire and Outfits
 Zephan must always looks his best for his adoring fans, so he has a plethora of outfits for many different occasions.
 - **The Dashing Rogue:** His go to outfit is a classic for a reason. He wears a white undershirt underneath his signature blueberry blue trench coat with golden lining. He also wears a pristine white cravat pinned with a golden brooch, fitted midnight-black riding breaches and high polished leather boots. 
-  ![[Pasted image 20260801153606.png|241]]![[Pasted image 20260801153707.png|230]]
+  ![[Pasted image 20260801153606.png|241]]![[Pasted image 20260801153707.png|230]]![[Pasted image 20260801153835.png|168]]
 - **The Resting Hero**: When he is recovering from another high stakes adventure, he wears more comfortable but still fashionable outfits. He often wears a crisp untucked white linen shirt with the top few buttons open (for the audiences enjoyment), loose fitting charcoal trousers and soft and comfortable indoor boots. 
+-
 - **Diamond in the Rough**: When he is traveling terrains that would put him in danger of being dirtied, he wears more simple looking garments. He often wears a incredibly dark blue cloak, lined with a silver star pattern on the inside, over a dark grey double-breasted doublet with silver buttons. The outfit is finished with flexible dark blue leather pants and well worn travelers boots.
 
 ### Misc Appearance
