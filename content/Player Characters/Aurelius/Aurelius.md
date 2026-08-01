@@ -16,7 +16,8 @@ status: Alive
 
 > "..."
 > — Aurelius
-"also i am in fact gay"
+"also i am in fact gay" <--"this is the truth"
+
 ## Overview
 
 Aurelius is a religious warrior-philosopher living a delicate double life. By day, he presents himself as a soft-spoken, scholarly missionary, scribe, and teacher of scriptures; by night, he operates as a lethal, spirit-binding divine commando forged within [[The Chancellery of Silent Illumination]]. Gifted—and cursed—from birth with a rare spiritual sight, he bears the scars and alchemical marks of past atrocities. Driven by a quest for redemption, he seeks to establish a realm in the Stolen Lands governed by balanced law, divine cleansing, and political harmony.
