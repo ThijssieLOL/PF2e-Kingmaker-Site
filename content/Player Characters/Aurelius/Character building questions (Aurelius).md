@@ -178,7 +178,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 ### Personality and Preferences
 
 - **49. What is your character's favourite food?**
-- **Answer:** 
+- **Answer:** Pancakes with maple syrup. 
 
 - **50. What is your character's favourite drink?**
 - **Answer:** Some variation of Ale.
@@ -202,7 +202,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Not enough information.
 
 - **57. What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?**
-- **Answer:** Failing his quest for redemption, permanently slipping into "The Eclipse" executioner state, and losing divine grace ([[Aurelius#Trauma Response: "The Eclipse"]]).
+- **Answer:** Permanently slipping into "The Eclipse" executioner state, and losing divine grace ([[Aurelius#Trauma Response: "The Eclipse"]]).
 
 - **58. What is your character's biggest pet peeve?**
 - **Answer:** Writing with a pen, rather than a quill
