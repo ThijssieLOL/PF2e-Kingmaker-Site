@@ -157,6 +157,6 @@ Skip this section if your character has no magic/can’t cast spells.
 66. Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?
      he only does so if it is something hosted by the church
 67. What is your character’s least funny joke that they think is great?
-     ""
+     "Did you hear about the invisible man who went to the doctor? He said he couldn't see him."
 68. If your character was a celestial body(sun, star, moon, black hole) what one would they be?
-    
+     star
