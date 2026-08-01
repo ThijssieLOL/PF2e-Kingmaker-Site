@@ -95,11 +95,11 @@ Skip this section if your character has no magic/can’t cast spells.
 38. What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?
      a military power or of the church, so they can aid their quest in either spreading the gossip or killing evil. 
 39. How does your character think a country should be run?
-     they believe a country should be run on kindess and freedom, with rules that keep up society so that no crimes
+     they believe a country should be run on kindness and freedom, with rules that keep up society so that no crimes come at bay. 
 40. What are, in your opinion, the fundamental rights a citizen of your country should have?
-    
+     they should have freedom in all aspects and to not be discriminated and that there will be no poor people or corrupted people
 41. Would you sacrifice yourself for your friends, allies or future citizens?
-    
+     i would sacrifice my life only to those i deem friends that are in the deepest par
 42. How would you describe your character’s moral compass?
     
 43. Where does your character draw the line? When do the ends stop justifying the means?
