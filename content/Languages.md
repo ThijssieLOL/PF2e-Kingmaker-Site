@@ -29,6 +29,7 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 - **[[Draconic]]** - A language spoken by dragons and their closest disciples. 
 - **[[Infernal]]** - The language of the hells.
 - **[[Gnomish]]** - The language of [[Gnomes|gnomes]].
+- **[[Necril]]** - A language spoken by intelligent undead and powerful necromancers.
 
 ### Ancient/Scholarly languages and Codes
 - **[[Athalayan]]** - The language of [[Athalan]], an ancient civilization in the eastern region of [[Iorak]]. The empire spanned most of the region east of the [[Red Mountains]]. It's spoken form is no longer remembered but there are still written texts from [[Athalan|the old empire]].
