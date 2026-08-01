@@ -229,10 +229,10 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** 
 
 - **66. Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
-- **Answer:** He blends into crowds with a downcast gaze to avoid sensory overload and stay hidden, maintaining quiet dignity, temperance, and guarded observation ([[Aurelius#The "Eyes of God" (Ocular of Kaelen)]], [[Aurelius#Personality & Psychology]]).
+- **Answer:** 
 
 - **67. What is your character's least funny joke that they think is great?**
-- **Answer:** Not enough information on specific jokes, though he frequently uses archaic, dry clerical humor derived from [[Aurelius#Dialect & Boundaries|The Liturgical Cadence]].
+- **Answer:** 
 
 - **68. If your character was a celestial body(sun, star, moon, black hole) what one would they be?**
 - **Answer:** A sun or star, mirroring his devotion to [[The Church of the Eternal Blazing Sun#The Sun Goddess]] and his divine white-gold light ([[Aurelius#Overview]]).
