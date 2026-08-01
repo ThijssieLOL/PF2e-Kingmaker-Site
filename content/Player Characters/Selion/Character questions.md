@@ -151,11 +151,12 @@ Skip this section if your character has no magic/can’t cast spells.
 63. How would your character try to impress someone?
      by summoning thralls under the sun
 64. How does your character make friends?
-     by walking up to 
+     by walking up to them and make conversations
 65. What is your most valuable possession and why?
-    
+     his sun staff, for it represents the sun and it channels his magical powers better
 66. Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?
-    
+     he only does so if it is something hosted by the church
 67. What is your character’s least funny joke that they think is great?
-    
+     ""
 68. If your character was a celestial body(sun, star, moon, black hole) what one would they be?
+    
