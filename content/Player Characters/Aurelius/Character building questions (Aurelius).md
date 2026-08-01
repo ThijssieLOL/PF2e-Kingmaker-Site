@@ -23,8 +23,8 @@
 - **6. What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character's look distinct.**
 - **Answer:** He possesses the rare [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]] ("Eyes of God") and the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]]—dark branded criminal tattoos across his forearms and shins that ignite into brilliant **Aureolin White** light when he channels divine magic ([[Aurelius#Appearance]]).
 
-- `**7. Is your character well groomed? Do they bathe often? Do they brush their teeth?**`
-- `**Answer:** Not enough information regarding specific bathing or hygiene habits, though he maintains immaculate clerical vestments and a strict, military-precise morning routine ([[Aurelius#Personality & Psychology]], [[Aurelius#Attire & Outfits]]).`
+- **7. Is your character well groomed? Do they bathe often? Do they brush their teeth?**
+- **Answer:** Not enough information regarding specific bathing or hygiene habits, though he maintains immaculate clerical vestments and a strict, military-precise morning routine ([[Aurelius#Personality & Psychology]], [[Aurelius#Attire & Outfits]]).
 
 - **8. Does your character have a condition or other distinction that makes them different from others of their race/species.**
 - **Answer:** He possesses the rare ocular trait known as the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], which allows him to perceive the spiritual layer of reality directly ([[Aurelius#The "Eyes of God" (Ocular of Kaelen)]]).
@@ -81,7 +81,7 @@
 - **Answer:** His parents are deceased; his childhood home was raided by a dark cabal hunting his [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], leaving him an orphan ([[Aurelius#Childhood & The Tragic Origin]]).
 
 - **22. Does your character have any siblings? What is your character's relationship with them?**
-- **Answer:** He has no biological siblings mentioned, but shares a deep, sibling-like bond with his orphan training cohort in [[The Chancellery of Silent Illumination#Known Operatives: The Class of 21]]: [[Gideon]], [[Julian]], [[Vespera]], [[Lyra]], and his fallen cohort-mates [[Tristan]] and [[Valerius]] ([[Aurelius#Relationships]]).
+- **Answer:** He has no biological siblings, but shares a deep, sibling-like bond with his orphan training cohort in [[The Chancellery of Silent Illumination#Known Operatives: The Class of 21]]: [[Gideon]], [[Julian]], [[Vespera]], [[Lyra]], and his fallen cohort-mates [[Tristan]] and [[Valerius]] ([[Aurelius#Relationships]]).
 
 - **23. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?**
 - **Answer:** Not enough information.
