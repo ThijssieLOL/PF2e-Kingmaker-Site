@@ -32,7 +32,7 @@ Zephan is a charismatic Swashbuckler who is beloved by the world, stars, sun and
 
 ## Appearance
 ### Physicality and appearance
-Zephan is slightly above average length (1.75m) and has a slender but toned body, which he takes great effort to preserve so he may look his best for the audience. He is also blessed with a beautiful and noble face with sharp bright blue eyes that seem to sparkle in the light. He also takes incredible care of his straight honey blonde hair, which is often swept to one side of his head. Finally, he has a great ass.
+Zephan is slightly above average length (1.75m) and has a slender but toned body, which he takes great effort to preserve so he may look his best for the audience. He is also blessed with a beautiful and noble face, with sharp bright blue eyes that seem to sparkle in the light and a beauty mark underneath the left side of his . He additionally takes incredible care of his straight honey blonde hair, which is often swept to one side of his head. Finally, he has a great ass.
 
 ### Attire and Outfits
 Zephan must always looks his best for his adoring fans, so he has a plethora of outfits for many different occasions.
