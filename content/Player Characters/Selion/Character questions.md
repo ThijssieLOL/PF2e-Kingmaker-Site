@@ -20,16 +20,16 @@
 9. What is your character’s clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the of wearing something new every day?
     they only wear their clothes granted by the church for it is battle ready and is supposed to represent their sun goddess
 10. Does your character have a particular set of nice clothes? If so, what does it look like?
-    
+    he only has his churches clothes and he deems it the most perfect nice set of clothes.
 11. What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?
-    
+    they smell like flower/warm incense and they make sure they smell like that no matter where they are located. 
 
 #### Magic
 
 Skip this section if your character has no magic/can’t cast spells.
 
 12. Where does your character tell people their magic came from?
-    
+    from a curse called his father
 13. Where does your character actually get their magic?
     
 14. Does this origin affect the magic’s working and visuals?
