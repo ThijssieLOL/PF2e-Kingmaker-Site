@@ -32,7 +32,7 @@ Zephan is a charismatic Swashbuckler who is beloved by the world, stars, sun and
 
 ## Appearance
 ### Physicality and appearance
-Zephan is slightly above average length (1.75m) and has a slender but toned body, which he takes great effort to preserve so he may look his best for the audience. He is also blessed with a beautiful and noble face with sharp bright blue eyes that seem to sparkle in the light. He also takes incredible care of his straight honey blonde hair, which is often swept to one side of his head. Finally, he has a great ass.
+Zephan is slightly above average length (1.75m) and has a slender but toned body, which he takes great effort to preserve so he may look his best for the audience. He is also blessed with a beautiful and noble face, with sharp bright blue eyes that seem to sparkle in the light and a beauty mark underneath the left side of his mouth . He additionally takes incredible care of his straight honey blonde hair, which is often swept to one side of his head. Finally, he has a great ass.
 
 ### Attire and Outfits
 Zephan must always looks his best for his adoring fans, so he has a plethora of outfits for many different occasions.
@@ -49,7 +49,7 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - **The Mysterious Workings of Fate**: Because of Zephans reverence of fate, he does not believe in simple coincidences. Anything that seems like happenstance or luck is actually a case of foreshadowing or a "Chekhov's gun".  Because of this, he is highly superstitious (avoiding broken mirrors, walking under ladders, etc.), believing these omens cause actual, non-random harm. He is also into many other esoteric readings of fate, such as horoscopes and fortune telling.
 - ** 
 ### Worldview and ideology
-- **Core Beliefs:** 
+- **All the worlds a Stage:** 
 - **Law and Religion:** He believes that laws are useful tools for preserving free will and preventing harm, only becoming tyranny when those in power are exempt from them. He cares little for the gods, believing they are ultimately governed by fate. He steps in to stop evil when he feels unnecessary hurt is being caused, fully believing his emotional reactions to be completely objective. When he personally fails, he is unfazed, seeing it as a setup for a greater victory, though he becomes annoyed at the “scriptwriters” if his failure causes pain to others.
 
 ---
