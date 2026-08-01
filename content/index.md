@@ -21,7 +21,7 @@ The campaign is following an adventuring party of heroes on their quest to found
 | **[[Zephan]]**     | Swashbuckler       |                                                              |
 | **[[Jock Finch]]** | Bard               |                                                              |
 | **[[Oliver]]**     | Commander          |                                                              |
-| [[Selion]]         | Necromancer        |                                                              |
+| [[Selion2]]         | Necromancer        |                                                              |
 | Essie              |                    |                                                              |
 
 ---
