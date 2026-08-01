@@ -57,3 +57,5 @@ Selion Helisar is a necromancer who works for an alternative version of the chur
 ## Relationships
 
 - **[Character Link](https://thijssielol.github.io/PF2e-Kingmaker-Site/character-link):** Brief description of their dynamic.
+- [[The Church of the Eternal Blazing Sun]]
+- 
