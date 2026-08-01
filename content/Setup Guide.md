@@ -9,10 +9,11 @@
 9. App Thijs (WITH YOUR GITHUB EMAIL) if he can give you github permissions
 10. Open email and accept github invitation
 11. Open obsidian, and click open folder as vault. Locate the PF2e-Kingmaker-Site. folder and open that
-12. Go to obsidian settings, community plugin setting and install the Git plugin for obsidian, and enable the plugin. 
+12. Go to obsidian settings, community plugin setting (and click exit restriction mode to enable community plugins) and install the Git plugin for obsidian, and enable the plugin. 
 13. Go to git plugin options
 14. Set auto commit and sync interval to 1 minute
 15. Turn on pull on startup
-16. Press ctrl + p, go to git: commit and sync
-17. A github pop up will appear, login with your github
-18. You are finished!
+16. Exit the git plugin settings
+17. Make a small change to one of the documents in content (make sure to change it back afterwards), Press ctrl + p, go to git: commit and sync
+18. A github pop up will appear, login with your github
+19. You are finished!
