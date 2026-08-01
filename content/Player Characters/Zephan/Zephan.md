@@ -43,7 +43,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 ### Expression and Movements
 - Zephan always walks in quick measured strides
 - Zephan has immaculate posture
-- He mostly looks either cock
+- He mostly looks either cocky, bored, annoyed, arrogant or ambivalent. He very rarely genuinely smiles
+- Often crosses his arms and taps his foot when he waits
 ---
 
 ## Personality
