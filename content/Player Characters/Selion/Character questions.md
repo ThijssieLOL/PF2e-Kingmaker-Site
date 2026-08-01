@@ -10,9 +10,9 @@
 ### Visual Design and Aesthetics
 
 5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
-    
+    They are skinny but with toned muscles, making him look more on the agile and fragile side
 6. What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character’s look distinct.
-    
+    he has black tattoo lines representing his past sins, glowing firy hair, clothes representing the sun, earring
 7. Is your character well groomed? Do they bathe often? Do they brush their teeth?
     
 8. Does your character have a condition or other distinction that makes them different from others of their race/species.
