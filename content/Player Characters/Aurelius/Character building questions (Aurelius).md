@@ -217,7 +217,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** A blend of Soldier (covert commando) and Poet (scholarly scribe), while explicitly rejecting being King ([[Aurelius#Overview]], [[Aurelius#The Trias Politicas]]).
 
 - **62. What is your character's most controversial opinion? Do they have any true hot takes?**
-- **Answer:** That clergy must be strictly banned from taking political thrones ([[Aurelius#The Trias Politicas]]), and that evil spirits can be forcibly bound and coerced into serving divine justice ([[Aurelius#Spirit Interaction & Binding]]).
+- **Answer:** 
 
 - **63. How would your character try to impress someone?**
 - **Answer:** Through calm intellectual discourse, quiet martial precision, or deep scripture knowledge ([[Aurelius#Personality & Psychology]]).
@@ -226,7 +226,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** By offering genuine warmth, lighthearted grace, a steady listening ear, and absolute practical candor ([[Aurelius#Interpersonal Dynamics]], [[Aurelius#Daily Habits & Quirks]]).
 
 - **65. What is your most valuable possession and why?**
-- **Answer:** Not enough information on a specific material possession (though his scribal tools and [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]] are central to his life).
+- **Answer:** 
 
 - **66. Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
 - **Answer:** He blends into crowds with a downcast gaze to avoid sensory overload and stay hidden, maintaining quiet dignity, temperance, and guarded observation ([[Aurelius#The "Eyes of God" (Ocular of Kaelen)]], [[Aurelius#Personality & Psychology]]).
