@@ -193,7 +193,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Not enough information.
 
 - **54. What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
-- **Answer:** Both
+- **Answer:** Literature, mostly poetry
 
 - **55. What does your character like to spend their free time on if they have a break from adventuring?**
 - **Answer:** 
