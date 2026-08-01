@@ -46,7 +46,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 
 ### Demeanor
 Zephan has immense charisma and a highly theatrical worldview, firmly believing he is the “main character” of the world, with the stars acting as his audience and others as background characters or antagonists. He is highly superstitious, viewing random events as “foreshadowing” or “Chekhov’s guns” and actively avoiding omens like broken mirrors or walking under ladders. He frequently refers to people by theatrical, made-up titles (such as “Radiant Warden” or “Lone Swordsman”) rather than their names.
-- **Core Beliefs:** He believes that laws are useful tools for preserving free will and preventing harm, only becoming tyranny when those in power are exempt from them. He cares little for the gods, believing they are ultimately governed by fate. He steps in to stop evil when he feels unnecessary hurt is being caused, fully believing his emotional reactions to be completely objective. When he personally fails, he is unfazed, seeing it as a setup for a greater victory, though he becomes annoyed at the “scriptwriters” if his failure causes pain to others.
+### Worldview and idealogy
+Core Beliefs: He believes that laws are useful tools for preserving free will and preventing harm, only becoming tyranny when those in power are exempt from them. He cares little for the gods, believing they are ultimately governed by fate. He steps in to stop evil when he feels unnecessary hurt is being caused, fully believing his emotional reactions to be completely objective. When he personally fails, he is unfazed, seeing it as a setup for a greater victory, though he becomes annoyed at the “scriptwriters” if his failure causes pain to others.
 
 ---
 
