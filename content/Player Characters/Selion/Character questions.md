@@ -135,13 +135,13 @@ Skip this section if your character has no magic/can’t cast spells.
 55. What does your character like to spend their free time on if they have a break from adventuring?
      they like to spend time in the wild enjoying the sun
 56. What is your character’s worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?
-     their worst fear is ending like their father did
+     their are scared of caves that are cramped for it resembles the trauma from his past
 57. What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?
-     
+     their worst fear is ending like their father did
 58. What is your character’s biggest pet peeve?
-    
+     they NEED to be clean or it will throw off his mood
 59. Do you have any bad or annoying habits?
-    
+     they are a bit too 
 60. Sweet, sour, salty or bitter?
     
 61. Soldier, Poet or King?
