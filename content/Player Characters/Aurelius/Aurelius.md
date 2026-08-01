@@ -104,7 +104,7 @@ Aurelius practices the highly kinetic, unarmed martial style of [[The Chanceller
 As an Animist, Aurelius bridges the physical realm and the spirit dimension.
 - **Weak Spirits:** Instinctively recognize his spiritual authority, submitting to his presence without contest.
 - **Good Spirits:** Work with him in mutual respect and willing partnership.
-- **Neutral Spirits:** Guided gently toward order and Sarenrae's light through patient negotiation.
+- **Neutral Spirits:** Guided gently toward order and the sun goddess' light through patient negotiation.
 - **Evil Spirits:** Treated as unnatural parasites. Aurelius forcibly binds them using holy chains of pure white-gold light, bending them to serve divine justice before cleansing them. Managing evil spirits demands intense mental focus and causes physical strain.
 
 ### Visual Effects & Casting Sensations
@@ -119,7 +119,7 @@ As an Animist, Aurelius bridges the physical realm and the spirit dimension.
 Born with the rare [[Ocular of Kaelen]] ("Eyes of God"), young Leo could see the spirits of the dead floating through the world. His life was torn apart when a dark cabal learned of his eyes and raided his home to harvest him. Fleeing into the streets as an orphan, survival drove him to desperate acts. In a tragic spiral of violence, he committed grave crimes—including theft, assault, and the accidental murder of an innocent family—acts that permanently scarred his soul.
 
 ### Adoption & Alchemical Redemption
-Rescued from absolute ruin by [[The Church of the Eternal Blazing Sun]], he sought total atonement. He voluntarily submitted to the alchemical ritual of the [[Tattoos of Penance]], etching his crimes permanently onto his body. Under the guidance of a compassionate senior priest—who mentored him in controlling his Animist powers despite having no spiritual sight himself—Aurelius embraced the faith of Sarenrae, finding salvation in structure, divine order, and holy service.
+Rescued from absolute ruin by [[The Church of the Eternal Blazing Sun]], he sought total atonement. He voluntarily submitted to the alchemical ritual of the [[Tattoos of Penance]], etching his crimes permanently onto his body. Under the guidance of a compassionate senior priest—who mentored him in controlling his Animist powers despite having no spiritual sight himself—Aurelius embraced the faith of the sun goddess, finding salvation in structure, divine order, and holy service.
 
 ### Upbringing in [[The Chancellery of Silent Illumination]]
 Recognizing his rare spiritual sight and exceptional physical discipline, the Church enrolled Aurelius in the covert orphan-warrior program of [[The Chancellery of Silent Illumination]].
@@ -146,7 +146,7 @@ Aurelius was raised alongside five other orphans in his training cohort within [
 - **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius lived for the clash of blades. Though he often bickered with Aurelius over discipline versus instinct, Valerius died heroically defending city walls during an invasion. His death reminds Aurelius of the brutal cost of war.
 
 ### The Living Siblings
-- **[[Gideon]] — The Anchor (Warpriest):** The emotional heart of the group, embodying Sarenrae's healing grace. Gideon actively monitors Aurelius’s mental health, gently pulling him back to humanity whenever he slips into "The Eclipse."
+- **[[Gideon]] — The Anchor (Warpriest):** The emotional heart of the group, embodying the sun goddess' healing grace. Gideon actively monitors Aurelius’s mental health, gently pulling him back to humanity whenever he slips into "The Eclipse."
 - **[[Julian]] — The Wit (Swashbuckler):** Charismatic, theatrical, and quick-witted, Julian uses humor and playful banter to keep Aurelius grounded and break his overly somber moods.
 - **[[Vespera]] — The Mind (Investigator):** Analytical, quiet, and razor-sharp. Vespera is Aurelius’s intellectual counterpart, regularly challenging his grand political theories with practical logic and tactical realism.
 - **[[Lyra]] — The Catalyst (Alchemist):** A chaotic genius obsessed with sacred alchemy. Lyra serves as Aurelius’s primary collaborator on the [[Holy Ground Project]], turning his spiritual theories into physical alchemical instruments.

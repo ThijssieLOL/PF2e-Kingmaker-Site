@@ -61,7 +61,7 @@ Because possessing the Ocular makes the bearer a target for dangerous pursuers, 
 - **Downcast Gaze:** Maintaining a humble, downcast gaze helps obscure the eyes while maintaining a quiet, unassuming profile in public.
 
 ### Bearer Misconception
-Despite possessing the trait, a bearer may remain entirely ignorant of its true name, history, or cosmic implications. [[Aurelius]], for example, remains unaware of the name "Ocular of Kaelen," believing his unique sight to be a direct divine blessing from Sarenrae.
+Despite possessing the trait, a bearer may remain entirely ignorant of its true name, history, or cosmic implications. [[Aurelius]], for example, remains unaware of the name "Ocular of Kaelen," believing his unique sight to be a direct divine blessing from the sun goddess.
 
 ---
 
