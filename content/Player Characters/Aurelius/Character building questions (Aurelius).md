@@ -211,7 +211,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Subconsciously twitching his fingers in spell patterns, speaking in inaudible lip movements to spirits, and expressing condescending pity toward non-believers ([[Aurelius#Daily Habits & Quirks]], [[Aurelius#Dialect & Boundaries]]).
 
 - **60. Sweet, sour, salty or bitter?**
-- **Answer:** Salty
+- **Answer:** Salty.
 
 - **61. Soldier, Poet or King?**
 - **Answer:** A blend of Soldier (covert commando) and Poet (scholarly scribe), while explicitly rejecting being King ([[Aurelius#Overview]], [[Aurelius#The Trias Politicas]]).
@@ -229,7 +229,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** 
 
 - **66. Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
-- **Answer:** 
+- **Answer:** He quite enjoys seeing party so happy
 
 - **67. What is your character's least funny joke that they think is great?**
 - **Answer:** 
