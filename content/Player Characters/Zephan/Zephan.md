@@ -6,7 +6,7 @@ aliases:
   - Zephan
   - ya boy
   - hot
-ancestry:
+ancestry: Human
 class: Swashbuckler
 faction:
 status: Alive
