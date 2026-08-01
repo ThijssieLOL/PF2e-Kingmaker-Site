@@ -1,6 +1,11 @@
+![[Pasted image 20260801131935.png|445]]
+"praise the eternal sun"
+
 ## **Basic introduction**
 
-Selion Helisar is a necromancer who works for an alternative version of the church of the eternal blazing sun called the grand order of the Phoenix. They are a Vishkanya and are fascinated about the blood aspect in necromancy. This causes him to sometimes infuse his own blood into his Thralls/magic to poison up the heretics.
+Selion Helisar is a necromancer who works for an alternative version of the church of the eternal blazing sun called the grand order of the Phoenix. They are a Vishkanya and are fascinated about the blood aspect in necromancy. This causes him to sometimes infuse his own blood into his Thralls/magic to poison up the heretics. 
+
+
 ## His aesthetics
 
 Above is what Selion looks like as a firm believer as the order of the Phoenix. His attire is meant to represent the sun/his beliefs all the way from his hair, to the staff and clothes. He also finds it that hygienic are a high priority and those that do not bathe themselves are inferior beings for he believes that under the grace of the sun, no filth should exist (unless there was no possible way for them to bathe). That's why he always smells as a mixture of flower/warm incense.
