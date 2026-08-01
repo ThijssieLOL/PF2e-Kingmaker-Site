@@ -75,7 +75,10 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 
 ## History
 ### The Child blessed by Fate
-From the very first moment Zephan was born knew he was special. You see, more than anyone else, the sun, stars, moon and world itself loved him. He was loved by fate and its many eyes and has gained an unshakable confidence due to this fact. He was first born of Lyra and Castor Ásteri, heads of a noble family that largely entertained his worldview until it became very clear that he actually was quite talented. He was a natural at the blade and many other children felt compelled by his charisma to follow him in whatever he wished to do at that moment.
+From the very first moment Zephan was born knew he was special. You see, more than anyone else, the sun, stars, moon and world itself loved him. He was loved by fate and its many eyes and has gained an unshakable confidence due to this fact. He was first born of Lyra and Castor Ásteri, heads of a noble family that largely entertained his worldview until it became very clear that he actually was quite talented. He was a natural at the blade, was quite capable of following his studies if the subject interested him, and many other children felt compelled by his charisma to follow him in whatever he wished to do at that moment. He also became the older brother of his two younger siblings: Orion and Rhea. 
+
+### The Calculated Impulse
+Zephans life was a life of luxury for many years until one day he encountered a very prominent all
 
 ---
 
