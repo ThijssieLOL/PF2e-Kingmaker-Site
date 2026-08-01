@@ -53,17 +53,17 @@ Skip this section if your character has no magic/can’t cast spells.
 ### Family and Relationships
 
 21. Describe your character’s parents. Are they still alive? What are they doing now?
-     both died, one while giving birth to
+     both died, one while giving birth to Selion, the other when wanting to kill Selion. 
 22. Does your character have any siblings? What is your character’s relationship with them?
-    
+     no.
 23. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
-    
+     no
 24. What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you’re doing?
-    
+     cant think it if they are 6ft underground
 25. Is your character part of any organization? If so, is this organization known?
-    
+    they are part of the church of the eternal blazing sun
 26. Does your character have many friends?
-    
+     no for many dont want to be associated with him
 27. Did your character have a mentor? Are they still in contact? What did this mentor teach?
     
 28. Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn’t have to be an individual person, it could also be a group of people or an organization.
