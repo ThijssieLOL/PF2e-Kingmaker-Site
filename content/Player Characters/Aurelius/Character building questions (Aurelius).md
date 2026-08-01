@@ -190,10 +190,10 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** A phoenix.
 
 - **53. What would be your character's spirit animal and why?**
-- **Answer:** A lion 
+- **Answer:** A lion.
 
 - **54. What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
-- **Answer:** Literature, mostly poetry
+- **Answer:** Literature, mostly poetry.
 
 - **55. What does your character like to spend their free time on if they have a break from adventuring?**
 - **Answer:** He likes to journal, philosophize and write letters to his siblings, updating them about his journey.
