@@ -48,12 +48,12 @@ Skip this section if your character has no magic/can’t cast spells.
 19. How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
      so far he has not experienced many battles other then the trials set up by the church. 
 20. Does your character have rules or a code of honor for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?
-     My character believes that ever fight should always be fought
+     My character believes that ever fight should always be fought without holding back and both parties use their maximum capabilities and wont kill those that do not have the will to fight anymore, unless they are mortal sinners or people of evil. 
 
 ### Family and Relationships
 
 21. Describe your character’s parents. Are they still alive? What are they doing now?
-    
+     both died, one while giving birth to
 22. Does your character have any siblings? What is your character’s relationship with them?
     
 23. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
