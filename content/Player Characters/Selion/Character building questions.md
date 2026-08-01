@@ -1,16 +1,16 @@
 # Selion 
 
-![](https://thijssielol.github.io/PF2e-Kingmaker-Site/character-image.jpg)
+![[Pasted image 20260801132542.png|304]]
 
-> “A memorable quote.”
+> “Praise the eternal sun”
 
 ## Overview
 
-A brief 1-2 sentence summary of who this character is and their role.
+Selion Helisar is a necromancer who works for an alternative version of the church of the eternal blazing sun called the grand order of the Phoenix. They are a Vishkanya and were fascinated about the blood aspect in necromancy. This causes him to sometimes infuse his own blood into his Thralls/magic to poison up the heretics. 
 
 ### Quick Facts
 
-- **Full Name:**
+- **Full Name:** Selio
 - **Ancestry/Species:**
 - **Class/Profession:**
 - **Affiliation:**
