@@ -141,17 +141,17 @@ Skip this section if your character has no magic/can’t cast spells.
 58. What is your character’s biggest pet peeve?
      they NEED to be clean or it will throw off his mood
 59. Do you have any bad or annoying habits?
-     they are a bit too 
+     they are a bit too obsessed with their goddess and will talk about her a lot
 60. Sweet, sour, salty or bitter?
-    
+     salty
 61. Soldier, Poet or King?
-    
+     soldier
 62. What is your character’s most controversial opinion? Do they have any true hot takes?
-    
+     they believe their god is the absolute best and all other gods are inferior
 63. How would your character try to impress someone?
-    
+     by summoning thralls under the sun
 64. How does your character make friends?
-    
+     by walking up to 
 65. What is your most valuable possession and why?
     
 66. Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?
