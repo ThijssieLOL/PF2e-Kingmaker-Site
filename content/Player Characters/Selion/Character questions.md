@@ -33,9 +33,9 @@ Skip this section if your character has no magic/can’t cast spells.
 13. Where does your character actually get their magic?
      from study and practice
 14. Does this origin affect the magic’s working and visuals?
-     he is a necromancer but because of the benevolent grace of the sun goddess
+     he is a necromancer but because of the benevolent grace of the sun goddess he emits a dim holy light together with his magic. 
 15. What does your character’s magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
-    
+     my characters magic looks like summoning guardians with a holy light emitting from them, altho he can summon dead corpses to life, he refuses not to do so.
 16. Is there a cost to the magic?
     
 
