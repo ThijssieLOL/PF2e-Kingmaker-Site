@@ -176,6 +176,12 @@ The Church operates with the administrative scale and organizational rigor of a 
 - **Ceremonial Vestments:** An ankle-length black cassock featuring high collars and gold engravings, often paired with a long white stole embroidered with gold floral and solar patterns.
 - **Traveller's Attire:** A comfortable dark tunic and trousers, paired with a white traveller's poncho-capelet adorned with gold engravings.
 
+### [[Tattoos of Penance]]
+- **The Tradition of Humility:** The church views its clergy not as flawless moral figures, but as redeemed sinners. To embody this truth, newly initiated members of the clergy receive the [[Tattoos of Penance]]—a sacred, indelible testament to their past transgressions, the goddess's divine mercy, and their lifelong vow of public humility.
+- **The Rite of Application:** Administered during initiation by an officiating clergyman of Grade 8 (Cinder) or higher, the ritual uses a potent alchemical ink derived from sacred holy water. As holy fire burns away past sin, the process inflicts searing physical pain that leaves behind fluid, organic patterns. Once completed, the pain permanently vanishes.
+- **Divine Design & Placement:** The specific design of the tattoo is divinely manifested by the sun goddess herself, visually reflecting the individual's specific past sins. The officiating priest chooses the physical location on the body, prioritizing highly visible areas (such as the forearms, neck, back, or hands) so the bearer cannot hide their past from those they serve.
+- **Appearance & Arcane Reaction:** In their resting state, the markings possess a warm, reddish-brown color akin to rust, resembling ancient criminal brands. While entirely symbolic and conferring no direct combat benefits, the tattoos react dynamically to spiritual energy—glowing with brilliant, incandescent light whenever the bearer channels divine or arcane magic.
+- **Indelible Nature & Re-Application:** These divine markings cannot be erased, severed, or hidden by physical trauma; scarring over the area only causes the patterns to show through the damaged tissue. Should a clergy member commit a new, grave sin after initiation and seek redemption, additional tattoos may be applied in a rare rite of re-consecration.
 ---
 
 ## Relations with Other Faiths
