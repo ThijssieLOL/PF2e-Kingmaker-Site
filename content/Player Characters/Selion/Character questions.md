@@ -35,14 +35,14 @@ Skip this section if your character has no magic/can’t cast spells.
 14. Does this origin affect the magic’s working and visuals?
      he is a necromancer but because of the benevolent grace of the sun goddess he emits a dim holy light together with his magic. 
 15. What does your character’s magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
-     my characters magic looks like summoning guardians with a holy light emitting from them, altho he can summon dead corpses to life, he refuses not to do so.
+     my characters magic looks like summoning guardians with a holy light emitting from them, although he can summon dead corpses to life, he refuses not to do so. Whenever he uses magic, his staff star centred in the middle starts glowing bright orange 
 16. Is there a cost to the magic?
-    
+     No.
 
 #### Combat style
 
 17. How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?
-    
+     they always calculate their attack and using their summons to 
 18. How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?
     
 19. How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
