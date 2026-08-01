@@ -2,16 +2,17 @@
 2. Download en setup GIT (https://git-scm.com/install/windows)
 3. Open Command prompt by going to the windows search bar and typing cmd (Dont do this before installing Git)
 4. Go to directory where you want to save the obsidian vault: Cd INSERT-PATH-HERE
-5. Set your username in command prompt: git config --global user.name "FIRST_NAME" (From the :, make sure to type the double - yourself, do not copy and paste!)
-6. Set your email address in command prompt: git config --global user.email "MY_NAME@example.com" (Make sure this is the same as your github account email)
-7. Clone repository in command prompt: Git clone https://github.com/ThijssieLOL/PF2e-Kingmaker-Site.git
-8. App Thijs if he can give you github permissions
-9. Open email and accept github invitation
-10. Open obsidian, and click open folder as vault. Locate the Kingmaker-Site.git folder and open that
-11. Go to obsidian settings, community plugin setting and install the Git plugin for obsidian, and enable the plugin. 
-12. Go to git plugin options
-13. Set auto commit and sync interval to 1 minute
-14. Turn on pull on startup
-15. Press ctrl + p, go to git: commit and sync
-16. A github pop up will appear, login with your github
-17. You are finished!
+5. Run the prompt: 
+6. Set your username in command prompt: git config --global user.name "FIRST_NAME" (From the :, make sure to type the double - yourself, do not copy and paste!)
+7. Set your email address in command prompt: git config --global user.email "MY_NAME@example.com" (Make sure this is the same as your github account email)
+8. Clone repository in command prompt: Git clone https://github.com/ThijssieLOL/PF2e-Kingmaker-Site.git
+9. App Thijs if he can give you github permissions
+10. Open email and accept github invitation
+11. Open obsidian, and click open folder as vault. Locate the Kingmaker-Site.git folder and open that
+12. Go to obsidian settings, community plugin setting and install the Git plugin for obsidian, and enable the plugin. 
+13. Go to git plugin options
+14. Set auto commit and sync interval to 1 minute
+15. Turn on pull on startup
+16. Press ctrl + p, go to git: commit and sync
+17. A github pop up will appear, login with your github
+18. You are finished!
