@@ -24,7 +24,7 @@ Selion Helisar is a necromancer who works for an alternative version of the chur
 
 ## Personality
 
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+- **Demeanor:** They're a bit c
 
 ---
 
