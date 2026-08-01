@@ -11,7 +11,7 @@ status: Active
 
 ![[Mandala Eyes on White.png|515]]
 
-> "An ancient, prophetic sight that pierces the veil between realms, bringing both divine truth and terrible burden."
+> " " - ...
 
 ## Overview
 The **Ocular of Kaelen** is an exceedingly rare and ancient ocular trait spoken of only in forgotten prophecies. Within [[The Church of the Eternal Blazing Sun]], it is colloquially referred to as the **"Eyes of God."** The trait grants its bearer complete perception of the spiritual world, allowing them to see spirits, souls, and ethereal entities, but also leaves them targeted by a mysterious, ruthless organization dedicated to hunting its possessors.
