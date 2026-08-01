@@ -36,7 +36,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** An ankle-length black cassock with a crisp high collar secured by gold frog-closures, draped with a long white stole embroidered with solar patterns and golden floral filigree ([[Aurelius#Attire & Outfits]]).
 
 - **11. What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?**
-- **Answer:** 
+- **Answer:** He does not have a unique smell
 
 ---
 
@@ -84,7 +84,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** He has no biological siblings, but shares a deep, sibling-like bond with his orphan training cohort in [[The Chancellery of Silent Illumination#Known Operatives: The Class of 21]]: [[Gideon]], [[Julian]], [[Vespera]], [[Lyra]], and his fallen cohort-mates [[Tristan]] and [[Valerius]] ([[Aurelius#Relationships]]).
 
 - **23. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?**
-- **Answer:** Not enough information.
+- **Answer:** He does not
 
 - **24. What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?**
 - **Answer:** His cohort siblings and Church leadership support his deployment; [[Gideon]] monitors his psychological health, [[Lyra]] collaborates on his research, and Church high command approved his transfer to keep him mobile and safe from his pursuers ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]], [[Aurelius#Relationships]]).
