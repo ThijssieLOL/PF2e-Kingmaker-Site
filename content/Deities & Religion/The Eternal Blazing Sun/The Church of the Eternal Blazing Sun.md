@@ -47,7 +47,7 @@ The hierarchy of the church is structured around a strict, fire-themed grade sys
 ### Grade & Level Progression
 - **Grade 9: Spark** (Level 1)
   - **Role:** The entry-level grade for newly initiated clergy, serving as novitiates, acolytes, and junior initiates across local parishes.
-- **Grade 8: Cinder** (Levels 2–4)
+- **Grade 8: Cinder** (Levels 1–4)
   - **Role:** Standard clergymen, scribes, and active field agents (such as [[Aurelius]]).
   - **Chancellery Requirement:** Active assignment to **1 Chancellery**.
 - **Grade 7: Blaze** (Levels 5–7)
