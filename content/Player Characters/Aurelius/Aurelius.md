@@ -16,7 +16,6 @@ status: Alive
 
 > "..."
 > — Aurelius
-"also i am in fact gay" <--"this is the truth"
 
 ## Overview
 

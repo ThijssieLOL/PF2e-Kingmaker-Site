@@ -16,4 +16,4 @@
 16. Exit the git plugin settings
 17. Make a small change to one of the documents in content (make sure to change it back afterwards), Press ctrl + p, go to git: commit and sync
 18. A github pop up will appear, login with your github
-19. You are finished!
+19. You are finished! All the files in the content section are what are displayed on the wiki, do not touch the other folders as it will break the website
