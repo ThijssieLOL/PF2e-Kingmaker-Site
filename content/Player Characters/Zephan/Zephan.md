@@ -16,7 +16,7 @@ status: Alive
 
 ![](https://thijssielol.github.io/PF2e-Kingmaker-Site/attachments/zephan.png)
 
-> "If all the worlds a stage, then i shall play my part." - Zephan
+> "If all the worlds a stage, then I shall play my part." - Zephan
 
 ## Overview
 
@@ -49,7 +49,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - **The Mysterious Workings of Fate**: Because of Zephans reverence of fate, he does not believe in simple coincidences. Anything that seems like happenstance or luck is actually a case of foreshadowing or a "Chekhov's gun".  Because of this, he is highly superstitious (avoiding broken mirrors, walking under ladders, etc.), believing these omens cause actual, non-random harm. He is also into many other esoteric readings of fate, such as horoscopes and fortune telling.
 - ** 
 ### Worldview ideology
-- **All the worlds a Stage:** The cosmos is a grand theater, the celestial bodies are a captive audience, and he is undeniably cast in the leading role. He was born with this conviction, and it shapes almost the entirety of his 
+- **All the worlds a Stage:** The cosmos is a grand theater, the celestial bodies are a captive audience, and he is undeniably cast in the leading role. He was born with this conviction, and it shapes almost the entirety of his being.
+- **
 - **Law and Religion:** He believes that laws are useful tools for preserving free will and preventing harm, only becoming tyranny when those in power are exempt from them. He cares little for the gods, believing they are ultimately governed by fate. He steps in to stop evil when he feels unnecessary hurt is being caused, fully believing his emotional reactions to be completely objective. When he personally fails, he is unfazed, seeing it as a setup for a greater victory, though he becomes annoyed at the “scriptwriters” if his failure causes pain to others.
 
 ---
