@@ -8,6 +8,7 @@
 8. App Thijs if he can give you github permissions
 9. Open email and accept github invitation
 10. Open obsidian, and click open folder as vault. Locate the Kingmaker-Site.git folder and open that
-11. Go to obsidian settings, community plugin setting and install the Git plugin for obsidian
-12. Set auto commit and sync interval to 1 minute
-13. Turn on pull on startup
+11. Go to obsidian settings, community plugin setting and install the Git plugin for obsidian, and enable the plugin. 
+12. Go to git plugin options
+13. Set auto commit and sync interval to 1 minute
+14. Turn on pull on startup
