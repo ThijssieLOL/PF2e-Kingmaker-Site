@@ -102,9 +102,11 @@ When Aurelius and his siblings confided in Lucian regarding the shadowy cabal hu
 
 ## Relationships
 
-- **[[Aurelius]]:** Views Aurelius as a beloved son and a brilliant culmination of Church ideals. Lucian served as his physical mentor and spiritual anchor throughout his upbringing.
-- **[[Gideon]]:** Deeply proud of Gideon’s growth as a fellow Warpriest, balancing Gideon’s formidable strength with lessons in quiet resolve and tactical restraint.
-- **[[Julian]]:** Holds a firm, patient fondness for Julian’s theatrical swashbuckling style, recognizing the razor-sharp martial skill and deep loyalty hiding beneath the flair.
-- **[[Vespera]]:** Respects Vespera’s sharp, analytical intellect, frequently setting up tactical puzzles and scenario drills to hone her investigative capabilities.
-- **[[Lyra]]:** Deeply affectionate toward Lyra’s chaotic enthusiasm, ensuring her alchemical genius remains safely focused and protected within Church structure.
-- **The Late Cohort ([[Tristan]] & [[Valerius]]):** Suffered immense personal grief over the deaths of Tristan and Valerius. He carries their memory stoically, channeling his sorrow into protecting and guiding the surviving cohort.
+Lucian harbors no favoritism among the orphans brought under his care; having no biological family of his own, he loves every member of the Class of 21 equally and unconditionally as his true sons and daughters.
+
+- **[[Aurelius]]:** Cherishes Aurelius as a son. Lucian served as his physical instructor and grounded anchor during his early years, helping him forge his unique spiritual sight into a fluid combat style while instilling deep moral discipline.
+- **[[Gideon]]:** Deeply proud of Gideon as a fellow Warpriest and son, taking immense pride in guiding Gideon’s formidable strength and teaching him lessons in quiet resolve and tactical restraint.
+- **[[Julian]]:** Loves Julian dearly, holding a firm, patient affection for his theatrical swashbuckling style while recognizing the razor-sharp martial skill and fiercely loyal heart beneath the performance.
+- **[[Vespera]]:** Cares deeply for Vespera, nurturing her sharp, analytical mind and challenging her with complex tactical scenarios to hone her keen investigative intellect.
+- **[[Lyra]]:** Radiates paternal affection toward Lyra, embracing her chaotic enthusiasm while ensuring her brilliant alchemical mind remains safe, supported, and grounded within Church structure.
+- **The Late Cohort ([[Tristan]] & [[Valerius]]):** Suffered profound personal grief over the loss of Tristan and Valerius, loving them as deeply as his surviving children. He carries their memory stoically, channeling his sorrow into protecting and guiding the rest of his family.
