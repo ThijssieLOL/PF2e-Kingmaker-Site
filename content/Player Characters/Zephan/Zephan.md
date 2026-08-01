@@ -74,9 +74,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 ---
 
 ## History
-### The child blessed by Fate
-
-- **Background:** Born into a noble family, Zephan grew up believing he was special and loved by the sun, stars, moon, and the world itself. As an adult, he encountered a corrupt, greedy, and wrathful nobleman who trampled over others’ free will. Driven by his emotions, Zephan launched a calculated attack against him. Because his family already found his attitude difficult—as he was unsuited for negotiations and cared little for the gods—this attack was the final straw. His family disowned him of his title and riches and banished him. Zephan did not mind his exile, confident that fortune would follow him wherever the stars led. While some of his former followers were relieved by his departure, others tried to seek him out, though he did not care enough to wait for them.
+### The Child blessed by Fate
+From the very first moment Zephan was born knew he was special. You see, more than anyone else, the sun, stars, moon and world itself loved him. He was loved by fate and its many eyes and has gained an unshakable confidence due to this fact. Every victory was to be expected and every failure was simply to set him up for an even greater victory. He came from a noble family that largely entertained his worldview until it became very clear that he actually was quite talented. He was a natural at the blade and many other children felt compelled by his charisma to follow him in whatever he whished to do at that moment.
 
 ---
 
