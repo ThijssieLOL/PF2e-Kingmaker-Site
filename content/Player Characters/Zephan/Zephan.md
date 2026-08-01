@@ -81,7 +81,7 @@ From the very first moment Zephan was born knew he was special. You see, more th
 Zephans life was a life of luxury for many years until one day at 20 years old he encountered a very prominent and wealthy allied noble to his family in the act of beating one of his servants for a minor mistake. This disgusted Zephan to his core, and without a second thought he unsheathed his sword, lunged towards the corrupt nobleman and stabbed his sword into him. There was a cleric nearby which meant the wound was not fatal, but this transgression would not be unpunished. His father was forced to strip him of his title and banish him of their territory, for any chance of keeping their house. Zephan did not mind his exile, confident that fortune would follow him wherever his whims led him.
 
 ### Life on the Road
-Zephan the lived his life on the road for many years. He traveled from town to town as a vigilante, taking bounties for people he deemed deserving an helping people wherever possible, till at one point he stumbled into the town of (STARTING TOWN)
+Zephan the lived his life on the road for many years. He traveled from town to town as a vigilante, taking bounties for people he deemed deserving an helping people wherever possible, till at one point he stumbled into the town of (STARTING TOWN) and found a quest on the board that he found interesting enough to entertain.
 
 ---
 
