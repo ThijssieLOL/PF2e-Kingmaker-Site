@@ -4,7 +4,8 @@
 **Bold**
 
 You can link a file by putting it in between double square brackets like so [[Example]]
-If you want the text to say something different than the link, you can put a | in the middle like so 
+If you want the text to say something different than the link, you can put a | in the middle like so link|example text in brackets looks like ->[[link|example text]]
+
 
 ---
 
