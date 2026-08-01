@@ -99,11 +99,11 @@ Skip this section if your character has no magic/can’t cast spells.
 40. What are, in your opinion, the fundamental rights a citizen of your country should have?
      they should have freedom in all aspects and to not be discriminated and that there will be no poor people or corrupted people
 41. Would you sacrifice yourself for your friends, allies or future citizens?
-     i would sacrifice my life only to those i deem friends that are in the deepest par
+     i would sacrifice my life only to those i deem friends that are in the deepest part of my heart, however he will do anything to save anyone as much as possible. 
 42. How would you describe your character’s moral compass?
-    
+     they are morally good, with a bit of anger issues towards unholy/undead
 43. Where does your character draw the line? When do the ends stop justifying the means?
-    
+     he stops justifying good causes if there were too many casualties, if the person is in touch with undead/
 
 ### Religion
 
