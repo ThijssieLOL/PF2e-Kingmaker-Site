@@ -52,7 +52,7 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - **All the worlds a Stage:** The cosmos is a grand theater, the celestial bodies are a captive audience, and he is undeniably cast in the leading role. He was born with this conviction, and it shapes almost the entirety of his being.
 - **Play your Part**: Zephan believes everyone is born with a role, or a purpose in more layman's terms. He believes everyone should be true to themselves and do what they truly desire to. Failure to do this is seen as misunderstanding the part they are meant to be playing. The only caveat this has is that anyone who uses their own will to suppress that of others is still reprehensible. They may have the technical right to do what they do, but others most definitely have the right to put an end to their tirade. This believe also leads Zephan to greatly respect people with great mental fortitude or conviction.
 - **Law and Religion:** He believes that laws are useful tools for preserving free will and preventing harm, only becoming tyranny when those in power are exempt from them. He cares little for the gods, believing they are ultimately governed by fate. 
-- **"The Hero":** Zephan believes himself to have the role of the hero steps in to stop evil when he feels unnecessary hurt is being caused, fully believing his emotional reactions to be completely objective. 
+- **"The Hero":** Zephan believes himself to have the role of the hero and so he steps in to stop evil when he feels unnecessary hurt is being caused, fully believing his emotional reactions to injustice to be completely objective. 
 ---
 
 ## Talents and Abilities
