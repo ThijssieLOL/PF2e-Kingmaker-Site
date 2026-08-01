@@ -29,11 +29,11 @@
 Skip this section if your character has no magic/can’t cast spells.
 
 12. Where does your character tell people their magic came from?
-    from a curse called his father
+    from a curse called his father turned into a blessing through their god/studying.
 13. Where does your character actually get their magic?
-    
+     from study and practice
 14. Does this origin affect the magic’s working and visuals?
-    
+     he is a necromancer but because of the benevolent grace of the sun goddess
 15. What does your character’s magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
     
 16. Is there a cost to the magic?
