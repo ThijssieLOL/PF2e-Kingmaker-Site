@@ -2,22 +2,32 @@
 tags:
 ---
 ## Markdown 
+Obsidian functions with markdown. If there is anything you want to do that isn't in this tutorial just look for it in the markdown language.
 
 ```
 *Italics*
+_Italics_
 ```
 *Italics* 
 
 ```
 **Bold**
+__Bold__
 ```
 **Bold**
 
 #\s give you headers. The more hashtags the smaller the header
 ```
 # <h1>
-# 
+## <h2>
+### <h3>
+#### <h4>
+##### <h5>
+###### <h6>
 ```
+
+Lists are made simply with:
+1. number followed by a . and space 1. 
 
 You can link a file by putting it in between double square brackets like so [[Example]]
 If you want the text to say something different than the link, you can put a | in the middle like so link|example text in brackets looks like ->[[link|example text]]

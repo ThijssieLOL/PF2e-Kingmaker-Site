@@ -46,7 +46,7 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 
 ### Demeanor and Habits
 - **Unbreakable confidence:** Zephan fully believes himself to be a main player in the grand stage of fate, and as such fully believes that he will not suffer failure, and even if he does it is simply to set up a greater victory down the line. However if his personal failure leads to the suffering of others, he will get annoyed at the scriptwriters for relying on "Cheap tragedy"
-- **The Mysterious Workings of Fate**: Because of Zephans reverence of fate, he does not believe in simple coincidences. Anything that seems like happenstance or luck is actually 
+- **The Mysterious Workings of Fate**: Because of Zephans reverence of fate, he does not believe in simple coincidences. Anything that seems like happenstance or luck is actually a case of foreshadowing or a "Chekhov's gun".  Because of this, he is highly superstitious (avoiding broken mirrors, walking under ladders, etc.), believing these omens cause actual, non-random harm. He is also into many other esotheric readings of fate, s
 ### Worldview and ideology
 - **Core Beliefs:** 
 - **Law and Religion:** He believes that laws are useful tools for preserving free will and preventing harm, only becoming tyranny when those in power are exempt from them. He cares little for the gods, believing they are ultimately governed by fate. He steps in to stop evil when he feels unnecessary hurt is being caused, fully believing his emotional reactions to be completely objective. When he personally fails, he is unfazed, seeing it as a setup for a greater victory, though he becomes annoyed at the “scriptwriters” if his failure causes pain to others.
