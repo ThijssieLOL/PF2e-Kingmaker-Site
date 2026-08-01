@@ -112,10 +112,10 @@
 - **Answer:** Raised on the streets as an orphan after his home was raided, then brought up in absolute isolation within the orphan-warrior training program of [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]] ([[Aurelius#History]]).
 
 - **31. Who raised them? If not their parents, why?**
-- **Answer:** Raised by [[The Church of the Eternal Blazing Sun]] within [[The Chancellery of Silent Illumination#The Seven-Member Cohorts]] after his parents were killed or separated during a cabal raid ([[Aurelius#Childhood & The Tragic Origin]]).
+- **Answer:** Raised by [[The Church of the Eternal Blazing Sun]] within [[The Chancellery of Silent Illumination#The Seven-Member Cohorts]] after his parents were killed during a cabal raid ([[Aurelius#Childhood & The Tragic Origin]]).
 
 - **32. Did your character have any form of education? Did they go to school? Were they home schooled?**
-- **Answer:** He received a comprehensive education in [[The Chancellery of Silent Illumination#Training Curriculum & Education]], studying theology, Church law, espionage methods, alchemy, scripture translation, and martial combat ([[Aurelius#Upbringing in The Chancellery of Silent Illumination]]).
+- **Answer:** He received a comprehensive education in [[The Chancellery of Silent Illumination#Training Curriculum & Education]], studying theology, divine magic and martial combat, ... ([[Aurelius#Upbringing in The Chancellery of Silent Illumination]]).
 
 - **33. How has your upbringing shaped your worldview?**
 - **Answer:** His tragic past and strict commando upbringing made him deeply disciplined, committed to divine redemption, and cautious of tyranny, inspiring his governance theory ([[Aurelius#Political & Spiritual Philosophy]], [[Aurelius#Personality & Psychology]]).
@@ -124,14 +124,14 @@
 - **Answer:** He was an impoverished street orphan before being taken in and supported by [[The Church of the Eternal Blazing Sun#Economic Stance]] ([[Aurelius#Childhood & The Tragic Origin]]).
 
 - **35. What is your (tragic) backstory?**
-- **Answer:** Born as Leo with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home was destroyed by a dark cabal. Fleeing as an orphan, desperation led him to theft, assault, and the accidental murder of an innocent family. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings during evaluations, and now seeks redemption on the frontier ([[Aurelius#History]]).
+- **Answer:** Born with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home was destroyed by a dark cabal. Fleeing as an orphan, desperation led him to theft, assault, and the accidental murder of an innocent family. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings during evaluations, and now seeks out the frontier of the stolen lands ([[Aurelius#History]]).
 
 ---
 
 ### Motivations and Morality
 
 - **36. Why is your character out adventuring?**
-- **Answer:** To earn redemption, follow high-planar spiritual whispers calling him to the Stolen Lands, and field-test his political and spiritual projects ([[Aurelius#Overview]], [[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
+- **Answer:** Follow high-planar spiritual whispers calling him to the Stolen Lands, and field-test his political and spiritual projects ([[Aurelius#Overview]], [[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
 
 - **37. Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?**
 - **Answer:** As an official missionary under [[The Chancellery of the Outer Horizon]], his goal is to help build a kingdom guided by the [[Aurelius#The Trias Politicas|Trias Politicas]] and test the [[Aurelius#The Holy Ground Project|Holy Ground Project]] ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
