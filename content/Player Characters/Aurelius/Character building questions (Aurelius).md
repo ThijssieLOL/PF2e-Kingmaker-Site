@@ -181,7 +181,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Not enough information.
 
 - **50. What is your character's favourite drink?**
-- **Answer:** Not enough information.
+- **Answer:** Some variation of Ale
 
 - **51. Does your character have a favourite colour or colour group?**
 - **Answer:** He loves both white and gold.
@@ -196,7 +196,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Literature, mostly poetry
 
 - **55. What does your character like to spend their free time on if they have a break from adventuring?**
-- **Answer:** 
+- **Answer:** He likes to journal, philosophize and write letters to his siblings, updating them about his journey.
 
 - **56. What is your character's worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?**
 - **Answer:** Not enough information.
