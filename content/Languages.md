@@ -3,7 +3,7 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 ## Language list
 ### Common languages
 - **[[Common]]** - The most commonly spoken language on Kaelerum. It is a mixture of many of the languages of Kaelerum primarily based on the human language.
-- **[[Dwarvish]]** - The language of the [[Dwarves|dwarves]]. It has the same runic alphabet of the old [[Darrowain]] and is practically a dialect of it. Despite that it has become more common than it's originator language due to a number of factors. Biggest ones being the seclusion of [[Giants|giants]] and the more industrial and active nature of [[Dwarves|dwarves]]. Even though the two languages are similar dwarvish is still it's own language due to evolutionary drift of the two.
+- **[[Dwarvish]]** - The language of the [[Dwarves|dwarves]]. It has the same runic alphabet of the old [[Darrowain]] and is practically a dialect of it. Despite that it has become more common than it's originator language due to a number of factors. Biggest ones being the seclusion of [[Giants|giants]] and the more industrial and active nature of [[Dwarves|dwarves]]. Even though the two languages are similar [[Dwarvish|dwarvish]] is still it's own language due to evolutionary drift of the two.
 - **[[Orcish]]** - The language of the [[Orcs|orcs]] is primarily a spoken tongue. In more recent years they have developed a script based on the human alphabet though they have long resisted this.
 - **[[Elvish]]** - The language of [[Elves|elves]]. 
 - **[[Halfling]]** - The language spoken by [[Halflings|halflings]].
