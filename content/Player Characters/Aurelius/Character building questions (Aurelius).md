@@ -10,7 +10,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?**
 - **Answer:** Religion and Diplomacy
 
-- **4. What languages does your character speak and why?**
+- **4. What [[Languages|languages]] does your character speak and why?**
 - **Answer:** Common and spirit language (?)
 
 ---
