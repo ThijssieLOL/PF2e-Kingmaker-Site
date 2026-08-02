@@ -104,3 +104,8 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **“Fortune favors the bold—and today, my friends, fortune is practically swooning for us.”** _Origin:_ Latin proverb / Terence (_Phormio_)
 - **“A protagonist is only as great as the storm they weather.”** _Origin:_ Adapted from _The Count of Monte Cristo_ by Alexandre Dumas
 - **“All the world’s a stage, and most of us are desperately under-rehearsed.”** _Origin:_ Adapted from William Shakespeare (_As You Like It_)
+- **“The only true wisdom is in knowing you know nothing—unless, of course, you are me.”** _Origin:_ Socrates
+- **“Speak softly and carry a sharp blade.”** _Origin:_ Adapted from Theodore Roosevelt
+- **“You can easily judge the character of a man by how he treats those who can do nothing for him.”**
+
+_Origin:_ Johann Wolfgang von Goethe
