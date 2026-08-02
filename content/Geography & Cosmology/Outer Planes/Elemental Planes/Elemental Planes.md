@@ -1,0 +1,1 @@
+The elemental planes of [[Plane of Air|air]], [[Plane of Earth|earth]], [[Plane of Fire|fire]] and [[Plane of Water|water]] are part of the outer planes of Kaelerum.
