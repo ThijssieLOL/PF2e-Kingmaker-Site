@@ -106,6 +106,8 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **“All the world’s a stage, and most of us are desperately under-rehearsed.”** _Origin:_ Adapted from William Shakespeare (_As You Like It_)
 - **“The only true wisdom is in knowing you know nothing—unless, of course, you are me.”** _Origin:_ Socrates
 - **“Speak softly and carry a sharp blade.”** _Origin:_ Adapted from Theodore Roosevelt
-- **“You can easily judge the character of a man by how he treats those who can do nothing for him.”**
+- **“You can easily judge the character of a man by how he treats those who can do nothing for him.”** _Origin:_ Johann Wolfgang von Goethe
+- **“It is a truth universally acknowledged, that a hero in possession of good hair, must be in want of a stage.”** _Origin:_ Adapted from Jane Austen (_Pride and Prejudice_)
+- **“I don't suffer from insanity; I enjoy every minute of it.”**
 
-_Origin:_ Johann Wolfgang von Goethe
+_Origin:_ Edgar Allan Poe
