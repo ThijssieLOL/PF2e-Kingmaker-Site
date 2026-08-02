@@ -112,5 +112,5 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **“The show must go on!”** _Origin:_ 19th-century theater adage
 - **“Ah, a Chekhov’s gun! I knew we kept that rusty spoon for a reason.”** _Origin:_ Anton Chekhov (Dramatic Principle)
 - **“Every hero needs a tragedy, but must it involve mud?”** _Origin:_ me
-- **And now, the moment you’ve all been waiting for: Me.”** _Origin:_ Inspired by _Doctor Who_
-- 
+- **''And now, the moment you’ve all been waiting for: Me.”** _Origin:_ Inspired by _Doctor Who_
+- **“A tragic ending? For _me_? Oh, the audience would riot.”** _Origin:_ Meta-theatrical commentary
