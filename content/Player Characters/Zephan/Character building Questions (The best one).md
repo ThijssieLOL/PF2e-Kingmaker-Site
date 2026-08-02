@@ -16,10 +16,10 @@ Common and Fey, at some a random sprite started talking to him and he found it e
 [[Zephan]] is a slightly above average sized (1.83m) toned and lean man. He also has a nice ass and broad shoulders
 
 6. What notable physical features does your character have? Impressive scars, unusual hair colour or glamorous tattoos and piercings, what makes your character's look distinct. 
-From a distance [[Zephan]] most striking feature is his style of clothing, he is often wearing a blueberry blue coat, with gold lining and a white cravat. His side swept straight blond hair is also pretty striking, but up close his eyes are the most catching. He usually has a sharp gaze and  bright blue eyes, that seem to sparkle like stars in the light.
+From a distance [[Zephan|Zephans]] most striking feature is his style of clothing, he is often wearing a blueberry blue coat, with gold lining and a white cravat. His side swept straight blond hair is also pretty striking, but up close his eyes are the most catching. He usually has a sharp gaze and  bright blue eyes, that seem to sparkle like stars in the light.
 
 7. Is your character well groomed? Do they bathe often? Do they brush their teeth? 
-Zephan is immaculately groomed, he tries to bathe whenever he has the chance and cleans and tidies his clothes often, but he tries to do this inconspicuously so it appears effortless.
+[[Zephan]] is immaculately groomed, he tries to bathe whenever he has the chance and cleans and tidies his clothes often, but he tries to do this inconspicuously so it appears effortless.
 
 8. Does your character have a condition or other distinction that makes them different from others of their race/species.
 Hes dope and hot as fuck
