@@ -1,1 +1,6 @@
+---
+tags:
+  - Plane
+---
+
 The elemental planes of [[Plane of Air|air]], [[Plane of Earth|earth]], [[Plane of Fire|fire]] and [[Plane of Water|water]] are part of the outer planes of Kaelerum. They are some of the most accessible of the outer planes.
