@@ -110,4 +110,7 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **“It is a truth universally acknowledged, that a hero in possession of good hair, must be in want of a stage.”** _Origin:_ Adapted from Jane Austen (_Pride and Prejudice_)
 - **“I don't suffer from insanity; I enjoy every minute of it.”** _Origin:_ Edgar Allan Poe
 - **“The show must go on!”** _Origin:_ 19th-century theater adage
+- **“Ah, a Chekhov’s gun! I knew we kept that rusty spoon for a reason.”** _Origin:_ Anton Chekhov (Dramatic Principle)
+- **“Every hero needs a tragedy, but must it involve mud?”** _Origin:_ me
+- **And now, the moment you’ve all been waiting for: Me.”** _Origin:_ Inspired by _Doctor Who_
 - 
