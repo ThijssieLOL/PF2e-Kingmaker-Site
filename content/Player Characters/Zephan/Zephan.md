@@ -102,4 +102,5 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 
 - **“We are all in the gutter, but some of us are looking at the stars.”** _Origin:_ Oscar Wilde (_Lady Windermere's Fan_)
 - **“Fortune favors the bold—and today, my friends, fortune is practically swooning for us.”** _Origin:_ Latin proverb / Terence (_Phormio_)
-- 
+- **“A protagonist is only as great as the storm they weather.”** _Origin:_ Adapted from _The Count of Monte Cristo_ by Alexandre Dumas
+- **“All the world’s a stage, and most of us are desperately under-rehearsed.”** _Origin:_ Adapted from William Shakespeare (_As You Like It_)
