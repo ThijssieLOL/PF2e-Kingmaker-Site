@@ -108,6 +108,6 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **“Speak softly and carry a sharp blade.”** _Origin:_ Adapted from Theodore Roosevelt
 - **“You can easily judge the character of a man by how he treats those who can do nothing for him.”** _Origin:_ Johann Wolfgang von Goethe
 - **“It is a truth universally acknowledged, that a hero in possession of good hair, must be in want of a stage.”** _Origin:_ Adapted from Jane Austen (_Pride and Prejudice_)
-- **“I don't suffer from insanity; I enjoy every minute of it.”**
-
-_Origin:_ Edgar Allan Poe
+- **“I don't suffer from insanity; I enjoy every minute of it.”** _Origin:_ Edgar Allan Poe
+- **“The show must go on!”** _Origin:_ 19th-century theater adage
+- 
