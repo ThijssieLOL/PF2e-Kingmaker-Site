@@ -18,7 +18,7 @@ The campaign is following an adventuring party of heroes on their quest to found
 | Character          | Class / Role       | Focus & Description                                          |
 | ------------------ | ------------------ | ------------------------------------------------------------ |
 | **[[Aurelius]]**   | Animist / Magister | Missionary for the [[The Church of the Eternal Blazing Sun]] |
-| **[[Zephan]]**     | Swashbuckler       |                                                              |
+| **[[Zephan]]**     | Swashbuckler       | Dashing hero chosen by fate                                  |
 | **[[Jock Finch]]** | Bard               |                                                              |
 | **[[Oliver]]**     | Commander          |                                                              |
 | [[Selion]]         | Necromancer        |                                                              |
