@@ -5,7 +5,7 @@
 
 3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
 
-4. What languages does your character speak and why?
+4. What [[Languages|languages]] does your character speak and why?
 
 ### Visual Design and Aesthetics
 5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
