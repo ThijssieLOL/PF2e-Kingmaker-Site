@@ -14,7 +14,7 @@ status: Alive
 
 # Zephan
 
-![](https://thijssielol.github.io/PF2e-Kingmaker-Site/attachments/zephan.png)
+
 
 > "If all the worlds a stage, then I shall play my part." - Zephan
 
