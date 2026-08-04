@@ -4,7 +4,7 @@ tags:
   - pc
 aliases:
   - Selion
-ancestry: Vishkanya
+ancestry: Human
 class: Necromancer
 faction: The Church of the Eternal Blazing Sun
 status: Alive
@@ -18,12 +18,12 @@ status: Alive
 
 ## Overview
 
-Selion Helisar is a necromancer who works for an alternative version of the church of the eternal blazing sun called the grand order of the Phoenix. They are a Vishkanya and were fascinated about the blood aspect in necromancy. This causes him to sometimes infuse his own blood into his Thralls/magic to poison up the heretics. 
+Selion Helisar is a necromancer who works for an alternative version of the church of the eternal blazing sun called the grand order of the Phoenix. They are a Human and were fascinated about the blood aspect in necromancy. This causes him to sometimes infuse his own blood into his Thralls/magic to poison up the heretics. 
 
 ### Quick Facts
 
 - **Full Name:** Selion Helisar
-- **Ancestry/Species:** Vishkanya
+- **Ancestry/Species:** Human
 - **Class/Profession:** Necromancer
 - **Affiliation:** Church of the eternal blazing sun
 - **Role/Rank:** Grade 7.99 (just to be better then thijs)
