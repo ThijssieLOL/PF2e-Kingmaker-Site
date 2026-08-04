@@ -98,7 +98,8 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 
 ---
 
-## Quotes
+## Misc
+### Quotes
 
 - **“We are all in the gutter, but some of us are looking at the stars.”** _Origin:_ Oscar Wilde (_Lady Windermere's Fan_)
 - **“Fortune favors the bold—and today, my friends, fortune is practically swooning for us.”** _Origin:_ Latin proverb / Terence (_Phormio_)
@@ -114,3 +115,4 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **“Every hero needs a tragedy, but must it involve mud?”** _Origin:_ me
 - **''And now, the moment you’ve all been waiting for: Me.”** _Origin:_ Inspired by _Doctor Who_
 - **“A tragic ending? For _me_? Oh, the audience would riot.”** _Origin:_ Meta-theatrical commentary
+### Inspiratie
