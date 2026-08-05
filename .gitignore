@@ -13,3 +13,7 @@ replit.nix
 quartz/cli/tui/dist/
 .turbo/
 copilot/
+
+# Local-only agent instructions & tooling — never pushed, never published
+AGENTS.md
+scripts/

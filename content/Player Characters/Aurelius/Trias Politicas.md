@@ -1,3 +1,7 @@
+---
+agent-editable: true
+---
+
 # Trias Politicas (Aurelius's Philosophy)
 
 The **Trias Politicas** is the political and governance philosophy championed by [[Aurelius]]. It advocates for a strict, three-faction separation of power designed to prevent any single group from seizing absolute control over a kingdom, ensuring that human law, military order, and divine cleansing work in balanced harmony.

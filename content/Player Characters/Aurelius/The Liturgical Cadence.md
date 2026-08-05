@@ -1,3 +1,7 @@
+---
+agent-editable: true
+---
+
 
 
 To make this easy and sustainable to roleplay without slowing down the game or feeling forced, you can break his dialect down into a few simple linguistic habits, a curated word bank, and distinct "voices" depending on his mood.

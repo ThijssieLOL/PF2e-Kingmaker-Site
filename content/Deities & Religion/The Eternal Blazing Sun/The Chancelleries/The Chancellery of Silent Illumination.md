@@ -1,4 +1,5 @@
 ---
+agent-editable: true
 tags:
   - faction
   - lore

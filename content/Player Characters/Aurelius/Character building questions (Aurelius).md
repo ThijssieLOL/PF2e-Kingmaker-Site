@@ -1,3 +1,7 @@
+---
+agent-editable: true
+---
+
 WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 ### Mechanics
 
