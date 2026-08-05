@@ -25,17 +25,17 @@ A brief 1-2 sentence summary of the location and its significance.
 ## Description
 - **Environment:** (What the area looks like, climate, and notable geographical features)
 
-_ _ _
+---
 
 ## Points of Interest
 - **Landmarks:** (Key structures, ruins, or specific sites within the location)
 
-_ _ _
+---
 
 ## Encounters & Hazards
 - **Threats:** (Creatures, traps, or hazards present here)
 
-_ _ _
+---
 
 ## Quests & Secrets
 - **Associated Quests:** (Quests, rumors, or hidden features tied to this area)

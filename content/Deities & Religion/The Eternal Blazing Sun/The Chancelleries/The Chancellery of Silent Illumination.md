@@ -10,10 +10,14 @@ status: Active
 
 # The Chancellery of Silent Illumination
 
-> " " -
-
 ## Overview
 The Chancellery of Silent Illumination serves as the premier intelligence service, internal security agency, and covert strike force of [[The Church of the Eternal Blazing Sun]]. Operating quietly behind the noble, benevolent public face of the faith, this Chancellery is tasked with high-stakes statecraft: monitoring internal clerical corruption, gathering foreign intelligence, tracking existential threats, and executing surgical, black-budget operations where open military force is too loud and standard clergy are too vulnerable.
+
+### Quick Facts
+- **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
+- **Primary Function:** Intelligence, Internal Security & Covert Strike Force
+- **Operative Force:** Orphan-warrior cohorts, including the Class of 21
+- **Status:** Active
 
 ## Mandate & Responsibilities
 

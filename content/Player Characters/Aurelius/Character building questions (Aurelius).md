@@ -1,8 +1,10 @@
 ---
 agent-editable: true
+tags:
+  - character
 ---
 
-WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
+> **WARNING!** THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 ### Mechanics
 
 - **1. What is your character's class**

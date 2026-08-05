@@ -8,7 +8,7 @@ aliases:
   - Father Lucian Soler
   - Lucian
 ancestry: Human
-class: Warpriest
+class: Cleric (Warpriest)
 faction: The Church of the Eternal Blazing Sun
 status: Alive
 ---
