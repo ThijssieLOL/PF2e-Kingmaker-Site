@@ -5,8 +5,8 @@ tags:
   - npc
 aliases:
   - Father Lucian
-  - Father Lucian Soler
   - Lucian
+  - Father Lucian Soler
 ancestry: Human
 class: Cleric (Warpriest)
 faction: The Church of the Eternal Blazing Sun
