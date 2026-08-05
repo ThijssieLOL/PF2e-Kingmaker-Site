@@ -1,0 +1,14 @@
+{
+  "id": "conv-1785954518557-fa2guy7vb",
+  "providerId": "opencode",
+  "title": "The following obsidian vault is a shared vault bet...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1785954518571,
+  "updatedAt": 1785954527307,
+  "sessionId": "ses_02cd0a822ffesRvmKZmRUQ4eo1",
+  "selectedModel": "opencode:deepseek/deepseek-v4-flash",
+  "providerState": {
+    "databasePath": "C:\\Users\\Thijs\\AppData\\Roaming\\opencode\\opencode.db",
+    "nativeConversationContextEstablished": true
+  }
+}
