@@ -68,17 +68,19 @@ async function _navigate(url: URL, isBack: boolean = false) {
   isNavigating = true
   startLoading()
   p = p || new DOMParser()
+  let finalUrl = url
   const contents = await fetchCanonical(url)
-    .then((res) => {
-      const contentType = res.headers.get("content-type")
+    .then(({ response, url: resolvedUrl }) => {
+      finalUrl = resolvedUrl
+      const contentType = response.headers.get("content-type")
       if (contentType?.startsWith("text/html")) {
-        return res.text()
+        return response.text()
       } else {
-        window.location.assign(url)
+        window.location.assign(finalUrl)
       }
     })
     .catch(() => {
-      window.location.assign(url)
+      window.location.assign(finalUrl)
     })
 
   if (!contents) return
@@ -92,7 +94,10 @@ async function _navigate(url: URL, isBack: boolean = false) {
   cleanupFns.clear()
 
   const html = p.parseFromString(contents, "text/html")
-  normalizeRelativeURLs(html, url)
+  // Rebase against the URL the content was actually fetched from (after alias
+  // redirect resolution), not the clicked alias URL - otherwise relative image
+  // and link paths resolve against the wrong depth and break on subpath hosts.
+  normalizeRelativeURLs(html, finalUrl)
 
   let title = html.querySelector("title")?.textContent
   if (title) {
@@ -129,7 +134,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   // delay setting the url until now
   // at this point everything is loaded so changing the url should resolve to the correct addresses
   if (!isBack) {
-    history.pushState({}, "", url)
+    history.pushState({}, "", finalUrl)
   }
 
   notifyNav(getFullSlug(window))
