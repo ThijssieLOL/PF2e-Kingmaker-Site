@@ -86,4 +86,4 @@ Following his escape, Aurelius survived as a homeless beggar and thief from ages
 
 ## Known Bearers
 
-- **[[Aurelius]]:** A Grade 8 clergy member and secret operative of [[The Chancellery of Silent Illumination]]. Possesses the trait from birth and uses it to perform spirit-binding and divine animism, though he remains unaware of its ancient prophecy.
+- **[[Aurelius]]:** A Grade 8 clergy member, formerly a covert operative of [[The Chancellery of Silent Illumination]] and now serving under [[The Chancellery of the Outer Horizon]]. Possesses the trait from birth and uses it to perform spirit-binding and divine animism, though he remains unaware of its ancient prophecy.

@@ -28,7 +28,7 @@ Aurelius is a religious warrior-philosopher living a delicate double life. By da
 - **Class & Archetype:** Animist (Pathfinder 2e)
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
 - **Current Chancellery:** [[The Chancellery of the Outer Horizon]] (Formerly [[The Chancellery of Silent Illumination]])
-- **Church Rank:** Grade 8 — Anointed
+- **Church Rank:** Grade 8 — Cinder
 - **Public Persona:** Gentle Clergyman, Scribe, and Missionary
 - **Covert Persona:** Divine Commando & Spirit-Binder
 
@@ -117,15 +117,15 @@ As an Animist, Aurelius bridges the physical realm and the spirit dimension.
 ## History
 
 ### Childhood & The Tragic Origin
-Born with the rare [[Ocular of Kaelen]] ("Eyes of God"), young Leo could see the spirits of the dead floating through the world. His life was torn apart when a dark cabal learned of his eyes and raided his home to harvest him. Fleeing into the streets as an orphan, survival drove him to desperate acts. In a tragic spiral of violence, he committed grave crimes—including theft, assault, and the accidental murder of an innocent family—acts that permanently scarred his soul.
+Born with the rare [[Ocular of Kaelen]] ("Eyes of God"), young Leo could see the spirits of the dead floating through the world. His life was torn apart when a dark cabal learned of his eyes and raided his home to harvest him. Fleeing into the streets as an orphan, survival drove him to desperate acts of theft and assault. In a tragic spiral of violence, he eventually assassinated a profoundly evil man and murdered the man's innocent family to eliminate all witnesses—acts that permanently scarred his soul.
 
 ### Adoption & Alchemical Redemption
 Rescued from absolute ruin by [[The Church of the Eternal Blazing Sun]], he sought total atonement. He voluntarily submitted to the alchemical ritual of the [[Tattoos of Penance]], etching his crimes permanently onto his body. Under the guidance of [[Father Lucian Soler]]—who mentored him in controlling his Animist powers despite having no spiritual sight himself—Aurelius embraced the faith of the sun goddess, finding salvation in structure, divine order, and holy service.
 
 ### Upbringing in [[The Chancellery of Silent Illumination]]
 Recognizing his rare spiritual sight and exceptional physical discipline, the Church enrolled Aurelius in the covert orphan-warrior program of [[The Chancellery of Silent Illumination]].
-- **The Squad:** Raised alongside five fellow orphans, he forged unbreakable bonds during grueling commando conditioning.
-- **Double Identity:** Rising to the rank of **Grade 8 (Anointed / Cinder)**, Aurelius established his dual existence: publicly serving as a soft-spoken clergyman and scribe, while covertly executing high-risk commando and spirit-binding missions.
+- **The Squad:** Raised alongside six fellow orphans, he forged unbreakable bonds during grueling commando conditioning.
+- **Double Identity:** Rising to the rank of **Grade 8 (Cinder)**, Aurelius established his dual existence: publicly serving as a soft-spoken clergyman and scribe, while covertly executing high-risk commando and spirit-binding missions.
 
 ### Call to the Frontier: Mission to the Stolen Lands
 Two years prior to the grand exploration charter, Aurelius began experiencing severe spiritual sensory overloads accompanied by echoing, high-planar whispers calling him to the untamed Stolen Lands. Because these entities remained invisible even to his [[Ocular of Kaelen]], [[Lucian]] concluded they were ancient spirits of massive power beckoning him to his destiny.
@@ -140,7 +140,7 @@ Determined to answer this calling, Aurelius engineered an unprecedented administ
 
 ## Relationships
 
-Aurelius was raised alongside five other orphans in his training cohort within [[The Chancellery of Silent Illumination]]. Bound by shared survival and rigorous discipline, they share a deep sibling bond. All surviving members are 21 years old.
+Aurelius was raised alongside six other orphans in his training cohort within [[The Chancellery of Silent Illumination]]. Bound by shared survival and rigorous discipline, they share a deep sibling bond. All surviving members are 21 years old.
 
 ### The Church Clergy
 -  **[[Father Lucian Soler]] — The Mentor & Father Figure:** A Grade 7 Warpriest and head instructor within [[The Chancellery of Silent Illumination]]. Lucian served as Aurelius’s tactical instructor and worked directly with him to forge his Animist combat style. Acting as a paternal anchor and protector against the ocular-hunting cabal, Lucian gifted Aurelius his personal combat talisman before his departure to the Stolen Lands and maintains continuous contact with him through encrypted Church missives.

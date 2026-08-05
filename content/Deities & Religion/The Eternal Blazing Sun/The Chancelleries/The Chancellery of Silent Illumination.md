@@ -64,5 +64,5 @@ The most recent graduating cohort—known internally as the Class of 21—consis
 - [[Julian]] (Swashbuckler / The Charismatic Vanguard) — The unit's frontline duelist and infiltration expert, skilled in social disguise and high-mobility combat.
 - [[Vespera]] (Investigator / The Serious Strategist) — The analytical mind of the cohort, overseeing forensic intelligence, tactical planning, and threat assessment.
 - [[Lyra]] (Alchemist / The Chaotic Genius) — A brilliant scientific prodigy providing technical support, specialized explosives, and alchemical research.
-- [[Tristan]] (Champion / Deceased) — Fallen during a high-stakes operational trial prior to graduation.
-- [[Valerius]] (Fighter / Deceased) — Fallen alongside Tristan during their final field evaluations.
+- [[Tristan]] (Champion / Deceased) — Fell holding back a monstrous horde so his siblings could escape.
+- [[Valerius]] (Fighter / Deceased) — Fell defending city walls during an invasion.

@@ -6,7 +6,7 @@ agent-editable: true
 The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[The Church of the Eternal Blazing Sun]]. They serve as a physical, indelible testament to a person's past sins, and the sun goddess' capacity for redemptive mercy, and the bearer's commitment to humility. While the core practice is universal across the faith, individual churches have slight variations in how they are administered.
 
 ## The Initiation Ritual & Application
-- The tattoos are typically applied by a clergy member of Grade 8 (Anointed) or higher, usually the specific priest performing the individual's initiation ritual into the church.
+- The tattoos are typically applied by a clergy member of Grade 8 (Cinder) or higher, usually the specific priest performing the individual's initiation ritual into the church.
 - The sacred alchemical ink is made of a special, highly potent form of holy water dedicated to the sun goddess.
 - This potent holy water burns sin with holy fire, which is incredibly painful and physically scars even humans. This intense burning causes the resulting tattoo patterns to take on a fluid, organic appearance.
 - Once the initiation ritual is complete, the pain permanently leaves, and the tattoos do not hurt anymore.
@@ -27,8 +27,9 @@ The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[Th
 - If a member of the clergy commits a new, grave sin, they can have new tattoos reapplied. This only occurs in rare cases where they seek forgiveness and wish to rejoin the clergy.
 
 ## Known Bearers & Designs
-- **[[Aurelius]]:** Located on his forearms and legs, depicting past sins of theft, assault, and the murder of an innocent family. They glow a brilliant **Aureolin White** (a searing, pure white light with a faint golden-yellow halo) when he channels divine magic.
-- **[[Gideon]]:** Located across his back and shoulders, depicting a dry, cracked well surrounded by dead trees, representing his childhood sin of hoarding food and water during a famine. They glow with a soft, warm light when he channels magic.
+- **[[Aurelius]]:** Located on his forearms and shins, depicting past sins of theft, assault, and the murder of an innocent family. They glow a brilliant **Aureolin White** (a searing, pure white light with a faint golden-yellow halo) when he channels divine magic.
+- **[[Gideon]]:** Draped over his shoulders and collarbones, pooling across his chest and upper back like a heavy, liquid collar—dubbed "The Heavy Yoke"—with long, tear-like droplets trailing down his spine and arms. The design reflects his past complicity as "The Wall" for a street syndicate. They glow with a gentle, amber-like warmth when he channels magic.
 - **[[Julian]]:** Wrapped tightly around his throat and collarbones, depicting a stylized, split-tongued serpent representing his childhood sins of malicious deceit, rumor-mongering, and betrayal of street allies. They glow a brilliant, blinding white when channeling.
 - **[[Lyra]]:** Scorched, blackened handprints covering her palms and running up her wrists, representing her past sins of reckless arson and the accidental destruction of a civilian shelter. They glow like molten gold when she channels her alchemy or divine power.
+- **[[Vespera]]:** Etched across her collarbones as a broken, unbalanced scale, representing her past sin of pride—when cold, detached calculation led her to ignore a plea for help, resulting in avoidable tragedy. When she channels magic, the cracks in the scale mend with gold light.
 - [[Selion]]: Located on his forearms and torso, are black lines of tattoo's. Representing that he once had unholy powers coursing through his veins. Whenever he uses his magic the tattoos don't glow but instead become more darker and darker.

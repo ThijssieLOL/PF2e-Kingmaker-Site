@@ -128,7 +128,7 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 - **Answer:** Fucking peasants
 
 - **35. What is your (tragic) backstory?**
-- **Answer:** Born with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home was destroyed by a dark cabal. Fleeing as an orphan, desperation led him to theft, assault, and the accidental murder of an innocent family. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings during evaluations, and now seeks out the frontier of the stolen lands ([[Aurelius#History]]).
+- **Answer:** Born with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home was destroyed by a dark cabal. Fleeing as an orphan, desperation led him to theft and assault, and eventually to the murder of a wicked man's innocent family to silence witnesses. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings in battle, and now seeks out the frontier of the stolen lands ([[Aurelius#History]]).
 
 ---
 
@@ -244,4 +244,4 @@ WARNING! THIS IS THE FIRST DRAFT WITH AI, THIS IS NOT FINISHED
 ---
 
 ### Any additional information you want to share that i didn't ask about or that you think is important:
-- **Answer:** Aurelius maintains a Grade 8 (Anointed / Cinder) rank within [[The Church of the Eternal Blazing Sun#The Grade System]]. His assignment to the Stolen Lands serves a dual purpose: expanding Church influence via the [[Aurelius#The Holy Ground Project|Holy Ground Project]] while keeping him mobile to prevent the ocular-hunting cabal from tracking his location ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
+- **Answer:** Aurelius maintains a Grade 8 (Cinder) rank within [[The Church of the Eternal Blazing Sun#The Grade System]]. His assignment to the Stolen Lands serves a dual purpose: expanding Church influence via the [[Aurelius#The Holy Ground Project|Holy Ground Project]] while keeping him mobile to prevent the ocular-hunting cabal from tracking his location ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
