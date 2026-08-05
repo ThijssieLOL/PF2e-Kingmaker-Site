@@ -1,6 +1,6 @@
 ---
-title: Pathfinder 2e: Kingmaker Wiki
-description: The official campaign wiki for our Pathfinder 2e: Kingmaker campaign, set in the homebrew world of Kaelerum.
+title: "Pathfinder 2e: Kingmaker Wiki"
+description: "The official campaign wiki for our Pathfinder 2e: Kingmaker campaign, set in the homebrew world of Kaelerum."
 ---
 
 # ☀️ Pathfinder 2e: Kingmaker Wiki
@@ -37,17 +37,3 @@ The campaign is following an adventuring party of heroes on their quest to found
 ### Thom's current projects
 - [[Constellations and Cosmology]]
 - [[Languages]]
-
----
-
-## 📁 Wiki Templates & Tools
-
-Use these templates to maintain consistent formatting across the vault:
-
-- **[[Character Template]]**: Template for detailing PCs, NPCs, and major figures.
-- **[[Faction Template]]**: Structure for political factions, guilds, and holy orders.
-- **[[Location Template]]**: Layout for hexes, regions, landmarks, and settlements.
-- **[[Session Note Template]]**: Standard format for logging session recaps, combat encounters, and kingdom updates.
-
-
-***

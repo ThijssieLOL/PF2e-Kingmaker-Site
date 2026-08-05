@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Pathfinder 2e: Kingmaker Wiki
+  pageTitle: "Pathfinder 2e: Kingmaker Wiki"
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
