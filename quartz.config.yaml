@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Pathfinder 2e: Kingmaker Wiki
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -10,7 +10,7 @@ configuration:
   baseUrl: thijssielol.github.io/PF2e-Kingmaker-Site
   ignorePatterns:
     - private
-    - templates
+    - Templates
     - .obsidian
   theme:
     fontOrigin: googleFonts
@@ -227,8 +227,7 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/thijssielol/PF2e-Kingmaker-Site
     layout:
       position: footer
       priority: 50
