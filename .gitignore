@@ -17,3 +17,4 @@ copilot/
 # Local-only agent instructions & tooling - never pushed, never published
 AGENTS.md
 scripts/
+.claudian/
