@@ -13,6 +13,8 @@ status: Alive
 
 ![[Gideon finale.png|375]]
 
+> ""
+
 ## Overview
 Gideon is the emotional anchor and self-appointed "big brother" of the surviving orphans. While he underwent lethal commando training within [[The Chancellery of Silent Illumination]], he views his purpose not as an executioner, but as a living shield meant to preserve his siblings and guide them through their trauma.
 

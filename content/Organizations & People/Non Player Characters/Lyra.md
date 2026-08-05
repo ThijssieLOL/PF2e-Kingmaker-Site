@@ -13,6 +13,8 @@ status: Alive
 
 ![[Lyra.png|375]]
 
+> ""
+
 ## Overview
 Lyra is an eccentric and enthusiastic researcher who is deeply fascinated by the physical properties of divine magic. Serving as a combat medic, demolitions expert, and tech support, she is constantly looking for ways to merge physical science with spiritual energy.
 

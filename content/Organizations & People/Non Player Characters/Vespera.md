@@ -13,6 +13,8 @@ status: Alive
 
 ![[Vespera.png|375]]
 
+> ""
+
 ## Overview
 Vespera is the quiet, analytical mind of the cohort, serving as an Intelligence Officer, Forensic Scribe, and Tactician. She views chaos and corruption as logical problems to be solved with discipline and structure.
 
