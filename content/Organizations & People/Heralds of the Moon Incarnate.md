@@ -1,10 +1,11 @@
 ---
 tags:
   - faction
-leader: 
-headquarters: 
-alignment: 
+leader: Unknown
+headquarters: Unknown
+alignment: Chaotic Evil (presumed)
 status: Active
+deity:
 ---
 
 # Faction Name
