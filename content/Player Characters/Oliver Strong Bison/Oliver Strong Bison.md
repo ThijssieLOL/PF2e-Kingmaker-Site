@@ -1,12 +1,12 @@
 ---
 tags:
   - character
-ancestry: Aiuverin
+ancestry: Aiuvarin
 class: Commander
-faction:
+faction: Jotnar 5
 status: Alive
 aliases:
-  - Sa'be
+  - Sa'be Beshwaji
 ---
 
 # Oliver Strong Bison
