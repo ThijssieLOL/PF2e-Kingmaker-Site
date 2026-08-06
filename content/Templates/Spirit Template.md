@@ -3,7 +3,7 @@ agent-editable: true
 tags:
   - spirit
 apparition: 
-rank: 
+level: 
 status: Bound
 aliases:
   - Spirit Name
@@ -14,12 +14,11 @@ aliases:
 > "A memorable line the spirit speaks, in its own voice."
 
 ## Overview
-A brief 1-2 sentence summary of who this spirit is: what it was, where it was found, and how it came to be bound. Every spirit belongs to one [[Spirits & Apparitions|apparition family]] and carries one Luminosity (rank) that measures its strength.
+A brief 1-2 sentence summary of who this spirit is: what it was, where it was found, and how it came to be bound. Every spirit belongs to one [[Spirits & Apparitions|apparition family]] and carries one Level that measures its strength.
 
 ### Quick Facts
 - **Apparition Family:** [[Name of Apparition]]
-- **Luminosity (Rank):** Wisp / Glimmer / Gleam / Glow / Radiance / Aureole
-- **Spell Band:** (what the rank allows it to carry, see the family note)
+- **Spirit Level:** 1–9 (the highest apparition spell rank it can carry, see the family page)
 - **Binding Status:** Bound / Attuned / Encountered / Sought / Released
 - **First Met:** (where and when)
 
@@ -34,6 +33,9 @@ How this spirit came to exist — what event, place, or person it remembers. Wha
 
 ## Relationship with Aurelius
 How it treats [[Aurelius]], how he earned (or forced) its respect, and how binding it feels — warmth, strain, or something in between.
+
+## Gifts
+What the spirit lends while attuned: the spells from its family's repertoire it most readily carries, and any personal gift or habit it brings to the bond (a scent, a sound, a memory that surfaces).
 
 ## Notes
 - (Anything else: hooks for future scenes, whether it can be dispersed, what would release or anger it.)
