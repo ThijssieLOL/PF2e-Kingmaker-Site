@@ -14,7 +14,9 @@ quartz/cli/tui/dist/
 .turbo/
 copilot/
 
-# Local-only agent instructions & tooling - never pushed, never published
-AGENTS.md
+# Agent tooling - local-only, never pushed, never published.
+# AGENTS.md is intentionally NOT ignored anymore: it is tracked in git so it syncs
+# across devices, but it lives at the repo root (outside content/) so Quartz never
+# publishes it.
 scripts/
 .claudian/
