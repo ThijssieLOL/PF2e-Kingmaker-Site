@@ -45,13 +45,13 @@ Stalkers in darkened boughs make their homes in ancient forests and jungles unfr
 
 ## Known Spirits
 
-- **Redtooth** — *Glimmer, Encountered.* A wolf-spirit that met Aurelius on the edge of the Narlmarches and immediately scented the violence beneath his serenity — the [[Trauma Response: "The Eclipse"|Eclipse]]. It has not bound itself to him; it follows, testing, waiting to see whether he can truly leash what he carries. It growls approval when he does, and goes very still when he does not.
+- **Redtooth** — *Glimmer, Encountered.* A wolf-spirit that met Aurelius on the edge of the Narlmarches and immediately scented the violence beneath his serenity — the [[Aurelius#Trauma Response: "The Eclipse"|Eclipse]]. It has not bound itself to him; it follows, testing, waiting to see whether he can truly leash what he carries. It growls approval when he does, and goes very still when he does not.
 - **The Patient Branch** — *Glow, Candidate for Binding.* A lynx-like spirit that watches from every branch and has never been seen twice in the same place. Moody, impulsive, it trusts no one — but it has begun letting Aurelius walk beneath its tree, which its kind consider a proposal.
 - **First Hunter** — *Radiance, Rumored.* The spirit of the first kill in the oldest forest of the Stolen Lands. It is said to teach one lesson — the difference between hunting and murder — and to kill those who fail it. Aurelius has written its name in his ledger with a note: *seek only when ready.*
 
 ## Relationship to Aurelius
 
-This is the most dangerous mirror in his ledger: the Stalkers sense [[Trauma Response: "The Eclipse"|The Eclipse]] in him — the cold executioner beneath the warm clergyman — and they are fascinated. Binding them is a spiritual discipline, not a power grab: he must master his hatred, not feed it, and every bound Stalker is a vow renewed. They respect nothing less than proof.
+This is the most dangerous mirror in his ledger: the Stalkers sense [[Aurelius#Trauma Response: "The Eclipse"|The Eclipse]] in him — the cold executioner beneath the warm clergyman — and they are fascinated. Binding them is a spiritual discipline, not a power grab: he must master his hatred, not feed it, and every bound Stalker is a vow renewed. They respect nothing less than proof.
 
 ## Mechanical Reference
 
