@@ -5,7 +5,7 @@ leader: Unknown
 headquarters: Unknown
 alignment: Chaotic Evil (presumed)
 status: Active
-deity:
+deity: Groetus
 ---
 
 # Faction Name
@@ -18,10 +18,10 @@ deity:
 A brief 1-2 sentence summary of what this faction is and its main role.
 
 ### Quick Facts
-- **Leader:** 
-- **Headquarters:** 
-- **Alignment:** 
-- **Affiliation / Alliances:** 
+- **Leader:**  Unknown
+- **Headquarters:**  Unknown
+- **Alignment:** Chaotic Evil (presumed)
+- **Affiliation to Deity:** Groe
 
 ## Philosophy & Goals
 - **Core Beliefs:** (Their ideology, values, and guiding principles)
