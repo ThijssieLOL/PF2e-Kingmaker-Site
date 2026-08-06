@@ -28,7 +28,7 @@ status: Active
 
 ## Level 6 Spirits
 *Carries the 6th-rank apparition spell: Petrify.*
-
+- Idea
 ## Level 7 Spirits
 *Carries the 7th-rank apparition spell: Volcanic Eruption.*
 
