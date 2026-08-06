@@ -28,7 +28,7 @@ status: Active
 
 ## Level 6 Spirits
 *Carries the 6th-rank apparition spell: Petrify.*
-
+- Idea 1: A weeping angel like creature, a stone angel that petrifies people
 ## Level 7 Spirits
 *Carries the 7th-rank apparition spell: Volcanic Eruption.*
 
@@ -37,7 +37,7 @@ status: Active
 
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Falling Stars.*
-
+- Idea 1: A meteor dragon
 ## Mechanical Reference
 - **Apparition Skills:** Mountain Lore, Volcano Lore
 - **Vessel Spell:** *Earth's Bile*
