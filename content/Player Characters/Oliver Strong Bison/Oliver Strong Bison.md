@@ -1,10 +1,13 @@
 ---
 tags:
   - character
-ancestry:
-class:
+ancestry: Aiuverin
+class: Commander
 faction:
 status: Alive
+aliases:
+  - Sa'be
+agent-editable: true
 ---
 
 # Oliver Strong Bison
