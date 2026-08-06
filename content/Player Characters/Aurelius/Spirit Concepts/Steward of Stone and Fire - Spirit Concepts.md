@@ -12,6 +12,8 @@ status: Draft
 # Steward of Stone and Fire — Spirit Concepts
 
 > **Draft only** — nothing here is bound or canon until you choose it. Approved concepts get drafted properly with the [[Spirit Template]] and added to the family page in `Apparitions/`. A spirit's form and intelligence grow with its level: level 1 spirits are barely-sentient embers; level 9 spirits are cosmic horrors.
+>
+> **The Spirit Dimension:** every spirit below is a real creature with an actual body that lives and moves in the spirit dimension — it hunts, hoards, sleeps, and ages there. To creatures that cannot perceive the spirit layer it is completely invisible and intangible: no shimmer, no shadow, no sound. The forms described are what the [[Ocular of Kaelen]] or spirit-seeing magic reveals.
 
 ## Level 1 Spirits — Barely Sentient
 *Carries the cantrip Ignition and the 1st-rank apparition spell: Interposing Earth. Animal instinct, no language.*

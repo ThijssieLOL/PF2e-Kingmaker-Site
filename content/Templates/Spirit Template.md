@@ -23,7 +23,7 @@ A brief 1-2 sentence summary of who this spirit is: what it was, where it was fo
 - **First Met:** (where and when)
 
 ## Appearance
-How the spirit manifests — to the naked eye, through the [[Ocular of Kaelen]], and when lending power to spellwork. Appearance varies wildly between spirits of the same family; this spirit's is its own.
+The spirit's true form in the spirit dimension — its body, size, movement, and any aura it carries. It is a real creature there, hunting, hoarding, and living; but it is wholly invisible and intangible to creatures that cannot perceive the spirit layer. Describe what the [[Ocular of Kaelen]] or spirit-seeing magic reveals, and what other mortals simply cannot see. Appearance varies wildly between spirits of the same family; this spirit's is its own.
 
 ## Personality
 What it is like to converse with: temperament, speech, quirks, and what it values. Note what it demands or needs from a binder (praise, order, movement, silence...).
