@@ -2,6 +2,13 @@
 tags:
   - Religion
   - God
+Godly Domains:
+  - The Sun
+  - Life
+  - Fire
+Edicts:
+Anathema: Willfully create undead
+aliases:
 ---
 
 
