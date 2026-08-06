@@ -35,8 +35,5 @@ How this spirit came to exist — what event, place, or person it remembers. Wha
 ## Relationship with Aurelius
 How it treats [[Aurelius]], how he earned (or forced) its respect, and how binding it feels — warmth, strain, or something in between.
 
-## Gifts
-What the spirit lends while attuned: the spells from its family's repertoire it most readily carries, and any personal gift or habit it brings to the bond (a scent, a sound, a memory that surfaces).
-
 ## Notes
 - (Anything else: hooks for future scenes, whether it can be dispersed, what would release or anger it.)
