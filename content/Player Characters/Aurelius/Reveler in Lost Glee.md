@@ -45,7 +45,7 @@ Revelers in lost glee are twisted apparitions that arise in desolate and abandon
 
 ## Known Spirits
 
-- **Jester's Mask** — *Glimmer, Bound.* A hollow, grinning spirit that tells cruel jokes and watches for the flinch. It spent a week trying to break Aurelius's clerical composure — and he passed its test with an old, terrible pun about a heretic and a sundial, delivered in perfect [[Liturgical Cadence]]. It now considers him its favorite audience, which he is not sure is a blessing.
+- **Jester's Mask** — *Glimmer, Bound.* A hollow, grinning spirit that tells cruel jokes and watches for the flinch. It spent a week trying to break Aurelius's clerical composure — and he passed its test with an old, terrible pun about a heretic and a sundial, delivered in perfect [[The Liturgical Cadence]]. It now considers him its favorite audience, which he is not sure is a blessing.
 - **The Last Applause** — *Glow, Encountered.* A spirit that applauds when things end: houses, harvests, hopes. It is not malicious so much as horribly sincere — it simply believes every ending deserves a standing ovation. Aurelius found it in a burned hamlet and made it promise to wait for the funerals before it clapped.
 - **Carnival of the Hollow Crown** — *Radiance, Rumored.* A spirit-parade that dances over ruins in the deep Stolen Lands, joy itself wearing a dead king's crown. It is said to visit the graves of kingdoms and throw a festival no one is invited to.
 

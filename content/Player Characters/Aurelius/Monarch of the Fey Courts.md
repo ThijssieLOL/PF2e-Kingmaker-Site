@@ -45,7 +45,7 @@ Monarchs of the fey courts make their homes near places with strong ties to the 
 
 ## Known Spirits
 
-- **Sir Rue** — *Glimmer, Encountered.* A dethroned courtier-spirit, all wounded pride and perfect posture, who tests every new face with impossible protocol. Aurelius passed its trial through sheer [[Liturgical Cadence|liturgical formality]] — and by never once flinching at its insults. It now claims, with great dignity, that it is merely "supervising" him.
+- **Sir Rue** — *Glimmer, Encountered.* A dethroned courtier-spirit, all wounded pride and perfect posture, who tests every new face with impossible protocol. Aurelius passed its trial through sheer [[The Liturgical Cadence|liturgical formality]] — and by never once flinching at its insults. It now claims, with great dignity, that it is merely "supervising" him.
 - **The Glass Duelist** — *Glow, Rumored.* A spirit of a court where arguments were settled by dance and duels were fought with mirrors. Vain beyond reason; it challenges every worthy soul to a contest it always wins, because it has never met an opponent who fought in reflections.
 - **Winter's Emissary** — *Radiance, Feared.* Unbending, cold, and impeccable; it punishes discourtesy with a courtesy so perfect it is indistinguishable from a curse. It has not yet found Aurelius worth its time — which he considers a mercy.
 
