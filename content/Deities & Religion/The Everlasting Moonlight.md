@@ -15,7 +15,7 @@ status: Active
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
-
+.
 ### Quick Facts
 - **Leader:** 
 - **Headquarters:** 
