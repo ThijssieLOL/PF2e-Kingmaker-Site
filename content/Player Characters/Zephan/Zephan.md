@@ -115,6 +115,6 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **“Every hero needs a tragedy, but must it involve mud?”** _Origin:_ me
 - **''And now, the moment you’ve all been waiting for: Me.”** _Origin:_ Inspired by _Doctor Who_
 - **“A tragic ending? For _me_? Oh, the audience would riot.”** _Origin:_ Meta-theatrical commentary
-- **"All things should be done with elegance."** *Origin:* Henry Henderson after beating someone up
+- **"All things should be done with elegance."** *Origin:* Henry Henderson from Spy x Family after sucker-punching a guy
 ### Inspiration
 
