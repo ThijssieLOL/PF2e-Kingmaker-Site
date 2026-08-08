@@ -7,8 +7,10 @@ headquarters:
 alignment:
 status: Active
 ---
-Names: Nzezo ()
-
+Names: 
+Nzezo (Sango)
+Sun (fon)
+Rembulan (Javanees)
 # Faction Name
 
 ![[moon2.png|300]]
