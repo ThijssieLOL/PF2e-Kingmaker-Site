@@ -7,7 +7,6 @@ headquarters:
 alignment:
 status: Active
 ---
-
 # Faction Name
 
 ![[moon2.png|300]]
