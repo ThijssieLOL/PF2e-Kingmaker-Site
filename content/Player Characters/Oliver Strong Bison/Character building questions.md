@@ -17,11 +17,11 @@
 
 ### Visual Design and Aesthetics
 5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
-	Medium height, above average muscles, redelijk athletic
+	Medium height (180m), above average muscles, redelijk athletic
 6. What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character's look distinct.
-
+	No, he is just a man
 7. Is your character well groomed? Do they bathe often? Do they brush their teeth? 
-
+	Hij is decently well groomed? In zijn vrije tijd probeert hij zichzelf schoon te houden, tijdens          avontuur is het snel riviertje en anders pech
 8. Does your character have a condition or other distinction that makes them different from others of their race/species.
 
 9. What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?
