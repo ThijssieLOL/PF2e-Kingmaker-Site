@@ -31,7 +31,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Anathema:** Foster despair or terror in the innocent, cast nightmare or use similar magic to corrupt dreams, engage in bigoted behavior
 - **Domains:** Dreams, Fate, Healing, Moon, Water
 - **Sacred Animal:** Butterfly 
-- **Sacred Colours:** Blue, white
+- **Sacred Colours:** Green, Gold
 
 ## Appearance
 - **Description:** Desna is often described as a beautiful elven man, with butterfly wings containing all the beauty of a clear night sky. He is often depicted as having dark hair, silvery eyes, and a coy but distant smile, wearing diaphanous gowns and sometimes accompanied by swarms of butterflies.
