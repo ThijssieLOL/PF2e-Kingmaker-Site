@@ -12,7 +12,7 @@ status: Alive
 
 ![[woodgiant.png|300]]
 
-> "A memorable quote."
+> "No matter how beautiful architecture men can make, they will never create such a wonderful thing as a tree."
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
