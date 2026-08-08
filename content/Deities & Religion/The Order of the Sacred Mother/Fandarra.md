@@ -7,7 +7,9 @@ Godly Domains:
   - Community, 
   - Death
   - Earth
-Edicts:
+  - knowledge
+  - plant
+Edicts: Abide by the cycles of life, aid childbirth, destroy undead
 Anathema:
 status: Alive
 ---
