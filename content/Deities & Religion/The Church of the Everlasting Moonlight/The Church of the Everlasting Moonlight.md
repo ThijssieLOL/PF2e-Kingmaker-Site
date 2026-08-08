@@ -15,6 +15,8 @@ Rummi (Kalaalisut)
 Oberon
 Telesto
 Ymir
+Sylvester
+Sinastra
 # Faction Name
 
 ![[moon2.png|300]]
