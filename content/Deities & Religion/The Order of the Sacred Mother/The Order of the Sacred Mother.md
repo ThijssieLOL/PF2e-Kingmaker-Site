@@ -11,7 +11,8 @@ status: Active
 
 ![[fandarra.png|200]]
 
-> "A faction motto or creed."
+> "In peace, may you leave this shore. In love, may you find the next. Safe passage on your travels, until our final journey to the ground. May we meet again." 
+>        -farewell prayer when sending off the dead.
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
