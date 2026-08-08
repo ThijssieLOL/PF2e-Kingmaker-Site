@@ -11,7 +11,7 @@ status: Active
 
 ![[moon2.png|300]]
 
-> "A faction motto or creed."
+> "May the Dreamer guide your hand"
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
