@@ -12,7 +12,7 @@ status: Alive
 
 ![[tidegiant.png|300]]
 
-> "If people don't match your vibe, change the people, not the vib"
+> "If people don't match your vibe, change the people, not the vibe" - Daga
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
