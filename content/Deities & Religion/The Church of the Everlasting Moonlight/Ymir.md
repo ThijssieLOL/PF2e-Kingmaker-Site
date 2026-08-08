@@ -15,7 +15,7 @@ status: Alive
 ---
 
 
-![[moon2.png]]
+![[moon.jpg|200]]
 
 > "from the earth we once came and to the earth we shall one day return"
 
