@@ -24,7 +24,7 @@ status: Alive
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Titles:** The Blood Mother, The Bleeding Stone, The Earth Seer
+- **Titles:** God of the End Times, God of the End of the World, Harbinger of Last Days
 - **Alignment:** Chaotic Neutral
 - **Areas of Concern:** Apocalypse, Empty places, Oblivion, Ruins
 - **Main followers:** Doomsayers
