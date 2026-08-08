@@ -7,10 +7,10 @@ class:
 faction: 
 status: Alive
 ---
-qa
+
 # Character Name
 
-![[Character Image.jpg|300]]
+![[woodgiant.png|300]]
 
 > "A memorable quote."
 

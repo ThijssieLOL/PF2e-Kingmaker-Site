@@ -10,7 +10,7 @@ status: Alive
 
 # Character Name
 
-![[stormgiant|300]]
+![[stormgiant.png|300]]
 
 > "A memorable quote."
 
