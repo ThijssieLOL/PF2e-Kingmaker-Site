@@ -15,7 +15,7 @@ status: Alive
 ---
 
 
-![[Fandarra.png|200]]
+![[moon2.png]]
 
 > "from the earth we once came and to the earth we shall one day return"
 
@@ -24,7 +24,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
 - **Titles:** The Blood Mother, The Bleeding Stone, The Earth Seer
-- **Alignment:** Neutral
+- **Alignment:** Chaotic Good
 - **Areas of Concern:** Blood, The cycle of life, Fertility, Knowledge
 - **Main followers:** Giant kin
 - **Edicts:** Abide by the cycles of life, aid childbirth, destroy undead
