@@ -34,8 +34,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Sacred Colours:** Blue, white
 
 ## Appearance
-- **Description:** Fandarra is typically depicted as a bald female stone giant wearing a crown of leaves and a dress of red mammoth fur, holding a haunch of meat in one hand and a stone tablet in the other. When her vengeful aspect is emphasized, she wears a necklace of knives or arrowheads. When depicted as a fertility goddess, she holds twin giants in her arms.
-
+- **Description:** Desna is often described as a beautiful elven man, with [butterfly](https://pathfwings containing all the beauty of a clear night sky. She is often depicted as having dark hair, silvery eyes, and a coy but distant smile, wearing diaphanous gowns and sometimes accompanied by swarms of butterflies.
 ---
 
 ## Personality
