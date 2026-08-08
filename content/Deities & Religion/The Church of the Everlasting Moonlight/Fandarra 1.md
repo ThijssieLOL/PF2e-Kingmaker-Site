@@ -2,14 +2,8 @@
 tags:
   - character
   - God
-faction: "[[The Order of the Sacred Mother]]"
+faction: "[[The Church of the Everlasting Moonlight]]"
 Godly Domains:
-  - Community, 
-  - Death
-  - Earth
-  - knowledge
-  - plant
-  - Nature
 Edicts: Abide by the cycles of life, aid childbirth, destroy undead
 Anathema: Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
 status: Alive
