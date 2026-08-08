@@ -12,7 +12,7 @@ status: Alive
 
 ![[firegiant.png|300]]
 
-> "A memorable quote."
+> "There are no good wars or bad wars. The only thing bad about a war is to lose it. All wars have been fought for a so-called good cause on both sides. But only the victor's cause becomes history's noble cause."
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
