@@ -9,14 +9,14 @@ Godly Domains:
   - Destruction
   - Nightmares
   - Nothingness
-Edicts: Abide by the cycles of life, aid childbirth, destroy undead
-Anathema: Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
+Edicts: Preach of the upcoming end times, destroy that which has outlived its usefulness, put the suffering out of their misery
+Anathema: Artificially extend something's existence or life span, spread hope
 status: Alive
 ---
 
-# Fandarra
+Groetus
 
-![[Fandarra.png|200]]
+![[Groetus.png|200]]
 
 > "from the earth we once came and to the earth we shall one day return"
 
@@ -35,7 +35,9 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Sacred Colours:** None
 
 ## Appearance
-- **Description:** Fandarra is typically depicted as a bald female stone giant wearing a crown of leaves and a dress of red mammoth fur, holding a haunch of meat in one hand and a stone tablet in the other. When her vengeful aspect is emphasized, she wears a necklace of knives or arrowheads. When depicted as a fertility goddess, she holds twin giants in her arms.
+- **Description:** Silently watching, Groetus hangs in the form of a bloated moon above Pharasma's Boneyard in the [Outer Sphere](https://pathfinderwiki.com/wiki/Outer_Sphere "Outer Sphere"). This moon is simultaneously Groetus' physical form, his divine realm (where his servants and [shades](https://pathfinderwiki.com/wiki/Shade "Shade") dwell), and a shell separating the [Great Beyond](https://pathfinderwiki.com/wiki/Great_Beyond "Great Beyond") from its end. Its size varies between viewers, from that of a thumbnail held at arm's length to 20 times that size. Adventurous folk who have braved the surface of this place are either never heard from again, or are discovered soon after as the newest of the god's insane faithful.[4](https://pathfinderwiki.com/wiki/Groetus#cite_note-campaign-setting-170-171-4)[5](https://pathfinderwiki.com/wiki/Groetus#cite_note-inner-sea-faiths-48-51-5) It is unknown what role Groetus will play in the End Times.[6](https://pathfinderwiki.com/wiki/Groetus#cite_note-the-great-beyond-a-guide-to-the-multiverse-33-6)
+
+It is a rare occurrence indeed for Groetus to manifest in [humanoid](https://pathfinderwiki.com/wiki/Humanoid "Humanoid") form, but records from [Azlant](https://pathfinderwiki.com/wiki/Azlant "Azlant") describe him as a tall, slender man wearing a long gray robe that hangs heavily to the floor. His complexion is ashen, with hollow eyes and long, smooth hands. He has a slight bent at the neck (as though bearing some great weight) and his bare feet are black from soot and ash (as though he has been walking through an old fire). His voice is described as a whisper, like old paper, and he speaks with an archaic or foreign inflection.[7](https://pathfinderwiki.com/wiki/Groetus#cite_note-beyond-the-doomsday-door-69-7)
 
 ---
 
