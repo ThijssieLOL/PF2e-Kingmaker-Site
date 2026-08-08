@@ -25,8 +25,8 @@ A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
 - **Titles:** The Blood Mother, The Bleeding Stone, The Earth Seer
-- **Ancestry/Species:** 
-- **Class/Profession:** 
+- **Alignment:** Neutral
+- **Areas of Concern:** Blood, The cycle of life, Fertility, Knowledge
 - **Affiliation:** 
 - **Role/Rank:** 
 
