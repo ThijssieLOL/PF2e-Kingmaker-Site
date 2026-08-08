@@ -30,6 +30,9 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Main followers:** 
 - **Edicts:** 
 - **Anathema:** 
+- **Domains:** 
+- **Sacred Animal:** Mammoth
+- **Sacred Colours:** Brown, Ivory
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
