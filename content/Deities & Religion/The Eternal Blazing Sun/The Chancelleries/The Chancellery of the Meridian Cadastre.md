@@ -11,7 +11,7 @@ status: Active
 # The Chancellery of the Meridian Cadastre
 
 ## Overview
-A brief 1-2 sentence summary of what this Chancellery is and its role within the Church.
+The Chancellery of the Meridian Cadastre is the administrative backbone of [[The Church of the Eternal Blazing Sun]] — keeper of its registries, its archives, and the lines of fire by which the Church speaks to itself. It records births, deaths, tithes, and land deeds across every archdiocese, and it operates the [[The Church of the Eternal Blazing Sun#The Ember Post|Ember Post]] network that binds the parishes together.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
@@ -19,8 +19,9 @@ A brief 1-2 sentence summary of what this Chancellery is and its role within the
 - **Status:** Active
 
 ## Mandate & Responsibilities
-- **Primary Function:** (The pillar of statecraft or divine law this Chancellery manages)
-- **Operations:** (How the Chancellery carries out its duties within the Church)
+- **Primary Function:** Civil administration, bureaucracy, civil registry, land administration, historical record-keeping, and the operation of the Church's divine communication network.
+- **Registries & Archives:** Maintains population censuses, civil registries (births, deaths, marriages), land ownership deeds across all archdioceses, and the historical vaults in which every parish's correspondence is eventually filed.
+- **The Ember Post Network:** Every local church's [[The Church of the Eternal Blazing Sun#The Ember Post|message hearth]] falls under the Cadastre's authority. The Chancellery issues the consecrated ember ink, appoints each parish's hearth keeper, sets the protocols by which inbound correspondence is received, sorted, and archived, and maintains the central message registry that lets the Church coordinate across all archdioceses at the speed of flame.
 
 ---
 

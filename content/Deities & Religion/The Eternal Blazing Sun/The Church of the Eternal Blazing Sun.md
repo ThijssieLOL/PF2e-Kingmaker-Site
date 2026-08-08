@@ -99,6 +99,15 @@ To advance to a higher grade, a member of the clergy must meet strict power and 
 ### Regional Structure
 - The church utilizes a formal archdiocese system adapted to the geography of the world, allowing regional bishops and archbishops to manage local parishes while maintaining direct communication with the central headquarters.
 
+### Local Church Composition
+Every local church is staffed so that each of the nine High Chancelleries holds at least one seat among its clergy, ensuring no pillar of the faith goes unserved in even the humblest parish. The arrangement grows naturally from the Grade system — every Cinder must hold active assignment to a Chancellery — so a parish's staff is, by design, a microcosm of the Church itself.
+
+- **The Nine-Fold Staff:** A standard local church keeps at least one clergy member of every chancellery among its permanent congregation, presided over by the parish priest (Grade 7, Blaze). Together they form the parish council, seeing to tithes and relief ([[The Chancellery of the Shared Hearth]]), schooling and examinations ([[The Chancellery of Sacred Canon]]), infirmaries and cremation rites ([[The Chancellery of Consecrated Solace]]), and so on.
+- **Larger Parishes:** City churches and cathedral-parishes field multiple members per chancellery, each growing into a small department with its own workspace, ledgers, and deputies.
+- **Chapels & Shrines:** A village chapel too small for the nine-fold staff is served on circuit by the nearest full church, whose chancellery members ride out to tend the shrine's flock and return with the day's records.
+- **The Main Chancellery:** Most local churches carry a single **main chancellery** — the pillar that founded, endowed, or champions that house. Such a church becomes the regional hub in its area for that chancellery: the seat of its local leadership, its training grounds, its storehouses, and the first address of its faithful across the surrounding land.
+  - **Example — Restov:** The local church of Restov — home parish of [[Aurelius]] — is the regional hub of [[The Chancellery of Silent Illumination]] in the area. Orphans of the region are gathered there, tested, and begun in their training before induction into the Chancellery's covert cohorts.
+
 ## The Chancelleries
 
 The Church operates with the administrative scale and organizational rigor of a sovereign empire. Rather than relying on informal orders, executive authority is divided among nine supreme ministries known as the High Chancelleries. Each Chancellery is led by high-ranking clergy and manages a distinct pillar of statecraft, divine law, and civil service.
@@ -143,6 +152,28 @@ The Church operates with the administrative scale and organizational rigor of a 
 - **Internal Purges:** Mirroring a highly disciplined state apparatus, the church aggressively investigates internal corruption. Exploiting the weak or hoarding wealth at the expense of others is treated as an existential threat to the church's moral authority.
 - **Punishment:** Severe corruption or betrayal of the faith's core moral tenets is punishable by death.
 - **Excommunication:** While the church focuses heavily on preventing corruption before it takes root, excommunication is reserved for grave, unrepentant sins.
+
+---
+
+## The Ember Post
+
+The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. No messenger rides and no raven flies — a letter written in the right ink and committed to flame crosses any distance as a swirl of embers, and condenses once more out of the fire of the one it was meant for.
+
+### The Rite of Committal
+- **Ember Ink:** Messages are written on parchment in **ember ink** — a consecrated ink blended from holy water, lampblack, and ash drawn from a sanctified hearth. It is a Church-sacrament supply, issued through [[The Chancellery of the Meridian Cadastre]] and kept under lock in every parish; any faithful in good standing may draw on it.
+- **The Committal:** The sender holds the finished letter to any open flame — hearth, brazier, or candle — and speaks the recipient's name. The parchment instantly combusts into a swirl of embers that rises, scatters, and is gone; the message itself has departed upon the fire.
+- **Delivery:** The embers fly through flame itself and reassemble — writing reforming in ash-black upon the parchment, or the words spoken in a whisper of crackling light — at the recipient's **attuned hearth**.
+
+### Attunement
+- **Attuning to a Fire:** To attune to a fire, one need only draw near to it; the flame takes note of the soul before it. From that moment, any message committed to the Ember Post for that person arrives at that fire.
+- **Wandering the Light:** Attunement passes from fire to fire as the traveler moves, so itinerant clergy and field agents such as [[Aurelius]] carry their correspondence with them — pausing at each church's hearth along the road to take up a new attunement and collect what has arrived.
+- **No Attunement:** A recipient who holds no current attunement receives their mail at their last attuned hearth — for most clergy, the message hearth of their home parish — where it is held until they return or attune anew.
+- **The Message Hearth:** Every local church keeps a dedicated **message hearth** in its communication office: a fire permanently attuned to the parish itself. Any letter addressed to the church arrives there, whatever member it concerns.
+
+### The Hearth Keepers
+- **The Local Post:** The member of [[The Chancellery of the Meridian Cadastre]] posted to each local church serves as its **hearth keeper** — tending the message hearth, receiving all correspondence addressed to the parish, and sorting it for delivery.
+- **Process & Archive:** Every inbound message is logged in the parish register, delivered to its intended recipient, and — once resolved — filed in the church's archive for the Cadastre's historical vaults. Nothing is lost to the fire; everything returns to the ledgers.
+- **Encrypted Missives:** The ember path itself is swift and untraceable, so the Church layers its own codes over sensitive correspondence — the "encrypted Church missives" of its covert agents — trusting the fire to keep even the existence of a message secret.
 
 ---
 
