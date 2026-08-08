@@ -10,13 +10,13 @@ Godly Domains:
   - knowledge
   - plant
 Edicts: Abide by the cycles of life, aid childbirth, destroy undead
-Anathema:
+Anathema: Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature, Overharvest natural resources
 status: Alive
 ---
 
-# Character Name
+Fandarra
 
-![[Character Image.jpg|300]]
+![[Fandarra.png|200]]
 
 > "A memorable quote."
 
