@@ -9,7 +9,7 @@ status: Active
 
 # Jotnar 5
 
-![[Faction Emblem.jpg|300]]
+![[giants.jpg|200]]
 
 > "A faction motto or creed."
 
