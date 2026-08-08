@@ -28,10 +28,10 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Areas of concern:** Dreams, Luck, Stars, Travelers
 - **Main followers:** Elves
 - **Edicts:** Aid fellow travelers, explore new places, express yourself through art and song, find what life has to offer
-- **Anathema:** Foster despair or terror in the innocent, cast _[nightmareor use similar magic to corrupt dreams, engage in bigoted behavior
+- **Anathema:** Foster despair or terror in the innocent, cast nightmare or use similar magic to corrupt dreams, engage in bigoted behavior
 - **Domains:** Dreams, Fate, Healing, Moon, Water
-- **Sacred Animal:** Mammoth
-- **Sacred Colours:** Brown, Ivory
+- **Sacred Animal:** Butterfly 
+- **Sacred Colours:** Blue, white
 
 ## Appearance
 - **Description:** Fandarra is typically depicted as a bald female stone giant wearing a crown of leaves and a dress of red mammoth fur, holding a haunch of meat in one hand and a stone tablet in the other. When her vengeful aspect is emphasized, she wears a necklace of knives or arrowheads. When depicted as a fertility goddess, she holds twin giants in her arms.
