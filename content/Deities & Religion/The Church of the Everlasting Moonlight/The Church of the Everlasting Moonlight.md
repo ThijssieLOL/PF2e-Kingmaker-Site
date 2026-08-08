@@ -13,6 +13,8 @@ Sun (fon)
 Rembulan (Javanees)
 Rummi (Kalaalisut)
 Oberon
+Telesto
+Ymir
 # Faction Name
 
 ![[moon2.png|300]]
