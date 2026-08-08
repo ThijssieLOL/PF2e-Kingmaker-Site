@@ -36,7 +36,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Sacred Colours:** Brown, Ivory
 
 ## Appearance
-- **Description:** Fandarra is typically depicted as a bald female stone giant wearing a crown of leaves and a dress of red mammoth fur, holding a haunch of meat in one hand and a stone tablet in the other. When her vengeful aspect is emphasized, she wears a necklace of knives or arrowheads. When depicted as a fertility goddess, she is pregnant or holds twin giants in her arms.
+- **Description:** Fandarra is typically depicted as a bald female stone giant wearing a crown of leaves and a dress of red mammoth fur, holding a haunch of meat in one hand and a stone tablet in the other. When her vengeful aspect is emphasized, she wears a necklace of knives or arrowheads. When depicted as a fertility goddess, she holds twin giants in her arms.
 
 ---
 
