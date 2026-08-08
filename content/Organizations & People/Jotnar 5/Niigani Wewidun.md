@@ -12,7 +12,7 @@ status: Alive
 
 ![[stormgiant.png|300]]
 
-> "A memorable quote."
+> "It is only during a storm that a tree knows how strong it is." - Niigani
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
