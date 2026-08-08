@@ -7,16 +7,7 @@ headquarters:
 alignment:
 status: Active
 ---
-Names: 
-Nzezo (Sango)
-Sun (fon)
-Rembulan (Javanees)
-Rummi (Kalaalisut)
-Oberon
-Telesto
-Ymir
-Sylvester
-Sinastra
+
 # Faction Name
 
 ![[moon2.png|300]]
