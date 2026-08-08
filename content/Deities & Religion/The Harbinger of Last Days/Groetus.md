@@ -21,7 +21,7 @@ status: Alive
 > "For surely as night follows day, there comes a time when even gods must die."
 
 ## Overview
-Overlooking all of **Pharasma**'s Boneyard is another, lesser god. This is **Groetus** the god of the End Times, a sentient and uncaring moonlet that looks down upon the Boneyard and waits for the last living soul to die. According to the _Concordance of Rivals_, when **Pharasma** judges the last soul after the last living body dies on the Universe, **Groetus** will descend to the Boneyard to meet with **Pharasma** on her crumbling throne before he moves on to the Universe to "clean up" and pack the dust away for another reality. **Groetus** will fade from existence once he has confirmed that nothing is left; yet, just like how **Pharasma** came from a previous reality, a new Survivor will escape the destruction to recreate the cosmos.
+Overlooking all of **Pharasma**'s Boneyard is another, lesser god. This is **Groetus** the god of the End Times, a sentient and uncaring moonlet that looks down upon the Boneyard and waits for the last living soul to die. According to the _Concordance of Rivals_, when **Pharasma** judges the last soul after the last living body dies on the Universe, **Groetus** will descend to the Boneyard to meet with **Pharasma** on her crumbling throne before he moves on to the Universe to "clean up" and pack the dust away for another reality. **Groetus** will fade from existence once he has confirmed that nothing is left
 
 ### Quick Facts
 - **Titles:** God of the End Times, God of the End of the World, Harbinger of Last Days
