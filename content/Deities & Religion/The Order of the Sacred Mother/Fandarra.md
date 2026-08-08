@@ -2,7 +2,7 @@
 tags:
   - character
   - God
-faction: The Order of the Sacred Mother
+faction: "[[The Order of the Sacred Mother]]"
 Godly Domains:
   - Community, 
   - Death
@@ -19,7 +19,7 @@ Fandarra
 
 ![[Fandarra.png|200]]
 
-> "from the earth we came and to the earth we shall return"
+> "from the earth we once came and to the earth we shall one day return"
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.

@@ -18,7 +18,7 @@ status: Active
 A brief 1-2 sentence summary of what this faction is and its main role.
 
 ### Quick Facts
-- **Deity:** Fandarra
+- **Deity:** [[Fandarra]]
 - **Headquarters:** 
 - **Alignment:** Neutral
 - **Affiliation / Alliances:** 
