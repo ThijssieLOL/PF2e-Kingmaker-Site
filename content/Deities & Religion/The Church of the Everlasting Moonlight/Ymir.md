@@ -8,6 +8,7 @@ Godly Domains:
   - Fate
   - Water
   - Healing
+  - Dreams
 Edicts: Abide by the cycles of life, aid childbirth, destroy undead
 Anathema: Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
 status: Alive
