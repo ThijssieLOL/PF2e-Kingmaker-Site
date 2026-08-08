@@ -10,7 +10,7 @@ status: Alive
 
 # Character Name
 
-![[Character Image.jpg|300]]
+![[firegiant.png|300]]
 
 > "A memorable quote."
 
