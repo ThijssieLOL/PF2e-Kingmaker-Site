@@ -11,7 +11,7 @@ Godly Domains:
   - plant
   - Nature
 Edicts: Abide by the cycles of life, aid childbirth, destroy undead
-Anathema: Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature, Overharvest natural resources
+Anathema: Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
 status: Alive
 ---
 
@@ -28,9 +28,9 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Titles:** The Blood Mother, The Bleeding Stone, The Earth Seer
 - **Alignment:** Neutral
 - **Areas of Concern:** Blood, The cycle of life, Fertility, Knowledge
-- **Main followers:** 
-- **Edicts:** 
-- **Anathema:** Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature, Overharvest natural resources
+- **Main followers:** Giant kin
+- **Edicts:** Abide by the cycles of life, aid childbirth, destroy undead
+- **Anathema:** Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
 - **Domains:** Community, Death, Earth, Knowledge, Nature, Plant
 - **Sacred Animal:** Mammoth
 - **Sacred Colours:** Brown, Ivory
