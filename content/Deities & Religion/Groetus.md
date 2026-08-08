@@ -25,14 +25,14 @@ A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
 - **Titles:** The Blood Mother, The Bleeding Stone, The Earth Seer
-- **Alignment:** ChaotiNeutral
-- **Areas of Concern:** Blood, The cycle of life, Fertility, Knowledge
-- **Main followers:** Giant kin
-- **Edicts:** Abide by the cycles of life, aid childbirth, destroy undead
-- **Anathema:** Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
+- **Alignment:** Chaotic Neutral
+- **Areas of Concern:** Apocalypse, Empty places, Oblivion, Ruins
+- **Main followers:** Doomsayers
+- **Edicts:** Preach of the upcoming end times, destroy that which has outlived its usefulness, put the suffering out of their misery
+- **Anathema:** Artificially extend something's existence or life span, spread hope
 - **Domains:** Darkness, Decay, Destruction, Nightmares, Nothingness
-- **Sacred Animal:** Mammoth
-- **Sacred Colours:** Brown, Ivory
+- **Sacred Animal:** None
+- **Sacred Colours:** None
 
 ## Appearance
 - **Description:** Fandarra is typically depicted as a bald female stone giant wearing a crown of leaves and a dress of red mammoth fur, holding a haunch of meat in one hand and a stone tablet in the other. When her vengeful aspect is emphasized, she wears a necklace of knives or arrowheads. When depicted as a fertility goddess, she holds twin giants in her arms.
