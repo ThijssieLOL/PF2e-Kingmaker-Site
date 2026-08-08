@@ -83,7 +83,7 @@ The hierarchy of the church is structured around a strict, fire-themed grade sys
 
 ### Ascension Trials
 To advance to a higher grade, a member of the clergy must meet strict power and combat requirements, followed by a rigorous evaluation process:
-	- **Theological Examination:** A mandatory, highly comprehensive written exam covering all areas of church theology and philosophy (comparable to a university end-term exam). No exemptions are permitted for this test.
+- **Theological Examination:** A mandatory, highly comprehensive written exam covering all areas of church theology and philosophy (comparable to a university end-term exam). No exemptions are permitted for this test.
 - **Combat Examination:** A physical trial of combat prowess and martial discipline. 
 - **Exemptions:** A candidate may receive an exemption from the combat exam if they possess a highly specialized, non-combat form of usefulness (such as exceptional diplomatic, scholarly, or administrative genius).
 - **The Review Board:** Candidates who pass these exams are interviewed and reviewed by an appointed council of clergy members who are exactly one grade higher than the rank being sought. This council evaluates recommendations, character, and moral standing before granting ascension.
