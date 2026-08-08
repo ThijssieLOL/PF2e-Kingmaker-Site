@@ -24,7 +24,7 @@ Fandarra
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** 
+- **Titles:** The Blood Mother, The Bleeding Stone, The Earth Seer
 - **Ancestry/Species:** 
 - **Class/Profession:** 
 - **Affiliation:** 
