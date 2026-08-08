@@ -20,11 +20,11 @@ aliases:
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** Oliver 
-- **Ancestry/Species:** 
-- **Class/Profession:** 
-- **Affiliation:** 
-- **Role/Rank:** 
+- **Full Name:** Oliver Strong Bison
+- **Ancestry/Species:** Aiuvarin
+- **Class/Profession:** Commander
+- **Affiliation:** Jotnar 5
+- **Role/Rank:** General
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
