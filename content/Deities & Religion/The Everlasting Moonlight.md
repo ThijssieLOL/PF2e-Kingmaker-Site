@@ -19,7 +19,7 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 ### Quick Facts
 - **Deity:** 
 - **Headquarters:** 
-- **Alignment:** 
+- **Alignment:** Chaotic Good
 - **Affiliation / Alliances:** 
 
 ## Philosophy & Goals

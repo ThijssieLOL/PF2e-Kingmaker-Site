@@ -19,7 +19,7 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 ### Quick Facts
 - **Deity:** Fandarra
 - **Headquarters:** 
-- **Alignment:** Neutra
+- **Alignment:** Neutral
 - **Affiliation / Alliances:** 
 
 ## Philosophy & Goals
