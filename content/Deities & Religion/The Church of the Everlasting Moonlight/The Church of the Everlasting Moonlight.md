@@ -1,9 +1,10 @@
 ---
 tags:
   - faction
-leader: 
-headquarters: 
-alignment: 
+  - lore
+leader:
+headquarters:
+alignment:
 status: Active
 ---
 

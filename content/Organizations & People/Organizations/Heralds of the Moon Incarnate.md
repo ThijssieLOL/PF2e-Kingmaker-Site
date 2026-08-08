@@ -1,6 +1,7 @@
 ---
 tags:
   - faction
+  - lore
 leader: Unknown
 headquarters: Unknown
 alignment: Chaotic Evil (presumed)

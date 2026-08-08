@@ -1,10 +1,10 @@
 ---
 tags:
   - character
-  - npc
-ancestry: 
-class: 
-faction: 
+  - God
+ancestry:
+class:
+faction: The Order of the Sacred Mother
 status: Alive
 ---
 
