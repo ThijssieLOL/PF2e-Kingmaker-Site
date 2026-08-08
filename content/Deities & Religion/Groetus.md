@@ -46,15 +46,5 @@ Overlooking all of Pharasma's Boneyard is another, lesser god. This is **Groetus
 
 ---
 
-## Abilities
-- **Skills & Magic:** (How they fight, what magic they use, or their main talents)
-
----
-
-## History
-- **Background:** (Their past, how they got here, and what they want to achieve)
-
----
-
 ## Relationships
-- **[[Character Link]]:** Brief description of their dynamic.
+- Groetus is rather isolated from other deities and they seldom make any effort to contact him. On those rare occasions, other gods and goddesses proceed with extreme caution, knowing full well that their followers (whether mortal, undead or other) often fall to insanity should they scry or otherwise make contact with him.
