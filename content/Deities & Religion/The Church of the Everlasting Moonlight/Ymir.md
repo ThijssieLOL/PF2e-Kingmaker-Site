@@ -17,7 +17,7 @@ status: Alive
 
 ![[moon.jpg|200]]
 
-> "from the earth we once came and to the earth we shall one day return"
+> "Dream no small dreams for they have no power to move the hearts of men."
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
