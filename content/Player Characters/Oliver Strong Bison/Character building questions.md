@@ -7,12 +7,17 @@
 	Lore: warefare - kind of the guys main thing, would be fun to use out of combat
 	Lore: Legal - idk hoe handig maar maybe iets met contracts ofzo
 	Lore: Giants - family bs of met giants interacten 
-	Lore: Heralds of the moon incarnate (heb ik niet op lvl 1 maar pas op 2, voor de cult hunten        enzo mis leuk als voorbij komt?)
+	Lore: Heralds of the moon incarnate (heb ik niet op lvl 1 maar pas op 2, voor de cult hunten                                                                                   enzo mis leuk als voorbij komt?)
 4. What [[Languages|languages]] does your character speak and why?
+	Common (anders kan ik niet met de party praten, also geforceerd had geen keuze)
+	Elf (Aiuvarin)
+	Fey (geleerd door adoptie mama)
+	Jotun (adopted by giants)
+	Hallit (born into barbarian clan, raised till 8yo)
 
 ### Visual Design and Aesthetics
 5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
-
+	Medium height, above average muscles, redelijk athletic
 6. What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character's look distinct.
 
 7. Is your character well groomed? Do they bathe often? Do they brush their teeth? 
