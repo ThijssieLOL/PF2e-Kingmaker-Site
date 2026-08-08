@@ -4,6 +4,9 @@ tags:
   - God
 faction: The Order of the Sacred Mother
 Godly Domains:
+  - Community, 
+  - Death
+  - Earth
 Edicts:
 Anathema:
 status: Alive
