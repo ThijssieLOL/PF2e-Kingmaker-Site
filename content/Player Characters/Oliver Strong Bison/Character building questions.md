@@ -4,8 +4,9 @@
 2. What is your character's species/race(Ancestry)
 	Human (Aiuvarin)
 3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
-	Lore: warefare
-	Lore
+	Lore: warefare - kind of the guys main thing, would be fun to use out of combat
+	Lore: Legal - idk hoe handig maar maybe iets met contracts ofzo
+	Lore: Giants - fami
 4. What [[Languages|languages]] does your character speak and why?
 
 ### Visual Design and Aesthetics
