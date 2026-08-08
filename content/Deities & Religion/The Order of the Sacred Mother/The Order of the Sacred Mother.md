@@ -1,9 +1,9 @@
 ---
 tags:
   - faction
-leader: 
-headquarters: 
-alignment: 
+leader: "[[Fandarra]]"
+headquarters:
+alignment:
 status: Active
 ---
 
