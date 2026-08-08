@@ -9,7 +9,7 @@ status: Active
 
 # Faction Name
 
-![[fandarra.png|300]]
+![[fandarra.png|200]]
 
 > "A faction motto or creed."
 
