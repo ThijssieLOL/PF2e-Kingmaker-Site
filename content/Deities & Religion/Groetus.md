@@ -4,6 +4,11 @@ tags:
   - God
 faction: "[[Heralds of the Moon Incarnate]]"
 Godly Domains:
+  - Darkness
+  - Decay
+  - Destruction
+  - Nightmares
+  - Nothingness
 Edicts: Abide by the cycles of life, aid childbirth, destroy undead
 Anathema: Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
 status: Alive
@@ -20,12 +25,12 @@ A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
 - **Titles:** The Blood Mother, The Bleeding Stone, The Earth Seer
-- **Alignment:** Neutral
+- **Alignment:** ChaotiNeutral
 - **Areas of Concern:** Blood, The cycle of life, Fertility, Knowledge
 - **Main followers:** Giant kin
 - **Edicts:** Abide by the cycles of life, aid childbirth, destroy undead
 - **Anathema:** Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
-- **Domains:** Community, Death, Earth, Knowledge, Nature, Plant
+- **Domains:** Darkness, Decay, Destruction, Nightmares, Nothingness
 - **Sacred Animal:** Mammoth
 - **Sacred Colours:** Brown, Ivory
 
