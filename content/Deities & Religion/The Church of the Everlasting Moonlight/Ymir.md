@@ -25,12 +25,10 @@ A brief 1-2 sentence summary of who this character is and their role.
 ### Quick Facts
 - **Titles:** He who watches, The great dreamer, The allfather
 - **Alignment:** Chaotic Good
-- **Areas of concern:** Dreams  
-Luck, Stars
-Travelers
+- **Areas of concern:** Dreams, Luck, Stars, Travelers
 - **Main followers:** Elves
-- **Edicts:** Abide by the cycles of life, aid childbirth, destroy undead
-- **Anathema:** Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
+- **Edicts:** Aid fellow travelers, explore new places, express yourself through art and song, find what life has to offer
+- **Anathema:** Foster despair or terror in the innocent, cast _[nightmareor use similar magic to corrupt dreams, engage in bigoted behavior
 - **Domains:** Dreams, Fate, Healing, Moon, Water
 - **Sacred Animal:** Mammoth
 - **Sacred Colours:** Brown, Ivory
