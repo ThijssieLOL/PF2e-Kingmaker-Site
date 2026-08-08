@@ -6,7 +6,8 @@
 3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
 	Lore: warefare - kind of the guys main thing, would be fun to use out of combat
 	Lore: Legal - idk hoe handig maar maybe iets met contracts ofzo
-	Lore: Giants - fami
+	Lore: Giants - family bs of met giants interacten 
+	Lore: Heralds of the moon incarnate (heb ik niet op lvl 1 maar pas op 2, voor de cult hunten        enzo mis leuk als voorbij komt?)
 4. What [[Languages|languages]] does your character speak and why?
 
 ### Visual Design and Aesthetics
