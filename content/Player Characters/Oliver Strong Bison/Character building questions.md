@@ -27,7 +27,7 @@
 9. What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?
 	Oliver heeft zijn traditionele barbarian clothes van toen hij 8 was, hij past ze absoluut niet             meer. Verder draagt hij armour nu want dat beschermt toch echt iets meer dan zijn abs. Hij           draagt praktisch elke dag hetzelfde
 10. Does your character have a particular set of nice clothes? If so, what does it look like?
-
+	Hij wilt het hebben, he hij heeft niet het money ervoor atm
 11. What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?
 
 #### Magic
