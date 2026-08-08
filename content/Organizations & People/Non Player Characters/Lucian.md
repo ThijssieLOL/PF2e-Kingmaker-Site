@@ -21,7 +21,7 @@ status: Alive
 > — Father Lucian Soler
 
 ## Overview
-Father Lucian Soler is a Grade 7 (Blaze) Warpriest within [[The Church of the Eternal Blazing Sun]] and the head instructor for the local parish branch of [[The Chancellery of Silent Illumination]]. A seasoned veteran and former orphan who rose through the Church’s ranks, Lucian serves as the physical combat, tactical, and survival instructor for divine recruits. To [[Aurelius]] and the surviving cohort of the Class of 21, he is far more than a military teacher—he is a quiet, deeply loving paternal figure who offered them guidance, discipline, and a home.
+Father Lucian Soler is a Grade 7 (Blaze) Warpriest within [[The Church of the Eternal Blazing Sun]] and the head instructor for the parish branch of [[The Chancellery of Silent Illumination]] at the local church of Restov. A seasoned veteran and former orphan who rose through the Church’s ranks, Lucian serves as the physical combat, tactical, and survival instructor for divine recruits. To [[Aurelius]] and the surviving cohort of the Class of 21, he is far more than a military teacher—he is a quiet, deeply loving paternal figure who offered them guidance, discipline, and a home.
 
 ### Quick Facts
 - **Full Name:** Lucian Soler
@@ -29,6 +29,7 @@ Father Lucian Soler is a Grade 7 (Blaze) Warpriest within [[The Church of the Et
 - **Class & Archetype:** Warpriest (Pathfinder 2e)
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
 - **Current Chancellery:** [[The Chancellery of Silent Illumination]]
+- **Home Parish:** The local church of Restov
 - **Church Rank:** Grade 7 — Blaze (Priest & Head Instructor)
 - **Public Persona:** Gentle Parish Priest & Moral Mentor
 - **Covert Persona:** Divine Commando Instructor & Master Tactician
@@ -91,10 +92,10 @@ Lucian’s divine spellcasting manifests in blinding Aureolin White light. When 
 Orphaned as a young child, Lucian was taken in by [[The Church of the Eternal Blazing Sun]]. Finding direction within the Church’s ranks, he trained as a Warpriest and spent decades on dangerous field operations and survival missions, forging his tactical prowess in the crucible of battle.
 
 ### The Parish & The Combat Talisman
-When Lucian was appointed leader of his local parish and head instructor for [[The Chancellery of Silent Illumination]], his former mentor presented him with a non-magical religious combat talisman. This talisman accompanied Lucian throughout all his travels, surviving countess skirmishes and witnessing the grueling process of building the local parish into a safe sanctuary for orphans and recruits.
+When Lucian was appointed leader of the local church of Restov and head instructor for its branch of [[The Chancellery of Silent Illumination]], his former mentor presented him with a non-magical religious combat talisman. This talisman accompanied Lucian throughout all his travels, surviving countless skirmishes and witnessing the grueling process of building the Restov parish into a safe sanctuary for orphans and recruits.
 
 ### Mentoring Aurelius & The First Animist
-When young Aurelius was brought to the church, Lucian recognized the immense burden and potential of the boy's [[Ocular of Kaelen]]. Because the Church lacked experience in training spirit-binders, Lucian personally spent months researching ancient Church archives, collaborating directly with Aurelius to forge the foundation of Aurelius’s Animist combat style. Lacking spiritual sight himself, Lucian served as Aurelius's grounded physical anchor during his early spiritual awakenings.
+When young Aurelius was brought to the church of Restov, Lucian recognized the immense burden and potential of the boy's [[Ocular of Kaelen]]. Because the Church lacked experience in training spirit-binders, Lucian personally spent months researching ancient Church archives, collaborating directly with Aurelius to forge the foundation of Aurelius’s Animist combat style. Lacking spiritual sight himself, Lucian served as Aurelius's grounded physical anchor during his early spiritual awakenings.
 
 ### The Ocular Hunters & Parting Gift
 When Aurelius and his siblings confided in Lucian regarding the shadowy cabal hunting the [[Ocular of Kaelen]], Lucian immediately escalated the intelligence through secure Church channels to ensure Aurelius remained protected. Before Aurelius departed for the Stolen Lands under [[The Chancellery of the Outer Horizon]], Lucian gifted him his prized combat talisman—hoping the token that guided Lucian while building the parish would protect and guide Aurelius on his journey across the frontier.

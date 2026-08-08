@@ -71,12 +71,12 @@ The true origin and ultimate cosmic purpose of the Ocular remain shrouded in mys
 
 ### The Murder of Aurelius's Parents
 It was the prophecy of the Ocular that led directly to the tragedy of [[Aurelius]]'s childhood:
-- **The Ambush:** When Aurelius was six years old, agents from this secret organization tracked down his family.
-- **The Sacrifice:** His parents only learned of the ancient prophecy at the moment of the attack. They gave their lives to hold off the assassins, allowing the young six-year-old Aurelius to escape into the streets.
+- **The Ambush:** When Aurelius was six years old, agents from this secret organization tracked down his family in Restov.
+- **The Sacrifice:** His parents only learned of the ancient prophecy at the moment of the attack. They gave their lives to hold off the assassins, allowing the young six-year-old Aurelius to escape into the streets of Restov.
 
 ### Street Survival & Vigilante Trauma
-Following his escape, Aurelius survived as a homeless beggar and thief from ages six to eight. 
-- **Navigating the Streets:** He relied heavily on his spiritual sight to find food, navigate cities, and evade his parents' killers.
+Following his escape, Aurelius survived as a homeless beggar and thief on the streets of Restov from ages six to eight. 
+- **Navigating the Streets:** He relied heavily on his spiritual sight to find food, navigate Restov's streets, and evade his parents' killers.
 - **Mental Fracture:** Being forced to constantly witness the horrific, parasitic spirits attached to corrupt individuals severely fractured his early mental stability.
 - **Vigilante Justice:** This forced vision eventually drove him to assassinate a profoundly evil man. To keep his deed secret and protect himself, he felt forced to kill the man's innocent family to eliminate all witnesses—a trauma that continues to weigh on him.
 

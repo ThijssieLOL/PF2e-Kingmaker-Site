@@ -25,6 +25,7 @@ Aurelius is a religious warrior-philosopher living a delicate double life. By da
 ### Quick Facts
 - **Full Name:** Aurelius (Birth name: Leo)
 - **Ancestry:** Human
+- **Home City:** Restov
 - **Class & Archetype:** Animist (Pathfinder 2e)
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
 - **Current Chancellery:** [[The Chancellery of the Outer Horizon]] (Formerly [[The Chancellery of Silent Illumination]])
@@ -117,13 +118,13 @@ As an Animist, Aurelius bridges the physical realm and the spirit dimension.
 ## History
 
 ### Childhood & The Tragic Origin
-Born with the rare [[Ocular of Kaelen]] ("Eyes of God"), young Leo could see the spirits of the dead floating through the world. His life was torn apart when a dark cabal learned of his eyes and raided his home to harvest him. Fleeing into the streets as an orphan, survival drove him to desperate acts of theft and assault. In a tragic spiral of violence, he eventually assassinated a profoundly evil man and murdered the man's innocent family to eliminate all witnesses—acts that permanently scarred his soul.
+Born in the city of Restov with the rare [[Ocular of Kaelen]] ("Eyes of God"), young Leo could see the spirits of the dead floating through the world. His life was torn apart when a dark cabal learned of his eyes and raided his family's home to harvest him. Fleeing into the streets of Restov as an orphan, survival drove him to desperate acts of theft and assault. In a tragic spiral of violence, he eventually assassinated a profoundly evil man and murdered the man's innocent family to eliminate all witnesses—acts that permanently scarred his soul.
 
 ### Adoption & Alchemical Redemption
-Rescued from absolute ruin by [[The Church of the Eternal Blazing Sun]], he sought total atonement. He voluntarily submitted to the alchemical ritual of the [[Tattoos of Penance]], etching his crimes permanently onto his body. Under the guidance of [[Lucian|Father Lucian Soler]]—who mentored him in controlling his Animist powers despite having no spiritual sight himself—Aurelius embraced the faith of the sun goddess, finding salvation in structure, divine order, and holy service.
+Rescued from absolute ruin by the local church of Restov — the regional training hub of [[The Chancellery of Silent Illumination]] — he sought total atonement. He voluntarily submitted to the alchemical ritual of the [[Tattoos of Penance]], etching his crimes permanently onto his body. Under the guidance of [[Lucian|Father Lucian Soler]]—who mentored him in controlling his Animist powers despite having no spiritual sight himself—Aurelius embraced the faith of the sun goddess, finding salvation in structure, divine order, and holy service.
 
 ### Upbringing in [[The Chancellery of Silent Illumination]]
-Recognizing his rare spiritual sight and exceptional physical discipline, the Church enrolled Aurelius in the covert orphan-warrior program of [[The Chancellery of Silent Illumination]].
+Recognizing his rare spiritual sight and exceptional physical discipline, the Church enrolled Aurelius in the covert orphan-warrior program of [[The Chancellery of Silent Illumination]]. He was gathered, tested, and begun in his training at the local church of his home city, Restov — the Chancellery's regional hub — under the eye of its head instructor, [[Lucian]].
 - **The Squad:** Raised alongside six fellow orphans, he forged unbreakable bonds during grueling commando conditioning.
 - **Double Identity:** Rising to the rank of **Grade 8 (Cinder)**, Aurelius established his dual existence: publicly serving as a soft-spoken clergyman and scribe, while covertly executing high-risk commando and spirit-binding missions.
 

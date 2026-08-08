@@ -84,7 +84,7 @@ tags:
 ### Family and Relationships
 
 - **21. Describe your character's parents. Are they still alive? What are they doing now?**
-- **Answer:** His parents are deceased; his childhood home was raided by a dark cabal hunting his [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], leaving him an orphan ([[Aurelius#Childhood & The Tragic Origin]]).
+- **Answer:** His parents are deceased; his childhood home in Restov was raided by a dark cabal hunting his [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], leaving him an orphan ([[Aurelius#Childhood & The Tragic Origin]]).
 
 - **22. Does your character have any siblings? What is your character's relationship with them?**
 - **Answer:** He has no biological siblings, but shares a deep, sibling-like bond with his orphan training cohort in [[The Chancellery of Silent Illumination#Known Operatives: The Class of 21]]: [[Gideon]], [[Julian]], [[Vespera]], [[Lyra]], and his fallen cohort-mates [[Tristan]] and [[Valerius]] ([[Aurelius#Relationships]]).
@@ -115,7 +115,7 @@ tags:
 ### Backstory and Upbringing
 
 - **30. Where did your character grow up?**
-- **Answer:** Raised on the streets as an orphan after his home was raided, then brought up in absolute isolation within the orphan-warrior training program of [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]] ([[Aurelius#History]]).
+- **Answer:** Raised on the streets of Restov as an orphan after his home was raided, then brought up in absolute isolation within the orphan-warrior training program of [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]] ([[Aurelius#History]]).
 
 - **31. Who raised them? If not their parents, why?**
 - **Answer:** Raised by [[The Church of the Eternal Blazing Sun]] within [[The Chancellery of Silent Illumination#The Seven-Member Cohorts]] after his parents were killed during a cabal raid ([[Aurelius#Childhood & The Tragic Origin]]).
@@ -130,7 +130,7 @@ tags:
 - **Answer:** Fucking peasants
 
 - **35. What is your (tragic) backstory?**
-- **Answer:** Born with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home was destroyed by a dark cabal. Fleeing as an orphan, desperation led him to theft and assault, and eventually to the murder of a wicked man's innocent family to silence witnesses. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings in battle, and now seeks out the frontier of the stolen lands ([[Aurelius#History]]).
+- **Answer:** Born with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home in Restov was destroyed by a dark cabal. Fleeing as an orphan, desperation led him to theft and assault, and eventually to the murder of a wicked man's innocent family to silence witnesses. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings in battle, and now seeks out the frontier of the stolen lands ([[Aurelius#History]]).
 
 ---
 
