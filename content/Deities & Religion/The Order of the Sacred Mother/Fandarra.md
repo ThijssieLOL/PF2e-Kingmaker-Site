@@ -2,9 +2,10 @@
 tags:
   - character
   - God
-ancestry:
-class:
 faction: The Order of the Sacred Mother
+Godly Domains:
+Edicts:
+Anathema:
 status: Alive
 ---
 
