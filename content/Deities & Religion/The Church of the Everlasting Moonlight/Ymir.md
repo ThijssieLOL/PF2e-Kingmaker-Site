@@ -25,7 +25,10 @@ A brief 1-2 sentence summary of who this character is and their role.
 ### Quick Facts
 - **Titles:** He who watches, The great dreamer, The allfather
 - **Alignment:** Chaotic Good
-- **Main followers:** Giant kin
+- **Areas of concern:** Dreams  
+Luck, Stars
+Travelers
+- **Main followers:** Elves
 - **Edicts:** Abide by the cycles of life, aid childbirth, destroy undead
 - **Anathema:** Strive to break the cycle of life (such as by attaining immortality or creating undead), despoil the earth, kill a juvenile creature
 - **Domains:** Dreams, Fate, Healing, Moon, Water
