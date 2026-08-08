@@ -7,7 +7,7 @@ alignment:
 status: Active
 ---
 
-# Faction Name
+# Jotnar 5
 
 ![[Faction Emblem.jpg|300]]
 
