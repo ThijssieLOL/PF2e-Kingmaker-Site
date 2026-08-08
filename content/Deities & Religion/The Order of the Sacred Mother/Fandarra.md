@@ -15,7 +15,7 @@ Anathema: Strive to break the cycle of life (such as by attaining immortality or
 status: Alive
 ---
 
-#Fandarra
+#Fandarr
 
 ![[Fandarra.png|200]]
 
