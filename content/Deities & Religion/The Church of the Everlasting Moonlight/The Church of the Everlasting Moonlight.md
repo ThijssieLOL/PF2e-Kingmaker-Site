@@ -11,6 +11,8 @@ Names:
 Nzezo (Sango)
 Sun (fon)
 Rembulan (Javanees)
+Rummi (Kalaalisut)
+
 # Faction Name
 
 ![[moon2.png|300]]
