@@ -7,6 +7,7 @@ headquarters:
 alignment:
 status: Active
 ---
+Names: Nzezo ()
 
 # Faction Name
 
