@@ -34,7 +34,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Sacred Colours:** Blue, white
 
 ## Appearance
-- **Description:** Desna is often described as a beautiful elven man, with [butterfly](https://pathfwings containing all the beauty of a clear night sky. She is often depicted as having dark hair, silvery eyes, and a coy but distant smile, wearing diaphanous gowns and sometimes accompanied by swarms of butterflies.
+- **Description:** Desna is often described as a beautiful elven man, with butterfly wings containing all the beauty of a clear night sky. He is often depicted as having dark hair, silvery eyes, and a coy but distant smile, wearing diaphanous gowns and sometimes accompanied by swarms of butterflies.
 ---
 
 ## Personality
