@@ -127,7 +127,7 @@ tags:
 - **Answer:** His tragic past and strict commando upbringing made him deeply disciplined, committed to divine redemption, and cautious of tyranny, inspiring his governance theory ([[Aurelius#Political & Spiritual Philosophy]], [[Aurelius#Personality & Psychology]]).
 
 - **34. Is your character's family well-off or are they fucking peasants?**
-- **Answer:** Fucking peasants
+- **Answer:** Fucking peasants.
 
 - **35. What is your (tragic) backstory?**
 - **Answer:** Born with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home in Restov was destroyed by a dark cabal. Fleeing as an orphan, desperation led him to theft and assault, and eventually to the murder of a wicked man's innocent family to silence witnesses. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings in battle, and now seeks out the frontier of the stolen lands ([[Aurelius#History]]).
