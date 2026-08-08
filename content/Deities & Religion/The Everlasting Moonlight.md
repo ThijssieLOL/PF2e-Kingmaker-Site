@@ -9,7 +9,7 @@ status: Active
 
 # Faction Name
 
-![[moon.png|300]]
+![[moon2.png|300]]
 
 > "A faction motto or creed."
 
