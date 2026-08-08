@@ -7,7 +7,7 @@ alignment:
 status: Active
 ---
 
-# Jotnar 5
+# * Jotnar 5
 
 ![[giants.jpg|200]]
 
