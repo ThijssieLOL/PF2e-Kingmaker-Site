@@ -7,6 +7,7 @@ faction: Jotnar 5
 status: Alive
 aliases:
   - Sa'be Beshwaji
+  - Sa'be
 ---
 
 # Oliver Strong Bison
