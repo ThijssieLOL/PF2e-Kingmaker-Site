@@ -4,7 +4,7 @@ tags:
   - lore
 leader: Unknown
 headquarters: Unknown
-alignment: Chaotic Evil (presumed)
+alignment: Chaotic Neutral
 status: Active
 deity: "[[Groetus]]"
 ---
@@ -20,7 +20,7 @@ The Heralds of the Moon Incarnate are the cult of Kaelerum most intent on accele
 ### Quick Facts
 - **Leader:**  Unknown
 - **Headquarters:**  Unknown
-- **Alignment:** Chaotic Evil (presumed)
+- **Alignment:** Chaotic Neutral
 - **Affiliation to Deity:** [[Groetus]]
 
 ## Philosophy & Goals
