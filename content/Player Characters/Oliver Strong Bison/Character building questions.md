@@ -119,7 +119,7 @@
 52. **What is your character's favourite animal?**
 	Fish
 53. **What would be your character's spirit animal and why?**
-
+	the eagle
 54. **What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
 	Poetry
 55. **What does your character like to spend their free time on if they have a break from adventuring?**
