@@ -39,8 +39,6 @@ status: Alive
 - **Dreamlike and Whimsical:** **Ymir** rarely approaches the world in a straightforward manner. He is playful, curious, and fond of riddles, stories, songs, and elaborate metaphors. His thoughts often seem to wander from one subject to another.
 
 - **A Lover of Freedom:** **Ymir** believes that every living being should have the freedom to decide what kind of life they wish to lead. He despises needless restrictions, prejudice, and those who attempt to dictate what another person should believe, create, or become. To him, life is a journey rather than a destination, and there is little virtue in walking a road simply because someone else has chosen it for you.
-
-
 ---
 
 ## History
@@ -49,7 +47,6 @@ status: Alive
 - Over time, **Ymir** came to understand dreams as glimpses of possibilities rather than mere fantasies. He learned that the future was not a single predetermined path, but a collection of countless possibilities shaped by the choices of those who walked them. 
 
 - **Ymir** continues to wander the world to this day, appearing in the dreams of travelers, artists, and those who have lost hope. It is said that a butterfly appearing at the end of a difficult journey is a sign that **Ymir** has been watching over them.
-
 ---
 
 ## Relationships
