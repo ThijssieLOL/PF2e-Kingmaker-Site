@@ -50,41 +50,11 @@ While the church does not seek to rule nations directly, it acts as a moral guar
 
 The hierarchy of the church is structured around a strict, fire-themed grade system. As a member rises in grade, their titles reflect a larger and more powerful flame. Higher grades grant greater authority, access to restricted archives, higher pay, and easier access to powerful relics and magical items.
 
-### Grade & Level Progression
-- **Grade 9: Spark** (Level 1)
-  - **Role:** The entry-level grade for newly initiated clergy, serving as novitiates, acolytes, and junior initiates across local parishes.
-- **Grade 8: Cinder** (Levels 1–4)
-  - **Role:** Standard clergymen, scribes, and active field agents (such as [[Aurelius]]).
-  - **Chancellery Requirement:** Active assignment to **1 Chancellery**.
-- **Grade 7: Blaze** (Levels 5–7)
-  - **Role:** Priests responsible for managing their own local churches and parish operations.
-  - **Chancellery Requirement:** Active service and operational experience across **2 Chancelleries**.
-- **Grade 6: Ignis** (Levels 8–10)
-  - **Role:** Bishops overseeing regional dioceses containing multiple churches.
-  - **Chancellery Requirement:** Proven administrative involvement across **2 Chancelleries**.
-- **Grade 5: Pyre** (Levels 11–13)
-  - **Role:** Archbishops managing vast territories, major metropolitan cathedrals, and strategic initiatives.
-  - **Chancellery Requirement:** Leadership experience and oversight across **3 Chancelleries**.
-- **Grade 4: Vesta** (Levels 14–16)
-  - **Role:** High-ranking administrators, senior inquisitors, and regional executive directors.
-  - **Chancellery Requirement:** High administrative authority spanning **3 Chancelleries**.
-- **Grade 3: Zenith** (Levels 17–18)
-  - **Role:** Legendary figures of immense spiritual and political influence within the church hierarchy.
-  - **Chancellery Requirement:** Executive oversight and governance across **4 Chancelleries**.
-- **Grade 2: Solstice** (Levels 19–20)
-  - **Role:** The supreme leader of the church (pope-equivalent), chosen directly by the sun goddess to lead the faith on earth.
-  - **Chancellery Requirement:** Supreme command and complete oversight over **all 9 Chancelleries**.
-- **Grade 1: Star**
-  - **Role:** Ascended mortals and revered saints who exist within the Church's mythology as minor divine entities, each represented by a sacred star or constellation.
-- **Grade 0: The Eternal Blazing Sun**
-  - **Role:** The Goddess herself, representing the absolute cosmic apex of divinity and divine authority.
+- **The Ladder:** From Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself.
+- **Chancellery Requirements:** Every grade from Cinder upward demands active service across an increasing number of Chancelleries.
+- **Ascension Trials:** Advancement is gated by a mandatory theological examination, a combat examination, and a review board.
 
-### Ascension Trials
-To advance to a higher grade, a member of the clergy must meet strict power and combat requirements, followed by a rigorous evaluation process:
-- **Theological Examination:** A mandatory, highly comprehensive written exam covering all areas of church theology and philosophy (comparable to a university end-term exam). No exemptions are permitted for this test.
-- **Combat Examination:** A physical trial of combat prowess and martial discipline. 
-- **Exemptions:** A candidate may receive an exemption from the combat exam if they possess a highly specialized, non-combat form of usefulness (such as exceptional diplomatic, scholarly, or administrative genius).
-- **The Review Board:** Candidates who pass these exams are interviewed and reviewed by an appointed council of clergy members who are exactly one grade higher than the rank being sought. This council evaluates recommendations, character, and moral standing before granting ascension.
+See [[The Grade System]] for the full ladder, requirements, and trials.
 
 ---
 
@@ -100,33 +70,9 @@ To advance to a higher grade, a member of the clergy must meet strict power and 
 
 ### Church Tiers
 
-The Church's houses are tiered by the population they serve — higher tiers rarer, larger, and more heavily staffed, so that outreach and expenditure stay proportionate. Only one Tier 5 house exists: the headquarters itself.
+The Church's houses are tiered by the population they serve — from the humble Tier 1 parishes, run by a handful of Cinders, to the unique Tier 5 headquarters. From Tier 2 upward, every church keeps the nine-fold staff, higher tiers are governed by ever-senior clergy, and each upgrade is approved from above.
 
-- **Tier 1 — Parish:** The smallest houses, serving villages and hamlets. A Tier 1 church requires no resident Grade 7 (Blaze) priest; it is run by multiple Grade 8 (Cinder) clergy — as few as two in the humblest settlement.
-- **Tier 2 — Nine-Fold Church:** The standard major church, and the first tier bound by the nine-fold staff — from Tier 2 upward, every church keeps at least one clergy member of each chancellery. Presided over by a Grade 7 (Blaze) parish priest.
-- **Tier 3 — Cathedral:** City churches and cathedral-parishes, the seat of a Grade 6 (Ignis) bishop, fielding multiple members per chancellery — each growing into a small department with its own workspace, ledgers, and deputies.
-- **Tier 4 — Metropolitan Cathedral:** The great cathedrals of the faith's largest cities, presided over by a Grade 5 (Pyre) archbishop.
-- **Tier 5 — The Headquarters:** The single seat of the Church's central administration, from which the Grade 2 (Solstice) leads the faith.
-
-A church rises in tier only with approval from above: the Tier 1–2 upgrade by a Grade 4 (Vesta), the Tier 2–3 by a Grade 3 (Zenith), and the Tier 3–4 by a Grade 2 (Solstice).
-
-#### The Nine-Fold Staff (Tier 2 and above)
-
-Every Cinder (Grade 8) must hold active assignment to a Chancellery, so a Tier 2 church's staff is, by design, a microcosm of the Church itself.
-
-- **One Seat per Pillar:** Each of the nine High Chancelleries holds at least one seat among the church's permanent clergy — the parish council, seeing to tithes and relief ([[The Chancellery of the Shared Hearth]]), schooling and examinations ([[The Chancellery of Sacred Canon]]), infirmaries and cremation rites ([[The Chancellery of Consecrated Solace]]), and so on.
-- **The Responsible:** Each seat is held by a full-time resident responsible — one per chancellery, Grade 8 or higher — so that no single member carries an unmanageable workload.
-- **Sharing:** Clergy may serve several churches at once — save the responsible of a seat, who serves only the church to which they are attached.
-- **Filling the Seats:** A parish may recruit locally and submit the candidate for approval, or receive an appointment from the higher orders; a seat fallen empty is filled by transfer from the wider Church.
-
-#### Chapels & Shrines
-
-A village chapel too small for even a Tier 1 staff is served on circuit by the nearest full church, whose chancellery members ride out to tend the shrine's flock and return with the day's records.
-
-#### The Main Chancellery
-
-Most local churches carry a single **main chancellery** — the pillar that founded, endowed, or champions that house. Such a church becomes the regional hub in its area for that chancellery: the seat of its local leadership, its training grounds, its storehouses, and the first address of its faithful across the surrounding land.
-  - **Example — Restov:** The local church of Restov — home parish of [[Aurelius]] — is the regional hub of [[The Chancellery of Silent Illumination]] in the area. Orphans of the region are gathered there, tested, and begun in their training before induction into the Chancellery's covert cohorts.
+See [[Church Tiers]] for the full tier ladder, the nine-fold staff, and the main-chancellery system.
 
 ## The Chancelleries
 
@@ -179,23 +125,7 @@ The Church operates with the administrative scale and organizational rigor of a 
 
 The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. No messenger rides and no raven flies — a letter written in the right ink and committed to flame crosses any distance as a swirl of embers, and condenses once more out of the fire of the one it was meant for.
 
-### The Rite of Committal
-- **Ember Ink:** Messages are written on parchment in **ember ink** — a consecrated ink blended from holy water, lampblack, and ash drawn from a sanctified hearth. It is a Church-sacrament supply, issued through [[The Chancellery of the Meridian Cadastre]] and kept under lock in every parish; any faithful in good standing may draw on it.
-- **The Committal:** The sender holds the finished letter to any open flame — hearth, brazier, or candle — and speaks the recipient's name. The parchment instantly combusts into a swirl of embers that rises, scatters, and is gone; the message itself has departed upon the fire.
-- **Delivery:** The embers fly through flame itself and reassemble — writing reforming in ash-black upon the parchment, or the words spoken in a whisper of crackling light — at the recipient's **attuned hearth**.
-
-### Attunement
-- **The Prayer of Attunement:** Attuning to a fire is an act of prayer, not mere proximity — the flame is holy, and it answers only the soul that has asked. The petitioner draws near to the hearth, stills their breath, and makes the [[#Gestures & Greetings|Solar Circle]] gesture before the flame. Then they speak the Prayer of Attunement: a brief devotion naming themselves to the sun goddess and asking that her light bind their name to this fire.
-  - *Example Prayer:* *"Praise the Sun. I am [Name], a child of her light. Let this hearth remember me, that her radiance may find me wherever I stand."*
-  - **The Flame's Answer:** The fire responds as only it can — a surge of warmth against the face, a settling of the embers, a whisper of her name on the air. Only then does it take note of the soul before it, and from that moment any message committed to the Ember Post for that person arrives at that fire.
-- **Wandering the Light:** Attunement passes from fire to fire as the traveler moves, so itinerant clergy and field agents such as [[Aurelius]] carry their correspondence with them — pausing at each church's hearth along the road to offer the Prayer of Attunement anew and collect what has arrived.
-- **No Attunement:** A recipient who holds no current attunement receives their mail at their last attuned hearth — for most clergy, the message hearth of their home parish — where it is held until they return or pray anew.
-- **The Message Hearth:** Every local church keeps a dedicated **message hearth** in its communication office: a fire consecrated to the parish itself and re-blessed each dawn by its [[#The Hearth Keepers|hearth keeper]] in a rite of the same kind. Any letter addressed to the church arrives there, whatever member it concerns.
-
-### The Hearth Keepers
-- **The Local Post:** The member of [[The Chancellery of the Meridian Cadastre]] posted to each local church serves as its **hearth keeper** — tending the message hearth, receiving all correspondence addressed to the parish, and sorting it for delivery.
-- **Process & Archive:** Every inbound message is logged in the parish register, delivered to its intended recipient, and — once resolved — filed in the church's archive for the Cadastre's historical vaults. Nothing is lost to the fire; everything returns to the ledgers.
-- **Encrypted Missives:** The ember path itself is swift and untraceable, so the Church layers its own codes over sensitive correspondence — the "encrypted Church missives" of its covert agents — trusting the fire to keep even the existence of a message secret.
+See [[The Ember Post]] for the Rite of Committal, the Prayer of Attunement, and the Hearth Keepers.
 
 ---
 
