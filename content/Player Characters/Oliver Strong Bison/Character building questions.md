@@ -1,14 +1,14 @@
 ### Mechanics
-1. What is your character's class
+1. **What is your character's class**
 	commander
-2. What is your character's species/race(Ancestry)
+2. **What is your character's species/race(Ancestry)**
 	Human (Aiuvarin)
-3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
+3. **Are there any (lore)skill proficiencies you find particularly interesting/important for this character?**
 	Lore: warefare - kind of the guys main thing, would be fun to use out of combat
 	Lore: Legal - idk hoe handig maar maybe iets met contracts ofzo
 	Lore: Giants - family bs of met giants interacten 
 	Lore: Heralds of the moon incarnate (heb ik niet op lvl 1 maar pas op 2, voor de cult hunten                                                                                   enzo mis leuk als voorbij komt?)
-4. What [[Languages|languages]] does your character speak and why?
+4. **What [[Languages|languages]] does your character speak and why?**
 	Common (anders kan ik niet met de party praten, also geforceerd had geen keuze)
 	Elf (Aiuvarin)
 	Fey (geleerd door adoptie mama)
@@ -16,11 +16,11 @@
 	Hallit (born into barbarian clan, raised till 8yo)
 
 ### Visual Design and Aesthetics
-5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
+5. **What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?**
 	Medium height (180m), above average muscles, redelijk athletic
-6. What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character's look distinct.
+6. **What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character's look distinct.**
 	No, he is just a man
-7. Is your character well groomed? Do they bathe often? Do they brush their teeth? 
+7. **Is your character well groomed? Do they bathe often? Do they brush their teeth?** 
 	Hij is decently well groomed? In zijn vrije tijd probeert hij zichzelf schoon te houden, tijdens          avontuur is het snel riviertje en anders pech
 8. Does your character have a condition or other distinction that makes them different from others of their race/species.
 	again no, just a regular joe
