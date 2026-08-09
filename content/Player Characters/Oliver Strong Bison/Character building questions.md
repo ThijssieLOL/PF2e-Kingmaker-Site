@@ -57,7 +57,7 @@
 26. **Does your character have many friends?** 
 	no, he didnt stay long enough in places to make friends
 27. **Did your character have a mentor? Are they still in contact? What did this mentor teach?** 
-	his main fighting mentor was [[Bapakine Iwe Ishkode]] who taught him everything about warfare. Now that Oliver is traveling contact has slowed down but they still keep in contact by sending letters via flyin
+	his main fighting mentor was [[Bapakine Iwe Ishkode]] who taught him everything about warfare. Now that Oliver is traveling contact has slowed down but they still keep in contact by sending letters via flying fish
 28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.**
 	Oliver has a hatred for the [[Heralds of the Moon Incarnate]] because they killed his family and give moon hippies a bad name
 
