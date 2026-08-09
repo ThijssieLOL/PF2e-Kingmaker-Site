@@ -102,9 +102,9 @@
 	yes, he is a follower of [[The Order of the Sacred Mother]] & [[The Church of the Everlasting Moonlight]] due to them often being a package deal
 
 45. **Do they follow a particular god within their religion?**
-	his main goddes is [[Fandarra]], tho [[Ymir]] is a clo
+	his main goddes is [[Fandarra]], tho [[Ymir]] is a close second
 46. **What is their opinion on people of other religions?**
-
+	as long as your religion doesn't do evil stuff and cause harm to innocent people, do what you want. Oliver is
 47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?**
 
 48. **Do you believe in an afterlife(heaven) and do you think you are going to end up there?**
