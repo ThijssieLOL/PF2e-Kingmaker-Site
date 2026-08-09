@@ -11,7 +11,7 @@ status: Active
 # The Chancellery of the Outer Horizon
 
 ## Overview
-A brief 1-2 sentence summary of what this Chancellery is and its role within the Church.
+The Chancellery of the Outer Horizon directs the [[The Church of the Eternal Blazing Sun|Church]]'s presence beyond its borders — diplomacy, foreign policy, and international proselytization. It forges treaties and alliances with benevolent sovereign nations and coordinates covert missionary deployments and humanitarian aid into foreign lands where the Church is outlawed or suppressed.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
@@ -19,8 +19,8 @@ A brief 1-2 sentence summary of what this Chancellery is and its role within the
 - **Status:** Active
 
 ## Mandate & Responsibilities
-- **Primary Function:** (The pillar of statecraft or divine law this Chancellery manages)
-- **Operations:** (How the Chancellery carries out its duties within the Church)
+- **Primary Function:** Diplomacy, foreign policy, and international proselytization.
+- **Operations:** Directs diplomatic treaties and alliances with benevolent sovereign nations. It coordinates covert missionary deployments and humanitarian aid into foreign lands where the Church is outlawed or suppressed.
 
 ---
 
@@ -30,7 +30,7 @@ A brief 1-2 sentence summary of what this Chancellery is and its role within the
 ---
 
 ## Key Members
-- **Member:** (Brief description of their role within the Chancellery.)
+- **[[Aurelius]]:** Grade 8 (Cinder) missionary serving on the Stolen Lands charter, formally transferred from [[The Chancellery of Silent Illumination]] to pursue frontier diplomacy and the [[Holy Ground Project]].
 
 ---
 

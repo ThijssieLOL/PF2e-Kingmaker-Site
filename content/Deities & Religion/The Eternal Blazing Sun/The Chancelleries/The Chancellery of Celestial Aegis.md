@@ -11,7 +11,7 @@ status: Active
 # The Chancellery of Celestial Aegis
 
 ## Overview
-A brief 1-2 sentence summary of what this Chancellery is and its role within the Church.
+The Chancellery of Celestial Aegis is the shield of [[The Church of the Eternal Blazing Sun]] — supreme command over the Church's standing armed forces and war fleets. It wages large-scale warfare against undead incursions and demonic threats.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
@@ -19,8 +19,8 @@ A brief 1-2 sentence summary of what this Chancellery is and its role within the
 - **Status:** Active
 
 ## Mandate & Responsibilities
-- **Primary Function:** (The pillar of statecraft or divine law this Chancellery manages)
-- **Operations:** (How the Chancellery carries out its duties within the Church)
+- **Primary Function:** High military command and territorial defense.
+- **Operations:** Commands the standing armed forces of the Church, including temple guardians, heavily armored paladin orders, and military fleets dedicated to large-scale warfare against undead incursions and demonic threats.
 
 ---
 

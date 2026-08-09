@@ -11,7 +11,7 @@ status: Active
 # The Chancellery of Sacred Canon
 
 ## Overview
-A brief 1-2 sentence summary of what this Chancellery is and its role within the Church.
+The Chancellery of Sacred Canon is the educational and doctrinal pillar of [[The Church of the Eternal Blazing Sun]] — overseer of its schools, seminaries, and theological archives. It guards doctrinal purity and designs and administers the Theological Examinations by which clergy advance through the Grade system.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
@@ -19,8 +19,8 @@ A brief 1-2 sentence summary of what this Chancellery is and its role within the
 - **Status:** Active
 
 ## Mandate & Responsibilities
-- **Primary Function:** (The pillar of statecraft or divine law this Chancellery manages)
-- **Operations:** (How the Chancellery carries out its duties within the Church)
+- **Primary Function:** Public education, higher learning, doctrinal purity, and clerical advancement.
+- **Operations:** Manages public literacy programs, higher academies, and seminaries. It maintains the central theological archives and designs and administers the mandatory written Theological Examinations for clergy advancing through the Grade system.
 
 ---
 

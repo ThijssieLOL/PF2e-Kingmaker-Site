@@ -61,12 +61,17 @@ The Chancellery subjects its cohorts to a rigorous, multi-faceted training regim
 
 ## Known Operatives: The Class of 21
 
-The most recent graduating cohort—known internally as the Class of 21—consists of seven operatives who completed their training at twenty-one years of age. They represent one of the most versatile covert units produced by the Chancellery in recent history:
+The most recent graduating cohort—known internally as the Class of 21—consists of seven operatives who completed their training at twenty-one years of age. They represent one of the most versatile covert units produced by the Chancellery in recent history. Of the seven, two remain in active service to the Chancellery under public cover; the rest have since transferred to another Chancellery, taken up public roles outside the covert service, or fallen in battle.
 
-- [[Aurelius]] (Animist / Covert Operative) — A gifted field operative trained in spirit-binding and wilderness deployment, currently serving on active overseas assignment.
-- [[Gideon]] (Warpriest / The Emotional Anchor) — The physical powerhouse and moral core of the cohort, keeping the group grounded through intense trials.
-- [[Julian]] (Swashbuckler / The Charismatic Vanguard) — The unit's frontline duelist and infiltration expert, skilled in social disguise and high-mobility combat.
-- [[Vespera]] (Investigator / The Serious Strategist) — The analytical mind of the cohort, overseeing forensic intelligence, tactical planning, and threat assessment.
-- [[Lyra]] (Alchemist / The Chaotic Genius) — A brilliant scientific prodigy providing technical support, specialized explosives, and alchemical research.
+### Current Members
+
+- [[Vespera]] (Investigator / The Serious Strategist) — The analytical mind of the cohort, overseeing forensic intelligence, tactical planning, and threat assessment. She serves under the public cover of a Grade 8 Legal Scribe and Archival Assistant.
+- [[Lyra]] (Alchemist / The Chaotic Genius) — A brilliant scientific prodigy providing technical support, specialized explosives, and alchemical research. She serves under the public cover of an Apothecary and Sacristan (Grade 8).
+
+### Former Members
+
+- [[Aurelius]] (Animist / Covert Operative) — A gifted field operative trained in spirit-binding and wilderness deployment. He formally transferred to [[The Chancellery of the Outer Horizon]] to serve as an official missionary on the Stolen Lands charter.
+- [[Gideon]] (Warpriest / The Emotional Anchor) — The physical powerhouse and moral core of the cohort, keeping the group grounded through intense trials. After commando training he chose the path of a healer and protector, serving publicly as a Grade 8 Hospitaler and Chaplain.
+- [[Julian]] (Swashbuckler / The Charismatic Vanguard) — The unit's frontline duelist and infiltration expert, skilled in social disguise and high-mobility combat. He now serves as a Cantor and Choir Lead (Grade 8), gathering local gossip and intelligence through his public position.
 - [[Tristan]] (Champion / Deceased) — Fell holding back a monstrous horde so his siblings could escape.
 - [[Valerius]] (Fighter / Deceased) — Fell defending city walls during an invasion.

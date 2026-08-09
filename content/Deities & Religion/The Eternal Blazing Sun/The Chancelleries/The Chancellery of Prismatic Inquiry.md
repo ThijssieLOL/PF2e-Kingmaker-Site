@@ -11,7 +11,7 @@ status: Active
 # The Chancellery of Prismatic Inquiry
 
 ## Overview
-A brief 1-2 sentence summary of what this Chancellery is and its role within the Church.
+The Chancellery of Prismatic Inquiry is the scientific and arcane research arm of [[The Church of the Eternal Blazing Sun]]. It conducts research into solar-prism technology, alchemical advancement, medical breakthroughs, and the physical properties of divine energy.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
@@ -19,8 +19,8 @@ A brief 1-2 sentence summary of what this Chancellery is and its role within the
 - **Status:** Active
 
 ## Mandate & Responsibilities
-- **Primary Function:** (The pillar of statecraft or divine law this Chancellery manages)
-- **Operations:** (How the Chancellery carries out its duties within the Church)
+- **Primary Function:** Scientific research, technological innovation, and arcane studies.
+- **Operations:** Conducts research into solar-prism technology, alchemical advancements, medical breakthroughs, and the physical properties of divine energy.
 
 ---
 

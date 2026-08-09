@@ -11,7 +11,7 @@ status: Active
 # The Chancellery of Consecrated Solace
 
 ## Overview
-A brief 1-2 sentence summary of what this Chancellery is and its role within the Church.
+The Chancellery of Consecrated Solace tends the bodies and final rites of the faithful — the Church's hospitals, sanatoriums, and disaster relief networks. It manages public sanitation and strictly enforces the sacred cremation rites that guard the dead against necromancy.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
@@ -19,8 +19,8 @@ A brief 1-2 sentence summary of what this Chancellery is and its role within the
 - **Status:** Active
 
 ## Mandate & Responsibilities
-- **Primary Function:** (The pillar of statecraft or divine law this Chancellery manages)
-- **Operations:** (How the Chancellery carries out its duties within the Church)
+- **Primary Function:** Healthcare, disaster response, and sacred cremation protocols.
+- **Operations:** Operates hospitals, sanatoriums, and emergency disaster relief networks. It manages public sanitation and strictly enforces mandatory cremation rites using holy fire across all parishes to prevent the threat of necromancy.
 
 ---
 
