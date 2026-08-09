@@ -39,10 +39,6 @@ A brief 1-2 sentence summary of who this character is and their role.
 ## Personality
 - **Demeanor:** (How they act, their general attitude, and core beliefs)
 
----
-
-## Abilities
-- **Skills & Magic:** (How they fight, what magic they use, or their main talents)
 
 ---
 
@@ -52,4 +48,4 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## Relationships
-- **[[Fandarra]]:** Brief description of their dynamic.
+- **[[Fandarra]]:** It is said that **Ymir** is in a relationship with **Fandarra**

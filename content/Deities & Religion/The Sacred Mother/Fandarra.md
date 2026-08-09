@@ -57,4 +57,4 @@ status: Alive
 ---
 
 ## Relationships
-- **[[Ymir]]:** It is said that Fandarra is in a 
+- **[[Ymir]]:** It is said that **Fandarra** is in a relationship with **Ymir**
