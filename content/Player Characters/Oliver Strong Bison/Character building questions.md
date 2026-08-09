@@ -93,6 +93,7 @@
 	Friends yes, others ehh? Depends
 42. **How would you describe your character's moral compass?**
 	hopelijk beter dan P9-K0...
+	gonna try for noble / generall
 43. **Where does your character draw the line? When do the ends stop justifying the means?**
 
 ### **Religion**
