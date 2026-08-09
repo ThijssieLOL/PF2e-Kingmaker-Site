@@ -57,11 +57,11 @@
 26. **Does your character have many friends?** 
 	no, he didnt stay long enough in places to make friends
 27. **Did your character have a mentor? Are they still in contact? What did this mentor teach?** 
-
+	his main
 28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.**
 	Oliver has a hatred for the [[Heralds of the Moon Incarnate]] because they killed his family and give moon hippies a bad name
 
-	Oliver won a history bar quiz on his way to Restov against the
+	Oliver won a history bar quiz on his way to Restov against the at the time 4 time champion. had the champion won 5 times in a row they would have gotten free drinks for the entire night. Now they are salty and want to make Olivers life miserable
 29. **Is your character or has your character been in a romantic relationship?**
 	nah
 ### Backstory and Upbringing
