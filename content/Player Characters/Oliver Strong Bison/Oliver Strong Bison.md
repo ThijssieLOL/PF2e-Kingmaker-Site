@@ -10,11 +10,10 @@ aliases:
   - Sa'be
 ---
 
-# Oliver Strong Bison
 
 ![[Character Image.jpg|300]]
 
-> "A memorable quote."
+> "A memorable quote." - Oliver Strong Bison
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.

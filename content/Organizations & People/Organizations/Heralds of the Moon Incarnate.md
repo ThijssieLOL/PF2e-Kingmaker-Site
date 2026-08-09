@@ -9,7 +9,6 @@ status: Active
 deity: "[[Groetus]]"
 ---
 
-# Heralds of the Moon Incarnate
 
 ![[deathmoon.jpg|295]]
 
