@@ -32,8 +32,8 @@
 	Hij heeft 2 homemade parfums die of ruiken naar net gemaaid gras of zeezout water (zee)
 
 #### Combat style
-17. How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?
-
+17. **How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?**
+	Meestal midden in, vooral andere inspiratie geven om te vechten maar als hij in melee is dan kan hij daar prima mee omgaan
 18. How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?
 
 19. How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
