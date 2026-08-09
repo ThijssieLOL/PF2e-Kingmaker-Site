@@ -137,6 +137,7 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | 15   | You know it is often said that the only reason humans are so successful is the sheer amount of them that exist. Do you then also believe that simply having more of your own fat would make you more prosperous? |
 | 16   | Is your barber a vine leshy? Perhaps some twigs and dirt would finish your little look.                                                                                                                          |
 | 17   | Careful there. If you allow your rage to guide you even more orcs would start taking notes.                                                                                                                      |
-| 18   |                                                                                                                                                                                                                  |
+| 18   | I pity you. The only crowd your face would make heads turn would be in a group of athamaru.                                                                                                                      |
+| 19   |                                                                                                                                                                                                                  |
 
 
