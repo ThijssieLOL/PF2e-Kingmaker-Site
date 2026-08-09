@@ -106,9 +106,9 @@
 46. **What is their opinion on people of other religions?**
 	as long as your religion doesn't do evil stuff and cause harm to innocent people, do what you want. Oliver is not going to prevent people from following who they want
 47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?**
-	[see number 46]
+	(see number 46)
 48. **Do you believe in an afterlife(heaven) and do you think you are going to end up there?**
-
+	Oliver does believe in an afterlife
 ### **Personality and Preferences**
 49. **What is your character's favourite food?**
 
