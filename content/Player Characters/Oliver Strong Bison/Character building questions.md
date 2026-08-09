@@ -30,18 +30,6 @@
 	Hij wilt het hebben, he hij heeft niet het money ervoor atm
 11. **What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?**
 	Hij heeft 2 homemade parfums die of ruiken naar net gemaaid gras of zeezout water (zee)
-#### Magic
-Skip this section if your character has no magic/can't cast spells.
-
-12. Where does your character tell people their magic came from?
-
-13. Where does your character actually get their magic?
-
-14. Does this origin affect the magic's working and visuals?
-
-15. What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
-
-16. Is there a cost to the magic?
 
 #### Combat style
 17. How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?
