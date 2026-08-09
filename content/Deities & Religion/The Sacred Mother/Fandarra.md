@@ -50,7 +50,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## History
-- **Background:** (Their past, how they got here, and what they want to achieve)
+- **Background:** Fandarra stayed rooted in the old tribal traditions and never embraced civilisation. Another legend tells that she is the mother of both stone giants and dire bears
 
 ---
 
