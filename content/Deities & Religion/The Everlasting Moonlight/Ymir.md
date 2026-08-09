@@ -19,8 +19,7 @@ status: Alive
 > "Dream no small dreams for they have no power to move the hearts of men."
 
 ## Overview
-A brief 1-2 sentence summary of who this character is and their role.
-
+**Ymir**, also known as the Great Dreamer and the Allfather, is the god of dreams, luck, stars, and travel. He teaches that life is a journey meant to be explored, filled with wonder, creativity, and possibility. Travelers, artists, dreamers, and those who seek a life beyond what was expected of them often look to **Ymir** for guidance. Though playful and mysterious, he is a steadfast enemy of despair, tyranny, and anything that seeks to rob people of their dreams.
 ### Quick Facts
 - **Titles:** He who watches, The great dreamer, The allfather
 - **Alignment:** Chaotic Good
