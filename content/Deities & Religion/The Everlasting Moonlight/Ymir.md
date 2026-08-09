@@ -43,7 +43,11 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## History
-- **Background:** (Their past, how they got here, and what they want to achieve)
+- **Background:** (The origins of **Ymir** are uncertain. Elven legends claim he was born from the first dream ever dreamed beneath the night sky, while fey tales say he simply wandered into existence from another realm. Ancient stories describe him as one of the first great wanderers of **Kaelerum**, traveling across mountains, forests, and oceans while gathering stories and teaching mortals to dream beyond the lives they had been given.
+
+Over time, **Ymir** came to understand dreams as glimpses of possibilities rather than mere fantasies. He learned that the future was not a single predetermined path, but a collection of countless possibilities shaped by the choices of those who walked them. During his travels, he eventually met **Fandarra**, whose understanding of life's cycles fascinated him. The two grew close, with **Fandarra** representing the foundations of life and **Ymir** representing the freedom to decide what one does with it.
+
+**Ymir** continues to wander the world to this day, appearing in the dreams of travelers, artists, and those who have lost hope. It is said that a butterfly appearing at the end of a difficult journey is a sign that **Ymir** has been watching over them.
 
 ---
 
