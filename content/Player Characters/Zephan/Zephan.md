@@ -123,9 +123,9 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | 1    | You are so dimwitted even darkvision could not save you.                                                  |
 | 2    | I pity the trees that supply your oxygen.                                                                 |
 | 3    | I shall be forever grateful you were not born an elf, your presence in this world need not be lengthened. |
-| 4    | Have you considered                                                                                       |
-| 5    | I hope your mother is not as repulsive                                                                    |
-|      |                                                                                                           |
+| 4    | Have you considered laying down your weapon? At least it would be hitting something then.                 |
+| 5    | I hope your mother is not as repulsive as you.                                                            |
+| 6    | You are the kind of man that thinks himself a Wyrm, while slithering upon the groun                       |
 |      |                                                                                                           |
 |      |                                                                                                           |
 |      |                                                                                                           |
