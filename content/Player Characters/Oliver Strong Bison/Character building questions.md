@@ -84,15 +84,15 @@
 37. **Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?**
 
 38. **What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?**
-
+	Realistisch gezien general? Of warden als 2de optie. Hij zou een sterk leger willen hebben niet perse om andere mensen over te nemen / aanvallen maar om kingdom te kunnen beschermen tegen outside threats zowel mensen als creatures
 39. **How does your character think a country should be run?**
-
+	Well? Voor sommige dingen vind hij een democratie belangrijk. Maar also democratie is langzaam en soms moeten een kleine groep (of 1 persoon) gwn de keuzes maken
 40. **What are, in your opinion, the fundamental rights a citizen of your country should have?**
-
+	The basic human ones, freedom of speech, toegang tot eten en onderdak. The right to pay taxes and get drafted into the army. Freedom of religion, gender, sexuality, etc.
 41. **Would you sacrifice yourself for your friends, allies or future citizens?**
-
+	Friends yes, others ehh? Depends
 42. **How would you describe your character's moral compass?**
-
+	hopelijk beter dan P9-K0...
 43. **Where does your character draw the line? When do the ends stop justifying the means?**
 
 ### **Religion**
