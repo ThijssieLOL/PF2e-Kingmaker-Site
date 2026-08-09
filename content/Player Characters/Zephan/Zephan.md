@@ -118,24 +118,24 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **"All things should be done with elegance."** *Origin:* Henry Henderson from Spy x Family after sucker-punching a guy
 ### Insults
 
-| d100 | Insult                                                                                                    |
-| ---- | --------------------------------------------------------------------------------------------------------- |
-| 1    | You are so dimwitted even darkvision could not save you.                                                  |
-| 2    | I pity the trees that supply your oxygen.                                                                 |
-| 3    | I shall be forever grateful you were not born an elf, your presence in this world need not be lengthened. |
-| 4    | Have you considered laying down your weapon? At least it would be hitting something then.                 |
-| 5    | I hope your mother is not as repulsive as you.                                                            |
-| 6    | You are the kind of man that thinks himself a Wyrm, while slithering upon the ground as a worm.           |
-| 7    |                                                                                                           |
-|      |                                                                                                           |
-|      |                                                                                                           |
-|      |                                                                                                           |
-|      |                                                                                                           |
-|      |                                                                                                           |
-|      |                                                                                                           |
-|      |                                                                                                           |
-|      |                                                                                                           |
-|      |                                                                                                           |
-|      |                                                                                                           |
+| d100 | Insult                                                                                                                                                  |
+| ---- | ------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | You are so dimwitted even darkvision could not save you.                                                                                                |
+| 2    | I pity the trees that supply your oxygen.                                                                                                               |
+| 3    | I shall be forever grateful you were not born an elf, your presence in this world need not be lengthened.                                               |
+| 4    | Have you considered laying down your weapon? At least it would be hitting something then.                                                               |
+| 5    | I hope your mother is not as repulsive as you.                                                                                                          |
+| 6    | You are the kind of man that thinks himself a Wyrm, while slithering upon the ground as a worm.                                                         |
+| 7    | I wonder how many times I would have to bash my head with a rock to simulate the experience of being in your company. I estimate between 3 and 4 blows. |
+|      |                                                                                                                                                         |
+|      |                                                                                                                                                         |
+|      |                                                                                                                                                         |
+|      |                                                                                                                                                         |
+|      |                                                                                                                                                         |
+|      |                                                                                                                                                         |
+|      |                                                                                                                                                         |
+|      |                                                                                                                                                         |
+|      |                                                                                                                                                         |
+|      |                                                                                                                                                         |
 
 
