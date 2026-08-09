@@ -115,15 +115,15 @@
 50. **What is your character's favourite drink?**
 	water
 51. **Does your character have a favourite colour or colour group?**
-
+	Purple & Black
 52. **What is your character's favourite animal?**
-
+	Fish
 53. **What would be your character's spirit animal and why?**
 
 54. **What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
-
+	Poetry
 55. **What does your character like to spend their free time on if they have a break from adventuring?**
-
+	Readinf books
 56. **What is your character's worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?**
 
 57. **What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?**
