@@ -96,14 +96,34 @@ To advance to a higher grade, a member of the clergy must meet strict power and 
 
 ### Regional Structure
 - The church utilizes a formal archdiocese system adapted to the geography of the world, allowing regional bishops and archbishops to manage local parishes while maintaining direct communication with the central headquarters.
+- **Tactical Placement:** The Church is deliberate in siting its houses — churches, and higher-tier churches especially, are placed to reach the greatest number of people for the resources spent, so that the tier of every church tracks the population it serves.
 
-### Local Church Composition
-Every local church is staffed so that each of the nine High Chancelleries holds at least one seat among its clergy, ensuring no pillar of the faith goes unserved in even the humblest parish. The arrangement grows naturally from the Grade system — every Cinder must hold active assignment to a Chancellery — so a parish's staff is, by design, a microcosm of the Church itself.
+### Church Tiers
 
-- **The Nine-Fold Staff:** A standard local church keeps at least one clergy member of every chancellery among its permanent congregation, presided over by the parish priest (Grade 7, Blaze). Together they form the parish council, seeing to tithes and relief ([[The Chancellery of the Shared Hearth]]), schooling and examinations ([[The Chancellery of Sacred Canon]]), infirmaries and cremation rites ([[The Chancellery of Consecrated Solace]]), and so on.
-- **Larger Parishes:** City churches and cathedral-parishes field multiple members per chancellery, each growing into a small department with its own workspace, ledgers, and deputies.
-- **Chapels & Shrines:** A village chapel too small for the nine-fold staff is served on circuit by the nearest full church, whose chancellery members ride out to tend the shrine's flock and return with the day's records.
-- **The Main Chancellery:** Most local churches carry a single **main chancellery** — the pillar that founded, endowed, or champions that house. Such a church becomes the regional hub in its area for that chancellery: the seat of its local leadership, its training grounds, its storehouses, and the first address of its faithful across the surrounding land.
+The Church's houses are tiered by the population they serve — higher tiers rarer, larger, and more heavily staffed, so that outreach and expenditure stay proportionate. Only one Tier 5 house exists: the headquarters itself.
+
+- **Tier 1 — Parish:** The smallest houses, serving villages and hamlets. A Tier 1 church requires no resident Grade 7 (Blaze) priest; it is run by a small resident staff — as few as two clergy — under the joint oversight of the diocese's Grade 6 (Ignis) clergy.
+- **Tier 2 — Nine-Fold Church:** The standard major church, and the only tier bound by the nine-fold staff. Presided over by a Grade 4 (Vesta).
+- **Tier 3 — Cathedral:** City churches and cathedral-parishes, presided over by a Grade 3 (Zenith), fielding multiple members per chancellery — each growing into a small department with its own workspace, ledgers, and deputies.
+- **Tier 4 — Metropolitan Cathedral:** The great cathedrals of the faith's largest cities, presided over by a Grade 2 (Solstice).
+- **Tier 5 — The Headquarters:** The single seat of the Church's central administration, from which the Grade 2 (Solstice) leads the faith.
+
+#### The Nine-Fold Staff (Tier 2)
+
+Every Cinder (Grade 8) must hold active assignment to a Chancellery, so a Tier 2 church's staff is, by design, a microcosm of the Church itself.
+
+- **One Seat per Pillar:** Each of the nine High Chancelleries holds at least one seat among the church's permanent clergy — the parish council, seeing to tithes and relief ([[The Chancellery of the Shared Hearth]]), schooling and examinations ([[The Chancellery of Sacred Canon]]), infirmaries and cremation rites ([[The Chancellery of Consecrated Solace]]), and so on.
+- **The Responsible:** Each seat is held by a full-time resident responsible — one per chancellery, Grade 8 or higher — so that no single member carries an unmanageable workload.
+- **Sharing:** Clergy may serve several churches at once — save the responsible of a seat, who serves only the church to which they are attached.
+- **Filling the Seats:** A parish may recruit locally and submit the candidate for approval, or receive an appointment from the higher orders; a seat fallen empty is filled by transfer from the wider Church.
+
+#### Chapels & Shrines
+
+A village chapel too small for even a Tier 1 staff is served on circuit by the nearest full church, whose chancellery members ride out to tend the shrine's flock and return with the day's records.
+
+#### The Main Chancellery
+
+Most local churches carry a single **main chancellery** — the pillar that founded, endowed, or champions that house. Such a church becomes the regional hub in its area for that chancellery: the seat of its local leadership, its training grounds, its storehouses, and the first address of its faithful across the surrounding land.
   - **Example — Restov:** The local church of Restov — home parish of [[Aurelius]] — is the regional hub of [[The Chancellery of Silent Illumination]] in the area. Orphans of the region are gathered there, tested, and begun in their training before induction into the Chancellery's covert cohorts.
 
 ## The Chancelleries
