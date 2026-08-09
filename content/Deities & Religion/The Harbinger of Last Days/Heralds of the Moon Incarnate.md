@@ -10,12 +10,12 @@ deity: "[[Groetus]]"
 ---
 
 
-![[deathmoon.jpg|295]]
+![[deathmoon.jpg|200]]
 
 > "Tomorrow is a lie"
 
 ## Overview
-The Heralds of the Moon Incarnate are the cult of Kaelerum most intent on accelerating the end of the world, which they believe is corrupt, and that [[Groetus]] shall take the souls of his most faithful and pure followers to create a new existence in the next reality.
+The **Heralds of the Moon Incarnate** are the cult of **Kaelerum** most intent on accelerating the end of the world, which they believe is corrupt, and that **[[Groetus]]** shall take the souls of his most faithful and pure followers to create a new existence in the next reality.
 
 ### Quick Facts
 - **Leader:**  Unknown
