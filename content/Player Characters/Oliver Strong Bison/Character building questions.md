@@ -36,29 +36,32 @@
 	Meestal midden in, vooral andere inspiratie geven om te vechten maar als hij in melee is dan kan hij daar prima mee omgaan
 18. **How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?**
 	[[Bapakine Iwe Ishkode]] heeft lil Oliver elke dag 8u warfare drills laten doen sinds hij 10 is zodat Oliver zichzelf goed kon verdedigen.
-19. How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
+19. **How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?**
 	Oliver heeft vooral training ervaring. hij heeft wel wat combat ervaring maar own his own heeft hij vooral low level bandit ervaring
-20. Does your character have rules or a code of honor for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?
-	
+20. **Does your character have rules or a code of honor for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?**
+	Ligt heel erg aan het persoon / ding dat hij vecht. Als de common man / bandit zou surrenderen zou hij wel wapens af nemen maar daarna prima. Een actual monster / genocidal maniac zou hij wel gwn uitmoorden tenzij party plot relevant
 
 ### Family and Relationships
 21. Describe your character's parents. Are they still alive? What are they doing now? 
+	Mama is een human barbarian, papa is een elf scholar. Samen zijn ze allebei dood doing dead people things
+	Zijn nieuwe adoptive moms zijn 2 giants en hij heeft 2 uncles die ook giants zijn.
+	
+	[[Zagaakwa Ezhaayin]] is de voornamelijke adoptieve moeder, [[Bapakine Iwe Ishkode]] is in zijn ogen een mean uncle maar doet hard om Oliver sterk te maken. [[]] is chill uncle and goes with the flow. Storm giant mama is kinda absent mama
+21. Does your character have any siblings? What is your character's relationship with them? 
 
-22. Does your character have any siblings? What is your character's relationship with them? 
+22. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
 
-23. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
+23. What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?
 
-24. What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?
+24. Is your character part of any organization? If so, is this organization known?
 
-25. Is your character part of any organization? If so, is this organization known?
+25. Does your character have many friends? 
 
-26. Does your character have many friends? 
+26. Did your character have a mentor? Are they still in contact? What did this mentor teach? 
 
-27. Did your character have a mentor? Are they still in contact? What did this mentor teach? 
+27. Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.
 
-28. Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.
-
-29. Is your character or has your character been in a romantic relationship?
+28. Is your character or has your character been in a romantic relationship?
 
 ### Backstory and Upbringing
 30. Where did your character grow up?
