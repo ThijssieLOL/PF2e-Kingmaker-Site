@@ -64,9 +64,9 @@
 
 ### Backstory and Upbringing
 30. **Where did your character grow up?**
-	Oliver grew up in a small Kellid village north from the stolen lands, a very communal village that had a strong focus on family and bonds. after the slaughter of the Strong Bison clan, Oliver was raised by the [[Jotnar 5]] who as a mostly nomadic adventuring group raised Oli
+	Oliver grew up in a small Kellid village north from the stolen lands, a very communal village that had a strong focus on family and bonds. after the slaughter of the Strong Bison clan, Oliver was raised by the [[Jotnar 5]] who as a mostly nomadic adventuring group raised Oliver all over Kaelerum
 31. **Who raised them? If not their parents, why?**
-
+	mostly raised by [[Zagaakwa Ezhaayin]] as the mother figure in his life
 32. **Did your character have any form of education? Did they go to school? Were they home schooled?** 
 
 33. **How has your upbringing shaped your worldview?**
