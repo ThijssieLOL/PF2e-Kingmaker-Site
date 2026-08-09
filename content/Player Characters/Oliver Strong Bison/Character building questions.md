@@ -68,11 +68,11 @@
 31. **Who raised them? If not their parents, why?**
 	mostly raised by [[Zagaakwa Ezhaayin]] as the mother figure in his life
 32. **Did your character have any form of education? Did they go to school? Were they home schooled?** 
-	surprisingly, the barbarian tribe didnt really have a preschool. However, he gained a very detai
+	surprisingly, the barbarian tribe didnt really have a preschool. However, he gained a very detailed homeschool education from his adopted mother [[Niigani Wewidun]]
 33. **How has your upbringing shaped your worldview?**
 
 34. **Is your character's family well-off or are they fucking peasants?**
-
+	they weren't fucking peasants level but also 
 35. **What is your (tragic) backstory?**
 
 ### **Motivations and morality**
