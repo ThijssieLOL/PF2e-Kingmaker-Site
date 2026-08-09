@@ -32,8 +32,8 @@ The **Heralds of the Moon Incarnate** are the cult of **Kaelerum** most intent o
 
 # Core beliefs
 
-- **The Impure World**: Cultists view the current universe as a flawed, decaying precursor to a much greater reality. [[1](https://www.reddit.com/r/Pathfinder_RPG/comments/gh72g2/good_clerics_of_groetus/)]
-- **The Selection**: They believe that when the last soul is judged and the multiverse collapses, Groetus will act as a cosmic vessel. He will gather and shelter the greatest essences of the current world—such as legendary heroes, infamous villains, ancient dragons, and fundamental elements. [[1](https://www.reddit.com/r/Pathfinder_RPG/comments/gh72g2/good_clerics_of_groetus/)]
-- **Rebirth and Ascension**: Groetus will distill these preserved essences into purer, refined forms. When a new reality is forged from the ashes, these saved souls will become its very first gods and structural materials. [[1](https://www.reddit.com/r/Pathfinder_RPG/comments/gh72g2/good_clerics_of_groetus/)]
-- **The Goal**: Cult members seek to aggressively **hasten the apocalypse** to bring about this perfect next world sooner, firmly believing that their own souls are destined to inherit divine status in the next cycle. [[1](https://www.reddit.com/r/Pathfinder_RPG/comments/gh72g2/good_clerics_of_groetus/)]
+- **The Impure World**: Cultists view the current universe as a flawed, decaying precursor to a much greater reality. 
+- **The Selection**: They believe that when the last soul is judged and the multiverse collapses, [[Groetus]] will act as a cosmic vessel. He will gather and shelter the greatest essences of the current world such as legendary heroes, infamous villains, ancient dragons, and fundamental elements. 
+- **Rebirth and Ascension**: [[Groetus]] will distill these preserved essences into purer, refined forms. When a new reality is forged from the ashes, these saved souls will become its very first gods and structural materials.
+- **The Goal**: Cult members seek to aggressively hasten the apocalypse to bring about this perfect next world sooner, firmly believing that their own souls are destined to inherit divine status in the next cycle. 
 ---
