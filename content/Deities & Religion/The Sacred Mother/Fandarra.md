@@ -1,7 +1,7 @@
 ---
 tags:
-  - character
   - God
+  - Religion
 faction: "[[The Order of the Sacred Mother]]"
 Godly Domains:
   - Community, 
