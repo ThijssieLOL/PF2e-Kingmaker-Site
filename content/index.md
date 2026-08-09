@@ -14,15 +14,15 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 ## 👥 Key Characters (The Cohort)
 
-| Character          | Class / Role       | Focus & Description                                          |
-| ------------------ | ------------------ | ------------------------------------------------------------ |
-| **[[Aurelius]]**   | Animist / Magister | Missionary for the [[The Church of the Eternal Blazing Sun]] |
-| **[[Zephan]]**     | Swashbuckler       | Dashing hero chosen by fate                                  |
-| **[[Jock Finch]]** | Bard               |                                                              |
-| **[[Oliver]]**     | Commander          |                                                              |
-| [[Selion]]         | Necromancer        |                                                              |
-| Essie              | Gunslinger         |                                                              |
-|                    |                    |                                                              |
+| Character                   | Class / Role       | Focus & Description                                          |
+| --------------------------- | ------------------ | ------------------------------------------------------------ |
+| **[[Aurelius]]**            | Animist / Magister | Missionary for the [[The Church of the Eternal Blazing Sun]] |
+| **[[Zephan]]**              | Swashbuckler       | Dashing hero chosen by fate                                  |
+| **[[Jock Finch]]**          | Bard               |                                                              |
+| **[[Oliver Strong Bison]]** | Commander          | Kellid warrior of the Jotnar 5                               |
+| [[Selion]]                  | Necromancer        |                                                              |
+| Essie                       | Gunslinger         |                                                              |
+|                             |                    |                                                              |
 
 ---
 
