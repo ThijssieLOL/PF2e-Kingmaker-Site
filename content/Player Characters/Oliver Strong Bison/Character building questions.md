@@ -7,7 +7,7 @@
 	Lore: warefare - kind of the guys main thing, would be fun to use out of combat
 	Lore: Legal - idk hoe handig maar maybe iets met contracts ofzo
 	Lore: Giants - family bs of met giants interacten 
-	Lore: Heralds of the moon incarnate (heb ik niet op lvl 1 maar pas op 2, voor de cult hunten                                                                                   enzo mis leuk als voorbij komt?)
+	Lore: Heralds of the moon incarnate (heb ik niet op lvl 1 maar pas op 3, voor de cult hunten                                                                                   enzo mis leuk als voorbij komt?)
 4. **What [[Languages|languages]] does your character speak and why?**
 	Common (anders kan ik niet met de party praten, also geforceerd had geen keuze)
 	Elf (Aiuvarin)
@@ -63,87 +63,87 @@
 29. **Is your character or has your character been in a romantic relationship?**
 
 ### Backstory and Upbringing
-30. Where did your character grow up?
+30. **Where did your character grow up?**
+	Oliver grew up in a small
+31. **Who raised them? If not their parents, why?**
 
-31. Who raised them? If not their parents, why?
+32. **Did your character have any form of education? Did they go to school? Were they home schooled?** 
 
-32. Did your character have any form of education? Did they go to school? Were they home schooled? 
+33. **How has your upbringing shaped your worldview?**
 
-33. How has your upbringing shaped your worldview?
+34. **Is your character's family well-off or are they fucking peasants?**
 
-34. Is your character's family well-off or are they fucking peasants?
+35. **What is your (tragic) backstory?**
 
-35. What is your (tragic) backstory?
+### **Motivations and morality**
 
-### Motivations and morality
+36. **Why is your character out adventuring?**
 
-36. Why is your character out adventuring?
+37. **Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?**
 
-37. Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?
+38. **What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?**
 
-38. What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?
+39. **How does your character think a country should be run?**
 
-39. How does your character think a country should be run?
+40. **What are, in your opinion, the fundamental rights a citizen of your country should have?**
 
-40. What are, in your opinion, the fundamental rights a citizen of your country should have?
+41. **Would you sacrifice yourself for your friends, allies or future citizens?**
 
-41. Would you sacrifice yourself for your friends, allies or future citizens?
+42. **How would you describe your character's moral compass?**
 
-42. How would you describe your character's moral compass?
+43. **Where does your character draw the line? When do the ends stop justifying the means?**
 
-43. Where does your character draw the line? When do the ends stop justifying the means?
+### **Religion**
+44. **Is your character religious? If so, what religion do they follow?**
 
-### Religion
-44. Is your character religious? If so, what religion do they follow?
+45. **Do they follow a particular god within their religion?**
 
-45. Do they follow a particular god within their religion?
+46. **What is their opinion on people of other religions?**
 
-46. What is their opinion on people of other religions?
+47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?**
 
-47. What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?
+48. **Do you believe in an afterlife(heaven) and do you think you are going to end up there?**
 
-48. Do you believe in an afterlife(heaven) and do you think you are going to end up there?
+### **Personality and Preferences**
+49. **What is your character's favourite food?**
 
-### Personality and Preferences
-49. What is your character's favourite food?
+50. **What is your character's favourite drink?**
 
-50. What is your character's favourite drink?
+51. **Does your character have a favourite colour or colour group?**
 
-51. Does your character have a favourite colour or colour group?
+52. **What is your character's favourite animal?**
 
-52. What is your character's favourite animal?
+53. **What would be your character's spirit animal and why?**
 
-53. What would be your character's spirit animal and why?
+54. **What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
 
-54. What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?
+55. **What does your character like to spend their free time on if they have a break from adventuring?**
 
-55. What does your character like to spend their free time on if they have a break from adventuring?
+56. **What is your character's worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?**
 
-56. What is your character's worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?
+57. **What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?**
 
-57. What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?
+58. **What is your character's biggest pet peeve?** 
 
-58. What is your character's biggest pet peeve? 
+59. **Do you have any bad or annoying habits?**
 
-59. Do you have any bad or annoying habits?
+60. **Sweet, sour, salty or bitter?**
 
-60. Sweet, sour, salty or bitter?
+61. **Soldier, Poet or King?**
 
-61. Soldier, Poet or King?
+62. **What is your character's most controversial opinion? Do they have any true hot takes?**
 
-62. What is your character's most controversial opinion? Do they have any true hot takes?
+63. **How would your character try to impress someone?**
 
-63. How would your character try to impress someone?
+64. **How does your character make friends?**
 
-64. How does your character make friends?
+65. **What is your most valuable possession and why?**
 
-65. What is your most valuable possession and why?
+66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
 
-66. Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?
+67. **What is your character's least funny joke that they think is great?**
 
-67. What is your character's least funny joke that they think is great?
-
-68. If your character was a celestial body(sun, star, moon, black hole) what one would they be?
+68. **If your character was a celestial body(sun, star, moon, black hole) what one would they be?**
 
 
 ### Any additional information you want to share that i didn't ask about or that you think is important:
