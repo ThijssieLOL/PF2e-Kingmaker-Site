@@ -128,8 +128,8 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | 6    | You are the kind of man that thinks himself a Wyrm, while slithering upon the ground as a worm.                                                         |
 | 7    | I wonder how many times I would have to bash my head with a rock to simulate the experience of being in your company. I estimate between 3 and 4 blows. |
 | 8    | It is said minotaurs are created by a man have intercourse with a cow. Judging by your mothers appearance you are lucky not to come bearing horns.      |
-| 9    | Are you nervous good sir? The amount of sweat you are producing would put even merfolk to shame.                                                        |
-|      |                                                                                                                                                         |
+| 9    | Are you nervous good sir? The amount of sweat you are producing would put even the wettest of merfolk to shame.                                         |
+| 10   | In a land of dragons you choose to                                                                                                                      |
 |      |                                                                                                                                                         |
 |      |                                                                                                                                                         |
 |      |                                                                                                                                                         |
