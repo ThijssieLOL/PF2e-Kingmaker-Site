@@ -108,12 +108,12 @@
 47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?**
 	(see number 46)
 48. **Do you believe in an afterlife(heaven) and do you think you are going to end up there?**
-	Oliver does believe in an afterlife. After death, should one be buried in the earth and a good / decent person, you should arrive into a plane known as the fields of Parvata. A plane of endless fields of produce and mountains and filled with primitive housing for the inhabitants. A giant moon is always overlooking the plane, just above the mountain range as it is said that at the point where the moon and mountain touch is where [[]]
+	Oliver does believe in an afterlife. After death, should one be buried in the earth and a good / decent person, you should arrive into a plane known as the fields of Parvata. A plane of endless fields of produce and mountains and filled with primitive housing for the inhabitants. A giant moon is always overlooking the plane, just above the mountain range as it is said that at the point where the moon and mountain touch is where [[Fandarra]] & [[Ymir]] meet
 ### **Personality and Preferences**
 49. **What is your character's favourite food?**
-
+	seaweed soup with crabs
 50. **What is your character's favourite drink?**
-
+	water
 51. **Does your character have a favourite colour or colour group?**
 
 52. **What is your character's favourite animal?**
