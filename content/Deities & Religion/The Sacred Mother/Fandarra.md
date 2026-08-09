@@ -52,7 +52,7 @@ Fandarra’s worshippers value balance and care deeply for family, regardless of
 ---
 
 ## History
-- **Background:** According to ancient Kellid myths
+- **Background:** According to ancient Kellid myths Fandarra was the very first living being. She did not ascend from mortality; instead, she was birthed directly from the earth’s womb, a legendary primordial cave named **Atakal**
 
 ---
 
