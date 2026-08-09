@@ -45,7 +45,7 @@
 21. **Describe your character's parents. Are they still alive? What are they doing now?** 
 	Mama is een human barbarian, papa is een elf scholar. Samen zijn ze allebei dood doing dead people things
 	Zijn nieuwe adoptive moms zijn 2 giants en hij heeft 2 uncles die ook giants zijn.
-	[[Zagaakwa Ezhaayin]] is de voornamelijke adoptieve moeder, [[Bapakine Iwe Ishkode]] is in zijn ogen een mean uncle maar doet hard om Oliver sterk te maken. [[Daga Manoo]] is chill uncle and goes with the flow. [[Niigani Wewidun]] mama is giving absent mom vibes want heeft vaak belangrijkere dingen om te doen dan om Oliver te geven.
+	[[Zagaakwa Ezhaayin]] is de voornamelijke adoptieve moeder, [[Bapakine Iwe Ishkode]] is in zijn ogen een mean uncle maar doet hard om Oliver sterk te maken. [[Daga Manoo]] is chill uncle and goes with the flow. [[Niigani Wewidun]] is giving absent mom vibes want heeft vaak belangrijkere dingen om te doen dan om Oliver te geven.
 22. **Does your character have any siblings? What is your character's relationship with them?** 
 	he does not
 23. **Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?**
