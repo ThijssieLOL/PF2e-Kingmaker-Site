@@ -57,4 +57,4 @@ status: Alive
 ---
 
 ## Relationships
-- **[[Character Link]]:** Brief description of their dynamic.
+- **[[Ymir]]:** It is said that Fandarra is in a 
