@@ -64,7 +64,7 @@
 
 ### Backstory and Upbringing
 30. **Where did your character grow up?**
-	Oliver grew up in a small
+	Oliver grew up in a small Kellid village north from the stolen lands, a very communal village that had a stro
 31. **Who raised them? If not their parents, why?**
 
 32. **Did your character have any form of education? Did they go to school? Were they home schooled?** 
