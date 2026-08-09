@@ -50,7 +50,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## History
-- **Background:** Fandarra stayed rooted in the old tribal traditions and never embraced civilisation. Some legends tell that she is just the mother of the giant kin. Others say that all life came f
+- **Background:** Fandarra stayed rooted in the old tribal traditions and never embraced civilisation. Some legends tell that she is just the mother of the giant kin. Others say that all life came from the mountain
 
 ---
 
