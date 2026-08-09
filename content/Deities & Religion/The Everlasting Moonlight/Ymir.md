@@ -37,7 +37,9 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## Personality
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+- **Dreamlike and Whimsical:** **Ymir** rarely approaches the world in a straightforward manner. He is playful, curious, and fond of riddles, stories, songs, and elaborate metaphors. His thoughts often seem to wander from one subject to another.
+
+- **A Lover of Freedom:** **Ymir** believes that every living being should have the freedom to decide what kind of life they wish to lead. He despises needless restrictions, prejudice, and those who attempt to dictate what another person should believe, create, or become. To him, life is a journey rather than a destination, and there is little virtue in walking a road simply because someone else has chosen it for you.
 
 
 ---
