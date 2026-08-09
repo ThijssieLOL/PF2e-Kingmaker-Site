@@ -31,7 +31,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Domains:** Dreams, Fate, Healing, Moon, Water
 - **Sacred Animal:** Butterfly 
 - **Sacred Colours:** Green, Gold
-[[
+
 ## Appearance
 - **Description:** **Ymir** is often described as a beautiful elven like man, with butterfly wings containing all the beauty of a clear night sky. He is often depicted as having dark hair, silvery eyes, and a coy but distant smile, wearing diaphanous gowns and sometimes accompanied by swarms of butterflies.
 ---
@@ -52,4 +52,4 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## Relationships
-- **[[Character Link]]:** Brief description of their dynamic.
+- **[[Fandarra]]:** Brief description of their dynamic.
