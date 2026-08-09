@@ -72,7 +72,7 @@
 33. **How has your upbringing shaped your worldview?**
 
 34. **Is your character's family well-off or are they fucking peasants?**
-	they weren't fucking peasants level but also 
+	they weren't fucking peasants level but also not rich noble level well-off. Kind off middle of the road level.
 35. **What is your (tragic) backstory?**
 
 ### **Motivations and morality**
