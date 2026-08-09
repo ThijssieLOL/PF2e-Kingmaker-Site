@@ -125,8 +125,8 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | 3    | I shall be forever grateful you were not born an elf, your presence in this world need not be lengthened. |
 | 4    | Have you considered laying down your weapon? At least it would be hitting something then.                 |
 | 5    | I hope your mother is not as repulsive as you.                                                            |
-| 6    | You are the kind of man that thinks himself a Wyrm, while slithering upon the groun                       |
-|      |                                                                                                           |
+| 6    | You are the kind of man that thinks himself a Wyrm, while slithering upon the ground as a worm.           |
+| 7    |                                                                                                           |
 |      |                                                                                                           |
 |      |                                                                                                           |
 |      |                                                                                                           |
