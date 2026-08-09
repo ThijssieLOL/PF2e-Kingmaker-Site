@@ -8,7 +8,6 @@ faction:
 status: Alive
 ---
 
-# Character Name
 
 ![[firegiant.png|300]]
 

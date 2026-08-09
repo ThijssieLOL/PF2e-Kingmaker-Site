@@ -13,7 +13,7 @@ Edicts: Preach of the upcoming end times, destroy that which has outlived its us
 Anathema: Artificially extend something's existence or life span, spread hope
 status: Alive
 ---
-# Groetus
+
 
 
 ![[Groetus.png|200]]

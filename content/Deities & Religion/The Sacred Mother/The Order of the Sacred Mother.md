@@ -7,7 +7,6 @@ alignment:
 status: Active
 ---
 
-# Faction Name
 
 ![[fandarra.png|200]]
 
