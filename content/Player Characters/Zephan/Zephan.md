@@ -135,8 +135,8 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | 13   | Oh goblins would love you. The sawdust bouncing around in your head instead of a brain would make for great kindling for their little exploits.                                                                  |
 | 14   | You should have been born an halfling. If you are going to be acting like half a man, you might as well look the part.                                                                                           |
 | 15   | You know it is often said that the only reason humans are so successful is the sheer amount of them that exist. Do you then also believe that simply having more of your own fat would make you more prosperous? |
-| 16   | Even a vine leshys hair looks better taken care of than yours.                                                                                                                                                   |
-|      |                                                                                                                                                                                                                  |
+| 16   | Is your barber a vine leshy? Perhaps some twigs and dirt would finish your little look.                                                                                                                          |
+| 17   |                                                                                                                                                                                                                  |
 |      |                                                                                                                                                                                                                  |
 
 
