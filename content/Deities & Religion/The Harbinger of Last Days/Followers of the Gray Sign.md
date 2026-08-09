@@ -41,7 +41,7 @@ The **Followers of the Gray Sign** were a sect of [[Groetus]] who, unlike others
 
 # Behavior and Practices
 
-- **Preaching and Omens:** Members spend their time reading the skies, warning others that the end is near, and waiting for the lunar sign of a skull to shadow Golarion's moon. 
+- **Preaching and Omens:** Members spend their time reading the skies, warning others that the end is near, and waiting for the lunar sign of a skull to shadow Kaelerum's moon. 
 
 - **Mercy and Relief:** They often try to ease worldly suffering or end prolonged pain when they encounter it, which can sometimes manifest as unsettling or unexpected mercy killings.
 
