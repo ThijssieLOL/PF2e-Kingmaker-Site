@@ -25,7 +25,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Titles:** He who watches, The great dreamer, The allfather
 - **Alignment:** Chaotic Good
 - **Areas of concern:** Dreams, Luck, Stars, Travelers
-- **Main followers:** Elves
+- **Main followers:** Elves, Fey
 - **Edicts:** Aid fellow travelers, explore new places, express yourself through art and song, find what life has to offer
 - **Anathema:** Foster despair or terror in the innocent, cast nightmare or use similar magic to corrupt dreams, engage in bigoted behavior
 - **Domains:** Dreams, Fate, Healing, Moon, Water
