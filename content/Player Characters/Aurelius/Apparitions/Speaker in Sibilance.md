@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Speaker in Sibilance
-
 ## Level 1 Spirits
 *Carries the cantrip Puff of Poison and the 1st-rank apparition spell: Ill Omen.*
 

@@ -8,8 +8,6 @@ organization: "[[The Church of the Eternal Blazing Sun]]"
 status: Active
 ---
 
-# The Chancellery of the Outer Horizon
-
 ## Overview
 The Chancellery of the Outer Horizon directs the [[The Church of the Eternal Blazing Sun|Church]]'s presence beyond its borders — diplomacy, foreign policy, and international proselytization. It forges treaties and alliances with benevolent sovereign nations and coordinates covert missionary deployments and humanitarian aid into foreign lands where the Church is outlawed or suppressed.
 

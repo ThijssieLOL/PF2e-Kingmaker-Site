@@ -7,8 +7,6 @@ alignment:
 status: Active
 ---
 
-# Faction Name
-
 ![[Faction Emblem.jpg|300]]
 
 > "A faction motto or creed."

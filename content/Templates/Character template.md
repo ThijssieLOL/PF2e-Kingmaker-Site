@@ -8,8 +8,6 @@ faction:
 status: Alive
 ---
 
-# Character Name
-
 ![[Character Image.jpg|300]]
 
 > "A memorable quote."

@@ -6,8 +6,6 @@ date:
 in_game_date: 
 ---
 
-# Session [Number]: Session Title
-
 > "A notable quote or summary phrase from the session."
 
 ## Overview

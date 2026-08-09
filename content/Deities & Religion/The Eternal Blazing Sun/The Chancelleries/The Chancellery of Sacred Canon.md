@@ -8,8 +8,6 @@ organization: "[[The Church of the Eternal Blazing Sun]]"
 status: Active
 ---
 
-# The Chancellery of Sacred Canon
-
 ## Overview
 The Chancellery of Sacred Canon is the educational and doctrinal pillar of [[The Church of the Eternal Blazing Sun]] — overseer of its schools, seminaries, and theological archives. It guards doctrinal purity and designs and administers the Theological Examinations by which clergy advance through the Grade system.
 

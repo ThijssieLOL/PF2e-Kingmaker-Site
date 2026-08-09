@@ -8,8 +8,6 @@ type: Ocular Trait
 status: Active
 ---
 
-# Ocular of Kaelen
-
 ![[Mandala Eyes on White.png|515]]
 
 ## Overview

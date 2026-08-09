@@ -9,8 +9,6 @@ aliases:
   - Spirit Name
 ---
 
-# Spirit Name
-
 > "A memorable line the spirit speaks, in its own voice."
 
 ## Overview

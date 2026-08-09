@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Witness to Ancient Battles
-
 ## Level 1 Spirits
 *Carries the cantrip Shield and the 1st-rank apparition spell: Sure Strike.*
 

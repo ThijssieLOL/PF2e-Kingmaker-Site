@@ -1,5 +1,6 @@
 ---
 agent-editable: true
+title: The Holy Ground Project
 tags:
   - project
   - lore
@@ -9,8 +10,6 @@ lead_engineer: "[[Lyra]]"
 affiliation: "[[The Church of the Eternal Blazing Sun]]"
 status: In Development
 ---
-
-# The Holy Ground Project
 
 > "..." — [[Aurelius]]
 

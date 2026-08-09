@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Reveler in Lost Glee
-
 ## Level 1 Spirits
 *Carries the cantrip Prestidigitation and the 1st-rank apparition spell: Dizzying Colors.*
 

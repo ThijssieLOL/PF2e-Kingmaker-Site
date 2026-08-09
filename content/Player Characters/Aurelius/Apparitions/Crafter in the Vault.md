@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Crafter in the Vault
-
 ## Level 1 Spirits
 *Carries the cantrip Sigil and the 1st-rank apparition spell: Mending.*
 
