@@ -26,6 +26,23 @@ The **Followers of the Gray Sign** were a sect of [[Groetus]] who, unlike others
 ## Philosophy & Goals
 - **Edicts:** Preach of the upcoming end times, destroy that which has outlived its usefulness, put the suffering out of their misery
 - **Anathema:** Artificially extend something's existence or life span, spread hope
-- **Primary Objective:** Bring the end times sooner rather than do nothing
+- **Primary Objective:** Preach the end times
 
 ---
+# Core Beliefs
+
+- **Inevitable End:** They view the death of the universe the same way they view the death of a mortal—natural, quiet, and eventually arriving for all things.
+
+- **Passive Watchers:** Unlike aggressive doomsday cults, they do not try to speed up the apocalypse.
+
+- **Harbinger vs. Destroyer:** They see Groetus as a warning sign rather than an active weapon of malice.
+
+---
+
+# Behavior and Practices
+
+- **Preaching and Omens:** Members spend their time reading the skies, warning others that the end is near, and waiting for the lunar sign of a skull to shadow Golarion's moon. [[1](https://anyflip.com/kpthp/oqln/basic/51-100), [2](https://www.scribd.com/document/1018404751/Pathfinder-RPG-2e-PZO-Pathfinder-Adventure-Path-Revenge-of-the-Runelords-2)]
+
+- **Mercy and Relief:** They often try to ease worldly suffering or end prolonged pain when they encounter it, which can sometimes manifest as unsettling or unexpected mercy killings. [[1](https://www.dungeonetics.com/gamediary/qatana-marchand/), [2](https://anyflip.com/kpthp/oqln/basic/51-100)]
+
+- **Solitary Nature:** Most followers practice their faith alone or in small, quiet gatherings rather than massive public displays. [[1](https://www.dungeonetics.com/gamediary/qatana-marchand/)]
