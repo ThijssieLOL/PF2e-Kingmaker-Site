@@ -131,7 +131,7 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | 9    | Are you nervous good sir? The amount of sweat you are producing would put even the wettest of merfolk to shame.                                           |
 | 10   | In a land of dragons you choose to serve a snake.                                                                                                         |
 | 11   | You appear to be the strongest of your merry band, i must commend you for that. It is still akin to being the tallest dwarf, but the effort is respected. |
-|      |                                                                                                                                                           |
+| 12   | I would recommend that you not seek out any gnomes. Your ''simple'' personality would put them in the grave in a minute.                                  |
 |      |                                                                                                                                                           |
 |      |                                                                                                                                                           |
 |      |                                                                                                                                                           |
