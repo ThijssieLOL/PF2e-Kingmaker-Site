@@ -108,7 +108,7 @@
 47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?**
 	(see number 46)
 48. **Do you believe in an afterlife(heaven) and do you think you are going to end up there?**
-	Oliver does believe in an afterlife. After death, should one be buried in the earth and a good / decent person, you should arrive into a plane known as 
+	Oliver does believe in an afterlife. After death, should one be buried in the earth and a good / decent person, you should arrive into a plane known as the fields of Parvata. A plane of endless fields of produce and mountains and filled with primitive housing for the inhabitants. th
 ### **Personality and Preferences**
 49. **What is your character's favourite food?**
 
