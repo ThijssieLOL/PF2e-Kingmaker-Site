@@ -118,10 +118,24 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **"All things should be done with elegance."** *Origin:* Henry Henderson from Spy x Family after sucker-punching a guy
 ### Insults
 
-|     |     |
-| --- | --- |
-|     |     |
-|     |     |
-|     |     |
+| d100 | Insult                                                   |
+| ---- | -------------------------------------------------------- |
+| 1    | You are so dimwitted even darkvision could not save you. |
+| 2    | I envy                                                   |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
+|      |                                                          |
 
 
