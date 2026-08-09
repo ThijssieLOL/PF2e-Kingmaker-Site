@@ -40,11 +40,11 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## Personality
-- - **Calm and Nurturing:** Normally patient, gentle, and deeply protective, she acts as a ultimate "mama bear" who cherishes family, community, clanmates, and animals.
+- **Calm and Nurturing:** Normally patient, gentle, and deeply protective, she acts as a ultimate "mama bear" who cherishes family, community, clanmates, and animals.
 
 - **Fiercely Vengeful:** When the natural order or the safety of children and the vulnerable is threatened, her persona shifts instantly to harsh fury, symbolized by the necklace of knives she wears to punish violators.
 
-- **Uncompromising on Balance:** She views pain, blood, and death not as evils, but as vital, sacred parts of existence that must be respected rather than feared or cheated. [[1](https://2e.aonprd.com/Deities.aspx?ID=236)]
+- **Uncompromising on Balance:** She views pain, blood, and death not as evils, but as vital, sacred parts of existence that must be respected rather than feared or cheated. 
 
 
 ---
