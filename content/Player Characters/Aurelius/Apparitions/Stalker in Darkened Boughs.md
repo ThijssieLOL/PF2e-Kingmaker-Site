@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Stalker in Darkened Boughs
-
 ## Level 1 Spirits
 *Carries the cantrip Gouging Claw and the 1st-rank apparition spell: Runic Body.*
 

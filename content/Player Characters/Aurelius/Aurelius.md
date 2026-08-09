@@ -11,8 +11,6 @@ faction: The Church of the Eternal Blazing Sun
 status: Alive
 ---
 
-# Aurelius
-
 ![[Aurelius final design.png|375]]
 
 > "..."

@@ -1,5 +1,6 @@
 ---
 agent-editable: true
+title: "Spirits & Apparitions — Aurelius's Binding Ledger"
 tags:
   - lore
   - spirit
@@ -7,8 +8,6 @@ tags:
 aliases:
   - The Binding Ledger
 ---
-
-# Spirits & Apparitions — Aurelius's Binding Ledger
 
 ## Overview
 

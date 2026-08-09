@@ -7,8 +7,6 @@ organization: "[[The Church of the Eternal Blazing Sun]]"
 status: Active
 ---
 
-# Chancellery Name
-
 ## Overview
 A brief 1-2 sentence summary of what this Chancellery is and its role within the Church.
 

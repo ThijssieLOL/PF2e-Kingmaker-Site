@@ -9,8 +9,6 @@ faction: The Church of the Eternal Blazing Sun
 status: Alive
 ---
 
-# Julian
-
 ![[Julian.png|372]]
 
 > ""

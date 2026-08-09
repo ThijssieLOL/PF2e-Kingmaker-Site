@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Echo of Lost Moments
-
 ## Level 1 Spirits
 *Carries the cantrip Figment and the 1st-rank apparition spell: Déjà Vu.*
 

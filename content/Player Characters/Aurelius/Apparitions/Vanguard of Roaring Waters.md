@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Vanguard of Roaring Waters
-
 ## Level 1 Spirits
 *Carries the cantrip Rousing Splash and the 1st-rank apparition spell: Hydraulic Push.*
 

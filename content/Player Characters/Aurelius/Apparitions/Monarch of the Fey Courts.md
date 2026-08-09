@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Monarch of the Fey Courts
-
 ## Level 1 Spirits
 *Carries the cantrip Tangle Vine and the 1st-rank apparition spell: Charm.*
 

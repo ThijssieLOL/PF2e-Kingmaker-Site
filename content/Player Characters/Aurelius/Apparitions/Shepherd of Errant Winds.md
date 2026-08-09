@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Shepherd of Errant Winds
-
 ## Level 1 Spirits
 *Carries the cantrip Slashing Gust and the 1st-rank apparition spell: Tailwind.*
 

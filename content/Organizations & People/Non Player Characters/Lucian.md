@@ -1,5 +1,6 @@
 ---
 agent-editable: true
+title: Father Lucian Soler
 tags:
   - character
   - npc
@@ -12,8 +13,6 @@ class: Cleric (Warpriest)
 faction: The Church of the Eternal Blazing Sun
 status: Alive
 ---
-
-# Father Lucian Soler
 
 ![[Lucian.png|375]]
 

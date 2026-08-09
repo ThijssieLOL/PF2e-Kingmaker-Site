@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Lamentation of Sinister Deals
-
 ## Level 1 Spirits
 *Carries the cantrip Message and the 1st-rank apparition spell: Sure Strike.*
 

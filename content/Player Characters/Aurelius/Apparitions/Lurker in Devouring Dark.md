@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Lurker in Devouring Dark
-
 ## Level 1 Spirits
 *Carries the cantrip Caustic Blast and the 1st-rank apparition spell: Grim Tendrils.*
 

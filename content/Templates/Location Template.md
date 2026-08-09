@@ -7,8 +7,6 @@ cleared: false
 explored: false
 ---
 
-# Location Name
-
 ![[Location Map.jpg|300]]
 
 > "A brief atmospheric description or quote."

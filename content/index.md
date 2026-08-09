@@ -3,8 +3,6 @@ title: "Pathfinder 2e: Kingmaker Wiki"
 description: "The official campaign wiki for our Pathfinder 2e: Kingmaker campaign, set in the homebrew world of Kaelerum."
 ---
 
-# ☀️ Pathfinder 2e: Kingmaker Wiki
-
 ---
 
 ## 📖 Campaign Overview

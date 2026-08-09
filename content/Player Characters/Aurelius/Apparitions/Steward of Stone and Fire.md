@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Steward of Stone and Fire
-
 ## Level 1 Spirits
 *Carries the cantrip Ignition and the 1st-rank apparition spell: Interposing Earth.*
 

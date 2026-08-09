@@ -8,8 +8,6 @@ organization: "[[The Church of the Eternal Blazing Sun]]"
 status: Active
 ---
 
-# The Chancellery of the Meridian Cadastre
-
 ## Overview
 The Chancellery of the Meridian Cadastre is the administrative backbone of [[The Church of the Eternal Blazing Sun]] — keeper of its registries, its archives, and the lines of fire by which the Church speaks to itself. It records births, deaths, tithes, and land deeds across every archdiocese, and it operates the [[The Church of the Eternal Blazing Sun#The Ember Post|Ember Post]] network that binds the parishes together.
 

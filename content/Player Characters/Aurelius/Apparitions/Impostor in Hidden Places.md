@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Impostor in Hidden Places
-
 ## Level 1 Spirits
 *Carries the cantrip Telekinetic Hand and the 1st-rank apparition spell: Ill Omen.*
 

@@ -9,8 +9,6 @@ aliases:
 status: Active
 ---
 
-# Custodian of Groves and Gardens
-
 ## Level 1 Spirits
 *Carries the cantrip Tangle Vine and the 1st-rank apparition spell: Protector Tree.*
 
