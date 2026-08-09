@@ -55,7 +55,7 @@
 25. **Is your character part of any organization? If so, is this organization known?**
 
 26. **Does your character have many friends?** 
-
+	no, he didnt stay long enou
 27. **Did your character have a mentor? Are they still in contact? What did this mentor teach?** 
 
 28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.**
@@ -74,7 +74,7 @@
 34. **Is your character's family well-off or are they fucking peasants?**
 	they weren't fucking peasants level but also not rich noble level well-off. Kind off middle of the road level.
 35. **What is your (tragic) backstory?**
-
+	see: [[The Strong Bison backstory]]
 ### **Motivations and morality**
 
 36. **Why is your character out adventuring?**
