@@ -246,4 +246,4 @@ tags:
 ---
 
 ### Any additional information you want to share that i didn't ask about or that you think is important:
-- **Answer:** Aurelius maintains a Grade 8 (Cinder) rank within [[The Church of the Eternal Blazing Sun#The Grade System]]. His assignment to the Stolen Lands serves a dual purpose: expanding Church influence via the [[Aurelius#The Holy Ground Project|Holy Ground Project]] while keeping him mobile to prevent the ocular-hunting cabal from tracking his location ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
+- **Answer:** Aurelius maintains a Grade 8 (Cinder) rank within [[The Grade System]]. His assignment to the Stolen Lands serves a dual purpose: expanding Church influence via the [[Aurelius#The Holy Ground Project|Holy Ground Project]] while keeping him mobile to prevent the ocular-hunting cabal from tracking his location ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
