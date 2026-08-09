@@ -127,7 +127,7 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | 5    | I hope your mother is not as repulsive as you.                                                                                                          |
 | 6    | You are the kind of man that thinks himself a Wyrm, while slithering upon the ground as a worm.                                                         |
 | 7    | I wonder how many times I would have to bash my head with a rock to simulate the experience of being in your company. I estimate between 3 and 4 blows. |
-|      |                                                                                                                                                         |
+| 8    |                                                                                                                                                         |
 |      |                                                                                                                                                         |
 |      |                                                                                                                                                         |
 |      |                                                                                                                                                         |
