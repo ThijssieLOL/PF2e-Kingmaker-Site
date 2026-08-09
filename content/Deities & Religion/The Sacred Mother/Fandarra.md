@@ -52,7 +52,7 @@ status: Alive
 ---
 
 ## History
-- **Background:** According to ancient **Kellid** myths **Fandarra** was the very first living being. She did not ascend from mortality; instead, she was birthed directly from the earth’s womb, a legendary primordial cave named Atakal. Local legends claim she underwent immense labor to birth all animals, all people, and most other deities. The blood spilled across Golarion during **Fandarra**’s colossal labors soaked into the pristine dirt, instantly making the soil fertile and causing the world's first plant life to grow.
+- **Background:** According to ancient **Kellid** myths **Fandarra** was the very first living being. She did not ascend from mortality; instead, she was birthed directly from the earth’s womb, a legendary primordial cave named Atakal. Local legends claim she underwent immense labor to birth all animals, all people, and most other deities. The blood spilled across **Kaelerum** during **Fandarra**’s colossal labors soaked into the pristine dirt, instantly making the soil fertile and causing the world's first plant life to grow.
 
 ---
 
