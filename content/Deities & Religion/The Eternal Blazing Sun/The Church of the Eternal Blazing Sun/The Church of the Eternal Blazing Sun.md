@@ -46,15 +46,13 @@ While the church does not seek to rule nations directly, it acts as a moral guar
 
 ---
 
-## The Grade System
+## [[The Grade System]]
 
 The hierarchy of the church is structured around a strict, fire-themed grade system. As a member rises in grade, their titles reflect a larger and more powerful flame. Higher grades grant greater authority, access to restricted archives, higher pay, and easier access to powerful relics and magical items.
 
 - **The Ladder:** From Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself.
 - **Chancellery Requirements:** Every grade from Cinder upward demands active service across an increasing number of Chancelleries.
 - **Ascension Trials:** Advancement is gated by a mandatory theological examination, a combat examination, and a review board.
-
-See [[The Grade System]] for the full ladder, requirements, and trials.
 
 ---
 
@@ -68,11 +66,9 @@ See [[The Grade System]] for the full ladder, requirements, and trials.
 - The church utilizes a formal archdiocese system adapted to the geography of the world, allowing regional bishops and archbishops to manage local parishes while maintaining direct communication with the central headquarters.
 - **Tactical Placement:** The Church is deliberate in siting its houses — churches, and higher-tier churches especially, are placed to reach the greatest number of people for the resources spent, so that the tier of every church tracks the population it serves.
 
-### Church Tiers
+### [[Church Tiers]]
 
 The Church's houses are tiered by the population they serve — from the humble Tier 1 parishes, run by a handful of Cinders, to the unique Tier 5 headquarters. From Tier 2 upward, every church keeps the nine-fold staff, higher tiers are governed by ever-senior clergy, and each upgrade is approved from above.
-
-See [[Church Tiers]] for the full tier ladder, the nine-fold staff, and the main-chancellery system.
 
 ## The Chancelleries
 
@@ -121,11 +117,9 @@ The Church operates with the administrative scale and organizational rigor of a 
 
 ---
 
-## The Ember Post
+## [[The Ember Post]]
 
 The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. No messenger rides and no raven flies — a letter written in the right ink and committed to flame crosses any distance as a swirl of embers, and condenses once more out of the fire of the one it was meant for.
-
-See [[The Ember Post]] for the Rite of Committal, the Prayer of Attunement, and the Hearth Keepers.
 
 ---
 
