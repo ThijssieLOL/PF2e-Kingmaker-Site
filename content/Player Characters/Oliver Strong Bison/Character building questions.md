@@ -60,7 +60,8 @@
 
 28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.**
 	Oliver has a hatred for the [[Heralds of the Moon Incarnate]] because they killed his family and give moon hippies a bad name
-	
+
+	Oliver won a history bar quiz on his way to Restov against the
 29. **Is your character or has your character been in a romantic relationship?**
 	nah
 ### Backstory and Upbringing
