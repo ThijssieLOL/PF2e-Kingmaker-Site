@@ -99,10 +99,10 @@
 
 ### **Religion**
 44. **Is your character religious? If so, what religion do they follow?**
-	yes, he is a member of [[]]
+	yes, he is a follower of [[The Order of the Sacred Mother]] & [[The Church of the Everlasting Moonlight]] due to them often being a package deal
 
 45. **Do they follow a particular god within their religion?**
-
+	his main goddes is [[Fandarra]], tho [[Ymir]] is a clo
 46. **What is their opinion on people of other religions?**
 
 47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?**
