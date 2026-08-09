@@ -46,10 +46,10 @@
 	Mama is een human barbarian, papa is een elf scholar. Samen zijn ze allebei dood doing dead people things
 	Zijn nieuwe adoptive moms zijn 2 giants en hij heeft 2 uncles die ook giants zijn.
 	[[Zagaakwa Ezhaayin]] is de voornamelijke adoptieve moeder, [[Bapakine Iwe Ishkode]] is in zijn ogen een mean uncle maar doet hard om Oliver sterk te maken. [[Daga Manoo]] is chill uncle and goes with the flow. [[Niigani Wewidun]] mama is giving absent mom vibes want heeft vaak belangrijkere dingen om te doen dan om Oliver te geven.
-22. Does your character have any siblings? What is your character's relationship with them? 
-
+22. **Does your character have any siblings? What is your character's relationship with them?** 
+	he does not
 23. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
-
+	Oliver was part of the Kellid clan: The Strong Bisons. The Strong Bisons
 24. What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?
 
 25. Is your character part of any organization? If so, is this organization known?
