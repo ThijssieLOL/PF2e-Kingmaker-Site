@@ -21,7 +21,7 @@ status: Alive
 > "from the earth we once came and to the earth we shall one day return"
 
 ## Overview
-Fandarra (sometimes bearing the title of the Blood Mother, the Earth Mother, or Mother of All) is the giant god of blood, the cycle of life, knowledge, and fertility. Followers claim that all animals, all people, and all deities were born from her. Though most acts of piety in her name are performed by stone giants, many other types of giants, and even humans in cold climates or mountainous terrain, worship her in some way, shape, or form as well. 
+Fandarra (sometimes bearing the title of the Blood Mother, the Earth Mother, or Mother of All) is the giant god of blood, the cycle of life, knowledge, and fertility. Followers claim that all animals, all people, and most deities were born from her. Though most acts of piety in her name are performed by stone giants, many other types of giants, and even humans in cold climates or mountainous terrain, worship her in some way, shape, or form as well. 
   
 Fandarra’s worshippers value balance and care deeply for family, regardless of if they’re related by blood. Clanmates, friends, and even pets are considered family by followers of Fandarra. Most of her ecclesiastics are clerics and druids, donning her religious symbol of a crescent moon rising up from behind a mountain.
 
@@ -52,7 +52,7 @@ Fandarra’s worshippers value balance and care deeply for family, regardless of
 ---
 
 ## History
-- **Background:** According to ancient Kellid myths Fandarra was the very first living being. She did not ascend from mortality; instead, she was birthed directly from the earth’s womb, a legendary primordial cave named **Atakal**
+- **Background:** According to ancient Kellid myths Fandarra was the very first living being. She did not ascend from mortality; instead, she was birthed directly from the earth’s womb, a legendary primordial cave named Atakal. Local legends claim she underwent immense labor to birth all animals, all people, and most other deities. The blood spilled across Golarion during Fandarra’s colossal labors soaked into the pristine dirt, instantly making the soil fertile and causing the world's first plant life to grow.
 
 ---
 
