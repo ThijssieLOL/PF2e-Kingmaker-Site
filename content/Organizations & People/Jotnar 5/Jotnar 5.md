@@ -1,9 +1,9 @@
 ---
 tags:
   - faction
-leader: 
-headquarters: 
-alignment: 
+leader: "[[Niigani Wewidun]]"
+headquarters:
+alignment:
 status: Active
 ---
 
@@ -16,7 +16,7 @@ status: Active
 A brief 1-2 sentence summary of what this faction is and its main role.
 
 ### Quick Facts
-- **Leader:** 
+- **Leader:** [[Niigani Wewidun]]
 - **Headquarters:** 
 - **Alignment:** 
 - **Affiliation / Alliances:** 
