@@ -37,8 +37,9 @@
 18. **How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?**
 	[[Bapakine Iwe Ishkode]] heeft lil Oliver elke dag 8u warfare drills laten doen sinds hij 10 is zodat Oliver zichzelf goed kon verdedigen.
 19. How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
-	Oliver heeft vooral training ervaring. hij heeft wel wat combat 
+	Oliver heeft vooral training ervaring. hij heeft wel wat combat ervaring maar own his own heeft hij vooral low level bandit ervaring
 20. Does your character have rules or a code of honor for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?
+	
 
 ### Family and Relationships
 21. Describe your character's parents. Are they still alive? What are they doing now? 
