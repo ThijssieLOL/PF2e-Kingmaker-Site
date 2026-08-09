@@ -10,9 +10,9 @@
 	Lore: Heralds of the moon incarnate (heb ik niet op lvl 1 maar pas op 3, voor de cult hunten                                                                                   enzo mis leuk als voorbij komt?)
 4. **What [[Languages|languages]] does your character speak and why?**
 	Common (anders kan ik niet met de party praten, also geforceerd had geen keuze)
-	Elf (Aiuvarin)
-	Fey (geleerd door adoptie mama)
-	Jotun (adopted by giants)
+	Elvish (Aiuvarin)
+	Ymir (geleerd door adoptie mama)
+	Darrowain (adopted by giants)
 	Hallit (born into barbarian clan, raised till 8yo)
 
 ### Visual Design and Aesthetics
