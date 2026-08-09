@@ -121,8 +121,8 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | d100 | Insult                                                   |
 | ---- | -------------------------------------------------------- |
 | 1    | You are so dimwitted even darkvision could not save you. |
-| 2    | I envy                                                   |
-|      |                                                          |
+| 2    | I pity the trees that supply your oxygen.                |
+| 3    | I shall be forever gratefull you were not born an elf.   |
 |      |                                                          |
 |      |                                                          |
 |      |                                                          |
