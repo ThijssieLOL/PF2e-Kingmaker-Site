@@ -12,7 +12,7 @@ deity: "[[Groetus]]"
 
 ![[greysign.png|200]]
 
-> "Tomorrow is a lie"
+> "The end is nigh"
 
 ## Overview
 The **Followers of the Gray Sign** were a sect of [[Groetus]] who, unlike others, considered him a harbinger of the end times rather than a destroyer. They preached about the end of the world but without taking actions that would hasten it, so most of society didn't see them as dangerous but rather as depressed and gloomy people who wanted everything to end.
