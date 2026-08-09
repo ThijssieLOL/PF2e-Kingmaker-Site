@@ -93,11 +93,13 @@
 	Friends yes, others ehh? Depends
 42. **How would you describe your character's moral compass?**
 	hopelijk beter dan P9-K0...
-	gonna try for noble / generall
+	gonna try for noble / generally good person
 43. **Where does your character draw the line? When do the ends stop justifying the means?**
+	wanneer de (innocent) deaths > de levens die je probeert te redden
 
 ### **Religion**
 44. **Is your character religious? If so, what religion do they follow?**
+	yes, he is a member of [[]]
 
 45. **Do they follow a particular god within their religion?**
 
