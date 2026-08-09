@@ -102,11 +102,13 @@ To advance to a higher grade, a member of the clergy must meet strict power and 
 
 The Church's houses are tiered by the population they serve — higher tiers rarer, larger, and more heavily staffed, so that outreach and expenditure stay proportionate. Only one Tier 5 house exists: the headquarters itself.
 
-- **Tier 1 — Parish:** The smallest houses, serving villages and hamlets. A Tier 1 church requires no resident Grade 7 (Blaze) priest; it is run by a small resident staff — as few as two clergy — under the joint oversight of the diocese's Grade 6 (Ignis) clergy.
-- **Tier 2 — Nine-Fold Church:** The standard major church, and the only tier bound by the nine-fold staff. Presided over by a Grade 4 (Vesta).
-- **Tier 3 — Cathedral:** City churches and cathedral-parishes, presided over by a Grade 3 (Zenith), fielding multiple members per chancellery — each growing into a small department with its own workspace, ledgers, and deputies.
-- **Tier 4 — Metropolitan Cathedral:** The great cathedrals of the faith's largest cities, presided over by a Grade 2 (Solstice).
+- **Tier 1 — Parish:** The smallest houses, serving villages and hamlets. A Tier 1 church requires no resident Grade 7 (Blaze) priest; it is run by multiple Grade 8 (Cinder) clergy — as few as two in the humblest settlement.
+- **Tier 2 — Nine-Fold Church:** The standard major church, and the only tier bound by the nine-fold staff. Presided over by a Grade 7 (Blaze) parish priest.
+- **Tier 3 — Cathedral:** City churches and cathedral-parishes, the seat of a Grade 6 (Ignis) bishop, fielding multiple members per chancellery — each growing into a small department with its own workspace, ledgers, and deputies.
+- **Tier 4 — Metropolitan Cathedral:** The great cathedrals of the faith's largest cities, presided over by a Grade 5 (Pyre) archbishop.
 - **Tier 5 — The Headquarters:** The single seat of the Church's central administration, from which the Grade 2 (Solstice) leads the faith.
+
+A church rises in tier only with approval from above: the Tier 1–2 upgrade by a Grade 4 (Vesta), the Tier 2–3 by a Grade 3 (Zenith), and the Tier 3–4 by a Grade 2 (Solstice).
 
 #### The Nine-Fold Staff (Tier 2)
 
