@@ -16,7 +16,7 @@ status: Alive
 ---
 
 
-![[Fandarra.jpg|200]]
+![[Fandarraface.png|200]]
 
 > "from the earth we once came and to the earth we shall one day return"
 
