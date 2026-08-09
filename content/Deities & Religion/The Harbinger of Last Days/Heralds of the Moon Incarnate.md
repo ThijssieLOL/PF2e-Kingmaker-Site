@@ -36,4 +36,5 @@ The **Heralds of the Moon Incarnate** are the cult of **Kaelerum** most intent o
 - **The Selection**: They believe that when the last soul is judged and the multiverse collapses, [[Groetus]] will act as a cosmic vessel. He will gather and shelter the greatest essences of the current world such as legendary heroes, infamous villains, ancient dragons, and fundamental elements. 
 - **Rebirth and Ascension**: [[Groetus]] will distill these preserved essences into purer, refined forms. When a new reality is forged from the ashes, these saved souls will become its very first gods and structural materials.
 - **The Goal**: Cult members seek to aggressively hasten the apocalypse to bring about this perfect next world sooner, firmly believing that their own souls are destined to inherit divine status in the next cycle. 
+
 ---
