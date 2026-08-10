@@ -141,6 +141,6 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | 19   | Is this pathetic excuse for footwork supposed to be one of those cat folk dances? I apologise but i'm afraid you actually have to appear charming to pull them of.                                               |
 | 20   | Your demeanor gives me reason to suspect you envy something hanging underneath about half of centaurs.                                                                                                           |
 | 21   | Might I say, you seem like the kind of man with a self confidence **so** low that you would need a pep talk to end your own life.                                                                                |
-| 22   | You have the sharp tongue of a mime and the appearence of a clown, yet you see your                                                                                                                              |
+| 22   | You have the sharp tongue of a mime and the unsightly appearance of a clown, yet you see yourself worthy of engaging with me? Perhaps I should ad the unearned confidence of a jester to that list.              |
 |      |                                                                                                                                                                                                                  |
 
