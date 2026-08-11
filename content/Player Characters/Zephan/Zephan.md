@@ -116,7 +116,7 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **''And now, the moment you’ve all been waiting for: Me.”** _Origin:_ Inspired by _Doctor Who_
 - **“A tragic ending? For _me_? Oh, the audience would riot.”** _Origin:_ Meta-theatrical commentary
 - **"All things should be done with elegance."** *Origin:* Henry Henderson from Spy x Family after sucker-punching a guy
-- **"Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan''** *Origin:* Pipi Lanmk
+- **"Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan''** *Origin:* Pippi Langkous
 - 
 ### Insults
 
@@ -143,6 +143,7 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 | 19   | Is this pathetic excuse for footwork supposed to be one of those cat folk dances? I apologise but i'm afraid you actually have to appear charming to pull them of.                                               |
 | 20   | Your demeanor makes it hard to decide if you would look upon that hanging beneath the body of a centaur with lust or envy. Perhaps a bit of both?                                                                |
 | 21   | Might I say, you seem like the kind of man with a self confidence **so** low that you would need a pep talk to end your own life.                                                                                |
-| 22   | You have the sharp tongue of a mime and the unsightly appearance of a clown, yet you see yourself worthy of engaging with me? Perhaps I should ad the unearned confidence of a jester to that list.              |
+| 22   | You have the sharp tongue of a mime and the unsightly appearance of a clown, yet you see yourself worthy of engaging with me? Perhaps I should add the unearned confidence of a jester to that list.             |
+| 23   |                                                                                                                                                                                                                  |
 |      |                                                                                                                                                                                                                  |
 
