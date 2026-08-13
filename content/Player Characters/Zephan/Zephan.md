@@ -147,6 +147,6 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 21   | Might I say, you seem like the kind of man with a self confidence **so** low that you would need a pep talk to end your own life.                                                                                |
 | 22   | You have the sharp tongue of a mime and the unsightly appearance of a clown, yet you see yourself worthy of engaging with me? Perhaps I should add the unearned confidence of a jester to that list.             |
 | 23   | Wow. That performance was so sad it might even make a Fetchling smile, and that's saying something                                                                                                               |
-| 24   |                                                                                                                                                                                                                  |
+| 24   | You know I can't                                                                                                                                                                                                 |
 |      |                                                                                                                                                                                                                  |
 
