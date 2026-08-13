@@ -118,7 +118,7 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **"All things should be done with elegance."** *Origin:* Henry Henderson from Spy x Family after sucker-punching a guy
 - **"Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan''** *Origin:* Pippi Langkous
 ### Music
-
+Im not obsessed shut up: https://open.spotify.com/playlist/5m7mmnk1Q6DIqczNSXrFE0?si=177fdbd0aa0e457c 
 ### Insults
 
 | d100 | Insult                                                                                                                                                                                                           |
