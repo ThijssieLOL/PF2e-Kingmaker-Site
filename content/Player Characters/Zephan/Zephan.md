@@ -119,6 +119,7 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **"Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan''** *Origin:* Pippi Langkous
 ### Music
 Im not obsessed shut up: https://open.spotify.com/playlist/5m7mmnk1Q6DIqczNSXrFE0?si=177fdbd0aa0e457c 
+Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar uit welke welke is.
 ### Insults
 
 | d100 | Insult                                                                                                                                                                                                           |
