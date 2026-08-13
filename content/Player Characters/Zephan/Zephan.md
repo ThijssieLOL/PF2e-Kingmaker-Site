@@ -117,7 +117,8 @@ Zephan the lived his life on the road for many years. He traveled from town to t
 - **“A tragic ending? For _me_? Oh, the audience would riot.”** _Origin:_ Meta-theatrical commentary
 - **"All things should be done with elegance."** *Origin:* Henry Henderson from Spy x Family after sucker-punching a guy
 - **"Ik heb het nog nooit gedaan, dus ik denk dat ik het wel kan''** *Origin:* Pippi Langkous
-- 
+### Music
+
 ### Insults
 
 | d100 | Insult                                                                                                                                                                                                           |
