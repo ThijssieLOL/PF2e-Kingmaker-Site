@@ -64,7 +64,7 @@ Finally the final and absolute worst day, the only upside, being the severe tort
 
 7. They gave selion a special drug in which made him throw up all of his organs through his throat in a very slow and painfull process until nothing was left inside of his body but muscle and skin, then force feeding him an embryo. This embryo used selions hollowed skin as a birthing place, growing faster and faster, eating away at the flesh of selion, until it was clawing and wriggeling around in his body, until finally starting to claw and eat its way to the outside, breaking selions ribcage in the process and bursting out of selions chest and from this birthed a new demon, made out of selions anguish
 
-The moment the final second past of the 172 hours of consecutive torture his soul was brough back to his body where he started the ritual, but with the memories of 
+The moment the final second past of the 172 hours of consecutive torture his soul was brought back to his body where he started the ritual, but with the memories of the anguish, the pain, what for him felt as 7 days, in reality only 7 minutes had passed out here in the real world. As he stood there in complete shock from what happened, 
 
 
 
