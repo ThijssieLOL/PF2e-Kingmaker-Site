@@ -6,7 +6,10 @@ Above is what Selion looks like as a firm believer as the order of the Phoenix. 
 ## His complete backstory. 
 
 **Child years**
-Selion grew up with his father Volantile Helisar who was a necromancer because his mother died while giving birth to Selion, out far away from cities. Selion was always fascinated by his fathers magic of necromancy and began studying this magic at the age of 10. The more he learned about necromancy the more fascinated he became and the more experiments he conducted. He even started implementing his own poisonous blood with his magic to see the effects it had. The more Selion dabbled around with necromancy the more of a stronger connection he felt with the souls of the dead and all the Thralls he creates. Occasionally there also came a man to the cabin. He had a very nice demeanour to him and he was always incredibly friendly. There was nothing extraordinary about him other then his clothes bearing the symbol of a flaming skull drinking blood. He would always speak with Volantile in the room upstairs. 1 day he said it was his final time visiting and gave a book to Volantile.
+Selion grew up with his father Volantile Helisar who was a necromancer because his mother died while giving birth to Selion, out far away from cities. Selion was always fascinated by his fathers magic of necromancy and began studying this magic at the age of 4. The more he learned about necromancy the more fascinated he became and the more experiments he conducted. The more Selion dabbled around with necromancy the more of a stronger connection he felt with the souls of the dead and all the Thralls he creates. Occasionally there also came a man to the cabin. He had a very nice demeanour to him and he was always incredibly friendly. There was nothing extraordinary about him other then his clothes bearing the symbol of a flaming skull drinking blood. He would always speak with Volantile in the room upstairs. 1 day he said it was his final time visiting and gave a book to Volantile. However when Selion turned 8 everything went to hell
+
+The start
+
 
 
 
