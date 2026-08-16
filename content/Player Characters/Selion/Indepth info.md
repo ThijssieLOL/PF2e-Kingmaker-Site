@@ -11,7 +11,7 @@ Selion grew up with his father Volantile Helisar who was a necromancer because h
 **The start**
 One day when selion was 8 years old he was out playing in the forest by himself enjoying the nice summery breeze, warm rays of the sun and the chirping of the birds. Until he came across a sheet of paper. Nothing out of the ordinary was on it, other then the fact it appeared to be a summoning ritual for some type of spirit. Selion being the gullible kid he was was intrigued by the ritual and wanted to perform it, so he decided on a nice spot in the forest where no one could interrupt him as he started the summoning ritual. What he didn't know than, was that this was his greatest mistake he ever made in life for it wasn't a summoning ritual, but a ritual to transport your soul as a physical body that cannot be killed, down into the darkest pits of hell where he than experienced torture far beyond means that were meant for anyone.
 
-!!TW
+!!TW: Gore!!(I'm not kidding if you can't handle gore stuff that well I'd advise scroll past the next section)
 
 
 
