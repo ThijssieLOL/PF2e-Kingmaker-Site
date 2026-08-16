@@ -11,7 +11,7 @@ Selion grew up with his father Volantile Helisar who was a necromancer because h
 **The start**
 One day when selion was 8 years old he was out playing in the forest by himself enjoying the nice summery breeze, warm rays of the sun and the chirping of the birds. Until he came across a sheet of paper. Nothing out of the ordinary was on it, other then the fact it appeared to be a summoning ritual for some type of spirit. Selion being the gullible kid he was was intrigued by the ritual and wanted to perform it, so he decided on a nice spot in the forest where no one could interrupt him as he started the summoning ritual. What he didn't know than, was that this was his greatest mistake he ever made in life for it wasn't a summoning ritual, but a ritual to transport your soul as a physical body that cannot be killed, down into the darkest pits of hell where he than experienced torture far beyond means that were meant for anyone representing the 7 deadly sins.
 
-# !!TW: Gore!!(I'm not kidding if you can't handle gore related things, I'd advise scroll past the next section)
+# !!TW: Gore!!(I'm not kidding if you can't handle gore related things, I'd advise scroll past the next section and continue on from "aftermath")
 
 7 days in hell
 
@@ -69,7 +69,7 @@ The moment the final second past of the 172 hours of consecutive torture his sou
 **The aftermath**
 After Selion returned from hell, he didn't dare move a step as he was crawled up in a ball laying on the ground, not even daring to cry for it would remind him of all the things related to eyes. He laid there motionless for 2 days until his father finally found him. But his father couldn't do anything, for the mere sight of his father would send Selion into a severe panic attack. So his father not knowing what happened decided to try and leave food for selion. This way he learned that whenever he would give meat selion would be in a panic attack and throw the plate away. So Volantile started bringing only fruits and vegetables, which Selion finally decided to eat after his body hadn't eaten for 4 days. Finally after laying 2 weeks out in the wild Selion had the strength to walk back home again. But it didn't become better. It took Selion 2 years until he finally managed to start behaving normal, having conversations, eating regularly and going back to his hobby's. 
 
-
+**Rehab**
 
 
 
