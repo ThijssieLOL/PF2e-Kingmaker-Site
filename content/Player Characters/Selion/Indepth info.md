@@ -67,7 +67,7 @@ Finally the final and absolute worst day, the only upside, being the severe tort
 The moment the final second past of the 172 hours of consecutive torture his soul was brought back to his body where he started the ritual, but with the memories of the anguish, the pain, what for him felt as 7 days, in reality only 7 minutes had passed out here in the real world. As he stood there in complete shock from what happened, the moment he regained his senses his eyes started raining with tears and he had to throw up, both of which actions caused him severe ptsd for it reminded him as of what happend.
 
 **The aftermath**
-After Selion returned from hell, he didn't dare move a step as he was crawled up in a ball laying on the ground, not even daring to cry for it would remind him of all the things related to eyes. He laid there motionless for 2 days until his father finally found him. But his father couldn't do anything, for the mere sight of his father would send Selion into a severe panic attack took another 3 days of time before selion dared to move again back home. 
+After Selion returned from hell, he didn't dare move a step as he was crawled up in a ball laying on the ground, not even daring to cry for it would remind him of all the things related to eyes. He laid there motionless for 2 days until his father finally found him. But his father couldn't do anything, for the mere sight of his father would send Selion into a severe panic attack. So his father not knowing what happened decided to try and leave food for selion. This way he learned that whenever he would give meat selion would took another 3 days of time before selion dared to move again back home. 
 
 
 
