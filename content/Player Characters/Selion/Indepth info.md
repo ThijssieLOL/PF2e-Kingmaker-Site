@@ -9,7 +9,7 @@ Above is what Selion looks like as a firm believer as the order of the Phoenix. 
 Selion grew up with his father Volantile Helisar who was a necromancer because his mother died while giving birth to Selion, out far away from cities. Selion was always fascinated by his fathers magic of necromancy and began studying this magic at the age of 4. The more he learned about necromancy the more fascinated he became and the more experiments he conducted. The more Selion dabbled around with necromancy the more of a stronger connection he felt with the souls of the dead and all the Thralls he creates. Occasionally there also came a man to the cabin. He had a very nice demeanour to him and he was always incredibly friendly. There was nothing extraordinary about him other then his clothes bearing the symbol of a flaming skull drinking blood. He would always speak with Volantile in the room upstairs. 1 day he said it was his final time visiting and gave a book to Volantile. However when Selion turned 8 everything went to hell
 
 **The start**
-One day when selion was 8 years old he was out playing in the forest by himself enjoying the nice summery breeze 
+One day when selion was 8 years old he was out playing in the forest by himself enjoying the nice summery breeze, warm rays of the sun and the chirping of the birds. Until he came across a sheet of paper. Nothing out of the ordinary was on it, other then the fact i
 
 
 
