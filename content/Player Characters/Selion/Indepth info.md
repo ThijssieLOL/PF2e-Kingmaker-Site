@@ -15,7 +15,7 @@ One day when selion was 8 years old he was out playing in the forest by himself 
 
 7 days in hell 7 deadly sins 7 minutes irl 
 
-1. Pride:
+ 1.**Pride:**
 Day 1 of suffering in hell Selion had to experience the consequences of the sin of pride. He was forced to lift ginornous weights for 24 hours. In those 24 hours he felt all his bones compress and break 1 by 1 till selion was breathing in his own blood, 1 of his eyes popped out. He lifted those weights for 24 hours with bones broken, suffocating on his own blood and eyes popped out.
 
 2. Sloth:
