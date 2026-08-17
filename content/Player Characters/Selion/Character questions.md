@@ -1,7 +1,7 @@
 1. What is your character’s class
     Necromancer
 2. What is your character’s species/race(Ancestry)
-    Vishkanya
+    Human
 3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
     lore of spirits and undead
 4. What [[Languages|languages]] does your character speak and why?
@@ -16,7 +16,7 @@
 7. Is your character well groomed? Do they bathe often? Do they brush their teeth?
     they take their hygiene very seriously and make sure they are bathe and good smelling breath.
 8. Does your character have a condition or other distinction that makes them different from others of their race/species.
-    unlike the rest of his species he has glowing fiery hair in a orange red demeanour. 
+    unlike the rest of his species he has glowing fiery hair in a orange red demeanour and greyish skin. 
 9. What is your character’s clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the of wearing something new every day?
     they only wear their clothes granted by the church for it is battle ready and is supposed to represent their sun goddess
 10. Does your character have a particular set of nice clothes? If so, what does it look like?
