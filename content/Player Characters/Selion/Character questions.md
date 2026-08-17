@@ -121,7 +121,7 @@ Skip this section if your character has no magic/can’t cast spells.
 ### Personality and Preferences
 
 49. What is your character’s favourite food?
-     sun dried tomato's
+     sun dried tomato's/pancakes
 50. What is your character’s favourite drink?
      orange juice
 51. Does your character have a favourite colour or colour group?
@@ -135,7 +135,7 @@ Skip this section if your character has no magic/can’t cast spells.
 55. What does your character like to spend their free time on if they have a break from adventuring?
      they like to spend time in the wild enjoying the sun
 56. What is your character’s worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?
-     their are scared of caves that are cramped for it resembles the trauma from his past
+     they're scared of caves that are cramped for it resembles the trauma from his past
 57. What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?
      their worst fear is ending like their father did
 58. What is your character’s biggest pet peeve?
