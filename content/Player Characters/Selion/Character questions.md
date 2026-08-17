@@ -14,7 +14,7 @@
 6. What notable physical features does your character have? Impressive scars, unusual hair colour or glamorous tattoos and piercings, what makes your character’s look distinct.
     he has black tattoo lines representing his past sins, glowing fiery hair, clothes representing the sun, 2 scars on his face in the colour of the sun, earrings, bracelet and a ring for fashion 
 7. Is your character well groomed? Do they bathe often? Do they brush their teeth?
-    they take their hygiene very seriously and make sure they are bathe and good smelling breath.
+    they take their hygiene very seriously and make sure they are bathe and good smelling breath because otherwise it would give him partial reminders to his trauma.
 8. Does your character have a condition or other distinction that makes them different from others of their race/species.
     unlike the rest of his species he has glowing fiery hair in a orange red demeanour and greyish skin. 
 9. What is your character’s clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the of wearing something new every day?
@@ -135,7 +135,7 @@ Skip this section if your character has no magic/can’t cast spells.
 55. What does your character like to spend their free time on if they have a break from adventuring?
      they like to spend time in the wild enjoying the sun
 56. What is your character’s worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?
-     they're scared of caves that are cramped for it resembles the trauma from his past
+     they're scared of going back into hell
 57. What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?
      their worst fear is ending like their father did
 58. What is your character’s biggest pet peeve?
