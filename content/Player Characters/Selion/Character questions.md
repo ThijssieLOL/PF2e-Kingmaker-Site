@@ -143,7 +143,7 @@ Skip this section if your character has no magic/can’t cast spells.
 59. Do you have any bad or annoying habits?
      they are a bit too obsessed with their goddess and will talk about her a lot
 60. Sweet, sour, salty or bitter?
-     salty
+     sweet
 61. Soldier, Poet or King?
      soldier
 62. What is your character’s most controversial opinion? Do they have any true hot takes?
