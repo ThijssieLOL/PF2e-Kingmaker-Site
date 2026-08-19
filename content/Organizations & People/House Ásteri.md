@@ -3,8 +3,8 @@ tags:
   - faction
   - location
 leader: Lyra Ásteri and Castor Ásteri
-headquarters:
-alignment:
+headquarters: Lowell
+alignment: Lawful Good
 status: Active
 ---
 
