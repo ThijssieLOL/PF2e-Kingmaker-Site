@@ -27,7 +27,7 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 ---
 
 ## Geography and Demographics
-- **Hierarchy:** (How the leadership and organization are structured)
+- **Geography:** (In what city or town does this noble house lie and what terrain characterises it)
 
 ---
 
