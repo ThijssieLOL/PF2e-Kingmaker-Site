@@ -9,7 +9,7 @@ status: Active
 
 ![[CoaMaker 1.png]]
 
-> "A House motto or creed."
+> "As the stars foretold."
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
@@ -18,7 +18,7 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 - **Leader:** Lyra Ásteri and Castor Ásteri
 - **Headquarters:** Lowell
 - **Alignment:** Lawfull good
-- **Affiliation / Alliances:** [The Everlasting Moonlight
+- **Affiliation / Alliances:** [[The Church of the Everlasting Moonlight]]
 
 ## Founding and Lore
 - **Founding** (Their ideology, values, and guiding principles)
