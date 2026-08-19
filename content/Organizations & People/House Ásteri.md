@@ -2,8 +2,8 @@
 tags:
   - faction
 Current leaders: Lyra Ásteri and Castor Ásteri
-headquarters:
-alignment:
+headquarters: Lowell
+alignment: Lawful Good
 status: Active
 ---
 
