@@ -7,8 +7,6 @@ alignment: Lawful Good
 status: Active
 ---
 
-![[!CoaMaker.png]]
-
 ![[CoaMaker 1.png]]
 
 > "A House motto or creed."
