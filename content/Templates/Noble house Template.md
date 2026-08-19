@@ -9,7 +9,7 @@ status: Active
 
 ![[Faction Emblem.jpg|300]]
 
-> "A faction motto or creed."
+> "A House motto or creed."
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
