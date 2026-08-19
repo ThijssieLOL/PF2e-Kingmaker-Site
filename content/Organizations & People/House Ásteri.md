@@ -9,7 +9,7 @@ status: Active
 
 ![[CoaMaker 1.png]]
 
-> "As the stars foretold."
+> "As the stars foretold - ."
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
