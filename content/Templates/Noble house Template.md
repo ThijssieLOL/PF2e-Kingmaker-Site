@@ -26,7 +26,7 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 
 ---
 
-## Structure & Ranks
+## Geography and Demographics
 - **Hierarchy:** (How the leadership and organization are structured)
 
 ---
