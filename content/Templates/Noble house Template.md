@@ -21,8 +21,8 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 - **Affiliation / Alliances:** 
 
 ## Founding and Lore
-- **Founding** (Their ideology, values, and guiding principles)
-- **History:** (What the organization is trying to achieve)
+- **Founding** (Are there any myths or legends surounding the founding of this house?)
+- **History:** (Important current or historical events surrounding this house)
 
 ---
 
