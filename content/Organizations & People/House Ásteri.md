@@ -7,7 +7,9 @@ alignment: Lawful Good
 status: Active
 ---
 
-![[Faction Emblem.jpg|300]]
+![[!CoaMaker.png]]
+
+![[CoaMaker 1.png]]
 
 > "A House motto or creed."
 
