@@ -21,15 +21,15 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 - **Affiliation / Alliances:** 
 
 ## Founding and Lore
-- **Core Beliefs:** (Their ideology, values, and guiding principles)
-- **Primary Objective:** (What the organization is trying to achieve)
+- **Founding** (Their ideology, values, and guiding principles)
+- **History:** (What the organization is trying to achieve)
 
 ---
 
-## Geography and Demographics
+## Geography, Economy and Demographics
 - **Geography:** (In what city or town does this noble house lie and what terrain surrounds it)
-- **Demographics:** (What kinds of species live in )
 - 
+- **Demographics:** (What kinds of species live in and under this noble house)
 
 ---
 
