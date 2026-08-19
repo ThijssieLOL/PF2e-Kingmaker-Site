@@ -2,7 +2,7 @@
 tags:
   - faction
   - location
-leader: Lyra Ásteri
+leader: Lyra Ásteri and Castor Ásteri
 headquarters:
 alignment:
 status: Active
