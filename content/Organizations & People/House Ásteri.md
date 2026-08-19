@@ -15,10 +15,10 @@ status: Active
 A brief 1-2 sentence summary of what this faction is and its main role.
 
 ### Quick Facts
-- **Leader:** 
-- **Headquarters:** 
-- **Alignment:** 
-- **Affiliation / Alliances:** 
+- **Leader:** Lyra Ásteri and Castor Ásteri
+- **Headquarters:** Lowell
+- **Alignment:** Lawfull good
+- **Affiliation / Alliances:** [The Everlasting Moonlight
 
 ## Founding and Lore
 - **Founding** (Their ideology, values, and guiding principles)
