@@ -28,7 +28,7 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 
 ## Geography, Economy and Demographics
 - **Geography:** (In what city or town does this noble house lie and what terrain surrounds it)
-- 
+- **Economy**: (How do the people under this house earn a living.)
 - **Demographics:** (What kinds of species live in and under this noble house)
 
 ---
