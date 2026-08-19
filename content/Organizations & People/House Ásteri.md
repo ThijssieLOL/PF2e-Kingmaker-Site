@@ -1,34 +1,35 @@
 ---
 tags:
   - faction
-  - location
-leader: Lyra Ásteri and Castor Ásteri
-headquarters: Lowell
-alignment: Lawful Good
+Current leaders: Lyra Ásteri and Castor Ásteri
+headquarters:
+alignment:
 status: Active
 ---
 
 ![[Faction Emblem.jpg|300]]
 
-> "A faction motto or creed."
+> "A House motto or creed."
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
 
 ### Quick Facts
-- **Leaders:** Lyra Ásteri and Castor Ásteri
-- **Headquarters:** Lowell
+- **Leader:** 
+- **Headquarters:** 
 - **Alignment:** 
 - **Affiliation / Alliances:** 
 
-## Philosophy & Goals
-- **Core Beliefs:** (Their ideology, values, and guiding principles)
-- **Primary Objective:** (What the organization is trying to achieve)
+## Founding and Lore
+- **Founding** (Their ideology, values, and guiding principles)
+- **History:** (What the organization is trying to achieve)
 
 ---
 
-## Structure & Ranks
-- **Hierarchy:** (How the leadership and organization are structured)
+## Geography, Economy and Demographics
+- **Geography:** (In what city or town does this noble house lie and what terrain surrounds it)
+- **Economy**: (How do the people under this house earn a living.)
+- **Demographics:** (What kinds of species live in and under this noble house)
 
 ---
 
