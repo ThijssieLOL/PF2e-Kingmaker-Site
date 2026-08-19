@@ -1,9 +1,10 @@
 ---
 tags:
   - faction
-leader: 
-headquarters: 
-alignment: 
+  - location
+leader: Lyra Ásteri
+headquarters:
+alignment:
 status: Active
 ---
 
