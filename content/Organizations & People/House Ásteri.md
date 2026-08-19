@@ -9,7 +9,7 @@ status: Active
 
 ![[CoaMaker 1.png]]
 
-> "As the stars foretold - FounderDorotheus ."
+> "As the stars foretold - Founder Dorotheus Ásteri."
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
