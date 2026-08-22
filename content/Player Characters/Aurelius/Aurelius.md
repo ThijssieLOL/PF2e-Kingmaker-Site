@@ -18,7 +18,7 @@ status: Alive
 
 ## Overview
 
-Aurelius is a religious warrior-philosopher living a delicate double life. By day, he presents himself as a soft-spoken, scholarly missionary, scribe, and teacher of scriptures; by night, he operates as a lethal, spirit-binding divine commando forged within [[The Chancellery of Silent Illumination]]. Gifted—and cursed—from birth with a rare spiritual sight, he bears the scars and alchemical marks of past atrocities. Driven by a quest for redemption, he seeks to establish a realm in the Stolen Lands governed by balanced law, divine cleansing, and political harmony.
+Aurelius is a religious warrior-philosopher living a delicate double life. By day, he presents himself as a soft-spoken, scholarly missionary, scribe, and teacher of scriptures; by night, he operates as a lethal, spirit-binding divine commando forged within [[The Chancellery of Silent Illumination]]. Gifted—and cursed—from birth with a rare spiritual sight, he bears the scars and alchemical marks of past atrocities. Driven by a quest for redemption, he aims to help shape the political future of the Stolen Lands — not to rule, but to steer the institutions of the new realm toward the sun goddess's light, furthering the Church's political and spiritual ambitions.
 
 ### Quick Facts
 - **Full Name:** Aurelius (Nickname: Leo)
@@ -83,10 +83,14 @@ Inscribed across his forearms and shins are intricate, dark tattoos styling trad
 
 ## Political & Spiritual Philosophy
 
+Aurelius reads power the way other scholars read scripture. His exceptional Wisdom grants him an almost intuitive grasp of game theory and political theory: he perceives incentives, alliances, and the long arcs of institutions before they take shape in practice, reasoning about them with the same fluency he brings to theology. This is not ambition for its own sake — he has no desire for a crown. His aim is to help shape the political system of the Stolen Lands so that its very structure furthers the Church's political and spiritual ambitions, weaving the sun goddess's light into the foundations of the new realm. He holds theories readily, but treats them as hypotheses to be tested against circumstance, not blueprints to impose.
+
 ### The [[Trias Politicas]]
-Aurelius is the author and champion of the *Trias Politicas*, a tri-fold governance theory designed to prevent tyranny and maintain eternal stability in a kingdom.
+The *Trias Politicas* is one of Aurelius's more elaborate theories — a tri-fold governance model he authored to prevent tyranny and maintain eternal stability in a kingdom, and the framework he advocates where conditions allow. It is not the master plan of his life.
 - **Separation of Governance:** Power must be divided into three equal, self-balancing pillars: the **Crown** (Executive Law & Civil Administration), the **Military** (External Defense & Order), and the **Church** (Moral Judgment & Spiritual Guidance).
 - **The Clerical Vow:** Aurelius firmly believes that members of the clergy must never sit upon a throne or hold direct secular office. Their sacred duty is to advise, balance, and judge rulers from within the Church, ensuring power remains uncorrupted.
+
+His deeper loyalty lies with the sun goddess's ambitions, not with any particular constitution. Where the Trias proves impractical, he is quick to adapt — the goal is a kingdom whose governance serves the Church, whatever form that governance takes.
 
 ### The [[Holy Ground Project]]
 In collaboration with Church researchers, Aurelius aims to establish consecrated holy zones across the frontier capable of purifying lingering corruption, pacifying hostile spirits, and harboring safe havens for civilization.
@@ -132,7 +136,7 @@ Two years prior to the grand exploration charter, Aurelius began experiencing se
 Determined to answer this calling, Aurelius engineered an unprecedented administrative transition:
 - **The Bureaucratic Transfer:** He formally applied for a transfer from [[The Chancellery of Silent Illumination]] to [[The Chancellery of the Outer Horizon]] to serve as an official missionary on the Stolen Lands charter.
 - **The Selection Trial:** Though Church leaders initially worried his covert commando background made him ill-suited for frontier diplomacy, [[Lucian]] successfully argued that his unique blend of scholarly diplomacy, spirit-binding, and deadly self-defense made him the ultimate candidate for dangerous uncharted lands.
-- **Strategic Vision:** Aurelius views the frontier as a blank canvas to construct a nation guided by his [[Trias Politicas]] while field-testing the [[Holy Ground Project]].
+- **Strategic Vision:** Aurelius views the frontier as fertile ground for the Church — an opportunity to help shape the new nation's institutions so they further the sun goddess's political and spiritual ambitions, field-testing his theories (the [[Trias Politicas]] foremost among them) and the [[Holy Ground Project]].
 - **Hidden Protection:** Beyond divine destiny, Church high command quietly approved his assignment for security: a mobile missionary moving through the wilderness is exponentially harder for the ocular-hunting cabal to track than a high-ranking priest residing in a city cathedral.
 
 ---

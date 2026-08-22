@@ -124,7 +124,7 @@ tags:
 - **Answer:** He received a comprehensive education in [[The Chancellery of Silent Illumination#Training Curriculum & Education]], studying theology, divine magic and martial combat, ... ([[Aurelius#Upbringing in The Chancellery of Silent Illumination]]).
 
 - **33. How has your upbringing shaped your worldview?**
-- **Answer:** His tragic past and strict commando upbringing made him deeply disciplined, committed to divine redemption, and cautious of tyranny, inspiring his governance theory ([[Aurelius#Political & Spiritual Philosophy]], [[Aurelius#Personality & Psychology]]).
+- **Answer:** His tragic past and strict commando upbringing made him deeply disciplined, committed to divine redemption, and cautious of tyranny, inspiring his political theories ([[Aurelius#Political & Spiritual Philosophy]], [[Aurelius#Personality & Psychology]]).
 
 - **34. Is your character's family well-off or are they fucking peasants?**
 - **Answer:** Fucking peasants.
@@ -140,13 +140,13 @@ tags:
 - **Answer:** Follow high-planar spiritual whispers calling him to the Stolen Lands, and field-test his political and spiritual projects ([[Aurelius#Overview]], [[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
 
 - **37. Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?**
-- **Answer:** As an official missionary under [[The Chancellery of the Outer Horizon]], his goal is to help build a kingdom guided by the [[Aurelius#The Trias Politicas|Trias Politicas]] and test the [[Aurelius#The Holy Ground Project|Holy Ground Project]] ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
+- **Answer:** As an official missionary under [[The Chancellery of the Outer Horizon]], his goal is to help shape the new kingdom's political institutions so they further the Church's political and spiritual ambitions — testing his political theories (the [[Aurelius#The Trias Politicas|Trias Politicas]] foremost among them) and the [[Aurelius#The Holy Ground Project|Holy Ground Project]] ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
 
 - **38. What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?**
 - **Answer:** Magister (Flavored as the role of High Priest)
 
 - **39. How does your character think a country should be run?**
-- **Answer:** Through his [[Aurelius#The Trias Politicas|Trias Politicas]] model: power split equally between the Crown (Civil Law), Military (Defense), and Church (Moral Guidance), with clergy strictly forbidden from holding executive political thrones ([[Aurelius#The Trias Politicas]]).
+- **Answer:** He holds no single rigid blueprint — he reads each realm's circumstances with his intuitive grasp of political theory and adapts. His preferred theoretical model is the [[Aurelius#The Trias Politicas|Trias Politicas]]: power split equally between the Crown (Civil Law), Military (Defense), and Church (Moral Guidance), with clergy strictly forbidden from holding executive political thrones ([[Aurelius#The Trias Politicas]]).
 
 - **40. What are, in your opinion, the fundamental rights a citizen of your country should have?**
 - **Answer:** Apart from the basic human right; freedom from poverty, protection from undead threats and tyranny, the right to redemption, and governance free from state wealth hoarding ([[The Church of the Eternal Blazing Sun#Political & Economic Philosophy]], [[Aurelius#Political & Spiritual Philosophy]]).

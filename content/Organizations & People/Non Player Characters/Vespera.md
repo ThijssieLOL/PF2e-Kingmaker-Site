@@ -45,4 +45,4 @@ Vespera is the quiet, analytical mind of the cohort, serving as an Intelligence 
 ---
 
 ## Relationships
-- **[[Aurelius]]:** Vespera and Aurelius share a strong intellectual bond, but they frequently debate political theory. While Aurelius focuses on the moral balance of his *Trias Politicas*, Vespera constantly challenges him on the practical, logistical realities of implementing such a system in a wild frontier.
+- **[[Aurelius]]:** Vespera and Aurelius share a strong intellectual bond, but they frequently debate political theory. While Aurelius theorizes grand frameworks like his *Trias Politicas*, Vespera constantly challenges him on the practical, logistical realities of implementing such systems in a wild frontier.

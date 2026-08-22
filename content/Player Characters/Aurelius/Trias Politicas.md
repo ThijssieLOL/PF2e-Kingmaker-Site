@@ -6,7 +6,7 @@ tags:
 ---
 
 ## Overview
-The **Trias Politicas** is the political and governance philosophy championed by [[Aurelius]]. It advocates for a strict, three-faction separation of power designed to prevent any single group from seizing absolute control over a kingdom, ensuring that human law, military order, and divine cleansing work in balanced harmony.
+The **Trias Politicas** is a political and governance theory developed by [[Aurelius]] — one hypothesis among the many he holds, not the central ambition of his life. It advocates for a strict, three-faction separation of power designed to prevent any single group from seizing absolute control over a kingdom, ensuring that human law, military order, and divine cleansing work in balanced harmony.
 
 ## The Three Factions
 
@@ -32,3 +32,6 @@ If the government ignores the Moral Veto, the Church utilizes a tiered system of
 
 ### 4. Theological Synthesis
 When political allies deadlock, Aurelius advocates for the writing of highly intellectual, scholastic essays to find a logical, middle-ground compromise. He firmly believes that members of the clergy (including himself) must never accept the crown; their place is strictly to guide and judge from within the Church.
+
+## A Theory, Not a Doctrine
+Aurelius treats the Trias Politicas as a hypothesis to be tested, not a blueprint to impose. He advocates it where a fledgling realm's circumstances allow, but his true ambition is not any single constitution — it is to help shape whatever political system rises in the Stolen Lands so that it furthers the Church's political and spiritual ambitions.

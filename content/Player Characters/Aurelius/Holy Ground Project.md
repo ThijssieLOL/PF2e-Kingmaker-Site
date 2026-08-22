@@ -16,7 +16,7 @@ status: In Development
 ## Overview
 The **Holy Ground Project** is the ultimate magical, spiritual, and political ambition of [[Aurelius]]. Conceived as a theoretical, kingdom-scale spiritual defense network, the project aims to permanently shield entire mortal populations from spiritual corruption, parasitic entity possession, and undead incursions.
 
-By synthesizing divine theology, animist spirit manipulation, and advanced alchemical engineering, the project constructs a massive interconnected grid of solar-prism batteries and spiritual nodes across a nation's borders. Beyond its protective capabilities, the system integrates a manual political override designed to enforce Aurelius's philosophical framework, the [[Trias Politicas]], ensuring that national security remains tied to moral governance.
+By synthesizing divine theology, animist spirit manipulation, and advanced alchemical engineering, the project constructs a massive interconnected grid of solar-prism batteries and spiritual nodes across a nation's borders. Beyond its protective capabilities, the system integrates a manual political override aligned with Aurelius's preferred political framework, the [[Trias Politicas]], ensuring that national security remains tied to moral governance.
 
 ---
 
