@@ -170,9 +170,9 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 ### Other Orthodox Churches
 - **The Concordance of True Faiths:** The church maintains diplomatic relations with other mainstream, benevolent deities. However, its interactions are often characterized by a gentle, patronizing condescension, as the church firmly believes the sun goddess represents the absolute pinnacle of moral goodness.
 
-### The Grand Order of the Phoenix
+### [[The Grand Order of the Phoenix]]
 
-A smaller denomination that split from the church on good terms and remains in its good graces. It venerates the same sun goddess and upholds the same core creed, departing from orthodoxy in practice rather than doctrine — most notably in its blood-blessed tradition of thrall-binding, a holy necromancy that never touches the dead. For the Order's doctrine, hierarchy, and members, see [[The Grand Order of the Phoenix]].
+A smaller denomination that split from the church on good terms and remains in its good graces. It venerates the same sun goddess and upholds the same core creed, departing from orthodoxy in practice rather than doctrine — most notably in its blood-blessed tradition of thrall-binding, a holy necromancy that never touches the dead.
 
 ### Cults & Heresies
 - **Cults of False Gods:** Cults dedicated to demon lords, evil deities, or entities that practice sacrifice and necromancy are viewed as absolute threats. The church actively deploys its intelligence and military arms to dismantle them.

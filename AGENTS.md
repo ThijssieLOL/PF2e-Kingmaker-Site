@@ -98,6 +98,10 @@ and offer what you CAN do instead.
   Julian, Lyra, Lucian), the party (Zephan, Selion, and the other PCs).
 - **Extend, don't overwrite.** If your idea contradicts an existing note, flag it to the user
   instead of silently rewriting canon.
+- **Link placement (wiki-fandom style):** when a section introduces or summarises a dedicated
+  note, hyperlink the section heading itself (e.g. `### [[Note Name]]`). Never write
+  "see [[Note]]" or "(see ...)" as a pointer; if a link is needed in the body, place it on a
+  meaningful word or phrase instead.
 
 ## 7. Workflow (follow every time)
 

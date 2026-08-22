@@ -33,7 +33,7 @@ The Grand Order of the Phoenix is a smaller denomination of [[The Church of the 
 
 ## Doctrine & Practices
 
-- **The Amicable Schism:** At some point in the church's long history, a body of clergy and faithful parted from the main hierarchy over differences in how the goddess's grace is best expressed in the arts of life and death. The split was conducted without enmity; the Order keeps its own clergy and hierarchy, and the main church continues to recognize its members as fellow faithful rather than heretics.
+- **The Amicable Schism:** At some point in the church's long history, a body of clergy and faithful parted from the main hierarchy over differences in ... . The split was conducted without enmity; the Order keeps its own clergy and hierarchy, and the main church continues to recognize its members as fellow faithful rather than heretics.
 - **Blood-Blessed Binding:** The Order's most distinctive tradition is a holy necromancy that never touches the dead. Its practitioners bind living thralls — summoned guardians wreathed in a dim holy light — and infuse them with their own blood, so that each thrall carries a measure of its binder's will and can be turned against the unrighteous. Because no corpse is raised and no soul is disturbed, the Order holds its art to be blessed by the goddess's grace rather than a mockery of the deceased; the church does not practice the art itself, but neither does it number it among the anathema of undeath.
 
 ---
