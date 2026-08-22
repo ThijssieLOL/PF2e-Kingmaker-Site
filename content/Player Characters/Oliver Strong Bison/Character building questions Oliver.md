@@ -82,7 +82,7 @@
 36. **Why is your character out adventuring?**
 		to find more info about the Heralds of the Moon Incarnate
 37. **Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?**
-
+	Oliver had geleerd dat de Heralds in de stolen lands zijn en wilt rustig info ku
 38. **What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?**
 	Realistisch gezien general? Of warden als 2de optie. Hij zou een sterk leger willen hebben niet perse om andere mensen over te nemen / aanvallen maar om kingdom te kunnen beschermen tegen outside threats zowel mensen als creatures
 39. **How does your character think a country should be run?**
