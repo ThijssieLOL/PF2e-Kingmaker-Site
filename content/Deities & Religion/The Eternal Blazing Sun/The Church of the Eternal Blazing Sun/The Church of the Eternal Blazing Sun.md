@@ -170,9 +170,18 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 ### Other Orthodox Churches
 - **The Concordance of True Faiths:** The church maintains diplomatic relations with other mainstream, benevolent deities. However, its interactions are often characterized by a gentle, patronizing condescension, as the church firmly believes the sun goddess represents the absolute pinnacle of moral goodness.
 
+### The Grand Order of the Phoenix
+
+Not every faithful flame burns within the orthodox hierarchy. The Grand Order of the Phoenix is a smaller denomination that split from the church on good terms, and it remains in the church's good graces to this day. It venerates the same sun goddess, upholds the same core creed — the supremacy of the Eternal Blazing Sun, the promise of the Sunlit Fields, and the sacred duty to protect those who cannot protect themselves — and greets its fellows with the same solar circle. Where it departs from orthodoxy is in practice, not doctrine.
+
+- **The Amicable Schism:** At some point in the church's long history, a body of clergy and faithful parted from the main hierarchy over differences in how the goddess's grace is best expressed in the arts of life and death. The split was conducted without enmity; the Order keeps its own clergy and hierarchy, and the main church continues to recognize its members as fellow faithful rather than heretics.
+- **Blood-Blessed Binding:** The Order's most distinctive tradition is a holy necromancy that never touches the dead. Its practitioners bind living thralls — summoned guardians wreathed in a dim holy light — and infuse them with their own blood, so that each thrall carries a measure of its binder's will and can be turned against the unrighteous. Because no corpse is raised and no soul is disturbed, the Order holds its art to be blessed by the goddess's grace rather than a mockery of the deceased; the church does not practice the art itself, but neither does it number it among the anathema of undeath.
+- **The Purity of the Sun:** The Order teaches that under the grace of the sun, no filth should exist. Cleanliness of body, dress, and spirit is upheld as a form of worship, and its adherents are known to keep themselves immaculate even on the longest campaign.
+- **Notable Members:** The Order counts among its members [[Selion]], a necromancer who binds blood-infused thralls rather than ever raising the dead.
+
 ### Cults & Heresies
 - **Cults of False Gods:** Cults dedicated to demon lords, evil deities, or entities that practice sacrifice and necromancy are viewed as absolute threats. The church actively deploys its intelligence and military arms to dismantle them.
-- **The Heretical Sun Sect:** A vague, rival sun-worshipping sect exists that conflicts with the church's orthodox teachings [Details of this heresy are yet to be fully established].
+- **The Heretical Sun Sect:** A vague, rival sun-worshipping sect exists that conflicts with the church's orthodox teachings — distinct from the Grand Order of the Phoenix, which split amicably and remains in good standing [Details of this heresy are yet to be fully established].
 
 ### Magic & Secularists
 - **Atheists & Agnostics:** Viewed as either misled, ignorant, or lacking exposure to the goddess's light. The church prioritizes missionary work to educate them.
