@@ -125,7 +125,7 @@
 55. **What does your character like to spend their free time on if they have a break from adventuring?**
 	Readinf books
 56. **What is your character's worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?**
-
+	pteronophobia
 57. **What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?**
 
 58. **What is your character's biggest pet peeve?** 
