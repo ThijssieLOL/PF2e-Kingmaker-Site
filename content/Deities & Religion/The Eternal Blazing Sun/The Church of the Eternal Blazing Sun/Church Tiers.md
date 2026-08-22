@@ -28,10 +28,6 @@ Every Cinder (Grade 8) must hold active assignment to a Chancellery, so a Tier 2
 - **Sharing:** Clergy may serve several churches at once — save the responsible of a seat, who serves only the church to which they are attached.
 - **Filling the Seats:** A parish may recruit locally and submit the candidate for approval, or receive an appointment from the higher orders; a seat fallen empty is filled by transfer from the wider Church.
 
-## Chapels & Shrines
-
-A village chapel too small for even a Tier 1 staff is served on circuit by the nearest full church, whose chancellery members ride out to tend the shrine's flock and return with the day's records.
-
 ## The Main Chancellery
 
 Most local churches carry a single **main chancellery** — the pillar that founded, endowed, or champions that house. Such a church becomes the regional hub in its area for that chancellery: the seat of its local leadership, its training grounds, its storehouses, and the first address of its faithful across the surrounding land.
