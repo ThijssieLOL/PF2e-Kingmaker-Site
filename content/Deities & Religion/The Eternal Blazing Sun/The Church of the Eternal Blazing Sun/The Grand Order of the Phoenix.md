@@ -53,4 +53,4 @@ The Grand Order of the Phoenix is a smaller denomination of [[The Church of the 
 ## Relations
 
 - **[[The Church of the Eternal Blazing Sun]]:** The Order split amicably and remains in good standing — a kindred denomination, not a heresy. The main church does not practice the Order's binding arts, but neither does it condemn them.
-- **The Heretical Sun Sect:** Distinct from the Order; the rival sect conflicts with orthodox teachings and shares no such good standing.
+- **False Brethren:** The heresies that trouble the church are not rival sects but groups that falsely claim to belong to it. The Order split openly and remains in good standing; these impostors share none of that standing.
