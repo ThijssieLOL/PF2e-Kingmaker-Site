@@ -1,4 +1,4 @@
-### Humble
+### Humble Beginnings
 [[Oliver Strong Bison|Oliver]] was born in a small Kellid village in the mountains of **Kaelerum**, the son of a human barbarian woman named (**Mother**) and an elven man named (**Father**). His family belonged to the **Strong Bison Clan**, and [[Oliver Strong Bison|Oliver]] grew up surrounded by the close-knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, (**Friend**) and (**Friend**). For the first eight years of his life, [[Oliver Strong Bison|Oliver]] knew little of the world beyond his village.
 
 Then came the [[Heralds of the Moon Incarnate]].
@@ -25,8 +25,8 @@ The man walked away, leaving [[Oliver Strong Bison|Oliver]] alive among the dead
 
 That moment would stay with him for the rest of his life.
 
-  
-  
+  --- 
+### The Aftermath
 
 By the time the battle ended, most of the village had been slaughtered. Only a handful of survivors managed to escape the burning settlement.
 
