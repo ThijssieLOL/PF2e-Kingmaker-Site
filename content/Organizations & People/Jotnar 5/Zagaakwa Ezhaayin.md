@@ -21,9 +21,9 @@ A brief 1-2 sentence summary of who this character is and their role.
 ### Quick Facts
 - **Full Name:** Zagaakwaa ezhaayin // *The forest is dense where you are going.*
 - **Ancestry/Species:** Forest Giant
-- **Class/Profession:** 
+- **Class/Profession:** Druid
 - **Affiliation:** [[Jotnar Five]]
-- **Role/Rank:** 
+- **Role/Rank:** Naturalist and Keeper of the Wilds
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
