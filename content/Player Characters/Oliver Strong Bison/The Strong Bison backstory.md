@@ -118,15 +118,15 @@ Together, the four gave **Oliver** an education that no ordinary school could ha
 
 For the next decade, **Oliver** travelled with the [[Jotnar Five|Jotnar Four]].
 
-They fought powerful monsters, explored ancient ruins, crossed dangerous wilderness, became involved in wars they probably should have avoided, and occasionally found themselves fighting creatures that were far beyond Oliver's ability to defeat.
+They fought powerful monsters, explored ancient ruins, crossed dangerous wilderness, became involved in wars they probably should have avoided, and occasionally found themselves fighting creatures that were far beyond **Oliver**'s ability to defeat.
 
-Oliver was rarely the strongest member of the party.
+**Oliver** was rarely the strongest member of the party.
 
 He wasn't the most powerful.
 
 He wasn't even particularly intimidating.
 
-For most of his early adventuring career, Oliver's primary contribution to combat could best be described as **“being there.”**
+For most of his early adventuring career, Oliver's primary contribution to combat could best be described as “being there.”
 
 He stayed toward the back of the group, offered encouragement, patched people up when he could, shouted warnings, and occasionally managed to land a surprisingly effective blow.
 
