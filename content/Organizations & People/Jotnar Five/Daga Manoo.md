@@ -62,7 +62,19 @@ In battle, **Daga** fights unpredictably. He doesn't have [[Bapakine Iwe Ishkode
 ---
 
 ## History
-- **Background:** (Their past, how they got here, and what they want to achieve)
+**Daga** was born among the tide giants who lived along the great coasts of the world. He spent his youth travelling between islands and coastal settlements before eventually joining a crew of explorers.
+
+He became infamous for abandoning perfectly good ships because he "didn't like the captain's vibe."
+
+Eventually, his wandering brought him together with Zagaakwaa, Bapakine, and Niigani.
+
+Daga never intended to stay with them.
+
+He simply... did.
+
+Decades later, he still occasionally disappears without telling anyone where he is going.
+
+He always comes back.
 
 ---
 
