@@ -87,12 +87,25 @@ They had become a family.
 ---
 
 ## Structure & Ranks
-- **Hierarchy:** 
-  [[Niigani Wewidun|Niigani]] serves as the group's official leader and primary decision-maker when the four cannot agree. Her authority comes less from rank and more from the trust the others have placed in her over decades.
+The Fourfold Hearth is a large secluded lodge hidden deep within an ancient wilderness.
+
+The building itself reflects the personalities of its inhabitants.
+
+- **Zagaakwaa's side** is surrounded by gardens, trees, medicinal plants, and small wildlife.
+- **Bapakine's section** contains an enormous forge capable of producing weapons and armor sized for giants.
+- **Daga's section** contains maps, nautical charts, strange souvenirs, musical instruments, and objects he insists are valuable.
+- **Niigani's section** contains a small shrine, meditation chamber, library, and open balcony where she can observe the sky.
+- **Oliver** has a room situated between all four sections, deliberately chosen so that he can reach any of them easily.
+
+At the center of the home is a massive communal hall where the five eat together.
+
+The Fourfold Hearth is one of the few places where the Jotnar Four aren't legendary adventurers.
+
+They're simply home.
 
 ---
 
-## Structure & Ranks
+## Resources
 Despite their lack of formal wealth, the Jotnar Four have accumulated considerable resources throughout their decades of adventuring.
 
 These include:
@@ -108,6 +121,4 @@ These include:
 - Favors owed by powerful individuals
 - A vast collection of stories, secrets, and information
 
-Their greatest resource, however, is their reputation.
-
-A village that cannot afford an army might still be able to send word to the Jotnar Four and if the Four decide the cause is worth fighting for, help will come.
+Their greatest resource, however, is their reputation. A village that cannot afford an army might still be able to send word to the Jotnar Four and if the Four decide the cause is worth fighting for, help will come.
