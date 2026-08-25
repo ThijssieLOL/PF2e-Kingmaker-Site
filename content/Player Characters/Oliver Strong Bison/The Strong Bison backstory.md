@@ -1,12 +1,12 @@
-Oliver was born in a small **Kellid** village in the forests of **Kaelerum**, the son of a human barbarian woman named **(Mother)** and an elven man named **(Father)**. His family belonged to the **(Clan)** clan, and Oliver grew up surrounded by the close-knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, **(Friend)** and **(Friend)**.
+Oliver was born in a small **Kellid** village in the forests of **Kaelerum**, the son of a human barbarian woman named **(Mother)** and an elven man named **(Father)**. His family belonged to the **Strong ** clan, and Oliver grew up surrounded by the close-knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, **(Friend)** and **(Friend)**.
 
-For the first eight years of his life, Oliver knew little of the world beyond his village.
+For the first eight years of his life, **Oliver** knew little of the world beyond his village.
 
 Then came the [[Heralds of the Moon Incarnate]].
 
-The cult had come to the village searching for something, or someone, and brought with them a ritual that would forever change Oliver's life. The Heralds summoned a legion of demons into the village, unleashing them upon the unsuspecting inhabitants. The cultists themselves joined the slaughter as homes burned and villagers were torn apart.
+The cult had come to the village searching for something, or someone, and brought with them a ritual that would forever change **Oliver**'s life. The Heralds summoned a legion of demons into the village, unleashing them upon the unsuspecting inhabitants. The cultists themselves joined the slaughter as homes burned and villagers were torn apart.
 
-Oliver remembers very little of the battle itself.
+**Oliver** remembers very little of the battle itself.
 
 He remembers the screams.
 
@@ -14,15 +14,15 @@ He remembers the fire.
 
 And he remembers **him**.
 
-Among the chaos stood a bald man wearing a great fur coat, a long scar running from his forehead down toward his eye. Oliver watched helplessly as the man killed his family.
+Among the chaos stood a bald man wearing a great fur coat, a long scar running from his forehead down toward his eye. **Oliver** watched helplessly as the man killed his family.
 
-For a brief moment, Oliver had the opportunity to fight back.
+For a brief moment, **Oliver** had the opportunity to fight back.
 
 He was too afraid.
 
 He froze.
 
-The man walked away, leaving Oliver alive among the dead.
+The man walked away, leaving **Oliver** alive among the dead.
 
 That moment would stay with him for the rest of his life.
 
