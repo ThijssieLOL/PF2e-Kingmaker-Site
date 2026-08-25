@@ -158,17 +158,17 @@ A scar running from his forehead to his eye.
 
 The man who killed his family.
 
-[[Oliver]] has never learned who he was.
+[[Oliver Strong Bison|Oliver]] has never learned who he was.
 
 Until one day, one of the Jotnar discovers a lead.
 
-Rumors have begun circulating about the **Heralds of the Moon Incarnate** operating within the **Stolen Lands**. The evidence is incomplete, but there are enough similarities to the cult that destroyed Oliver's village to make the Jotnar take the rumors seriously.
+Rumors have begun circulating about the [[Heralds of the Moon Incarnate]] operating within the **Stolen Lands**. The evidence is incomplete, but there are enough similarities to the cult that destroyed [[Oliver Strong Bison|Oliver]]'s village to make the Jotnar take the rumors seriously.
 
-Oliver immediately volunteers to investigate.
+[[Oliver Strong Bison|Oliver]] immediately volunteers to investigate.
 
 The others initially hesitate. They know what the Heralds mean to him, and they fear that confronting the people responsible for his childhood trauma may reopen wounds he has spent decades learning to live with.
 
-Oliver insists.
+[[Oliver Strong Bison|Oliver]] insists.
 
 This time, he will not freeze.
 
