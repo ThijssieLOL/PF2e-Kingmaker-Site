@@ -51,4 +51,28 @@ She carries an enormous spear that crackles with pale lightning. The weapon rese
 ---
 
 ## Relationships
-- **[[Character Link]]:** Brief description of their dynamic.
+- Zagaakwa Ezhaayin: Zagaakwaa is Niigani's romantic partner. Their relationship is quiet, mature, and deeply intimate. They share an almost instinctive understanding of one another.
+
+  Niigani is one of the few people who can sit beside Zagaakwaa in complete silence without feeling the need to fill it. Zagaakwaa, in turn, is one of the few people who can see past Niigani's role as leader and recognize when she is tired, frightened, or carrying too much responsibility.
+
+  Their relationship mirrors their respective philosophies: storm and forest, change and growth, sky and earth.
+
+  They often spend evenings together away from the others, discussing spirituality, mortality, nature, and the strange ways civilizations attempt to understand the world.
+
+  Niigani is somewhat more openly affectionate, while Zagaakwaa expresses her affection through small gestures—bringing Niigani flowers, repairing pieces of her equipment, sitting beside her during quiet moments, or simply making sure she has eaten.
+
+- Bapakine Iwe Ishkode: Niigani is the group's counterbalance to Bapakine's temper. She respects his strength and loyalty but frequently reminds him that winning a battle doesn't necessarily mean making the correct decision.
+
+- Daga Manoo: Daga is her greatest source of headaches.
+
+She has spent decades trying to convince him that disappearing without telling anyone where he is going is not reasonable behavior.
+
+She has failed.
+
+Oliver Strong Bison: Niigani became Oliver's moral and spiritual guide. She taught him about gods, cultures, diplomacy, responsibility, and the consequences of wielding power.
+
+She is also the most openly affectionate toward him.
+
+Of all four giants, Niigani was perhaps the first to understand that Oliver wasn't merely a child they had rescued.
+
+He was family.
