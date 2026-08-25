@@ -73,14 +73,14 @@ A particularly distinctive feature is the enormous living staff she carries. The
 ---
 
 ## Relationships
-- [[Bapakine Iwe Ishkode]]: Their philosophies clash constantly. Bapakine believes things can be improved through craftsmanship, discipline, and force, while Zagaakwaa believes some things should simply be allowed to grow according to their own nature. Their arguments can last for hours. Despite this, she trusts him completely and considers him one of her oldest friends.
+- [[Bapakine Iwe Ishkode]]: Their philosophies clash constantly. **Bapakine** believes things can be improved through craftsmanship, discipline, and force, while **Zagaakwaa** believes some things should simply be allowed to grow according to their own nature. Their arguments can last for hours. Despite this, she trusts him completely and considers him one of her oldest friends.
 
-- [[Daga Manoo]]: Daga is one of the few people capable of dragging Zagaakwaa out of her contemplative nature. She frequently pretends to be annoyed by his antics, but she genuinely enjoys having him around.
+- [[Daga Manoo]]: **Daga** is one of the few people capable of dragging **Zagaakwaa** out of her contemplative nature. She frequently pretends to be annoyed by his antics, but she genuinely enjoys having him around.
 
-- [[Niigani Wewidun]]: Niigani is Zagaakwaa's romantic partner. Their relationship is quiet, deeply affectionate, and built on an enormous amount of mutual understanding. Neither of them is particularly dramatic about their affection. They can sit together for hours without speaking and consider it perfectly good company.**
+- [[Niigani Wewidun]]: **Niigani** is **Zagaakwaa**'s romantic partner. Their relationship is quiet, deeply affectionate, and built on an enormous amount of mutual understanding. Neither of them is particularly dramatic about their affection. They can sit together for hours without speaking and consider it perfectly good company.**
 
-  Their philosophies complement one another beautifully. Zagaakwaa understands the natural world and its cycles, while Niigani understands the spiritual and moral responsibilities that come with power. They frequently discuss nature, gods, mortality, and the responsibilities of those powerful enough to change the world.
+  Their philosophies complement one another beautifully. **Zagaakwaa** understands the natural world and its cycles, while **Niigani** understands the spiritual and moral responsibilities that come with power. They frequently discuss nature, gods, mortality, and the responsibilities of those powerful enough to change the world.
 
-  Zagaakwaa tends to be the quieter and more withdrawn one in the relationship, while Niigani is more openly affectionate.
+  **Zagaakwaa** tends to be the quieter and more withdrawn one in the relationship, while Niigani is more openly affectionate.
 
-- [[Oliver Strong Bison]]: Zagaakwaa became Oliver's first teacher. She taught him survival, patience, tracking, plants, animals, and the importance of observing before acting. She sees Oliver as a son, although she rarely says so aloud.
+- [[Oliver Strong Bison]]: **Zagaakwaa** became **Oliver**'s first teacher. She taught him survival, patience, tracking, plants, animals, and the importance of observing before acting. She sees **Oliver** as a son, although she rarely says so aloud.
