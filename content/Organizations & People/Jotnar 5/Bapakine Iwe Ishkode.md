@@ -65,20 +65,10 @@ His hands and forearms glow with intense orange heat when he works at a forge, a
 
   Neither threat is particularly convincing anymore.
 
-Underneath the bickering, however, their relationship is exceptionally strong. Daga is one of the few people who can make Bapakine genuinely relax, while Bapakine provides Daga with the stability and reliability that his wandering nature sometimes lacks.
+  Underneath the bickering, however, their relationship is exceptionally strong. Daga is one of the few people who can make Bapakine genuinely relax, while Bapakine provides Daga with the stability and reliability that his wandering nature sometimes lacks.
 
-Daga disappears.
+- [[Niigani Wewidun]]: **Niigani** is one of the few people capable of talking **Bapakine** down when his temper becomes dangerous. He respects her judgment enormously, even when he disagrees with her.
 
-Bapakine complains.
+- [[Oliver Strong Bison]]: **Bapakine** became **Oliver**'s combat instructor and mentor in smithing. He was brutally demanding, making **Oliver** repeat techniques hundreds of times until they became instinctive. Despite his harsh teaching methods, **Bapakine** is fiercely proud of **Oliver**.
 
-Daga eventually comes back.
-
-Bapakine always has food waiting for him.
-
-Neither of them talks about this arrangement.
-
-- Niigani Wewidun: Niigani is one of the few people capable of talking Bapakine down when his temper becomes dangerous. He respects her judgment enormously, even when he disagrees with her.
-
-- Oliver Strong Bison: Bapakine became Oliver's combat instructor and mentor in smithing. He was brutally demanding, making Oliver repeat techniques hundreds of times until they became instinctive. Despite his harsh teaching methods, Bapakine is fiercely proud of Oliver.
-
-He secretly considers Oliver his greatest creation—not as a blacksmith, but as a warrior.
+  He secretly considers **Oliver** his greatest creation, not as a blacksmith, but as a warrior.
