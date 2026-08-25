@@ -9,10 +9,9 @@ aliases:
   - Jotnar Four
 ---
 
-
 ![[giants.jpg|200]]
 
-> "A faction motto or creed."
+> "Understand. Survive. Live. Choose."
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
