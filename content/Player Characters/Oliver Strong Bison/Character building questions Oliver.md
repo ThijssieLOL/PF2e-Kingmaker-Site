@@ -102,7 +102,7 @@
 	yes, he is a follower of [[The Order of the Sacred Mother]] & [[The Church of the Everlasting Moonlight]] due to them often being a package deal
 
 45. **Do they follow a particular god within their religion?**
-	his main goddes is [[Fandarra]], tho [[Ymir]] is a close second
+	his main goddess is [[Fandarra]], tho [[Ymir]] is a close second
 46. **What is their opinion on people of other religions?**
 	as long as your religion doesn't do evil stuff and cause harm to innocent people, do what you want. Oliver is not going to prevent people from following who they want
 47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?**
@@ -119,7 +119,7 @@
 52. **What is your character's favourite animal?**
 	Fish
 53. **What would be your character's spirit animal and why?**
-	the eagle
+	the eagle, the bird represents fearlessness, inner power, and the mental strength to face tough challenges.
 54. **What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
 	Poetry
 55. **What does your character like to spend their free time on if they have a break from adventuring?**
