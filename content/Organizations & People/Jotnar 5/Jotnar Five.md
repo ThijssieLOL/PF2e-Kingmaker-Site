@@ -2,8 +2,8 @@
 tags:
   - faction
 leader: "[[Niigani Wewidun]]"
-headquarters:
-alignment:
+headquarters: The Fourfold Hearth
+alignment: Neutral Good
 status: Active
 aliases:
   - Jotnar Four
