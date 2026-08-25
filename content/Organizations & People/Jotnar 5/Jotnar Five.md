@@ -65,7 +65,7 @@ The **Jotnar Four** are a legendary family of four giant adventurers who have sp
 
 - **[[Daga Manoo]]:** Tide giant wanderer, sailor, bard, and resident troublemaker. He serves as the group's scout, traveller, navigator, information gatherer, and unofficial morale officer.
 
-- **[[Oliver Strong Bison]]:** The adopted son of the four giants. Though not technically one of the original **Jotnar Four**, **Oliver** was raised and trained by all four and is considered family rather than an apprentice or subordinate.
+- [[Oliver Strong Bison]]: The adopted son of the four giants. Though not technically one of the original **Jotnar Four**, **Oliver** was raised and trained by all four and is considered family rather than an apprentice or subordinate.
 
 ---
 
