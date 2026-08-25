@@ -27,11 +27,11 @@ aliases:
 ## Appearance
 **Bapakine** is an enormous fire giant whose physical presence is almost overwhelming. He is built like a living fortress, with a massive, heavily muscled frame covered almost entirely in dark steel armor.
 
-Unlike [[Zagaakwa Ezhaayin|Zagaakwaa]]'s natural appearance or [[Niigani Wewidun|Niigani]]'s ceremonial armor, Bapakine's equipment is unmistakably designed for war.
+Unlike [[Zagaakwa Ezhaayin|Zagaakwaa]]'s natural appearance or [[Niigani Wewidun|Niigani]]'s ceremonial armor, **Bapakine**'s equipment is unmistakably designed for war.
 
-His armor consists of thick overlapping plates of dark blue-black and gunmetal steel. The pieces are large enough that a normal humanoid could barely move in them, yet Bapakine wears them as comfortably as clothing. The armor is heavily scarred and battered from decades of combat, but every damaged section has been repaired and reinforced by Bapakine himself.
+His armor consists of thick overlapping plates of dark blue-black and gunmetal steel. The pieces are large enough that a normal humanoid could barely move in them, yet **Bapakine** wears them as comfortably as clothing. The armor is heavily scarred and battered from decades of combat, but every damaged section has been repaired and reinforced by Bapakine himself.
 
-His face is partially framed by an enormous mane of **living flame**. His beard, hair, and even portions of his jaw appear to burn continuously, with orange and yellow fire replacing ordinary hair. Smoke occasionally pours from his mouth and shoulders when he becomes particularly angry.
+His face is partially framed by an enormous mane of living flame. His beard, hair, and even portions of his jaw appear to burn continuously, with orange and yellow fire replacing ordinary hair. Smoke occasionally pours from his mouth and shoulders when he becomes particularly angry.
 
 The flames surrounding his head are not merely cosmetic. They intensify with his emotions, becoming brighter and more violent when he is enraged.
 
