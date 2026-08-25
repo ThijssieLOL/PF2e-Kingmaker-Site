@@ -87,9 +87,7 @@ They had become a family.
 ---
 
 ## Structure & Ranks
-The Fourfold Hearth is a large secluded lodge hidden deep within an ancient wilderness.
-
-The building itself reflects the personalities of its inhabitants.
+The Fourfold Hearth is a large secluded lodge hidden deep within an ancient wilderness. The building itself reflects the personalities of its inhabitants.
 
 - **Zagaakwaa's side** is surrounded by gardens, trees, medicinal plants, and small wildlife.
 - **Bapakine's section** contains an enormous forge capable of producing weapons and armor sized for giants.
@@ -99,7 +97,7 @@ The building itself reflects the personalities of its inhabitants.
 
 At the center of the home is a massive communal hall where the five eat together.
 
-The Fourfold Hearth is one of the few places where the Jotnar Four aren't legendary adventurers.
+The Fourfold Hearth is one of the few places where the Jotnar Four aren't adventurers.
 
 They're simply home.
 
