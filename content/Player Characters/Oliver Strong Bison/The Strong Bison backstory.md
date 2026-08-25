@@ -73,9 +73,7 @@ At first, [[Oliver Strong Bison|Oliver]] was little more than the group's “par
 
 He carried things that were too heavy for ordinary children but far too light for giants. He fetched supplies. He slept beside the campfire. He occasionally tried to help during battles and was generally instructed to stay somewhere safe.
 
-Despite this, the [[Jotnar Five|Jotnar Four]] quickly became the closest thing [[Oliver Strong Bison|Oliver]] had to a family.
-
-And, over the years, they began teaching him everything they knew.
+Despite this, the [[Jotnar Five|Jotnar Four]] quickly became the closest thing [[Oliver Strong Bison|Oliver]] had to a family and over the years they began teaching him everything they knew.
   
 ---  
 ### Life Lessons
