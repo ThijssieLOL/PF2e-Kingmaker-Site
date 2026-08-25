@@ -72,7 +72,7 @@
 32. **Did your character have any form of education? Did they go to school? Were they home schooled?** 
 	surprisingly, the barbarian tribe didnt really have a preschool. However, he gained a very detailed homeschool education from his adopted mother [[Niigani Wewidun]]
 33. **How has your upbringing shaped your worldview?**
-
+	looks more at the grand scheme of things and not short term
 34. **Is your character's family well-off or are they fucking peasants?**
 	they weren't fucking peasants level but also not rich noble level well-off. Kind off middle of the road level.
 35. **What is your (tragic) backstory?**
@@ -100,7 +100,6 @@
 ### **Religion**
 44. **Is your character religious? If so, what religion do they follow?**
 	yes, he is a follower of [[The Order of the Sacred Mother]] & [[The Church of the Everlasting Moonlight]] due to them often being a package deal
-
 45. **Do they follow a particular god within their religion?**
 	his main goddess is [[Fandarra]], tho [[Ymir]] is a close second
 46. **What is their opinion on people of other religions?**
@@ -131,7 +130,7 @@
 58. **What is your character's biggest pet peeve?** 
 	People that avoid teamwork like the plague
 59. **Do you have any bad or annoying habits?**
-	
+	atm idk
 60. **Sweet, sour, salty or bitter?**
 	salty
 61. **Soldier, Poet or King?**
