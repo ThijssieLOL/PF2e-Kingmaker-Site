@@ -57,7 +57,7 @@ However, beneath his carefree exterior is someone extremely perceptive. **Daga**
 
 His magic is heavily tied to water and sound. He can manipulate waves, create mist, call upon the rhythm of the sea, and use music to inspire his allies.
 
-In battle, **Daga** fights unpredictably. He doesn't have Bapakine's discipline or **Zagaakwaa**'s patience. Instead, he moves with the chaotic rhythm of the ocean—sometimes calm, sometimes violent, and almost impossible to predict.
+In battle, **Daga** fights unpredictably. He doesn't have [[Bapakine Iwe Ishkode|Bapakine]]'s discipline or [[Zagaakwa Ezhaayin|Zagaakwaa]]'s patience. Instead, he moves with the chaotic rhythm of the ocean, sometimes calm, sometimes violent, and almost impossible to predict.
 
 ---
 
