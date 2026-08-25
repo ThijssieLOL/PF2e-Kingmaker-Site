@@ -19,8 +19,8 @@ The **Jotnar Four** are a legendary family of four giant adventurers who have sp
 ### Quick Facts
 - **Leader:** [[Niigani Wewidun]]
 - **Headquarters:** The Fourfold Hearth
-- **Alignment:** 
-- **Affiliation / Alliances:** 
+- **Alignment:** Neutral Good
+- **Affiliation / Alliances:** Independent; maintains friendly relationships with various villages, nature spirits, giant clans, religious communities, and adventurers.
 
 ## Philosophy & Goals
 - **Core Beliefs:** (Their ideology, values, and guiding principles)
