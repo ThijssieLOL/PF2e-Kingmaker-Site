@@ -3,7 +3,7 @@ tags:
   - character
   - npc
 ancestry: Jotun
-class: Bard
+class: Bardbarian
 faction: "[[Jotnar Five]]"
 status: Alive
 aliases:
@@ -20,9 +20,9 @@ aliases:
 ### Quick Facts
 - **Full Name:** Daga Manoo // *Let it be*
 - **Ancestry/Species:** Tide Giant
-- **Class/Profession:** 
-- **Affiliation:** 
-- **Role/Rank:** 
+- **Class/Profession:** Bardbarian
+- **Affiliation:** [[Jotnar Five]]
+- **Role/Rank:** Scout, and Resident Troublemaker
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
