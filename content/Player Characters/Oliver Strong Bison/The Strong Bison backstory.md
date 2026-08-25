@@ -1,5 +1,5 @@
 ### Humble Beginnings
-[[Oliver Strong Bison|Oliver]] was born in a small Kellid village in the mountains of **Kaelerum**, the son of a human barbarian woman named (**Mother**) and an elven man named (**Father**). His family belonged to the **Strong Bison Clan**, and [[Oliver Strong Bison|Oliver]] grew up surrounded by the close-knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, (**Friend**) and (**Friend**). For the first eight years of his life, [[Oliver Strong Bison|Oliver]] knew little of the world beyond his village.
+[[Oliver Strong Bison|Oliver]] was born in a small **Kellid** village in the mountains of **Kaelerum**, the son of a human barbarian woman named (**Mother**) and an elven man named (**Father**). His family belonged to the **Strong Bison Clan**, and [[Oliver Strong Bison|Oliver]] grew up surrounded by the close-knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, (**Friend**) and (**Friend**). For the first eight years of his life, [[Oliver Strong Bison|Oliver]] knew little of the world beyond his village.
 
 Then came the [[Heralds of the Moon Incarnate]].
 
@@ -13,7 +13,7 @@ He remembers the fire.
 
 And he remembers him.
 
-Among the chaos stood a bald man wearing a great fur coat, a long scar running from his forehead down toward his eye. [[Oliver Strong Bison|Oliver]] watched helplessly as the man killed his family.
+Among the chaos stood a bald man wearing a great black fur coat, a long scar running from his forehead down toward his eye. [[Oliver Strong Bison|Oliver]] watched helplessly as the man killed his family.
 
 For a brief moment, [[Oliver Strong Bison|Oliver]] had the opportunity to fight back.
 
