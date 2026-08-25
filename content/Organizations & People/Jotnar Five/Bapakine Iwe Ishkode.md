@@ -55,9 +55,9 @@ He respects competence above almost everything else. Someone who admits they are
 
 In combat, he relies on his enormous strength, heavy weapons and his battlefield tactics. He prefers fighting with his massive warhammer, but is equally comfortable using an axe, sword, or whatever happens to be nearby.
 
-His greatest lesson to **Oliver** was that strength is not the same thing as power.
+His greatest lesson to [[Oliver Strong Bison|Oliver]] was that strength is not the same thing as power.
 
-**Bapakine** deliberately taught **Oliver** techniques that allowed a smaller fighter to defeat larger opponents: targeting joints, exploiting openings, using terrain, setting traps, and knowing when to retreat.
+**Bapakine** deliberately taught [[Oliver Strong Bison|Oliver]] techniques that allowed a smaller fighter to defeat larger opponents: targeting joints, exploiting openings, using terrain, setting traps, and knowing when to retreat.
 
 ---
 
@@ -68,13 +68,11 @@ He wanted to see what the weapons he forged could actually accomplish.
 
 He eventually left his clan and became a wandering mercenary and adventurer. Over the years, he fought in countless conflicts, fought alongside kings and rebels alike, and forged weapons for heroes whose names have since become legends.
 
-Eventually, he grew tired of fighting other people's wars.
+Eventually, he grew tired of fighting other people's wars. That was when he met [[Zagaakwa Ezhaayin|Zagaakwaa]], [[Daga Manoo|Daga]], and [[Niigani Wewidun|Niigani]].
 
-That was when he met Zagaakwaa, Daga, and Niigani.
+The four became adventurers, and **Bapakine** eventually found something he valued more than glory:
 
-The four became adventurers, and Bapakine eventually found something he valued more than glory:
-
-**people worth coming home to.**
+people worth coming home to.
 
 ---
 
