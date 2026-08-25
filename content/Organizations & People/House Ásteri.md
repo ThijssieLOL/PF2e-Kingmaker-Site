@@ -21,7 +21,7 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 - **Affiliation / Alliances:** [[The Church of the Everlasting Moonlight]]
 
 ## Founding and Lore
-- **Founding**: 
+- **Founding**: According to legend, the house Ásteri was
 - **History:** (What the organization is trying to achieve)
 
 ---
