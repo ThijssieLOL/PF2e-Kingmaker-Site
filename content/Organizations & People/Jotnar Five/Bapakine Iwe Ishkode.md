@@ -68,7 +68,9 @@ He wanted to see what the weapons he forged could actually accomplish.
 
 He eventually left his clan and became a wandering mercenary and adventurer. Over the years, he fought in countless conflicts, fought alongside kings and rebels alike, and forged weapons for heroes whose names have since become legends.
 
-Eventually, he grew tired of fighting other people's wars. That was when he met [[Zagaakwa Ezhaayin|Zagaakwaa]], [[Daga Manoo|Daga]], and [[Niigani Wewidun|Niigani]].
+Eventually, he grew tired of fighting other people's wars. 
+
+That was when he met [[Zagaakwa Ezhaayin|Zagaakwaa]], [[Daga Manoo|Daga]], and [[Niigani Wewidun|Niigani]].
 
 The four became adventurers, and **Bapakine** eventually found something he valued more than glory:
 

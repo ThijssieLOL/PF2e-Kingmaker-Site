@@ -42,7 +42,13 @@ His weapons and equipment have a distinctly maritime quality, and he often carri
 ---
 
 ## Personality
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+Daga is the most carefree member of the group.
+
+He loves food, drink, music, gambling, travelling, festivals, beautiful scenery, and meeting strange people. He can disappear from camp for several days without warning, only to return with a ridiculous story about something that happened to him.
+
+Daga believes life is too short to constantly worry about what other people think.
+
+However, beneath his carefree exterior is someone extremely perceptive. Daga notices when people are unhappy, lonely, or hiding something. He simply prefers to help them without making a big deal out of it.
 
 ---
 
