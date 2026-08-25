@@ -45,7 +45,7 @@ She also understands that storms are not inherently destructive. A storm can des
 ---
 
 ## Abilities
-Niigani is a powerful divine spellcaster whose magic manifests primarily through storms.
+**Niigani** is a powerful divine spellcaster whose magic manifests primarily through storms.
 
 In battle, she serves as both the group's commander and its spiritual backbone. She rarely rushes into combat. Instead, she watches the battlefield, directs the others, and waits for the precise moment to unleash devastating lightning.
 
@@ -54,7 +54,17 @@ When forced into close combat, she fights with her spear and shield, combining m
 ---
 
 ## History
-- **Background:** (Their past, how they got here, and what they want to achieve)
+**Niigani** was raised among storm giants and was expected to become a spiritual leader within her community.
+
+She travelled extensively in her youth, believing that someone who wished to understand the world could not spend their entire life looking at it from a mountaintop.
+
+During her travels, she encountered countless peoples, religions, kingdoms, and cultures. She became a diplomat and mediator, often preventing wars that might otherwise have destroyed entire communities.
+
+Eventually she encountered the other three giants.
+
+What began as a temporary alliance became a friendship, then a family.
+
+Niigani eventually became the unquestioned leader of the group—not because she was the strongest, but because she was the one everyone trusted when things went wrong.
 
 ---
 
