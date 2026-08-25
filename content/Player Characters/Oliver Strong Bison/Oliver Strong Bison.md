@@ -6,10 +6,10 @@ class: Commander
 faction: Jotnar Five
 status: Alive
 aliases:
-  - Sa'be Beshwaji
   - Sa'be
   - Sa’be Beshwaji
   - Oliver
+  - Sa’be Beshwaji’
 ---
 
 
@@ -21,7 +21,7 @@ aliases:
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** Oliver Strong Bison
+- **Full Name:** Oliver Strong Bison / Sa’be Beshwaji’ // *Close friend of the giants*
 - **Ancestry/Species:** Aiuvarin
 - **Class/Profession:** Commander
 - **Affiliation:** [[Jotnar Five]]

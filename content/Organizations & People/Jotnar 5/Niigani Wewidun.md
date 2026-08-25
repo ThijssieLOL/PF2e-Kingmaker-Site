@@ -19,7 +19,7 @@ aliases:
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** 
+- **Full Name:** Niigani wewidun // *Thunder before the storm*
 - **Ancestry/Species:** 
 - **Class/Profession:** 
 - **Affiliation:** 
