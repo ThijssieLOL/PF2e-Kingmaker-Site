@@ -57,19 +57,17 @@ His weapons and equipment have a distinctly maritime quality, and he often carri
 ---
 
 ## Relationships
-- **Zagaakwa Ezhaayin:** Daga constantly tries to convince Zagaakwaa to have more fun. She usually responds by staring at him silently until he becomes uncomfortable.
+- [[Zagaakwa Ezhaayin]]: **Daga** constantly tries to convince **Zagaakwaa** to have more fun. She usually responds by staring at him silently until he becomes uncomfortable.
 
   He considers this a victory.
 
-- Bapakine Iwe Ishkode: Bapakine is Daga's romantic partner.
+- [[Bapakine Iwe Ishkode]]: **Bapakine** is **Daga**'s romantic partner. Their relationship is built almost entirely upon contrast.
 
-  Their relationship is built almost entirely upon contrast.
+  **Daga** is spontaneous. **Bapakine** is disciplined.
 
-  Daga is spontaneous. Bapakine is disciplined.
+  **Daga** wanders off. Bapakine wants to know where he went.
 
-  Daga wanders off. Bapakine wants to know where he went.
-
-  Daga loves teasing people. Bapakine has a legendary temper.
+  **Daga** loves teasing people. Bapakine has a legendary temper.
 
   And somehow, it works.
 
