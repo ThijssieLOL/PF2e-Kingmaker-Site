@@ -141,13 +141,14 @@
 63. **How would your character try to impress someone?**
 
 64. **How does your character make friends?**
-	They fight together, anyone you can tru
+	They fight together, anyone you can trust on the battlefield is someone worth keeping close
 65. **What is your most valuable possession and why?**
 
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
 
 67. **What is your character's least funny joke that they think is great?**
-
+	Why can’t the undead write music? They can only de-compose.
+	What’s the difference between religions and porcupines? Porcupines have pricks on the outside.
 68. **If your character was a celestial body(sun, star, moon, black hole) what one would they be?**
 
 
