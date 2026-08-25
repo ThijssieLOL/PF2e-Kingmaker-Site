@@ -76,9 +76,9 @@ He carried things that were too heavy for ordinary children but far too light fo
 Despite this, the [[Jotnar Five|Jotnar Four]] quickly became the closest thing [[Oliver Strong Bison|Oliver]] had to a family.
 
 And, over the years, they began teaching him everything they knew.
-
   
-  
+---  
+### Life Lessons
 
 [[Zagaakwa Ezhaayin|Zagaakwaa]] became [[Oliver Strong Bison|Oliver]]'s teacher in matters concerning nature and the wild. She taught [[Oliver Strong Bison|Oliver]] the names of plants and animals, how to survive in the wilderness, and how to recognize when the forest was healthy or sick. More importantly, she taught him to respect the natural cycle of life.
 
@@ -110,7 +110,7 @@ From [[Daga Manoo|Daga]], [[Oliver Strong Bison|Oliver]] learned that sometimes 
 
 Together, the four gave [[Oliver Strong Bison|Oliver]] an education that no ordinary school could have provided.
 
-  
+--- 
   
 
 For the next decade, [[Oliver Strong Bison|Oliver]] travelled with the [[Jotnar Five|Jotnar Four]].
