@@ -151,7 +151,7 @@ Twelve years have passed since then.
 
 A bald man.
 
-A fur coat.
+A large black fur coat.
 
 A scar running from his forehead to his eye.
 
@@ -165,7 +165,7 @@ Rumors have begun circulating about the [[Heralds of the Moon Incarnate]] operat
 
 [[Oliver Strong Bison|Oliver]] immediately volunteers to investigate.
 
-The others initially hesitate. They know what the Heralds mean to him, and they fear that confronting the people responsible for his childhood trauma may reopen wounds he has spent decades learning to live with.
+The others initially hesitate. They know what the **Heralds** mean to him, and they fear that confronting the people responsible for his childhood trauma may reopen wounds he has spent decades learning to live with.
 
 [[Oliver Strong Bison|Oliver]] insists.
 
