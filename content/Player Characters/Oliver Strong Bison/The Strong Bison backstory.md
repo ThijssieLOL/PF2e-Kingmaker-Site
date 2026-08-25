@@ -174,7 +174,7 @@ This time, he will not freeze.
 
 This time, he will not be the frightened eight-year-old boy watching from the shadows.
 
-So when an opportunity arises to join an expedition into the Stolen Lands, Oliver takes it.
+So when an opportunity arises to join an expedition into the **Stolen Lands**, [[Oliver Strong Bison|Oliver]] takes it.
 
 Officially, he is travelling there to help establish a new settlement and explore the dangerous wilderness.
 
@@ -182,12 +182,12 @@ Unofficially, he has another purpose.
 
 **Find the Heralds.**
 
-And somewhere among them, Oliver believes, is the bald man with the scar.
+And somewhere among them, [[Oliver Strong Bison|Oliver]] believes, is the bald man with the scar.
 
 The man who killed his family.
 
 The man he was too afraid to kill.
 
-Now, thirty years old and armed with everything the Jotnar Five have taught him, Oliver finally has a chance to find him.
+Now, thirty years old and armed with everything the [[Jotnar Five have taught him, [[Oliver Strong Bison|Oliver]] finally has a chance to find him.
 
 And perhaps this time, he will be ready.
