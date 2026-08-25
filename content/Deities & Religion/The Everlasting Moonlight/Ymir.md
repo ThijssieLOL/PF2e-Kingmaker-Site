@@ -55,3 +55,5 @@ status: Alive
 --- 
 
 ## Myths
+
+- According to ancient **Kellid** myths, **Fandarra** once possessed the power to see the entirety of time. In a sacred ritual, she lit three candles, each representing one of the great divisions of existence: the first for the **past**, the second for the **present**, and the third for the **future**. When the three flames burned together, **Fandarra** was granted a vision of every event that would ever come to pass. Yet rather than accepting this knowledge, she immediately extinguished the third candle. The legends claim that when the other gods questioned her decision, she simply replied, _“A future already known is a future already dead.”_ From that day onward, **Fandarra** concealed the future from both gods and mortals, believing that the uncertainty of what is to come is what gives life meaning. To this day, Kellid temples keep three candles upon their altars, though the third is traditionally left unlit.
