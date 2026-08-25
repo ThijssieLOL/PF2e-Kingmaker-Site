@@ -2,9 +2,9 @@ Oliver was born in a small **Kellid** village in the forests of **Kaelerum**, th
 
 For the first eight years of his life, Oliver knew little of the world beyond his village.
 
-Then came the **Heralds of the Moon Incarnate**.
+Then came the [[Heralds of the Moon Incarnate]].
 
-The cult had come to the village searching for something—or someone—and brought with them a ritual that would forever change Oliver's life. The Heralds summoned a legion of demons into the village, unleashing them upon the unsuspecting inhabitants. The cultists themselves joined the slaughter as homes burned and villagers were torn apart.
+The cult had come to the village searching for something, or someone, and brought with them a ritual that would forever change Oliver's life. The Heralds summoned a legion of demons into the village, unleashing them upon the unsuspecting inhabitants. The cultists themselves joined the slaughter as homes burned and villagers were torn apart.
 
 Oliver remembers very little of the battle itself.
 
