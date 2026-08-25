@@ -62,7 +62,19 @@ His greatest lesson to **Oliver** was that strength is not the same thing as pow
 ---
 
 ## History
-- **Background:** (Their past, how they got here, and what they want to achieve)
+**Bapakine** was born into a clan of fire giants famous for their smithing. Unlike many of his people, however, he had little interest in conquest or domination.
+
+He wanted to see what the weapons he forged could actually accomplish.
+
+He eventually left his clan and became a wandering mercenary and adventurer. Over the years, he fought in countless conflicts, fought alongside kings and rebels alike, and forged weapons for heroes whose names have since become legends.
+
+Eventually, he grew tired of fighting other people's wars.
+
+That was when he met Zagaakwaa, Daga, and Niigani.
+
+The four became adventurers, and Bapakine eventually found something he valued more than glory:
+
+**people worth coming home to.**
 
 ---
 
