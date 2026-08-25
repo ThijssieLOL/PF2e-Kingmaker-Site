@@ -85,13 +85,13 @@ And, over the years, they began teaching him everything they knew.
 
 [[Zagaakwa Ezhaayin|Zagaakwaa]] became **Oliver**'s teacher in matters concerning nature and the wild. He taught **Oliver** the names of plants and animals, how to survive in the wilderness, and how to recognize when the forest was healthy or sick. More importantly, he taught him to respect the natural cycle of life.
 
-From Zagaakwaa, Oliver learned that death was not inherently cruel.
+From [[Zagaakwa Ezhaayin|Zagaakwaa]], **Oliver** learned that death was not inherently cruel.
 
 Death was part of nature.
 
 What was unnatural, however, deserved to be purged.
 
-Bapakine taught Oliver the ways of **warfare and the forge**. Though Oliver would never possess the physical strength of a giant, Bapakine taught him how to compensate through technique, preparation, and cleverness. Under his enormous mentor, Oliver learned to work metal, maintain weapons, and eventually become a respectable blacksmith.
+[[Bapakine Iwe Ishkode|Bapakine]] taught **Oliver** the ways of warfare and the forge. Though **Oliver** would never possess the physical strength of a giant, [[Bapakine Iwe Ishkode|Bapakine]] taught him how to compensate through technique, preparation, and cleverness. Under his enormous mentor, **Oliver** learned to work metal, maintain weapons, and eventually become a respectable blacksmith.
 
 Bapakine also taught him that fighting was not about being the strongest person on the battlefield.
 
