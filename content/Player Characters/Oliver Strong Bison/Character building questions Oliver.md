@@ -145,7 +145,7 @@
 65. **What is your most valuable possession and why?**
 	His old barbarian clothing, reminds him of the good ol days
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
-	he is okay at them. Not his prefered kind of gathering but not the worst thing to do.
+	he is okay at them. Not his prefered kind of gathering but not the worst thing for him to do.
 67. **What is your character's least funny joke that they think is great?**
 	Why can’t the undead write music? They can only de-compose.
 	What’s the difference between religions and porcupines? Porcupines have pricks on the outside.
