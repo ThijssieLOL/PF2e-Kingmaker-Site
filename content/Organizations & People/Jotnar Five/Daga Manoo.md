@@ -66,9 +66,9 @@ In battle, **Daga** fights unpredictably. He doesn't have [[Bapakine Iwe Ishkode
 
 He became infamous for abandoning perfectly good ships because he "didn't like the captain's vibe."
 
-Eventually, his wandering brought him together with Zagaakwaa, Bapakine, and Niigani.
+Eventually, his wandering brought him together with [[Zagaakwa Ezhaayin|Zagaakwaa]], [[Bapakine Iwe Ishkode|Bapakine]], and [[Niigani Wewidun|Niigani]].
 
-Daga never intended to stay with them.
+**Daga** never intended to stay with them.
 
 He simply... did.
 
