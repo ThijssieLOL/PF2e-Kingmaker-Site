@@ -3,7 +3,7 @@
 
 Then came the [[Heralds of the Moon Incarnate]].
 
-The cult had come to the village searching for something, or someone, and brought with them a ritual that would forever change [[Oliver Strong Bison|Oliver]]'s life. The Heralds summoned a legion of demons into the village, unleashing them upon the unsuspecting inhabitants. The cultists themselves joined the slaughter as homes burned and villagers were torn apart.
+The cult had come to the village searching for something, or someone, and brought with them a ritual that would forever change [[Oliver Strong Bison|Oliver]]'s life. The **Heralds** summoned a legion of demons into the village, unleashing them upon the unsuspecting inhabitants. The cultists themselves joined the slaughter as homes burned and villagers were torn apart.
 
 [[Oliver Strong Bison|Oliver]] remembers very little of the battle itself.
 
