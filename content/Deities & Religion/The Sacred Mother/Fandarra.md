@@ -65,6 +65,7 @@ status: Alive
 
  - According to ancient **Kellid** myths **Fandarra** was the very first living being. She did not ascend from mortality; instead, she was birthed directly from the earth’s womb, a legendary primordial cave named Atakal. Local legends claim she underwent immense labor to birth all animals, all people, and most other deities. The blood spilled across **Kaelerum** during **Fandarra**’s colossal labors soaked into the pristine dirt, instantly making the soil fertile and causing the world's first plant life to grow.
  
+- The First Hearth
 - It is said that in the earliest days of **Kaelerum**, the first people wandered across the world without shelter, living separately from one another and struggling to survive the harshness of the world. Seeing their suffering, **Fandarra** gathered the scattered people together and struck a single stone against another, creating the world's first fire. She taught them to protect the flame, cook together, and share whatever food they possessed.
   
   The legends claim that the first **Kellid hearth** never belonged to a single family, but to everyone who gathered around it. From this tradition came the belief that a hearth is sacred ground, and that no traveler should ever be refused warmth or food while standing beside another person's fire. Ancient Kellid elders still repeat the teaching that _“A fire kept alone will die, but a fire shared will outlive its keeper.”_
