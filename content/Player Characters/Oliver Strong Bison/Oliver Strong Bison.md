@@ -36,7 +36,7 @@ aliases:
 ---
 
 ## Personality
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+- **Demeanor:** 
 
 ---
 
