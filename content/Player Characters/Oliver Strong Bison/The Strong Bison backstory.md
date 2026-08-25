@@ -83,7 +83,7 @@ And, over the years, they began teaching him everything they knew.
   
   
 
-[[Zagaakwa Ezhaayin|Zagaakwaa]] became **Oliver**'s teacher in matters concerning nature and the wild. He taught **Oliver** the names of plants and animals, how to survive in the wilderness, and how to recognize when the forest was healthy or sick. More importantly, he taught him to respect the natural cycle of life.
+[[Zagaakwa Ezhaayin|Zagaakwaa]] became **Oliver**'s teacher in matters concerning nature and the wild. She taught **Oliver** the names of plants and animals, how to survive in the wilderness, and how to recognize when the forest was healthy or sick. More importantly, she taught him to respect the natural cycle of life.
 
 From [[Zagaakwa Ezhaayin|Zagaakwaa]], **Oliver** learned that death was not inherently cruel.
 
@@ -109,7 +109,7 @@ Perhaps somewhat too enthusiastically.
 
 From [[Daga Manoo|Daga]], **Oliver** learned that sometimes the best thing to do was simply sit down, enjoy the sunset, and let the world pass by for a while.
 
-[[Niigani Wewidun|Niigani]], meanwhile, took responsibility for Oliver's **e**ducation in religion, diplomacy, and the wider world.**** He taught him about the gods, different cultures, and the responsibilities that came with power. Niigani also taught Oliver how to speak with people rather than simply fight them—a skill that became increasingly important as Oliver travelled alongside four giants who could accidentally start diplomatic incidents simply by entering a room.
+[[Niigani Wewidun|Niigani]], meanwhile, took responsibility for **Oliver**'s education in religion, diplomacy, and the wider world. He taught him about the gods, different cultures, and the responsibilities that came with power. Niigani also taught Oliver how to speak with people rather than simply fight them—a skill that became increasingly important as Oliver travelled alongside four giants who could accidentally start diplomatic incidents simply by entering a room.
 
 Together, the four gave Oliver an education that no ordinary school could have provided.
 
