@@ -50,4 +50,3 @@ A brief 1-2 sentence summary of who this character is and their role.
 ## Relationships
 - **[[Character Link]]:** Brief description of their dynamic.
 
-Name meanings: Zagaakwaa ezhaayin. The forest is dense where you are going. Bapakine iwe ishkode. That fire is giving off sparks. Daga Manoo Let it be Niigani wewidun Thunder before the storm Sa’be Beshwaji’ Close friend of the giants
