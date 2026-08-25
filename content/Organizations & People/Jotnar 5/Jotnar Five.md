@@ -24,7 +24,23 @@ The **Jotnar Four** are a legendary family of four giant adventurers who have sp
 - **Faction Type:** Adventuring family / Guardians / Independent protectors
 
 ## Philosophy & Goals
-- **Core Beliefs:** (Their ideology, values, and guiding principles)
+- **Core Beliefs:** 
+  The Jotnar Four do not share one unified philosophy. Instead, their beliefs are represented by four principles:
+
+  **Understand — Zagaakwaa**  
+  The world should be observed before it is changed. Nature, people, and even enemies have reasons for becoming what they are.
+
+  **Survive — Bapakine**  
+  Good intentions mean little if you cannot survive long enough to act upon them. Preparation, discipline, and determination are essential.
+
+  **Live — Daga**  
+  Life is more than surviving from one crisis to the next. People deserve happiness, adventure, friendship, and the freedom to enjoy the time they have.
+
+  **Choose — Niigani**  
+  Power creates responsibility. Those capable of changing the world must carefully choose how and why they use that power.
+
+  Together, these principles form the foundation of the Jotnar Four.
+  
 - **Primary Objective:** (What the organization is trying to achieve)
 
 ---
