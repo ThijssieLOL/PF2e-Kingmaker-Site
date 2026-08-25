@@ -79,58 +79,58 @@ And, over the years, they began teaching him everything they knew.
   
   
 
-[[Zagaakwa Ezhaayin|Zagaakwaa]] became [[Oliver Strong Bison|Oliver]]'s teacher in matters concerning nature and the wild. She taught Oliver the names of plants and animals, how to survive in the wilderness, and how to recognize when the forest was healthy or sick. More importantly, she taught him to respect the natural cycle of life.
+[[Zagaakwa Ezhaayin|Zagaakwaa]] became [[Oliver Strong Bison|Oliver]]'s teacher in matters concerning nature and the wild. She taught [[Oliver Strong Bison|Oliver]] the names of plants and animals, how to survive in the wilderness, and how to recognize when the forest was healthy or sick. More importantly, she taught him to respect the natural cycle of life.
 
-From [[Zagaakwa Ezhaayin|Zagaakwaa]], Oliver learned that death was not inherently cruel.
+From [[Zagaakwa Ezhaayin|Zagaakwaa]], [[Oliver Strong Bison|Oliver]] learned that death was not inherently cruel.
 
 Death was part of nature.
 
 What was unnatural, however, deserved to be purged.
 
-[[Bapakine Iwe Ishkode|Bapakine]] taught Oliver the ways of warfare and the forge. Though Oliver would never possess the physical strength of a giant, [[Bapakine Iwe Ishkode|Bapakine]] taught him how to compensate through technique, preparation, and cleverness. Under his enormous mentor, Oliver learned to work metal, maintain weapons, and eventually become a respectable blacksmith.
+[[Bapakine Iwe Ishkode|Bapakine]] taught [[Oliver Strong Bison|Oliver]] the ways of warfare and the forge. Though [[Oliver Strong Bison|Oliver]] would never possess the physical strength of a giant, [[Bapakine Iwe Ishkode|Bapakine]] taught him how to compensate through technique, preparation, and cleverness. Under his enormous mentor, [[Oliver Strong Bison|Oliver]] learned to work metal, maintain weapons, and eventually become a respectable blacksmith.
 
 [[Bapakine Iwe Ishkode|Bapakine]] also taught him that fighting was not about being the strongest person on the battlefield.
 
 It was about being the one who was still standing when everyone else had fallen.
 
-[[Daga Manoo]] taught Oliver something completely different.
+[[Daga Manoo]] taught [[Oliver Strong Bison|Oliver]] something completely different.
 
 How to live.
 
-[[Daga Manoo|Daga]] believed that life was far too short to spend worrying about every little thing. He taught Oliver to appreciate good food, beautiful landscapes, strange cultures, long journeys, and even longer evenings around a campfire.
+[[Daga Manoo|Daga]] believed that life was far too short to spend worrying about every little thing. He taught [[Oliver Strong Bison|Oliver]] to appreciate good food, beautiful landscapes, strange cultures, long journeys, and even longer evenings around a campfire.
 
-He also introduced Oliver to alcohol.
+He also introduced [[Oliver Strong Bison|Oliver]] to alcohol.
 
 Perhaps somewhat too enthusiastically.
 
-From [[Daga Manoo|Daga]], Oliver learned that sometimes the best thing to do was simply sit down, enjoy the sunset, and let the world pass by for a while.
+From [[Daga Manoo|Daga]], [[Oliver Strong Bison|Oliver]] learned that sometimes the best thing to do was simply sit down, enjoy the sunset, and let the world pass by for a while.
 
-[[Niigani Wewidun|Niigani]], meanwhile, took responsibility for Oliver's education in religion, diplomacy, and the wider world. She taught him about the gods, different cultures, and the responsibilities that came with power. [[Niigani Wewidun|Niigani]] also taught Oliver how to speak with people rather than simply fight them, a skill that became increasingly important as Oliver travelled alongside four giants who could accidentally start diplomatic incidents simply by entering a room.
+[[Niigani Wewidun|Niigani]], meanwhile, took responsibility for [[Oliver Strong Bison|Oliver]]'s education in religion, diplomacy, and the wider world. She taught him about the gods, different cultures, and the responsibilities that came with power. [[Niigani Wewidun|Niigani]] also taught [[Oliver Strong Bison|Oliver]] how to speak with people rather than simply fight them, a skill that became increasingly important as [[Oliver Strong Bison|Oliver]] travelled alongside four giants who could accidentally start diplomatic incidents simply by entering a room.
 
-Together, the four gave Oliver an education that no ordinary school could have provided.
+Together, the four gave [[Oliver Strong Bison|Oliver]] an education that no ordinary school could have provided.
 
   
   
 
-For the next decade, Oliver travelled with the [[Jotnar Five|Jotnar Four]].
+For the next decade, [[Oliver Strong Bison|Oliver]] travelled with the [[Jotnar Five|Jotnar Four]].
 
-They fought powerful monsters, explored ancient ruins, crossed dangerous wilderness, became involved in wars they probably should have avoided, and occasionally found themselves fighting creatures that were far beyond Oliver's ability to defeat.
+They fought powerful monsters, explored ancient ruins, crossed dangerous wilderness, became involved in wars they probably should have avoided, and occasionally found themselves fighting creatures that were far beyond [[Oliver Strong Bison|Oliver]]'s ability to defeat.
 
-Oliver was rarely the strongest member of the party.
+[[Oliver Strong Bison|Oliver]] was rarely the strongest member of the party.
 
 He wasn't the most powerful.
 
 He wasn't even particularly intimidating.
 
-For most of his early adventuring career, Oliver's primary contribution to combat could best be described as “being there.”
+For most of his early adventuring career, [[Oliver Strong Bison|Oliver]]'s primary contribution to combat could best be described as “being there.”
 
 He stayed toward the back of the group, offered encouragement, patched people up when he could, shouted warnings, and occasionally managed to land a surprisingly effective blow.
 
 The giants never seemed to mind.
 
-To them, Oliver was family.
+To them, [[Oliver Strong Bison|Oliver]] was family.
 
-When Oliver turned eighteen and reached adulthood, the four decided that simply calling him Oliver was no longer enough.
+When [[Oliver Strong Bison|Oliver]] turned eighteen and reached adulthood, the four decided that simply calling him Oliver was no longer enough.
 
 They gave him a new name:
 
