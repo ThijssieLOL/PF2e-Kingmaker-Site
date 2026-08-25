@@ -14,11 +14,11 @@ aliases:
 > "Understand. Survive. Live. Choose."
 
 ## Overview
-A brief 1-2 sentence summary of what this faction is and its main role.
+The **Jotnar Four** are a legendary family of four giant adventurers who have spent decades travelling the world, protecting communities, mediating conflicts, and confronting threats far beyond the reach of ordinary people. Though each member follows a different philosophy and tradition, they are bound together by loyalty, friendship, and their shared belief that great strength should be used to protect rather than dominate.
 
 ### Quick Facts
 - **Leader:** [[Niigani Wewidun]]
-- **Headquarters:** 
+- **Headquarters:** The Fourfold Hearth
 - **Alignment:** 
 - **Affiliation / Alliances:** 
 
