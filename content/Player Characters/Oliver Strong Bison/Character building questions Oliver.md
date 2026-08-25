@@ -136,7 +136,7 @@
 61. **Soldier, Poet or King?**
 	Soldier
 62. **What is your character's most controversial opinion? Do they have any true hot takes?**
-
+	atm idk
 63. **How would your character try to impress someone?**
 	Acts of Service
 64. **How does your character make friends?**
