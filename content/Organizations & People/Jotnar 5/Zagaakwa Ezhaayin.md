@@ -75,7 +75,7 @@ A particularly distinctive feature is the enormous living staff she carries. The
 ## Relationships
 - [[Bapakine Iwe Ishkode]]: Their philosophies clash constantly. **Bapakine** believes things can be improved through craftsmanship, discipline, and force, while **Zagaakwaa** believes some things should simply be allowed to grow according to their own nature. Their arguments can last for hours. Despite this, she trusts him completely and considers him one of her oldest friends.
 
-- [[Daga Manoo]]: **Daga** is one of the few people capable of dragging **Zagaakwaa** out of her contemplative nature. She frequently pretends to be annoyed by his antics, but she genuinely enjoys having him around.
+- [[Daga Manoo]]: **Daga** is one of the few people capable of dragging **Zagaakwaa** out of her contemplative nature. She pretends to be annoyed by his antics, but secretly enjoys his company enormously.
 
 - [[Niigani Wewidun]]: **Niigani** is **Zagaakwaa**'s romantic partner. Their relationship is quiet, deeply affectionate, and built on an enormous amount of mutual understanding. Neither of them is particularly dramatic about their affection. They can sit together for hours without speaking and consider it perfectly good company.**
 
