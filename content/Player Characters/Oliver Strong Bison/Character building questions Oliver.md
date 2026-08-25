@@ -22,7 +22,7 @@
 	No, he is just a man
 7. **Is your character well groomed? Do they bathe often? Do they brush their teeth?** 
 	Hij is decently well groomed? In zijn vrije tijd probeert hij zichzelf schoon te houden, tijdens avontuur is het snel riviertje en anders pech
-8. **Does your character haveor other distinction that makes them different from others of their race/species.**
+8. **Does your character have a condition or other distinction that makes them different from others of their race/species.**
 	again no, just a regular joe
 9. **What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?**
 	Oliver heeft zijn traditionele barbarian clothes van toen hij 8 was, hij past ze absoluut niet meer. Verder draagt hij armour nu want dat beschermt toch echt iets meer dan zijn abs. Hij draagt praktisch elke dag hetzelfde
