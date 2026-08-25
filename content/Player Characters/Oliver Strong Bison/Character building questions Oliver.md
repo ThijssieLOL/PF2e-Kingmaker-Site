@@ -149,6 +149,7 @@
 67. **What is your character's least funny joke that they think is great?**
 	Why can’t the undead write music? They can only de-compose.
 	What’s the difference between religions and porcupines? Porcupines have pricks on the outside.
+	I don't always tell dad jokes, but when I do, he usually laughs.
 68. **If your character was a celestial body(sun, star, moon, black hole) what one would they be?**
 
 
