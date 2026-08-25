@@ -62,17 +62,17 @@ The [[Jotnar Five|Jotnar Four]] were a legendary adventuring company consisting 
 
 [[Daga Manoo]], a tide giant whose personality was as unpredictable as the ocean, equally capable of becoming the life of a celebration or disappearing for days to enjoy the world at his own pace.
 
-And finally, their leader, **Niigani Wewidun**, a storm giant who served as the group's diplomat, spiritual guide, and voice of reason.
+And finally, their leader, [[Niigani Wewidun]], a storm giant who served as the group's diplomat, spiritual guide, and voice of reason.
 
-By the time they discovered Oliver, the four had already spent decades travelling together. They had fought monsters, tyrants, demons, dragons, and things that sensible people preferred not to name.
+By the time they discovered **Oliver**, the four had already spent decades travelling together. They had fought monsters, tyrants, demons, dragons, and things that sensible people preferred not to name.
 
 They had never, however, adopted a child.
 
-Until Oliver.
+Until **Oliver**.
 
 The four initially had no real plan for what to do with the traumatized eight-year-old they had found stabbing an imp to death. Nevertheless, they couldn't exactly leave him behind. So, in the manner of many adventuring parties making questionable life decisions, they took him with them.
 
-At first, Oliver was little more than the group's **“party pet.”**
+At first, **Oliver** was little more than the group's **“party pet.”**
 
 He carried things that were too heavy for ordinary children but far too light for giants. He fetched supplies. He slept beside the campfire. He occasionally tried to help during battles and was generally instructed to stay somewhere safe.
 
