@@ -27,16 +27,16 @@ The **Jotnar Four** are a legendary family of four giant adventurers who have sp
 - **Core Beliefs:** 
   The Jotnar Four do not share one unified philosophy. Instead, their beliefs are represented by four principles:
 
-  **Understand — Zagaakwaa**  
+  **Understand: Zagaakwaa**  
   The world should be observed before it is changed. Nature, people, and even enemies have reasons for becoming what they are.
 
-  **Survive — Bapakine**  
+  **Survive: Bapakine**  
   Good intentions mean little if you cannot survive long enough to act upon them. Preparation, discipline, and determination are essential.
 
-  **Live — Daga**  
+  **Live: Daga**  
   Life is more than surviving from one crisis to the next. People deserve happiness, adventure, friendship, and the freedom to enjoy the time they have.
 
-  **Choose — Niigani**  
+  **Choose: Niigani**  
   Power creates responsibility. Those capable of changing the world must carefully choose how and why they use that power.
 
   Together, these principles form the foundation of the Jotnar Four.
