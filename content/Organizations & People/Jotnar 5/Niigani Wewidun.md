@@ -51,7 +51,7 @@ She carries an enormous spear that crackles with pale lightning. The weapon rese
 ---
 
 ## Relationships
-- Zagaakwa Ezhaayin: Zagaakwaa is Niigani's romantic partner. Their relationship is quiet, mature, and deeply intimate. They share an almost instinctive understanding of one another.
+- [[Zagaakwa Ezhaayin]]: **Zagaakwaa** is Niigani'**s** romantic partner. Their relationship is quiet, mature, and deeply intimate. They share an almost instinctive understanding of one another.
 
   Niigani is one of the few people who can sit beside Zagaakwaa in complete silence without feeling the need to fill it. Zagaakwaa, in turn, is one of the few people who can see past Niigani's role as leader and recognize when she is tired, frightened, or carrying too much responsibility.
 
@@ -63,16 +63,14 @@ She carries an enormous spear that crackles with pale lightning. The weapon rese
 
 - Bapakine Iwe Ishkode: Niigani is the group's counterbalance to Bapakine's temper. She respects his strength and loyalty but frequently reminds him that winning a battle doesn't necessarily mean making the correct decision.
 
-- Daga Manoo: Daga is her greatest source of headaches.
+- Daga Manoo: Daga is her greatest source of headaches. She has spent decades trying to convince him that disappearing without telling anyone where he is going is not reasonable behavior.
 
-She has spent decades trying to convince him that disappearing without telling anyone where he is going is not reasonable behavior.
+  She has failed.
 
-She has failed.
+- Oliver Strong Bison: Niigani became Oliver's moral and spiritual guide. She taught him about gods, cultures, diplomacy, responsibility, and the consequences of wielding power.
 
-Oliver Strong Bison: Niigani became Oliver's moral and spiritual guide. She taught him about gods, cultures, diplomacy, responsibility, and the consequences of wielding power.
+  She is also the most openly affectionate toward him.
 
-She is also the most openly affectionate toward him.
+  Of all four giants, Niigani was perhaps the first to understand that Oliver wasn't merely a child they had rescued.
 
-Of all four giants, Niigani was perhaps the first to understand that Oliver wasn't merely a child they had rescued.
-
-He was family.
+  He was family.
