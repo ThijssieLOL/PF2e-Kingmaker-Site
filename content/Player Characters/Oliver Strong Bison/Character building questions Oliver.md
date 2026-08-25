@@ -139,7 +139,7 @@
 62. **What is your character's most controversial opinion? Do they have any true hot takes?**
 
 63. **How would your character try to impress someone?**
-
+	Acts of Service
 64. **How does your character make friends?**
 	They fight together, anyone you can trust on the battlefield is someone worth keeping close
 65. **What is your most valuable possession and why?**
