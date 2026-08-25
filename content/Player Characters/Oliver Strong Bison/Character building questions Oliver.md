@@ -133,9 +133,9 @@
 59. **Do you have any bad or annoying habits?**
 	
 60. **Sweet, sour, salty or bitter?**
-
+	salty
 61. **Soldier, Poet or King?**
-
+	Soldier
 62. **What is your character's most controversial opinion? Do they have any true hot takes?**
 
 63. **How would your character try to impress someone?**
