@@ -72,18 +72,18 @@ Until **Oliver**.
 
 The four initially had no real plan for what to do with the traumatized eight-year-old they had found stabbing an imp to death. Nevertheless, they couldn't exactly leave him behind. So, in the manner of many adventuring parties making questionable life decisions, they took him with them.
 
-At first, **Oliver** was little more than the group's **“party pet.”**
+At first, **Oliver** was little more than the group's “party pet.”
 
 He carried things that were too heavy for ordinary children but far too light for giants. He fetched supplies. He slept beside the campfire. He occasionally tried to help during battles and was generally instructed to stay somewhere safe.
 
-Despite this, the Jotnar Four quickly became the closest thing Oliver had to a family.
+Despite this, the [[Jotnar Five|Jotnar Four]] quickly became the closest thing **Oliver** had to a family.
 
 And, over the years, they began teaching him everything they knew.
 
   
   
 
-Zagaakwaa became Oliver's teacher in matters concerning **nature and the wild**. He taught Oliver the names of plants and animals, how to survive in the wilderness, and how to recognize when the forest was healthy or sick. More importantly, he taught him to respect the natural cycle of life.
+[[Zagaakwa Ezhaayin|Zagaakwaa]] became **Oliver**'s teacher in matters concerning nature and the wild. He taught **Oliver** the names of plants and animals, how to survive in the wilderness, and how to recognize when the forest was healthy or sick. More importantly, he taught him to respect the natural cycle of life.
 
 From Zagaakwaa, Oliver learned that death was not inherently cruel.
 
