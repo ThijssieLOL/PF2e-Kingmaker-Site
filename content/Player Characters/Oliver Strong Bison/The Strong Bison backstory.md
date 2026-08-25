@@ -134,11 +134,11 @@ The giants never seemed to mind.
 
 To them, **Oliver** was family.
 
-When **Oliver** turned eighteen and reached adulthood, the four decided that simply calling him Oliver was no longer enough.
+When **Oliver** turned eighteen and reached adulthood, the four decided that simply calling him **Oliver** was no longer enough.
 
 They gave him a new name:
 
-**Sa’be Beshwaji’.**
+[[Sa’be Beshwaji.
 
 The name was a declaration that he was no longer merely a child they had rescued from a battlefield.
 
