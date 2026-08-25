@@ -15,9 +15,9 @@ deity: "[[Groetus]]"
 > "Tomorrow is a lie"
 
 ## Overview
-The **Heralds of the Moon Incarnate** are one of the most extreme cults devoted to **Groetus**, dedicated to bringing about the end of the current world. While many followers of Groetus simply accept the inevitable destruction of existence, the Heralds believe that waiting for the end is itself a form of cowardice.
+The **Heralds of the Moon Incarnate** are one of the most extreme cults devoted to [[Groetus]], dedicated to bringing about the end of the current world. While many of his followers simply accept the inevitable destruction of existence, the Heralds believe that waiting for the end is itself a form of cowardice.
 
-To the Heralds, the current world is **corrupt and fundamentally flawed**. Civilization, morality, kingdoms, gods, and even the natural order are merely temporary structures built upon a reality that has already begun to decay. They believe that the world has outlived its usefulness and that attempting to preserve it only prolongs suffering.
+To the Heralds, the current world is corrupt and fundamentally flawed. Civilization, morality, kingdoms, gods, and even the natural order are merely temporary structures built upon a reality that has already begun to decay. They believe that the world has outlived its usefulness and that attempting to preserve it only prolongs suffering.
 
 However, the Heralds do not believe that the end of the world means the end of **everything**.
 
