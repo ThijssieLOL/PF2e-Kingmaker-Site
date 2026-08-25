@@ -3,7 +3,7 @@ tags:
   - character
   - npc
 ancestry: Jotun
-class:
+class: Cleric
 faction: "[[Jotnar Five]]"
 status: Alive
 aliases:
@@ -20,9 +20,9 @@ aliases:
 ### Quick Facts
 - **Full Name:** Niigani wewidun // *Thunder before the storm*
 - **Ancestry/Species:** Storm Giant
-- **Class/Profession:** 
-- **Affiliation:** 
-- **Role/Rank:** 
+- **Class/Profession:** Cleric
+- **Affiliation:** [[Jotnar Five]]
+- **Role/Rank:** Leader, Diplomat, and Spiritual Guide
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
