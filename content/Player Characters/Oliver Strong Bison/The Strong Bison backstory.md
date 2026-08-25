@@ -1,4 +1,4 @@
-Oliver was born in a small Kellid village in the forests of Kaelerum, the son of a human barbarian woman named (Mother) and an elven man named (Father). His family belonged to the Strong Bison Clan, and Oliver grew up surrounded by the close-knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, (Friend) and (Friend). For the first eight years of his life, Oliver knew little of the world beyond his village.
+[[Oliver Strong Bison|Oliver]] was born in a small Kellid village in the mountains of **Kaelerum**, the son of a human barbarian woman named (Mother) and an elven man named (Father). His family belonged to the Strong Bison Clan, and Oliver grew up surrounded by the close-knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, (Friend) and (Friend). For the first eight years of his life, Oliver knew little of the world beyond his village.
 
 Then came the [[Heralds of the Moon Incarnate]].
 
@@ -31,9 +31,7 @@ By the time the battle ended, most of the village had been slaughtered. Only a h
 
 Oliver was not among them.
 
-Instead, he remained in the ruins, wandering through the ashes and searching for anyone who might still be alive.
-
-Eventually, he found a wounded imp lying among the corpses. The creature was already barely alive, its body broken from the fighting.
+Instead, he remained in the ruins, wandering through the ashes and searching for anyone who might still be alive. Eventually, he found a wounded imp lying among the corpses. The creature was already barely alive, its body broken from the fighting.
 
 Oliver picked up a weapon.
 
