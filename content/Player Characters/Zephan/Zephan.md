@@ -162,4 +162,6 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 34   | You should try to find a Tengu. Some say they absorb misfortune, and it seems you have plenty of that to spare.                                                                                                                                              |
 | 35   | Ew. If you fell in a vat of horse feces, i'm pretty sure the vat would have to take a bath.                                                                                                                                                                  |
 | 36   | You are so easily forgotten you wouldn't even make it on a missing persons case.                                                                                                                                                                             |
-
+### Personality Quizes
+![[Pasted image 20260825134456.png]]
+![[Pasted image 20260825134517.png]]
