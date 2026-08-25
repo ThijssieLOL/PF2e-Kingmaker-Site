@@ -65,21 +65,19 @@ His weapons and equipment have a distinctly maritime quality, and he often carri
 
   **Daga** is spontaneous. **Bapakine** is disciplined.
 
-  **Daga** wanders off. Bapakine wants to know where he went.
+  **Daga** wanders off. **Bapakine** wants to know where he went.
 
-  **Daga** loves teasing people. Bapakine has a legendary temper.
+  **Daga** loves teasing people. **Bapakine** has a legendary temper.
 
   And somehow, it works.
 
-  Daga has spent decades deliberately provoking Bapakine just to make him laugh, even if that laughter occasionally takes the form of shouting. Bapakine, meanwhile, is the person Daga knows he can always return to.
+  **Daga** has spent decades deliberately provoking **Bapakine** just to make him laugh, even if that laughter occasionally takes the form of shouting. **Bapakine**, meanwhile, is the person **Daga** knows he can always return to.
 
-  For all his wandering, Daga never seriously considers leaving Bapakine behind.
+  For all his wandering, **Daga** never seriously considers leaving **Bapakine** behind.
 
-  Their relationship is affectionate beneath the constant bickering, and the other two have long since stopped pretending they don't notice.
+- [[Niigani Wewidun]]: **Daga** respects **Niigani** enormously. He enjoys testing her patience, but knows exactly when she needs him to stop joking and become serious.
 
-- Niigani Wewidun: Daga respects Niigani enormously. He enjoys testing her patience, but knows exactly when she needs him to stop joking and become serious.
-
-- Oliver Strong Bison: Daga taught Oliver how to actually enjoy being alive.
+- [[Oliver Strong Bison]]: Daga taught Oliver how to actually enjoy being alive.
 
   He took him fishing, travelling, swimming, dancing, drinking, gambling, and generally getting into trouble. Many of Oliver's happiest childhood memories involve Daga doing something completely irresponsible.
 
