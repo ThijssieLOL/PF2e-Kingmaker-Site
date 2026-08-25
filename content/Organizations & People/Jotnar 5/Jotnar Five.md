@@ -44,14 +44,9 @@ The **Jotnar Four** are a legendary family of four giant adventurers who have sp
 - **Primary Objective:** 
   The Jotnar Four have no desire to build an empire, establish a kingdom, or become rulers. Their primary objective is simply **to protect the balance of the world and the people caught in conflicts beyond their ability to handle alone.**
 
-  They intervene when they encounter threats such as: Demonic or supernatural corruption, Undead and necromantic forces, Destruction of ancient natural environments & Tyrants and oppressive rulers
-- Wars that threaten innocent populations
-- Powerful supernatural entities abusing their influence
-- Ancient artifacts or magical forces that could cause widespread destruction
+  They intervene when they encounter threats such as: demonic or supernatural corruption, undead and necromantic forces, destruction of ancient natural environments & tyrants and oppressive rulers
 
-They do not consider themselves heroes in the traditional sense.
-
-They simply believe that **if they have the strength to help, refusing to do so would be irresponsible.**
+  They do not consider themselves heroes in the traditional sense. They simply believe that if they have the strength to help, refusing to do so would be irresponsible.
 
 ---
 
