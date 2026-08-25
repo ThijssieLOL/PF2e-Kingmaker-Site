@@ -16,7 +16,7 @@ aliases:
 > "No matter how beautiful architecture men can make, they will never create such a wonderful thing as a tree."
 
 ## Overview
-A brief 1-2 sentence summary of who this character is and their role.
+**Zagaakwaa** is a wise and patient wood giant druid who serves as the [[Jotnar Five|Jotnar Four]]'s guardian of nature and keeper of the wilds. Quiet and contemplative, she believes in the natural cycles of life and death and fiercely opposes anything that corrupts or deliberately destroys the natural world.
 
 ### Quick Facts
 - **Full Name:** Zagaakwaa ezhaayin // *The forest is dense where you are going.*
