@@ -77,8 +77,6 @@ His weapons and equipment have a distinctly maritime quality, and he often carri
 
 - [[Niigani Wewidun]]: **Daga** respects **Niigani** enormously. He enjoys testing her patience, but knows exactly when she needs him to stop joking and become serious.
 
-- [[Oliver Strong Bison]]: Daga taught Oliver how to actually enjoy being alive.
+- [[Oliver Strong Bison]]: **Daga** taught **Oliver** how to actually enjoy being alive. He took him fishing, travelling, swimming, dancing, drinking, gambling, and generally getting into trouble. Many of **Oliver**'s happiest childhood memories involve **Daga** doing something completely irresponsible.
 
-  He took him fishing, travelling, swimming, dancing, drinking, gambling, and generally getting into trouble. Many of Oliver's happiest childhood memories involve Daga doing something completely irresponsible.
-
-  Daga is also responsible for a significant number of Oliver's most embarrassing memories.
+  **Daga** is also responsible for a significant number of **Oliver**'s most embarrassing memories.
