@@ -63,7 +63,11 @@ status: Alive
 
 ## Myths 
 
- - According to ancient **Kellid** myths **Fandarra** was the very first living being. She did not ascend from mortality; instead, she was birthed directly from the earth’s womb, a legendary primordial cave named Atakal. Local legends claim she underwent immense labor to birth all animals, all people, and most other deities. The blood spilled across **Kaelerum** during **Fandarra**’s colossal labors soaked into the pristine dirt, instantly making the soil fertile and causing the world's first plant life to grow.
+ - According to ancient **Kellid** myths, **Fandarra** was the very first living being. She did not ascend from mortality, nor was she created by another god; instead, she was birthed directly from the earth's womb, a primordial cave known as **Atakal**. When she emerged, she found **Kaelerum** to be a barren and lifeless world, untouched by animal, plant, or mortal life.
+
+   Believing the world incomplete, **Fandarra** began the first great labor. For countless days she gave birth to the beasts of the land, the creatures of the sea, the birds of the sky, and eventually the first people and many of the gods. Her labor was immense, and her blood spilled freely across the earth. Wherever it fell, the soil became fertile, and the first plants began to grow.
+
+   From this, the **Kellid** believe that all living things share the same origin, born from Fandarra and sustained by the earth. Birth is therefore considered the oldest and most sacred act in existence, and those who bring new life into the world are said to continue Fandarra's first labor.
  
 - **The First Hearth**
   It is said that in the earliest days of **Kaelerum**, the first people wandered across the world without shelter, living separately from one another and struggling to survive the harshness of the world. Seeing their suffering, **Fandarra** gathered the scattered people together and struck a single stone against another, creating the world's first fire. She taught them to protect the flame, cook together, and share whatever food they possessed.
