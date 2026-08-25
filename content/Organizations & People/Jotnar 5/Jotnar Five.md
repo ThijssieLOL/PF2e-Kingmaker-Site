@@ -70,15 +70,15 @@ The **Jotnar Four** are a legendary family of four giant adventurers who have sp
 ---
 
 ## History
-- The **Jotnar Four** were not originally intended to become a permanent group. [[Zagaakwa Ezhaayin|Zagaakwaa]], [[Bapakine Iwe Ishkode|Bapakine]], [[Daga Manoo|Daga]], and [[Niigani Wewidun|Niigani]] first encountered one another during a disastrous expedition involving a logging empire, a corrupted forest, and an ancient spirit that had become violently protective of its territory. The four had very different reasons for becoming involved.
+The **Jotnar Four** were not originally intended to become a permanent group. [[Zagaakwa Ezhaayin|Zagaakwaa]], [[Bapakine Iwe Ishkode|Bapakine]], [[Daga Manoo|Daga]], and [[Niigani Wewidun|Niigani]] first encountered one another during a disastrous expedition involving a logging empire, a corrupted forest, and an ancient spirit that had become violently protective of its territory. The four had very different reasons for becoming involved.
 
-  [[Zagaakwa Ezhaayin|Zagaakwaa]] wanted to protect the forest.
+[[Zagaakwa Ezhaayin|Zagaakwaa]] wanted to protect the forest.
 
   [[Bapakine Iwe Ishkode|Bapakine]] had been hired to deal with the people responsible.
 
-  Daga happened to be passing through and became involved because he thought the situation sounded interesting.
+  [[Daga Manoo|Daga]] happened to be passing through and became involved because he thought the situation sounded interesting.
 
-  Niigani attempted to prevent the conflict from escalating into a larger war.
+  [[Niigani Wewidun|Niigani]] attempted to prevent the conflict from escalating into a larger war.
 
   Despite their differences, the four succeeded where none of them could have succeeded alone. They intended to part ways afterward. They didn't. One adventure became another, and eventually the four realized they had become something more than companions.
 
