@@ -48,8 +48,8 @@ He didn't stop until the imp was dead.
 
 It was at that moment that the [[Jotnar Five|Jotnar Four]] found him.
 
-  
-  
+--- 
+### The Jotnar Four
 
 The [[Jotnar Five|Jotnar Four]] were a legendary adventuring company consisting of four giants:
 
