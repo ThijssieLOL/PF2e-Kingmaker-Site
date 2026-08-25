@@ -3,7 +3,7 @@ tags:
   - character
 ancestry: Aiuvarin
 class: Commander
-faction: Jotnar 5
+faction: Jotnar Five
 status: Alive
 aliases:
   - Sa'be Beshwaji
@@ -22,7 +22,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Full Name:** Oliver Strong Bison
 - **Ancestry/Species:** Aiuvarin
 - **Class/Profession:** Commander
-- **Affiliation:** Jotnar 5
+- **Affiliation:** [[Jotnar ]]
 - **Role/Rank:** General
 
 ## Appearance
