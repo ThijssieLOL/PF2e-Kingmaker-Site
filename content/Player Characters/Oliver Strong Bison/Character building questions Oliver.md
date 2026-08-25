@@ -129,7 +129,7 @@
 57. **What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?**
 	Fear of obsolescence
 58. **What is your character's biggest pet peeve?** 
-	
+	People that av
 59. **Do you have any bad or annoying habits?**
 	
 60. **Sweet, sour, salty or bitter?**
