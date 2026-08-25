@@ -57,15 +57,13 @@ His hands and forearms glow with intense orange heat when he works at a forge, a
 ---
 
 ## Relationships
-- [[Zagaakwa Ezhaayin: They argue constantly about nature, civilization, craftsmanship, and whether something can actually be "improved." Bapakine finds her refusal to interfere with natural processes maddening. Zagaakwaa finds his instinct to fix everything equally amusing. Despite their disagreements, they have absolute trust in one another.
+- [[Zagaakwa Ezhaayin]]: They argue constantly about nature, civilization, craftsmanship, and whether something can actually be "improved." **Bapakine** finds her refusal to interfere with natural processes maddening. **Zagaakwaa** finds his instinct to fix everything equally amusing. Despite their disagreements, they have absolute trust in one another.
 
-- Daga Manoo: Daga is Bapakine's romantic partner.
+- [[Daga Manoo]]: **Daga** is **Bapakine**'s romantic partner. Their relationship is probably the least subtle of the two couples.
 
-Their relationship is probably the least subtle of the two couples.
+  They have spent decades together and still behave like two people who enjoy annoying each other for sport. **Daga** deliberately pushes **Bapakine**'s buttons because he finds his temper hilarious, while **Bapakine** frequently threatens to throw **Daga** into the nearest body of water.
 
-They have spent decades together and still behave like two people who enjoy annoying each other for sport. Daga deliberately pushes Bapakine's buttons because he finds his temper hilarious, while Bapakine frequently threatens to throw Daga into the nearest body of water.
-
-Neither threat is particularly convincing anymore.
+  Neither threat is particularly convincing anymore.
 
 Underneath the bickering, however, their relationship is exceptionally strong. Daga is one of the few people who can make Bapakine genuinely relax, while Bapakine provides Daga with the stability and reliability that his wandering nature sometimes lacks.
 
