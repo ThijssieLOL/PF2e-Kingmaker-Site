@@ -19,9 +19,9 @@ The **Heralds of the Moon Incarnate** are one of the most extreme cults devoted 
 
 To the Heralds, the current world is corrupt and fundamentally flawed. Civilization, morality, kingdoms, gods, and even the natural order are merely temporary structures built upon a reality that has already begun to decay. They believe that the world has outlived its usefulness and that attempting to preserve it only prolongs suffering.
 
-However, the Heralds do not believe that the end of the world means the end of **everything**.
+However, the Heralds do not believe that the end of the world means the end of everything.
 
-They believe that **Groetus will survive the destruction of the current reality**. When the final moment arrives and the universe collapses, Groetus will gather the souls and essences of those who have proven themselves worthy. The most faithful and pure followers of Groetus will be carried beyond the destruction of the old world, their souls preserved for the creation of the next.
+They believe that [[Groetus]] will survive the destruction of the current reality. When the final moment arrives and the universe collapses, [[Groetus]] will gather the souls and essences of those who have proven themselves worthy. The most faithful and pure followers will be carried beyond the destruction of the old world, their souls preserved for the creation of the next.
 
 The Heralds believe that these chosen souls will not simply be reborn as ordinary mortals. In the next reality, Groetus will use their purified essences as the foundations of something greater. The greatest among them may become the gods of the new existence, while others may become its great heroes, guardians, creatures, or even fundamental aspects of reality itself.
 The **Heralds of the Moon Incarnate** are the cult of **Kaelerum** most intent on accelerating the end of the world, which they believe is corrupt, and that **[[Groetus]]** shall take the souls of his most faithful and pure followers to create a new existence in the next reality.
