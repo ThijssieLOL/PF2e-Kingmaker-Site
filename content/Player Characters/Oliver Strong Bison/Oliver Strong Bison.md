@@ -51,13 +51,13 @@ aliases:
 ---
 
 ## Relationships
-Zagaakwa Ezhaayin: Zagaakwaa was Oliver's first teacher, teaching him survival, tracking, nature, and most importantly, patience. She rarely expresses affection openly, instead showing it through small acts of care, but Oliver has always considered her a mother figure. She taught him to observe before acting, a lesson that has stayed with him throughout his life.
+[[Zagaakwa Ezhaayin]]: Zagaakwaa was Oliver's first teacher, teaching him survival, tracking, nature, and most importantly, patience. She rarely expresses affection openly, instead showing it through small acts of care, but Oliver has always considered her a mother figure. She taught him to observe before acting, a lesson that has stayed with him throughout his life.
 
-Bapakine Iwe Ishkode: Bapakine was Oliver's combat instructor and taught him how to overcome opponents who were bigger and stronger than himself. He was an extremely demanding teacher, but his harshness came from believing Oliver was capable of becoming something extraordinary. Bapakine considers Oliver his greatest creation—not as a blacksmith, but as a warrior.
+[[Bapakine Iwe Ishkode]]: Bapakine was Oliver's combat instructor and taught him how to overcome opponents who were bigger and stronger than himself. He was an extremely demanding teacher, but his harshness came from believing Oliver was capable of becoming something extraordinary. Bapakine considers Oliver his greatest creation—not as a blacksmith, but as a warrior.
 
-Daga Manoo: Daga taught Oliver how to enjoy life, taking him fishing, sailing, travelling, gambling, dancing, and generally getting into trouble. He treats Oliver more like a son or younger brother than a student and is responsible for many of Oliver's happiest childhood memories. Daga is also one of the few people who can tell when Oliver is struggling without needing to be told.
+[[Daga Manoo]]: Daga taught Oliver how to enjoy life, taking him fishing, sailing, travelling, gambling, dancing, and generally getting into trouble. He treats Oliver more like a son or younger brother than a student and is responsible for many of Oliver's happiest childhood memories. Daga is also one of the few people who can tell when Oliver is struggling without needing to be told.
 
-Niigani Wewidun: Niigani became Oliver's spiritual and moral guide, teaching him about responsibility, compassion, diplomacy, and the consequences of power. She is the most openly affectionate toward him and often takes on the role of a protective mother. Oliver turns to her whenever he is uncertain about what the right thing to do is.
+[[Niigani Wewidun]]: Niigani became Oliver's spiritual and moral guide, teaching him about responsibility, compassion, diplomacy, and the consequences of power. She is the most openly affectionate toward him and often takes on the role of a protective mother. Oliver turns to her whenever he is uncertain about what the right thing to do is.
 
-The Jotnar Four: Oliver doesn't think of the four giants as separate mentors anymore; they are simply his family. Each gave him something different—Zagaakwaa taught him to understand, Bapakine taught him to survive, Daga taught him to live, and Niigani taught him to choose. They may disagree constantly about how to guide him, but all four consider Oliver their son.
+The [[Jotnar Five|Jotnar Four]]: Oliver doesn't think of the four giants as separate mentors anymore; they are simply his family. Each gave him something different—Zagaakwaa taught him to understand, Bapakine taught him to survive, Daga taught him to live, and Niigani taught him to choose. They may disagree constantly about how to guide him, but all four consider Oliver their son.
 
