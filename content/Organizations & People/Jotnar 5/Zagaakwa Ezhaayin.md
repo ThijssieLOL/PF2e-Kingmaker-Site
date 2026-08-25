@@ -51,7 +51,17 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## History
-- **Background:** (Their past, how they got here, and what they want to achieve)
+- **Background:** Zagaakwaa was born deep within one of the oldest forests in the world. Her people considered her unusually spiritual from a young age, claiming that she could hear the "voices" of the forest long before she could properly speak.
+
+  She eventually left her homeland to learn about the world beyond the trees. During her travels, she encountered countless civilizations that treated forests as resources rather than living ecosystems.
+
+  She joined the other three giants after a particularly disastrous expedition involving a logging empire, a corrupted forest, and an ancient spirit that had become violently protective of its territory.
+
+The four initially intended to go their separate ways after the adventure.
+
+They never did.
+
+Decades later, Zagaakwaa has become something of a guardian of the natural world, wandering wherever she believes the balance of nature is being threatened.
 
 ---
 
