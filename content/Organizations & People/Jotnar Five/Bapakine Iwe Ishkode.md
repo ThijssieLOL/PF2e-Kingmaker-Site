@@ -53,19 +53,11 @@ He respects competence above almost everything else. Someone who admits they are
 ## Abilities
 **Bapakine** is a master blacksmith and one of the finest weaponsmiths among the giants. He can repair, forge, and improve weapons that most mortals would struggle even to lift.
 
-In combat, he relies on his enormous strength
-- Heavy weapons
-- Heavy armor
-- Battlefield tactics
-- Smithing and engineering
-- Intimidation
-- Improvised weapons
+In combat, he relies on his enormous strength, heavy weapons and his battlefield tactics. He prefers fighting with his massive warhammer, but is equally comfortable using an axe, sword, or whatever happens to be nearby.
 
-He prefers fighting with his massive warhammer, but is equally comfortable using an axe, sword, or whatever happens to be nearby.
+His greatest lesson to **Oliver** was that strength is not the same thing as power.
 
-His greatest lesson to Oliver was that **strength is not the same thing as power**.
-
-Bapakine deliberately taught Oliver techniques that allowed a smaller fighter to defeat larger opponents: targeting joints, exploiting openings, using terrain, setting traps, and knowing when to retreat.
+**Bapakine** deliberately taught **Oliver** techniques that allowed a smaller fighter to defeat larger opponents: targeting joints, exploiting openings, using terrain, setting traps, and knowing when to retreat.
 
 ---
 
