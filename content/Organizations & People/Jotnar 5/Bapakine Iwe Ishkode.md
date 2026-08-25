@@ -20,9 +20,9 @@ aliases:
 ### Quick Facts
 - **Full Name:** Bapakine iwe ishkode // *That fire is giving off sparks.*
 - **Ancestry/Species:** Fire Giant
-- **Class/Profession:** Warrior, Blacksmith, and Armorer 
-- **Affiliation:** 
-- **Role/Rank:** Fighter / Master Smith
+- **Class/Profession:** Fighter / Master Smith
+- **Affiliation:** [[Jotnar Five]]
+- **Role/Rank:** Warrior, Blacksmith, and Armorer 
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
