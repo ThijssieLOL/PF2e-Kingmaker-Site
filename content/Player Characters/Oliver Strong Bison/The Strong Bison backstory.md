@@ -56,11 +56,11 @@ It was at that moment that the [[Jotnar Five|Jotnar Four]] found him.
 
 The [[Jotnar Five|Jotnar Four]] were a legendary adventuring company consisting of four giants:
 
-[[Zagaakwa Ezhaayin]], known simply as [[Zagaakwa Ezhaayin|Zagaakwaa]], a wise wood giant who possessed an almost spiritual connection with the forests.
+[[Zagaakwa Ezhaayin]], a wise wood giant who possessed an almost spiritual connection with the forests.
 
-[[Bapakine Iwe Ishkode]], or [[Bapakine]], a fire giant renowned for his strength, temper, and exceptional skill as a blacksmith.
+[[Bapakine Iwe Ishkode]], a fire giant renowned for his strength, temper, and exceptional skill as a blacksmith.
 
-**Daga Manoo**, a tide giant whose personality was as unpredictable as the ocean, equally capable of becoming the life of a celebration or disappearing for days to enjoy the world at his own pace.
+[[Daga Manoo]], a tide giant whose personality was as unpredictable as the ocean, equally capable of becoming the life of a celebration or disappearing for days to enjoy the world at his own pace.
 
 And finally, their leader, **Niigani Wewidun**, a storm giant who served as the group's diplomat, spiritual guide, and voice of reason.
 
