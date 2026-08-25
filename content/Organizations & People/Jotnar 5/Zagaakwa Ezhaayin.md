@@ -10,7 +10,6 @@ aliases:
   - Zagaakwaa
 ---
 
-
 ![[woodgiant.png|300]]
 
 > "No matter how beautiful architecture men can make, they will never create such a wonderful thing as a tree."

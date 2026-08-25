@@ -10,7 +10,6 @@ aliases:
   - Bapakine
 ---
 
-
 ![[firegiant.png|300]]
 
 > "There are no good wars or bad wars. The only thing bad about a war is to lose it. All wars have been fought for a so called good cause on both sides. But only the victor's cause becomes history's noble cause." - Bapakine
