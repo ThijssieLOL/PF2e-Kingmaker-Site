@@ -28,7 +28,11 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Role/Rank:** General
 
 ## Appearance
-- **Description:** (What they look like, what they wear, and any distinguishing features)
+- **Description:** Oliver stands at roughly 182 cm, with a lean, athletic build. He has medium-length brown hair that falls loosely around his face and shoulders, along with green eyes and youthful facial features. His expression is neutral and attentive.
+
+  He wears dark leather armor reinforced with overlapping metal plates, with a deep navy-blue cloak draped over his shoulders. Purple fabric is incorporated into parts of his clothing and armor, including a sash or cloth around his waist. Several pouches and pieces of adventuring gear hang from her belt as he is accustomed to long journeys far from civilization.
+
+  At his side is a large sword with a broad, decorated blade. He also carries a tall black banner featuring a distinctive purple symbol of his goddess on one side and of his clan on the other.
 
 ---
 
