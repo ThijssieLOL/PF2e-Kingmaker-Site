@@ -27,15 +27,9 @@ aliases:
 ## Appearance
 **Niigani** is a towering blue-skinned storm giant with a powerful warrior's build. Her skin is a deep cobalt and indigo blue, with darker tones across her arms and legs and subtle highlights around her face and shoulders.
 
-Her long **silver-white hair** is one of her most recognizable features. It falls around her shoulders and back in loose, windswept waves, almost as though a permanent breeze follows her wherever she goes.
+Her long silver-white hair is one of her most recognizable features. It falls around her shoulders and back in loose, windswept waves, almost as though a permanent breeze follows her wherever she goes. Her eyes glow with an intense pale light, giving them an almost supernatural appearance. When she calls upon divine or storm magic, that glow becomes considerably brighter.
 
-Her eyes glow with an intense pale light, giving them an almost supernatural appearance. When she calls upon divine or storm magic, that glow becomes considerably brighter.
-
-Niigani wears ornate armor over a long blue-and-silver garment. Her armor is made from overlapping metallic plates and pieces resembling scales, giving her the appearance of a warrior-priestess rather than a conventional knight.
-
-Several large circular emblems and ornaments decorate her armor, while red gemstones are set into portions of her belt and equipment.
-
-Her clothing is primarily composed of deep blues, silver, and grey, with occasional red accents.
+**Niigani** wears ornate armor over a long blue and silver garment. Her armor is made from overlapping metallic plates and pieces resembling scales. Several large circular emblems and ornaments decorate her armor, while red gemstones are set into portions of her belt and equipment. Her clothing is primarily composed of deep blues, silver, and grey, with occasional red accents.
 
 She carries an enormous spear that crackles with pale lightning. The weapon resembles a physical manifestation of a lightning bolt, with jagged energy occasionally running along its length.
 
