@@ -74,12 +74,18 @@ The **Jotnar Four** were not originally intended to become a permanent group. [[
 
 [[Zagaakwa Ezhaayin|Zagaakwaa]] wanted to protect the forest.
 
-  [[Bapakine Iwe Ishkode|Bapakine]] had been hired to deal with the people responsible.
+[[Bapakine Iwe Ishkode|Bapakine]] had been hired to deal with the people responsible.
 
-  [[Daga Manoo|Daga]] happened to be passing through and became involved because he thought the situation sounded interesting.
+[[Daga Manoo|Daga]] happened to be passing through and became involved because he thought the situation sounded interesting.
 
-  [[Niigani Wewidun|Niigani]] attempted to prevent the conflict from escalating into a larger war.
+[[Niigani Wewidun|Niigani]] attempted to prevent the conflict from escalating into a larger war.
 
-  Despite their differences, the four succeeded where none of them could have succeeded alone. They intended to part ways afterward. They didn't. One adventure became another, and eventually the four realized they had become something more than companions.
+Despite their differences, the four succeeded where none of them could have succeeded alone. They intended to part ways afterward. They didn't. One adventure became another, and eventually the four realized they had become something more than companions.
 
-  They had become a family.
+They had become a family.
+
+---
+
+## Structure & Ranks
+- **Hierarchy:** 
+  [[Niigani Wewidun|Niigani]] serves as the group's official leader and primary decision-maker when the four cannot agree. Her authority comes less from rank and more from the trust the others have placed in her over decades.
