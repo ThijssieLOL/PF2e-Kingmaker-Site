@@ -138,13 +138,13 @@ When **Oliver** turned eighteen and reached adulthood, the four decided that sim
 
 They gave him a new name:
 
-[[Sa’be Beshwaji.
+[[Oliver Strong Bison|Sa’be Beshwaji]].
 
 The name was a declaration that he was no longer merely a child they had rescued from a battlefield.
 
 He was one of them.
 
-From that day onward, the Jotnar Four became the **Jotnar Five**.
+From that day onward, the [[Jotnar Five|Jotnar Four]] became the [[Jotnar Five]].
 
 Twelve years have passed since then.
 
