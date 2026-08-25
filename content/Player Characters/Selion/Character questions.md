@@ -5,7 +5,7 @@
 3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
     lore of spirits and undead
 4. What [[Languages|languages]] does your character speak and why?
-    common and 3 others (idk yet)
+    common, necril, infernal, arboreal (idk yet)
 
 ### Visual Design and Aesthetics
 
