@@ -130,7 +130,7 @@ The giants never seemed to mind.
 
 To them, [[Oliver Strong Bison|Oliver]] was family.
 
-When [[Oliver Strong Bison|Oliver]] turned eighteen and reached adulthood, the four decided that simply calling him Oliver was no longer enough.
+When [[Oliver Strong Bison|Oliver]] turned eighteen and reached adulthood, the four decided that simply calling him [[Oliver Strong Bison|Oliver]] was no longer enough.
 
 They gave him a new name:
 
@@ -170,13 +170,13 @@ This time, he will not freeze.
 
 This time, he will not be the frightened eight-year-old boy watching from the shadows.
 
-So when an opportunity arises to join an expedition into the Stolen Lands, [[Oliver Strong Bison|Oliver]] takes it.
+So when an opportunity arises to join an expedition into the **Stolen Lands**, [[Oliver Strong Bison|Oliver]] takes it.
 
 Officially, he is travelling there to help establish a new settlement and explore the dangerous wilderness.
 
 Unofficially, he has another purpose.
 
-Find the Heralds.
+Find the **Heralds**.
 
 And somewhere among them, [[Oliver Strong Bison|Oliver]] believes, is the bald man with the scar.
 
