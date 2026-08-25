@@ -67,8 +67,6 @@ She carries an enormous spear that crackles with pale lightning. The weapon rese
 
 - [[Oliver Strong Bison]]: **Niigani** became **Oliver**'s moral and spiritual guide. She taught him about gods, cultures, diplomacy, responsibility, and the consequences of wielding power.
 
-  She is also the most openly affectionate toward him.
-
   Of all four giants, Niigani was perhaps the first to understand that Oliver wasn't merely a child they had rescued.
 
   He was family.
