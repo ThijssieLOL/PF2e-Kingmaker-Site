@@ -64,12 +64,12 @@ Eventually she encountered the other three giants.
 
 What began as a temporary alliance became a friendship, then a family.
 
-Niigani eventually became the unquestioned leader of the group—not because she was the strongest, but because she was the one everyone trusted when things went wrong.
+**Niigani** eventually became the unquestioned leader of the group, not because she was the strongest, but because she was the one everyone trusted when things went wrong.
 
 ---
 
 ## Relationships
-- [[Zagaakwa Ezhaayin]]: **Zagaakwaa** is Niigani'**s** romantic partner. Their relationship is mostly based on a quiet and almost instinctive understanding of one another.
+- [[Zagaakwa Ezhaayin]]: **Zagaakwaa** is **Niigani**'s romantic partner. Their relationship is mostly based on a quiet and almost instinctive understanding of one another.
 
   **Niigani** is one of the few people who can sit beside **Zagaakwaa** in complete silence without feeling the need to fill it. **Zagaakwaa**, in turn, is one of the few people who can see past **Niigani**'s role as leader and recognize when she is tired, frightened, or carrying too much responsibility.
 
