@@ -93,5 +93,21 @@ They had become a family.
 ---
 
 ## Structure & Ranks
-- **Hierarchy:** 
-  [[Niigani Wewidun|Niigani]] serves as the group's official leader and primary decision-maker when the four cannot agree. Her authority comes less from rank and more from the trust the others have placed in her over decades.
+Despite their lack of formal wealth, the Jotnar Four have accumulated considerable resources throughout their decades of adventuring.
+
+These include:
+
+- Ancient magical artifacts
+- Giant-sized weapons and armor
+- Bapakine's enormous forge
+- Zagaakwaa's collection of rare herbs and natural remedies
+- Niigani's religious texts and magical relics
+- Daga's extensive maps and travel routes
+- Connections with numerous communities
+- Knowledge of forgotten locations
+- Favors owed by powerful individuals
+- A vast collection of stories, secrets, and information
+
+Their greatest resource, however, is their reputation.
+
+A village that cannot afford an army might still be able to send word to the Jotnar Four and if the Four decide the cause is worth fighting for, help will come.
