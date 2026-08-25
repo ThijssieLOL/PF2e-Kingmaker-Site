@@ -141,7 +141,7 @@
 63. **How would your character try to impress someone?**
 
 64. **How does your character make friends?**
-	They fight together, anyone you can tru
+	They fight together, anyone you can trust on the battlefield is someone worth keeping close
 65. **What is your most valuable possession and why?**
 
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
