@@ -36,12 +36,20 @@ She carries an enormous spear that crackles with pale lightning. The weapon rese
 ---
 
 ## Personality
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+**Niigani** is calm, wise, diplomatic, and deeply compassionate. She naturally assumes the role of leader without demanding that the others follow her.
+
+She believes strength carries responsibility. The stronger someone becomes, the more responsibility they have to protect those who cannot protect themselves.
+
+She also understands that storms are not inherently destructive. A storm can destroy a village, but it can also bring rain to a dying land. **Niigani** believes hardship reveals character rather than creating it.
 
 ---
 
 ## Abilities
-- **Skills & Magic:** (How they fight, what magic they use, or their main talents)
+Niigani is a powerful divine spellcaster whose magic manifests primarily through storms.
+
+In battle, she serves as both the group's commander and its spiritual backbone. She rarely rushes into combat. Instead, she watches the battlefield, directs the others, and waits for the precise moment to unleash devastating lightning.
+
+When forced into close combat, she fights with her spear and shield, combining martial skill with divine magic.
 
 ---
 
