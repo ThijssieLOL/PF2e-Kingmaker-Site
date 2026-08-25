@@ -148,7 +148,7 @@ From that day onward, the [[Jotnar Five|Jotnar Four]] became the [[Jotnar Five]]
 
 Twelve years have passed since then.
 
-Oliver is now thirty years old. He has spent more of his life with the Jotnar Five than he ever did with his original family, and although the memories of his village have faded with time, one image has never left him.
+[[Oliver Strong Bison|Oliver]] is now thirty years old. He has spent more of his life with the [[Jotnar Five]] than he ever did with his original family, and although the memories of his village have faded with time, one image has never left him.
 
 A bald man.
 
@@ -158,7 +158,7 @@ A scar running from his forehead to his eye.
 
 The man who killed his family.
 
-Oliver has never learned who he was.
+[[Oliver]] has never learned who he was.
 
 Until one day, one of the Jotnar discovers a lead.
 
