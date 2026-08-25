@@ -119,7 +119,7 @@
 52. **What is your character's favourite animal?**
 	Fish
 53. **What would be your character's spirit animal and why?**
-	the eagle, the bird represents fearlessness, inner power, and the mental strength to face tough challenges.
+	the eagle, the bird represents fearlessness, inner power, and the mental strength to face tough challenges. An eagle soars above the chaos to see the entire battlefield, spotting critical details and planning movements far in advance.
 54. **What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?**
 	Poetry
 55. **What does your character like to spend their free time on if they have a break from adventuring?**
@@ -141,7 +141,7 @@
 63. **How would your character try to impress someone?**
 
 64. **How does your character make friends?**
-
+	They fight together, anyone you can tru
 65. **What is your most valuable possession and why?**
 
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
