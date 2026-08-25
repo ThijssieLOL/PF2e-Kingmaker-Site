@@ -2,9 +2,9 @@
 tags:
   - character
   - npc
-ancestry:
+ancestry: Jotun
 class:
-faction:
+faction: "[[Jotnar Five]]"
 status: Alive
 aliases:
   - Niigani

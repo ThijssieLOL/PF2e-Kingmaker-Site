@@ -2,8 +2,8 @@
 tags:
   - character
   - npc
-ancestry: Giant
-class:
+ancestry: Jotun
+class: Fighter
 faction: Jotnar Five
 status: Alive
 aliases:

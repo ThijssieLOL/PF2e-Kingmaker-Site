@@ -2,9 +2,9 @@
 tags:
   - character
   - npc
-ancestry:
-class:
-faction:
+ancestry: Jotun
+class: Druid
+faction: "[[Jotnar Five]]"
 status: Alive
 aliases:
   - Zagaakwaa
