@@ -51,9 +51,9 @@ aliases:
 ---
 
 ## Relationships
-[[Zagaakwa Ezhaayin]]: Zagaakwaa was Oliver's first teacher, teaching him survival, tracking, nature, and most importantly, patience. She rarely expresses affection openly, instead showing it through small acts of care, but Oliver has always considered her a mother figure. She taught him to observe before acting, a lesson that has stayed with him throughout his life.
+[[Zagaakwa Ezhaayin]]: **Zagaakwaa** was **Oliver**'s first teacher, teaching him survival, tracking, nature, and most importantly, patience. She rarely expresses affection openly, instead showing it through small acts of care, but **Oliver** has always considered her a mother figure. She taught him to observe before acting, a lesson that has stayed with him throughout his life.
 
-[[Bapakine Iwe Ishkode]]: Bapakine was Oliver's combat instructor and taught him how to overcome opponents who were bigger and stronger than himself. He was an extremely demanding teacher, but his harshness came from believing Oliver was capable of becoming something extraordinary. Bapakine considers Oliver his greatest creation—not as a blacksmith, but as a warrior.
+[[Bapakine Iwe Ishkode]]: **Bapakine** was **Oliver**'s combat instructor and taught him how to overcome opponents who were bigger and stronger than himself. He was an extremely demanding teacher, but his harshness came from believing **Oliver** was capable of becoming something extraordinary. **Bapakine** considers **Oliver** his greatest creation, not as a blacksmith, but as a warrior.
 
 [[Daga Manoo]]: Daga taught Oliver how to enjoy life, taking him fishing, sailing, travelling, gambling, dancing, and generally getting into trouble. He treats Oliver more like a son or younger brother than a student and is responsible for many of Oliver's happiest childhood memories. Daga is also one of the few people who can tell when Oliver is struggling without needing to be told.
 
