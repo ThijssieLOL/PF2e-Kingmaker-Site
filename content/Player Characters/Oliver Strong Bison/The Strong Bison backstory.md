@@ -93,23 +93,23 @@ What was unnatural, however, deserved to be purged.
 
 [[Bapakine Iwe Ishkode|Bapakine]] taught **Oliver** the ways of warfare and the forge. Though **Oliver** would never possess the physical strength of a giant, [[Bapakine Iwe Ishkode|Bapakine]] taught him how to compensate through technique, preparation, and cleverness. Under his enormous mentor, **Oliver** learned to work metal, maintain weapons, and eventually become a respectable blacksmith.
 
-Bapakine also taught him that fighting was not about being the strongest person on the battlefield.
+[[Bapakine Iwe Ishkode|Bapakine]] also taught him that fighting was not about being the strongest person on the battlefield.
 
 It was about being the one who was still standing when everyone else had fallen.
 
-Daga Manoo taught Oliver something completely different.
+[[Daga Manoo]] taught **Oliver** something completely different.
 
-**How to live.**
+How to live.
 
-Daga believed that life was far too short to spend worrying about every little thing. He taught Oliver to appreciate good food, beautiful landscapes, strange cultures, long journeys, and even longer evenings around a campfire.
+[[Daga Manoo|Daga]] believed that life was far too short to spend worrying about every little thing. He taught **Oliver** to appreciate good food, beautiful landscapes, strange cultures, long journeys, and even longer evenings around a campfire.
 
-He also introduced Oliver to alcohol.
+He also introduced **Oliver** to alcohol.
 
 Perhaps somewhat too enthusiastically.
 
-From Daga, Oliver learned that sometimes the best thing to do was simply sit down, enjoy the sunset, and let the world pass by for a while.
+From [[Daga Manoo|Daga]], **Oliver** learned that sometimes the best thing to do was simply sit down, enjoy the sunset, and let the world pass by for a while.
 
-Niigani, meanwhile, took responsibility for Oliver's **education in religion, diplomacy, and the wider world**. He taught him about the gods, different cultures, and the responsibilities that came with power. Niigani also taught Oliver how to speak with people rather than simply fight them—a skill that became increasingly important as Oliver travelled alongside four giants who could accidentally start diplomatic incidents simply by entering a room.
+[[Niigani Wewidun|Niigani]], meanwhile, took responsibility for Oliver's **e**ducation in religion, diplomacy, and the wider world.**** He taught him about the gods, different cultures, and the responsibilities that came with power. Niigani also taught Oliver how to speak with people rather than simply fight them—a skill that became increasingly important as Oliver travelled alongside four giants who could accidentally start diplomatic incidents simply by entering a room.
 
 Together, the four gave Oliver an education that no ordinary school could have provided.
 
