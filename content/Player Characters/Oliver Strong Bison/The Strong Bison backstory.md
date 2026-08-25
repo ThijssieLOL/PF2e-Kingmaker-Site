@@ -111,7 +111,7 @@ From [[Daga Manoo|Daga]], [[Oliver Strong Bison|Oliver]] learned that sometimes 
 Together, the four gave [[Oliver Strong Bison|Oliver]] an education that no ordinary school could have provided.
 
 --- 
-  
+###  
 
 For the next decade, [[Oliver Strong Bison|Oliver]] travelled with the [[Jotnar Five|Jotnar Four]].
 
