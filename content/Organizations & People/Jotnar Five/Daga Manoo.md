@@ -42,18 +42,22 @@ His weapons and equipment have a distinctly maritime quality, and he often carri
 ---
 
 ## Personality
-Daga is the most carefree member of the group.
+**Daga** is the most carefree member of the group.
 
 He loves food, drink, music, gambling, travelling, festivals, beautiful scenery, and meeting strange people. He can disappear from camp for several days without warning, only to return with a ridiculous story about something that happened to him.
 
-Daga believes life is too short to constantly worry about what other people think.
+**Daga** believes life is too short to constantly worry about what other people think.
 
-However, beneath his carefree exterior is someone extremely perceptive. Daga notices when people are unhappy, lonely, or hiding something. He simply prefers to help them without making a big deal out of it.
+However, beneath his carefree exterior is someone extremely perceptive. **Daga** notices when people are unhappy, lonely, or hiding something. He simply prefers to help them without making a big deal out of it.
 
 ---
 
 ## Abilities
-- **Skills & Magic:** (How they fight, what magic they use, or their main talents)
+**Daga** is an exceptionally capable sailor and traveller. He has crossed oceans that most people consider impassable and has an almost instinctive understanding of tides and currents.
+
+His magic is heavily tied to water and sound. He can manipulate waves, create mist, call upon the rhythm of the sea, and use music to inspire his allies.
+
+In battle, **Daga** fights unpredictably. He doesn't have Bapakine's discipline or **Zagaakwaa**'s patience. Instead, he moves with the chaotic rhythm of the ocean—sometimes calm, sometimes violent, and almost impossible to predict.
 
 ---
 
