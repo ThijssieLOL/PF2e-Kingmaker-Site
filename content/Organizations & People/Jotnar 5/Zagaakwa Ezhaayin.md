@@ -35,7 +35,7 @@ Her clothing is made from layered greens, browns, and muted golds, with much of 
 
 A particularly distinctive feature is the enormous living staff she carries. The staff is made from a twisted piece of ancient wood and resembles a gnarled branch that was never truly separated from the tree it came from. She also carries a large wooden polearm or staff-like weapon across her shoulders when travelling.
 
-Zagaakwaa's appearance changes subtly with the seasons. Flowers appear more frequently in spring, leaves become richer during summer, and small dried leaves and seed pods accumulate among her clothing during autumn.
+**Zagaakwaa**'s appearance changes subtly with the seasons. Flowers appear more frequently in spring, leaves become richer during summer, and small dried leaves and seed pods accumulate among her clothing during autumn.
 
 ---
 ## Personality
