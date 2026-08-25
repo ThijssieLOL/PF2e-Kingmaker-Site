@@ -20,7 +20,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
 - **Full Name:** Zagaakwaa ezhaayin // *The forest is dense where you are going.*
-- **Ancestry/Species:** 
+- **Ancestry/Species:** Forest Giant
 - **Class/Profession:** 
 - **Affiliation:** 
 - **Role/Rank:** 
