@@ -57,15 +57,15 @@ She carries an enormous spear that crackles with pale lightning. The weapon rese
 
   Their relationship mirrors their respective philosophies: storm and forest, change and growth, sky and earth. They often spend evenings together away from the others, discussing spirituality, mortality, nature, and the strange ways civilizations attempt to understand the world.
 
-  Niigani is somewhat more openly affectionate, while Zagaakwaa expresses her affection through small gestures: bringing Niigani flowers, repairing pieces of her equipment, sitting beside her during quiet moments, or simply making sure she has eaten.
+  **Niigani** is somewhat more openly affectionate, while **Zagaakwaa** expresses her affection through small gestures: bringing **Niigani** flowers, repairing pieces of her equipment, sitting beside her during quiet moments, or simply making sure she has eaten.
 
-- Bapakine Iwe Ishkode: Niigani is the group's counterbalance to Bapakine's temper. She respects his strength and loyalty but frequently reminds him that winning a battle doesn't necessarily mean making the correct decision.
+- [[Bapakine Iwe Ishkode]]: **Niigani** is the group's counterbalance to **Bapakine**'s temper. She respects his strength and loyalty but frequently reminds him that winning a battle doesn't necessarily mean making the correct decision.
 
-- Daga Manoo: Daga is her greatest source of headaches. She has spent decades trying to convince him that disappearing without telling anyone where he is going is not reasonable behavior.
+- [[Daga Manoo]]: **Daga** is her greatest source of headaches. She has spent decades trying to convince him that disappearing without telling anyone where he is going is not reasonable behavior.
 
   She has failed.
 
-- Oliver Strong Bison: Niigani became Oliver's moral and spiritual guide. She taught him about gods, cultures, diplomacy, responsibility, and the consequences of wielding power.
+- [[Oliver Strong Bison]]: **Niigani** became **Oliver**'s moral and spiritual guide. She taught him about gods, cultures, diplomacy, responsibility, and the consequences of wielding power.
 
   She is also the most openly affectionate toward him.
 
