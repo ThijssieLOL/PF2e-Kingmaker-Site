@@ -16,7 +16,7 @@ aliases:
 > "There are no good wars or bad wars. The only thing bad about a war is to lose it. All wars have been fought for a so called good cause on both sides. But only the victor's cause becomes history's noble cause." - Bapakine
 
 ## Overview
-A brief 1-2 sentence summary of who this character is and their role.
+**Bapakine** is a powerful fire giant warrior and master blacksmith whose intimidating temper hides an intensely loyal and protective nature. Blunt, stubborn, and pragmatic, he believes survival depends on preparation, determination, and the willingness to do what must be done.
 
 ### Quick Facts
 - **Full Name:** Bapakine iwe ishkode // *That fire is giving off sparks.*
