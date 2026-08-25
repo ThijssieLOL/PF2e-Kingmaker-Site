@@ -29,9 +29,8 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Description:** (What they look like, what they wear, and any distinguishing features)
 
 ---
-
 ## Personality
-- **Demeanor:** Zagaakwaa is calm, patient, and difficult to anger. She rarely raises her voice and often allows others to finish speaking before responding. She has an almost unnerving ability to simply watch something for several minutes before deciding whether it deserves her attention.
+- **Demeanor:** **Zagaakwaa** is calm, patient, and difficult to anger. She rarely raises her voice and often allows others to finish speaking before responding. She has an almost unnerving ability to simply watch something for several minutes before deciding whether it deserves her attention.
 
   She sees the world through cycles: growth, decay, death, and rebirth. She does not fear death and does not consider it inherently tragic. To her, death is simply another part of nature.
 
@@ -40,17 +39,16 @@ A brief 1-2 sentence summary of who this character is and their role.
   She is also surprisingly humorous when around the other Jotnar, although her jokes tend to be incredibly dry.
 
 ---
-
 ## Abilities
-- **Skills & Magic:** Zagaakwaa is an exceptionally powerful druid with a deep connection to the forests of the world. She can communicate with animals and plants and has the ability to navigate most wildernesses with ease.
+- **Skills & Magic:** **Zagaakwaa** is an exceptionally powerful druid with a deep connection to the forests of the world. She can communicate with animals and plants and has the ability to navigate most wildernesses with ease.
 
-  Rather than fighting aggressively, Zagaakwaa prefers to turn the environment itself against her enemies: using roots to tear through the earth, twist trees into unnatural shapes, and awakening entire patches of forest at her command.
+  Rather than fighting aggressively, **Zagaakwaa** prefers to turn the environment itself against her enemies: using roots to tear through the earth, twist trees into unnatural shapes, and awakening entire patches of forest at her command.
 
   When she is truly enraged or desperate, she is capable of becoming something far more frightening than a giant: an enormous, ancient creature resembling a walking tree.
 
 ---
 ## History
-- **Background:** Zagaakwaa was born deep within one of the oldest forests in the world. Her people considered her unusually spiritual from a young age, claiming that she could hear the "voices" of the forest long before she could properly speak.
+- **Background:** **Zagaakwaa** was born deep within one of the oldest forests in the world. Her people considered her unusually spiritual from a young age, claiming that she could hear the voices of the forest long before she could properly speak.
 
   She eventually left her homeland to learn about the world beyond the trees. During her travels, she encountered countless civilizations that treated forests as resources rather than living ecosystems.
 
