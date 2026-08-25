@@ -10,13 +10,12 @@ aliases:
   - Niigani
 ---
 
-
 ![[stormgiant.png|300]]
 
 > "It is only during a storm that a tree knows how strong it is." - Niigani
 
 ## Overview
-A brief 1-2 sentence summary of who this character is and their role.
+**Niigani** is a wise and compassionate storm giant cleric who serves as the [[Jotnar Five|Jotnar Four]]'s leader, diplomat, and spiritual guide. She believes that great strength comes with great responsibility and strives to use her power to protect others rather than rule over them.
 
 ### Quick Facts
 - **Full Name:** Niigani wewidun // *Thunder before the storm*
