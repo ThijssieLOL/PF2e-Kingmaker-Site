@@ -2,9 +2,9 @@
 tags:
   - character
   - npc
-ancestry:
-class:
-faction:
+ancestry: Jotun
+class: Bard
+faction: "[[Jotnar Five]]"
 status: Alive
 aliases:
   - Daga

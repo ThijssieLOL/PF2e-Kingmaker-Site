@@ -3,7 +3,7 @@ tags:
   - character
 ancestry: Aiuvarin
 class: Commander
-faction: Jotnar Five
+faction: "[[Jotnar Five]]"
 status: Alive
 aliases:
   - Sa'be

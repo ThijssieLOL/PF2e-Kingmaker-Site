@@ -4,7 +4,7 @@ tags:
   - npc
 ancestry: Jotun
 class: Fighter
-faction: Jotnar Five
+faction: "[[Jotnar Five]]"
 status: Alive
 aliases:
   - Bapakine
