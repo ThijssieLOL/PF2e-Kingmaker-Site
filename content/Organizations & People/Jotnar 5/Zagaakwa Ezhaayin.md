@@ -26,9 +26,9 @@ aliases:
 
 ## Appearance
 
-**Zagaakwaa** is a tall, elegant wood giant whose appearance is considerably more graceful than her immense stature might suggest. Rather than looking like a conventional humanoid giant, she possesses distinctly elven features: long pointed ears, sharp green eyes, high cheekbones, and long golden-blonde hair that falls almost to her waist.
+**Zagaakwaa** is a tall, elegant wood giant whose appearance is considerably more graceful than her immense stature might suggest. Rather than looking like a conventional humanoid giant, she possesses distinctly elven features: long pointed ears, sharp green eyes, high cheekbones, and long golden blonde hair that falls almost to her waist.
 
-Her hair is partially braided and gathered into an elaborate natural crown decorated with small branches, twigs, beads, and turquoise-green ornaments. Tiny pieces of the forest are almost always woven into her hair, though she rarely remembers putting them there.
+Her hair is partially braided and gathered into an elaborate natural crown decorated with small branches, twigs, beads, and turquoise green ornaments. Tiny pieces of the forest are almost always woven into her hair, though she rarely remembers putting them there.
 
 Her clothing is made from layered greens, browns, and muted golds, with much of it resembling living foliage rather than conventional fabric. Leaves, vines, flowers, and feathers are incorporated into her clothing and armor. Her shoulders and arms are protected by pieces of bark like natural armor, and several small flowers grow from or are attached to her garments.
 
