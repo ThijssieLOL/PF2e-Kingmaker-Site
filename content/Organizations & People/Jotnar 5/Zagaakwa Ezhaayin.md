@@ -42,9 +42,9 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## Abilities
-- **Skills & Magic:** Zagaakwaa is an exceptionally powerful druid with a deep connection to the forests of the world. She can communicate with animals and plants and has the ability to navigate  wilderness.
+- **Skills & Magic:** Zagaakwaa is an exceptionally powerful druid with a deep connection to the forests of the world. She can communicate with animals and plants and has the ability to navigate most wildernesses with ease.
 
-  Rather than fighting aggressively, Zagaakwaa turns the environment itself against her enemies. Roots tear through the earth, trees twist into unnatural shapes, and entire patches of forest seem to awaken at her command.
+  Rather than fighting aggressively, Zagaakwaa prefers to turn the environment itself against her enemies: using roots tear through the earth, trees twist into unnatural shapes, and entire patches of forest seem to awaken at her command.
 
   When truly enraged, she is capable of becoming something far more frightening than a giant: an enormous, ancient creature resembling a walking tree.
 
