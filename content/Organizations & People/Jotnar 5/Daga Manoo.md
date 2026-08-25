@@ -10,13 +10,12 @@ aliases:
   - Daga
 ---
 
-
 ![[tidegiant.png|300]]
 
 > "If people don't match your vibe, change the people, not the vibe" - Daga
 
 ## Overview
-A brief 1-2 sentence summary of who this character is and their role.
+**Daga** is a carefree tide giant wanderer who loves travel, adventure, music, food, and getting into trouble. Beneath his relaxed and mischievous personality is a perceptive and deeply caring person who understands people remarkably well and values enjoying life while he can.****
 
 ### Quick Facts
 - **Full Name:** Daga Manoo // *Let it be*
