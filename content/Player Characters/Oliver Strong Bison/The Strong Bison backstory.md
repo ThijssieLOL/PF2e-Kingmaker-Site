@@ -192,3 +192,5 @@ The man he was too afraid to kill.
 Now, thirty years old and armed with everything the [[Jotnar Five]] have taught him, [[Oliver Strong Bison|Oliver]] finally has a chance to find him.
 
 And perhaps this time, he will be ready.
+
+---
