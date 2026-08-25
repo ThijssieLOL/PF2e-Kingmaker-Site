@@ -126,15 +126,15 @@ He wasn't the most powerful.
 
 He wasn't even particularly intimidating.
 
-For most of his early adventuring career, Oliver's primary contribution to combat could best be described as “being there.”
+For most of his early adventuring career, **Oliver**'s primary contribution to combat could best be described as “being there.”
 
 He stayed toward the back of the group, offered encouragement, patched people up when he could, shouted warnings, and occasionally managed to land a surprisingly effective blow.
 
 The giants never seemed to mind.
 
-To them, Oliver was family.
+To them, **Oliver** was family.
 
-When Oliver turned eighteen and reached adulthood, the four decided that simply calling him Oliver was no longer enough.
+When **Oliver** turned eighteen and reached adulthood, the four decided that simply calling him Oliver was no longer enough.
 
 They gave him a new name:
 
