@@ -89,3 +89,9 @@ They had become a family.
 ## Structure & Ranks
 - **Hierarchy:** 
   [[Niigani Wewidun|Niigani]] serves as the group's official leader and primary decision-maker when the four cannot agree. Her authority comes less from rank and more from the trust the others have placed in her over decades.
+
+---
+
+## Structure & Ranks
+- **Hierarchy:** 
+  [[Niigani Wewidun|Niigani]] serves as the group's official leader and primary decision-maker when the four cannot agree. Her authority comes less from rank and more from the trust the others have placed in her over decades.
