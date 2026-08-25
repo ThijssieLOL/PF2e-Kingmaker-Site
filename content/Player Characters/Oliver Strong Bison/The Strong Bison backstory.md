@@ -133,7 +133,7 @@ When [[Oliver Strong Bison|Oliver]] turned eighteen and reached adulthood, the f
 
 They gave him a new name:
 
-[[Oliver Strong Bison|Sa’be Beshwaji]].
+[[Oliver Strong Bison|Sa’be Beshwaji’]]
 
 The name was a declaration that he was no longer merely a child they had rescued from a battlefield.
 
