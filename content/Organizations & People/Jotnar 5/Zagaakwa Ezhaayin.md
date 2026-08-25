@@ -26,7 +26,16 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Role/Rank:** Naturalist and Keeper of the Wilds
 
 ## Appearance
-- **Description:** (What they look like, what they wear, and any distinguishing features)
+
+**Zagaakwaa** is a tall, elegant wood giant whose appearance is considerably more graceful than her immense stature might suggest. Rather than looking like a conventional humanoid giant, she possesses distinctly elven features: long pointed ears, sharp green eyes, high cheekbones, and long golden-blonde hair that falls almost to her waist.
+
+Her hair is partially braided and gathered into an elaborate natural crown decorated with small branches, twigs, beads, and turquoise-green ornaments. Tiny pieces of the forest are almost always woven into her hair, though she rarely remembers putting them there.
+
+Her clothing is made from layered greens, browns, and muted golds, with much of it resembling living foliage rather than conventional fabric. Leaves, vines, flowers, and feathers are incorporated into her clothing and armor. Her shoulders and arms are protected by pieces of bark like natural armor, and several small flowers grow from or are attached to her garments.
+
+A particularly distinctive feature is the enormous living staff she carries. The staff is made from a twisted piece of ancient wood and resembles a gnarled branch that was never truly separated from the tree it came from. She also carries a large wooden polearm or staff-like weapon across her shoulders when travelling.
+
+Zagaakwaa's appearance changes subtly with the seasons. Flowers appear more frequently in spring, leaves become richer during summer, and small dried leaves and seed pods accumulate among her clothing during autumn.
 
 ---
 ## Personality
