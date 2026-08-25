@@ -42,7 +42,11 @@ His hands and forearms glow with intense orange heat when he works at a forge, a
 ---
 
 ## Personality
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+**Bapakine** is blunt, stubborn, proud, and extremely protective of those he considers family.
+
+He has a legendary temper and is perfectly capable of becoming furious over seemingly insignificant things. However, his anger usually burns quickly. Once the fight is over, he is generally willing to sit down, eat something, and discuss what happened.
+
+He respects competence above almost everything else. Someone who admits they are weak but works to improve themselves earns his respect far more quickly than someone who boasts about their strength.
 
 ---
 
