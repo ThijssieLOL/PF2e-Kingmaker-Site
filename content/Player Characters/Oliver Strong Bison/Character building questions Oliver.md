@@ -22,7 +22,7 @@
 	No, he is just a man
 7. **Is your character well groomed? Do they bathe often? Do they brush their teeth?** 
 	Hij is decently well groomed? In zijn vrije tijd probeert hij zichzelf schoon te houden, tijdens avontuur is het snel riviertje en anders pech
-8. **Does y [[Oliver Strong Bison]]     n or other distinction that makes them different from others of their race/species.**
+8. **Does your character haveor other distinction that makes them different from others of their race/species.**
 	again no, just a regular joe
 9. **What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?**
 	Oliver heeft zijn traditionele barbarian clothes van toen hij 8 was, hij past ze absoluut niet meer. Verder draagt hij armour nu want dat beschermt toch echt iets meer dan zijn abs. Hij draagt praktisch elke dag hetzelfde
@@ -53,7 +53,7 @@
 24. **What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?**
 	they would prefer if he didnt do it, because they want to be near him to keep an eye on him to keep him safe, however they know he has to do this on his own so they are very supportive in that aspect
 25. **Is your character part of any organization? If so, is this organization known?**
-	he is part of the [[Jotnar 5]] 
+	he is part of the [[Jotnar Five]] 
 26. **Does your character have many friends?** 
 	no, he didnt stay long enough in places to make friends
 27. **Did your character have a mentor? Are they still in contact? What did this mentor teach?** 
@@ -66,7 +66,7 @@
 	nah
 ### Backstory and Upbringing
 30. **Where did your character grow up?**
-	Oliver grew up in a small Kellid village north from the stolen lands, a very communal village that had a strong focus on family and bonds. after the slaughter of the Strong Bison clan, Oliver was raised by the [[Jotnar 5]] who as a mostly nomadic adventuring group raised Oliver all over Kaelerum
+	Oliver grew up in a small Kellid village north from the stolen lands, a very communal village that had a strong focus on family and bonds. after the slaughter of the Strong Bison clan, Oliver was raised by the [[Jotnar Five]] who as a mostly nomadic adventuring group raised Oliver all over Kaelerum
 31. **Who raised them? If not their parents, why?**
 	mostly raised by [[Zagaakwa Ezhaayin]] as the mother figure in his life
 32. **Did your character have any form of education? Did they go to school? Were they home schooled?** 

@@ -5,6 +5,8 @@ leader: "[[Niigani Wewidun]]"
 headquarters:
 alignment:
 status: Active
+aliases:
+  - Jotnar Four
 ---
 
 
