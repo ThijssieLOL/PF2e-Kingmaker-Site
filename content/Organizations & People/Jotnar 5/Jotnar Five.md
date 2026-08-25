@@ -57,7 +57,15 @@ The **Jotnar Four** are a legendary family of four giant adventurers who have sp
 ---
 
 ## Key Members
-- **[[Character Link]]:** Brief description of their role within the faction.
+- **[[Niigani Wewidun]]:** Leader, diplomat, spiritual guide, and storm giant cleric. She serves as the group's moral compass and usually makes the final decision when the others cannot agree.
+
+- **[[Zagaakwa Ezhaayin]]:** Wood giant druid and guardian of the natural world. She handles wilderness survival, healing, tracking, and threats involving nature or supernatural corruption.
+
+- **[[Bapakine Iwe Ishkode]]:** Fire giant warrior and master blacksmith. He serves as the group's primary frontline fighter, weaponsmith, engineer, and tactical specialist.
+
+- **[[Daga Manoo]]:** Tide giant wanderer, sailor, bard, and resident troublemaker. He serves as the group's scout, traveller, navigator, information gatherer, and unofficial morale officer.
+
+- **[[Oliver Strong Bison]]:** The adopted son of the four giants. Though not technically one of the original Jotnar Four, Oliver was raised and trained by all four and is considered family rather than an apprentice or subordinate.
 
 ---
 
