@@ -25,7 +25,19 @@ aliases:
 - **Role/Rank:** Warrior, Blacksmith, and Armorer 
 
 ## Appearance
-- **Description:** (What they look like, what they wear, and any distinguishing features)
+**Bapakine** is an enormous fire giant whose physical presence is almost overwhelming. He is built like a living fortress, with a massive, heavily muscled frame covered almost entirely in dark steel armor.
+
+Unlike [[Zagaakwa Ezhaayin|Zagaakwaa]]'s natural appearance or [[Niigani Wewidun|Niigani]]'s ceremonial armor, Bapakine's equipment is unmistakably designed for war.
+
+His armor consists of thick overlapping plates of dark blue-black and gunmetal steel. The pieces are large enough that a normal humanoid could barely move in them, yet Bapakine wears them as comfortably as clothing. The armor is heavily scarred and battered from decades of combat, but every damaged section has been repaired and reinforced by Bapakine himself.
+
+His face is partially framed by an enormous mane of **living flame**. His beard, hair, and even portions of his jaw appear to burn continuously, with orange and yellow fire replacing ordinary hair. Smoke occasionally pours from his mouth and shoulders when he becomes particularly angry.
+
+The flames surrounding his head are not merely cosmetic. They intensify with his emotions, becoming brighter and more violent when he is enraged.
+
+His enormous warhammer is almost comically large, even by giant standards. It resembles both a weapon and a blacksmith's tool, with a heavy dark-metal head scarred from countless battles and years of forging.
+
+His hands and forearms glow with intense orange heat when he works at a forge, and metal placed between his palms can begin to soften from the heat of his body alone.
 
 ---
 
