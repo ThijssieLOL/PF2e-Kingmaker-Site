@@ -69,7 +69,7 @@ His weapons and equipment have a distinctly maritime quality, and he often carri
 
   **Daga** loves teasing people. **Bapakine** has a legendary temper.
 
-  And somehow, it works.
+  And somehow... it works.
 
   **Daga** has spent decades deliberately provoking **Bapakine** just to make him laugh, even if that laughter occasionally takes the form of shouting. **Bapakine**, meanwhile, is the person **Daga** knows he can always return to.
 
