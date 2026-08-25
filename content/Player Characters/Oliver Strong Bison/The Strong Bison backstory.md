@@ -111,7 +111,7 @@ From [[Daga Manoo|Daga]], [[Oliver Strong Bison|Oliver]] learned that sometimes 
 Together, the four gave [[Oliver Strong Bison|Oliver]] an education that no ordinary school could have provided.
 
 --- 
-### Traveling The World  
+### Friend Of The Giants  
 
 For the next decade, [[Oliver Strong Bison|Oliver]] travelled with the [[Jotnar Five|Jotnar Four]].
 
@@ -142,6 +142,10 @@ The name was a declaration that he was no longer merely a child they had rescued
 He was one of them.
 
 From that day onward, the [[Jotnar Five|Jotnar Four]] became the [[Jotnar Five]].
+
+--- 
+
+### To The Stolen Lands
 
 Twelve years have passed since then.
 
