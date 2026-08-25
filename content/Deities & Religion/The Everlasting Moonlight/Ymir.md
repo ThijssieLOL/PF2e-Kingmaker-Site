@@ -51,3 +51,7 @@ status: Alive
 
 ## Relationships
 - **[[Fandarra]]:** It is said that **Ymir** is in a relationship with **Fandarra**
+
+--- 
+
+## Myths
