@@ -147,7 +147,7 @@
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
 
 67. **What is your character's least funny joke that they think is great?**
-
+	Why can’t the undead write music? They can only de-compose.
 68. **If your character was a celestial body(sun, star, moon, black hole) what one would they be?**
 
 
