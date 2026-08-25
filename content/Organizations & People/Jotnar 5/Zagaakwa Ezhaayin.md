@@ -31,7 +31,13 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## Personality
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+- **Demeanor:** Zagaakwaa is calm, patient, and difficult to anger. She rarely raises her voice and often allows others to finish speaking before responding. She has an almost unnerving ability to simply watch something for several minutes before deciding whether it deserves her attention.
+
+  She sees the world through cycles: growth, decay, death, and rebirth. She does not fear death and does not consider it inherently tragic. To her, death is simply another part of nature.
+
+  What she cannot tolerate is unnatural destruction, things that corrupt, twist, or deliberately violate the natural order. Demonic corruption, undead, and those who poison the land are among the few things capable of genuinely provoking her wrath.
+
+  She is also surprisingly humorous when around the other Jotnar, although her jokes tend to be incredibly dry.
 
 ---
 
