@@ -109,14 +109,14 @@ Perhaps somewhat too enthusiastically.
 
 From [[Daga Manoo|Daga]], **Oliver** learned that sometimes the best thing to do was simply sit down, enjoy the sunset, and let the world pass by for a while.
 
-[[Niigani Wewidun|Niigani]], meanwhile, took responsibility for **Oliver**'s education in religion, diplomacy, and the wider world. She taught him about the gods, different cultures, and the responsibilities that came with power. Niigani also taught **Oliver** how to speak with people rather than simply fight them, a skill that became increasingly important as **Oliver** travelled alongside four giants who could accidentally start diplomatic incidents simply by entering a room.
+[[Niigani Wewidun|Niigani]], meanwhile, took responsibility for **Oliver**'s education in religion, diplomacy, and the wider world. She taught him about the gods, different cultures, and the responsibilities that came with power. [[Niigani Wewidun|Niigani]] also taught **Oliver** how to speak with people rather than simply fight them, a skill that became increasingly important as **Oliver** travelled alongside four giants who could accidentally start diplomatic incidents simply by entering a room.
 
-Together, the four gave Oliver an education that no ordinary school could have provided.
+Together, the four gave **Oliver** an education that no ordinary school could have provided.
 
   
   
 
-For the next decade, Oliver travelled with the Jotnar Four.
+For the next decade, **Oliver** travelled with the [[Jotnar Five|Jotnar Four]].
 
 They fought powerful monsters, explored ancient ruins, crossed dangerous wilderness, became involved in wars they probably should have avoided, and occasionally found themselves fighting creatures that were far beyond Oliver's ability to defeat.
 
