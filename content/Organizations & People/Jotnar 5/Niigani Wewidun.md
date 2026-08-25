@@ -2,10 +2,12 @@
 tags:
   - character
   - npc
-ancestry: 
-class: 
-faction: 
+ancestry:
+class:
+faction:
 status: Alive
+aliases:
+  - Niigani
 ---
 
 
