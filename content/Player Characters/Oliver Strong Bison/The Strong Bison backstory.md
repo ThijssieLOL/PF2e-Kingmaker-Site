@@ -29,7 +29,7 @@ That moment would stay with him for the rest of his life.
 
 By the time the battle ended, most of the village had been slaughtered. Only a handful of survivors managed to escape the burning settlement.
 
-Oliver was not among them.
+[[Oliver Strong Bison|Oliver]] was not among them.
 
 Instead, he remained in the ruins, wandering through the ashes and searching for anyone who might still be alive. Eventually, he found a wounded imp lying among the corpses. The creature was already barely alive, its body broken from the fighting.
 
