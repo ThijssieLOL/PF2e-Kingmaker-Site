@@ -25,7 +25,7 @@
 8. **Does your character have a condition or other distinction that makes them different from others of their race/species.**
 	again no, just a regular joe
 9. **What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?**
-	Oliver heeft zijn traditionele barbarian clothes van toen hij 8 was, hij past ze absoluut niet             meer. Verder draagt hij armour nu want dat beschermt toch echt iets meer dan zijn abs. Hij           draagt praktisch elke dag hetzelfde
+	Oliver heeft zijn traditionele barbarian clothes van toen hij 8 was, hij past ze absoluut niet             meer. Verder draagt hij armour nu want dat beschermt toch echt iets meer dan zijn abs. Hij draagt praktisch elke dag hetzelfde
 10. **Does your character have a particular set of nice clothes? If so, what does it look like?**
 	Hij wilt het hebben, he hij heeft niet het money ervoor atm
 11. **What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?**
@@ -80,7 +80,7 @@
 ### **Motivations and morality**
 
 36. **Why is your character out adventuring?**
-		to find more info about the Heralds of the Moon Incarnate
+	to find more info about the Heralds of the Moon Incarnate
 37. **Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?**
 	Oliver had geleerd dat de Heralds in de stolen lands zijn en wilt rustig info kunnen zoeken zonder dat mensen hem verdacht vinden. Deze expeditie zou hem een goede cover story geven
 38. **What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?**
@@ -143,7 +143,7 @@
 64. **How does your character make friends?**
 	They fight together, anyone you can trust on the battlefield is someone worth keeping close
 65. **What is your most valuable possession and why?**
-
+	His old barbarian clothing, reminds him of the good ol days
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?**
 
 67. **What is your character's least funny joke that they think is great?**
