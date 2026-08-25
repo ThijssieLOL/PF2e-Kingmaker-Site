@@ -42,7 +42,7 @@ The **Jotnar Four** are a legendary family of four giant adventurers who have sp
   Together, these principles form the foundation of the Jotnar Four.
   
 - **Primary Objective:** 
-  The Jotnar Four have no desire to build an empire, establish a kingdom, or become rulers. Their primary objective is simply **to protect the balance of the world and the people caught in conflicts beyond their ability to handle alone.**
+  The Jotnar Four have no desire to build an empire, establish a kingdom, or become rulers. Their primary objective is simply to protect the balance of the world and the people caught in conflicts beyond their ability to handle alone.
 
   They intervene when they encounter threats such as: demonic or supernatural corruption, undead and necromantic forces, destruction of ancient natural environments & tyrants and oppressive rulers
 
@@ -51,7 +51,8 @@ The **Jotnar Four** are a legendary family of four giant adventurers who have sp
 ---
 
 ## Structure & Ranks
-- **Hierarchy:** (How the leadership and organization are structured)
+- **Hierarchy:** 
+  [[Niigani Wewidun|Niigani]] serves as the group's official leader and primary decision-maker when the four cannot agree. Her authority comes less from rank and more from the trust the others have placed in her over decades.
 
 ---
 
