@@ -33,10 +33,11 @@ While the church does not seek to rule nations directly, it acts as a moral guar
 - **Avatars of the Divine:** Church doctrine teaches that the literal sun and all other stars in the cosmos are physical avatars of the goddess, with our sun being a uniquely sacred and primary avatar.
 - **The Supreme Path:** While the church acknowledges the existence of other true gods, it teaches that the Eternal Blazing Sun is the supreme, most morally good deity, and therefore the only one truly worthy of mortal worship.
 - **Grade 0 Divinity:** High-ranking clergy understand that the goddess occupies "Grade 0" of the cosmic hierarchy. Because this position is currently occupied by her, it represents the ultimate state of divine ascension, though it remains unreachable for mortals as long as she reigns.
+- **The Solites:** Believers of the sun goddess are called **solites**.
 
 ### Afterlife & Purification
-- **The Sunlit Fields:** The faithful believe in a beautiful, heaven-like afterlife informally referred to as the Sunlit Fields.
-- **The Purifying Fire:** Upon death, the souls of believers undergo a purgatory-like process where their remaining sins are gently burned away by holy fire, allowing them to eternally rest in the pure light of the goddess.
+- **The Sunlit Fields:** Solites believe in a beautiful, heaven-like afterlife informally referred to as the Sunlit Fields.
+- **The Purifying Fire:** Upon death, the souls of solites undergo a purgatory-like process where their remaining sins are gently burned away by holy fire, allowing them to eternally rest in the pure light of the goddess.
 - **The Unbelievers:** The church holds no official stance on where non-believers go after death, stating only that they do not enter the Sunlit Fields.
 
 ### Cremation & The Undead

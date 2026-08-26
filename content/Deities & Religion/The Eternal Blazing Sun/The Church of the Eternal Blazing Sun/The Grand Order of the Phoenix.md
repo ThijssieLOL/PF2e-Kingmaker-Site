@@ -26,7 +26,7 @@ The Grand Order of the Phoenix is a smaller denomination of [[The Church of the 
 
 ## Philosophy & Goals
 
-- **Core Beliefs:** The Order shares the orthodox creed of the parent church — the sun goddess is the supreme deity, the Sunlit Fields await the faithful, and those who cannot protect themselves must be protected at all costs. It adds a doctrine of purity: under the grace of the sun, no filth should exist. Cleanliness of body, dress, and spirit is upheld as a form of worship, and the Order's adherents are known to keep themselves immaculate and sweet-smelling even on the longest campaign.
+- **Core Beliefs:** The Order shares the orthodox creed of the parent church — the sun goddess is the supreme deity, the Sunlit Fields await solites, and those who cannot protect themselves must be protected at all costs. It adds a doctrine of purity: under the grace of the sun, no filth should exist. Cleanliness of body, dress, and spirit is upheld as a form of worship, and the Order's adherents are known to keep themselves immaculate and sweet-smelling even on the longest campaign.
 - **Primary Objective:** To spread the faith and root out evil, wielding the goddess's grace in ways the orthodox church will not — particularly through its blood-blessed binding arts.
 
 ---
