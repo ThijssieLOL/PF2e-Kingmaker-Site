@@ -6,7 +6,7 @@ date:
 in_game_date: 
 ---
 
-> "A notable quote or summary phrase from the session."
+> "The funniest / most notable quote of the session."
 
 ## Overview
 A brief 1-2 sentence summary of the key events of the session.
@@ -34,3 +34,10 @@ A brief 1-2 sentence summary of the key events of the session.
 
 ## Active Characters
 - **[[Character Link]]:** Notable actions or character beats from the session.
+
+---
+
+## Quotes
+Every funny quote of the session, with the speaker named. (The funniest one goes at the top, under the title.)
+
+- **"Quote text."** — Character Name
