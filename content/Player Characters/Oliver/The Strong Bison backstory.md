@@ -1,5 +1,5 @@
 ### Humble Beginnings
-[[Oliver Strong Bison|Oliver]] was born in a small **Kellid** village in the mountains the **Realm of the Mammoth Lords**, the son of a human barbarian woman named **Belka** and an elven man named **Elwin Valtoris**. His family belonged to the **Strong Bison Clan**, and [[Oliver Strong Bison|Oliver]] grew up surrounded by the close-knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, **Dron** (m) and **Dumra** (f). For the first eight years of his life, [[Oliver Strong Bison|Oliver]] knew little of the world beyond his village.
+[[Oliver Strong Bison|Oliver]] was born in a small **Kellid** village in the mountains the **Realm of the Mammoth Lords**, the son of a human barbarian woman named **Belka** and an elven man named **Elwin Valtoris**. His family belonged to the **Strong Bison Clan**, and [[Oliver Strong Bison|Oliver]] grew up surrounded by the close knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, **Dron** (m) and **Dumra** (f). For the first eight years of his life, [[Oliver Strong Bison|Oliver]] knew little of the world beyond his village.
 
 Then came the [[Heralds of the Moon Incarnate]].
 
@@ -67,7 +67,7 @@ They had never, however, adopted a child.
 
 Until [[Oliver Strong Bison|Oliver]].
 
-The four initially had no real plan for what to do with the traumatized eight-year-old they had found. Nevertheless, they couldn't exactly leave him behind. So, in the manner of many adventuring parties making questionable life decisions, they took him with them.
+The four initially had no real plan for what to do with the traumatized eight year old they had found. Nevertheless, they couldn't exactly leave him behind. So, in the manner of many adventuring parties making questionable life decisions, they took him with them.
 
 At first, [[Oliver Strong Bison|Oliver]] was little more than the group's “party pet.”
 
@@ -171,7 +171,7 @@ The others initially hesitate. They know what the **Heralds** mean to him, and t
 
 This time, he will not freeze.
 
-This time, he will not be the frightened eight-year-old boy watching from the shadows.
+This time, he will not be the frightened eight year old boy watching from the shadows.
 
 So when an opportunity arises to join an expedition into the **Stolen Lands**, [[Oliver Strong Bison|Oliver]] takes it.
 
