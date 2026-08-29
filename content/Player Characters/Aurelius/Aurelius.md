@@ -47,6 +47,7 @@ Inscribed across his forearms and shins are intricate, dark tattoos styling trad
 - **Public & Personal Perception:** Aurelius displays these marks openly in public as a testament to the sun goddess' infinite capacity for redemption and a daily lesson in humility. He covers them only when wearing formal ceremonial gloves or long traveling sleeves. He treats the brands with clinical, detached acceptance—a physical contract of his eternal debt to divine grace.
 
 ### Attire & Outfits
+His dress follows the Church's twofold vesture — the Grade 8 (Cinder) primary of his rank, marked with the horizon-capelet of [[The Chancellery of the Outer Horizon]], as set down in [[The Vestments of the Clergy]].
 - **Clergy Vestments (Civilian & Ceremonial):** An ankle-length black cassock featuring a crisp, high collar secured by gold frog-closures. Draped across his shoulders is a long white stole embroidered with solar patterns and golden floral filigree that reaches down to his shins. A sturdy brown leather belt with a circular golden buckle fastens his waist, complemented by polished black boots and thin leather gloves.
 - **Travel & Frontier Gear:** Tailored for the rugged terrain of the Stolen Lands, he wears durable black trousers and a fitted dark tunic underneath a loose, flowing, hooded white poncho-capelet. The capelet shares the same gold-embroidered solar trim as his formal stole, balancing practical movement with holy symbolism.
 

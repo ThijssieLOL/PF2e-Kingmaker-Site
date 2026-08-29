@@ -158,7 +158,7 @@ The Church binds its far-flung parishes and its agents in the field with a divin
   - *"Shine bright, brother/sister."* (Friendly, casual response)
   - *"From dawn to dusk, she watches."* (Solemn response)
 
-### Clergy Attire
+### [[The Vestments of the Clergy|Clergy Attire]]
 - **Ceremonial Vestments:** An ankle-length black cassock featuring high collars and gold engravings, often paired with a long white stole embroidered with gold floral and solar patterns.
 - **Traveller's Attire:** A comfortable dark tunic and trousers, paired with a white traveller's poncho-capelet adorned with gold engravings.
 
