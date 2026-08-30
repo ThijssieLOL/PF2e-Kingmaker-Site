@@ -19,10 +19,9 @@ The campaign is following an adventuring party of heroes on their quest to found
 | **[[Aurelius]]**            | Animist / Magister | Missionary for the [[The Church of the Eternal Blazing Sun]] |
 | **[[Zephan]]**              | Swashbuckler       | Dashing hero chosen by fate                                  |
 | **[[Jock Finch]]**          | Bard               |                                                              |
-| **[[Oliver Strong Bison]]** | Commander          | Kellid warrior of the [[Jotnar Five]]                           |
-| [[Selion]]                  | Necromancer        |                                                              |
+| **[[Oliver Strong Bison]]** | Commander          | Kellid warrior of the [[Jotnar Five]]                        |
+| **[[Selion]]**              | Necromancer        |                                                              |
 | Essie                       | Gunslinger         |                                                              |
-|                             |                    |                                                              |
 
 ---
 
