@@ -18,7 +18,7 @@ status: Alive
 
 ## Overview
 
-Aurelius is a religious warrior-philosopher living a delicate double life. By day he is a soft-spoken missionary, scribe, and teacher of scripture; by night he is a lethal, spirit-binding divine commando trained in [[The Chancellery of Silent Illumination]]. Gifted and cursed from birth with a rare spiritual sight, he carries the scars and alchemical marks of past atrocities. He seeks redemption, and he wants to shape the political future of the Stolen Lands, not to rule but to steer the institutions of the new realm toward the sun goddess's light, and to advance the Church's political and spiritual ambitions.
+Aurelius is a religious warrior-philosopher living a delicate double life. By day he is a soft-spoken missionary, scribe, and teacher of scriptures; by night he is a lethal, spirit-binding divine commando trained in [[The Chancellery of Silent Illumination]]. Gifted and cursed from birth with a rare spiritual sight, he carries the scars and alchemical marks of past atrocities. He seeks redemption, and he wants to shape the political future of the Stolen Lands, not to rule but to steer the institutions of the new realm toward the sun goddess's light, and to advance the Church's political and spiritual ambitions.
 
 ### Quick Facts
 - **Full Name:** Aurelius (Nickname: Leo)
@@ -36,7 +36,7 @@ Aurelius is a religious warrior-philosopher living a delicate double life. By da
 ## Appearance
 
 ### Physicality & Features
-Aurelius is tall and lean, with an athletic build, broad in the shoulder and narrow at the waist. He looks like an agile martial artist, built for speed and precision. His features are youthful and refined: high cheekbones, a straight nose, expressive, gentle lips. Thick, dark hair falls in loose, windswept layers around his face.
+Aurelius is tall and lean, with an athletic build, broad in the shoulder and narrow at the waist. He looks like an agile martial artist, built for speed, precision, and relentless movement. His features are youthful and refined: high cheekbones, a straight nose, expressive, gentle lips. Thick, dark hair falls in loose, windswept layers around his face.
 
 ### The "Eyes of God" ([[Ocular of Kaelen]])
 Aurelius has an extraordinarily rare, prophetic eye condition called the [[Ocular of Kaelen]] in ancient texts, and informally the "Eyes of God" within the Church. His eyes see directly into the spiritual layer of reality. When he works covertly or needs to avoid the shadowy cabal that hunts his ocular trait, he pulls a thick traveler's hood low over his brow and keeps a humble, downcast gaze to blend into scholarly crowds.
@@ -66,10 +66,10 @@ Dark, intricate tattoos in the style of traditional criminal brands run across h
 - **Physical Honesty:** Aurelius never hides physical injuries or fatigue from his companions. Commando training taught him that masked wounds endanger the team, so he reports his physical status with absolute, practical candor.
 - **Subconscious Somatic Gestures:** At rest, his fingers trace holy spellcasting gestures or twitch as if holding a scribe's feather.
 - **Inaudible Speech:** When he speaks with spirits, his lips move in rapid, silent patterns on a spatial frequency inaudible to human ears.
-- **Spirit Overload:** Fresh battlefields or sites of mass tragedy flood his [[Ocular of Kaelen]] with chaotic spiritual echoes. The overload brings severe sensory overload, migraines, and physical disorientation that force him into quiet meditation.
+- **Spirit Overload:** Fresh battlefields or sites of mass tragedy flood his [[Ocular of Kaelen]] with chaotic spiritual echoes. The echoes bring severe sensory overload, migraines, and physical disorientation that force him into quiet meditation.
 
 ### Trauma Response: "The Eclipse"
-- **The Executioner Persona:** When he meets unsalvageable cruelty, severe blasphemy, or deep personal trauma, Aurelius shuts down into a total psychological state known as **The Eclipse**. His gentle warmth vanishes, replaced by a terrifying, cold, emotionless executioner state.
+- **The Executioner Persona:** When he meets unsalvageable cruelty, severe blasphemy, or deep personal trauma, Aurelius enters a total psychological shutdown known as **The Eclipse**. His gentle warmth vanishes, replaced by a terrifying, cold, emotionless executioner state.
 - **Internal Shame:** Aurelius does not consider "The Eclipse" a holy state. He sees it as a sinful lapse into trauma-driven survival instincts, where divine mercy gives way to raw, cold violence.
 - **The Recovery:** As the state fades, he needs absolute isolation to pray, cool his spirit, and realign with the sun goddess' light. If his cold demeanor frightens his allies, he offers them sincere, humble apologies once restored.
 
