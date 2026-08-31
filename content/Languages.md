@@ -9,7 +9,7 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 - **[[Halfling]]** - The language spoken by [[Halflings|halflings]].
 
 ### Uncommon languages
-- **[[Ymir]]** - The common language of the [[Dreamlands|lands of the fey]].
+- **[[Sylvan]]** - The common language of the [[Dreamlands|lands of the fey]].
 - **[[Aklo]]** - An alternate language of the fey. Often spoken by fey of the unseelie courts(evil fey).
 - **[[Darrowain]]** - The language of the [[Giants|giants]] and the common language of the [[Darrowfell|Darrowfell's]] before it's fall.
 - **[[Goblin]]** - The language spoken by goblins.
