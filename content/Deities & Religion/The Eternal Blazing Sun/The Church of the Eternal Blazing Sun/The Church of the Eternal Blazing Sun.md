@@ -13,9 +13,9 @@ status: Active
 > "Praise the Sun." — Common Liturgical Greeting
 
 ## Overview
-The Church of the Eternal Blazing Sun is a powerful, morally Lawful Good religious institution dedicated to the worship of the sun goddess. The church places the highest value on redemption, forgiveness, and the preservation of life. It operates as a massive, highly organized orthodox faith with a unique grade-based hierarchy, a strict apolitical stance on state governance, and a deeply compassionate, community-focused economic philosophy. 
+The Church of the Eternal Blazing Sun is a large, Lawful Good religious institution devoted to the worship of the sun goddess. Its clergy place the highest value on redemption, forgiveness, and the preservation of life. The faith is vast and highly organized, bound by a unique grade-based hierarchy, a strict apolitical stance on state governance, and a compassionate, community-focused economic philosophy.
 
-While the church does not seek to rule nations directly, it acts as a moral guardian of the mortal realms, intervening ruthlessly when secular rulers fall into corruption or commit grave evils.
+The church does not seek to rule nations directly. It acts instead as a moral guardian of the mortal realms, intervening ruthlessly when secular rulers fall into corruption or commit grave evils.
 
 ### Quick Facts
 - **Deity:** [[The Eternal Blazing Sun]]
@@ -30,30 +30,30 @@ While the church does not seek to rule nations directly, it acts as a moral guar
 
 ### The Sun Goddess
 - **The Supreme Light:** The church worships the sun goddess, known as the Eternal Blazing Sun (or simply the Sun). 
-- **Avatars of the Divine:** Church doctrine teaches that the literal sun and all other stars in the cosmos are physical avatars of the goddess, with our sun being a uniquely sacred and primary avatar.
-- **The Supreme Path:** While the church acknowledges the existence of other true gods, it teaches that the Eternal Blazing Sun is the supreme, most morally good deity, and therefore the only one truly worthy of mortal worship.
-- **Grade 0 Divinity:** High-ranking clergy understand that the goddess occupies "Grade 0" of the cosmic hierarchy. Because this position is currently occupied by her, it represents the ultimate state of divine ascension, though it remains unreachable for mortals as long as she reigns.
+- **Avatars of the Divine:** Church doctrine teaches that the literal sun and every other star in the cosmos are physical avatars of the goddess, our sun a uniquely sacred and primary avatar.
+- **The Supreme Path:** The church acknowledges other true gods, but teaches that the Eternal Blazing Sun is the supreme, most morally good deity, and therefore the only one truly worthy of mortal worship.
+- **Grade 0 Divinity:** High-ranking clergy know that the goddess occupies "Grade 0" of the cosmic hierarchy. Because the position is hers, it marks the ultimate state of divine ascension, though it stays unreachable for mortals while she reigns.
 - **The Solites:** Believers of the sun goddess are called **solites**.
 
 ### Afterlife & Purification
-- **The Sunlit Fields:** Solites believe in a beautiful, heaven-like afterlife informally referred to as the Sunlit Fields.
-- **The Purifying Fire:** Upon death, the souls of solites undergo a purgatory-like process where their remaining sins are gently burned away by holy fire, allowing them to eternally rest in the pure light of the goddess.
+- **The Sunlit Fields:** Solites believe in a heaven-like afterlife informally called the Sunlit Fields.
+- **The Purifying Fire:** When a solite dies, their soul passes through a purgatory-like process. Holy fire burns away their remaining sins gently, and then they rest eternally in the pure light of the goddess.
 - **The Unbelievers:** The church holds no official stance on where non-believers go after death, stating only that they do not enter the Sunlit Fields.
 
 ### Cremation & The Undead
-- **Anathema of Undeath:** The church is fiercely opposed to the undead. Doctrine teaches that the undead are entirely soulless. Creating or allowing the creation of an undead creature is a horrific insult to the deceased, trapping their physical vessel in a mocking half-existence and preventing their soul from finding true rest.
-- **Sacred Cremation:** Cremation using holy fire is the mandatory method for handling bodies. This sacred rite ensures that the physical corpse cannot be desecrated or raised as an undead thrall, securing the soul's safe passage to the afterlife.
-- **Holy Fire:** Fire is the primary element of the church, serving as both a tool of purification and a weapon against darkness.
+- **Anathema of Undeath:** The church is fiercely opposed to the undead. Doctrine teaches that they are entirely soulless. To create an undead creature, or to allow one to be created, is a horrific insult to the deceased. It traps their physical vessel in a mocking half-existence and keeps their soul from finding true rest.
+- **Sacred Cremation:** Cremation with holy fire is mandatory for handling bodies. The rite keeps the corpse from being desecrated or raised as an undead thrall and secures the soul's safe passage to the afterlife.
+- **Holy Fire:** Fire is the church's primary element, a tool of purification and a weapon against darkness.
 
 ---
 
 ## [[The Grade System]]
 
-The hierarchy of the church is structured around a strict, fire-themed grade system. As a member rises in grade, their titles reflect a larger and more powerful flame. Higher grades grant greater authority, access to restricted archives, higher pay, and easier access to powerful relics and magical items.
+The hierarchy of the church runs on a strict, fire-themed grade system. As a member rises in grade, their title names a larger and more powerful flame. Higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics and magical items.
 
 - **The Ladder:** From Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself.
-- **Chancellery Requirements:** Every grade from Cinder upward demands active service across an increasing number of Chancelleries.
-- **Ascension Trials:** Advancement is gated by a mandatory theological examination, a combat examination, and a review board.
+- **Chancellery Requirements:** Every grade from Cinder upward requires active service across an increasing number of Chancelleries.
+- **Ascension Trials:** Advancement requires a mandatory theological examination, a combat examination, and a review board.
 
 ---
 
@@ -64,24 +64,24 @@ The hierarchy of the church is structured around a strict, fire-themed grade sys
 - **Name:** [To be determined]
 
 ### Regional Structure
-- The church utilizes a formal archdiocese system adapted to the geography of the world, allowing regional bishops and archbishops to manage local parishes while maintaining direct communication with the central headquarters.
-- **Tactical Placement:** The Church is deliberate in siting its houses — churches, and higher-tier churches especially, are placed to reach the greatest number of people for the resources spent, so that the tier of every church tracks the population it serves.
+- The church runs a formal archdiocese system adapted to the world's geography. Regional bishops and archbishops manage local parishes and keep direct communication with the central headquarters.
+- **Tactical Placement:** The Church sites its houses with care. Churches, and higher-tier churches especially, are placed to reach the most people for the resources spent, so every church's tier tracks the population it serves.
 
 ### [[Church Tiers]]
 
-The Church's houses are tiered by the population they serve — from the humble Tier 1 parishes, run by a handful of Cinders, to the unique Tier 5 headquarters. From Tier 2 upward, every church keeps the nine-fold staff, higher tiers are governed by ever-senior clergy, and each upgrade is approved from above.
+The Church's houses are tiered by the population they serve, from the humble Tier 1 parish run by a handful of Cinders to the unique Tier 5 headquarters. From Tier 2 upward every church keeps the nine-fold staff, higher tiers fall to ever-senior clergy, and each upgrade is approved from above.
 
 ## The Chancelleries
 
-The Church operates with the administrative scale and organizational rigor of a sovereign empire. Rather than relying on informal orders, executive authority is divided among nine supreme ministries known as the High Chancelleries. Each Chancellery is led by high-ranking clergy and manages a distinct pillar of statecraft, divine law, and civil service.
+The Church runs its affairs with the scale and discipline of a sovereign empire. Rather than rely on informal orders, it divides executive authority among nine supreme ministries, the High Chancelleries. Each Chancellery is led by high-ranking clergy and governs a distinct pillar of statecraft, divine law, and civil service.
 
 ### 1. [[The Chancellery of Silent Illumination]] (Intelligence & Covert Operations)
 - **Primary Function:** State security, espionage, counter-intelligence, and internal oversight.
-- **Operations:** Monitors internal clerical corruption and tracks external existential threats. It commands the Church's covert military branch—a disciplined order of orphan-warriors trained in lethal martial arts and spirit-binding to execute surgical, unseen missions in defense of the faith.
+- **Operations:** Monitors internal clerical corruption and tracks external existential threats. It commands the Church's covert military branch, a disciplined order of orphan-warriors trained in lethal martial arts and spirit-binding to run surgical, unseen missions in defense of the faith.
 
 ### 2. [[The Chancellery of the Shared Hearth]] (Finance & Public Welfare)
 - **Primary Function:** Treasury management, tithing, economic regulation, and public relief.
-- **Operations:** Oversees all church coffers and enforces strict anti-wealth-hoarding doctrines. It funds and manages social safety networks, including state-run soup kitchens, orphanages, public housing, and community aid programs.
+- **Operations:** Oversees all church coffers and enforces strict anti-wealth-hoarding doctrines. It funds and runs social safety networks, including state-run soup kitchens, orphanages, public housing, and community aid programs.
 
 ### 3. [[The Chancellery of Prismatic Inquiry]] (Science & Arcane Optics)
 - **Primary Function:** Scientific research, technological innovation, and arcane studies.
@@ -93,7 +93,7 @@ The Church operates with the administrative scale and organizational rigor of a 
 
 ### 5. [[The Chancellery of the Purifying Flame]] (Judiciary & Anti-Corruption)
 - **Primary Function:** Legal administration, internal purges, and inquisitorial justice.
-- **Operations:** Functions as the supreme judicial branch, prosecuting internal clerical corruption, enforcing moral standards, and trying ecclesiastical offenses. It is responsible for formally issuing and approving the Moral Veto against corrupt secular rulers.
+- **Operations:** Serves as the supreme judicial branch, prosecuting internal clerical corruption, enforcing moral standards, and trying ecclesiastical offenses. It formally issues and approves the Moral Veto against corrupt secular rulers.
 
 ### 6. [[The Chancellery of the Outer Horizon]] (Foreign Affairs & External Missions)
 - **Primary Function:** Diplomacy, foreign policy, and international proselytization.
@@ -109,10 +109,10 @@ The Church operates with the administrative scale and organizational rigor of a 
 
 ### 9. [[The Chancellery of the Meridian Cadastre]] (Civil Administration & Archives)
 - **Primary Function:** Bureaucracy, civil registry, land administration, and historical record-keeping.
-- **Operations:** Serves as the administrative backbone of the Church. It maintains population censuses, civil registries (births, deaths, marriages), land ownership deeds across all archdioceses, and historical vaults.
+- **Operations:** Is the administrative backbone of the Church, keeping population censuses, civil registries (births, deaths, marriages), land ownership deeds across all archdioceses, and historical vaults.
 
 ### Judicial System & Anti-Corruption
-- **Internal Purges:** Mirroring a highly disciplined state apparatus, the church aggressively investigates internal corruption. Exploiting the weak or hoarding wealth at the expense of others is treated as an existential threat to the church's moral authority.
+- **Internal Purges:** The church investigates internal corruption aggressively, with the discipline of a state apparatus. It treats exploiting the weak, or hoarding wealth at the expense of others, as an existential threat to its moral authority.
 - **Punishment:** Severe corruption or betrayal of the faith's core moral tenets is punishable by death.
 - **Excommunication:** While the church focuses heavily on preventing corruption before it takes root, excommunication is reserved for grave, unrepentant sins.
 
@@ -120,7 +120,7 @@ The Church operates with the administrative scale and organizational rigor of a 
 
 ## [[The Ember Post]]
 
-The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. No messenger rides and no raven flies — a letter written in the right ink and committed to flame crosses any distance as a swirl of embers, and condenses once more out of the fire of the one it was meant for.
+The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. No messenger rides and no raven flies. A letter written in the right ink and committed to flame crosses any distance as a swirl of embers, then condenses once more out of the fire of the one it was meant for.
 
 ---
 
@@ -134,19 +134,19 @@ The Church binds its far-flung parishes and its agents in the field with a divin
   - Enslavement of populations
   - Genocide
   - Extreme tyranny and systemic cruelty
-- **Intervention Protocol:** A Moral Veto can be initiated by any clergy member of Grade 7 (Priest) or higher, but it requires the formal approval of either a group of Grade 6 (Bishops) or at least one Grade 5 (Archbishop). Methods of intervention range from public denouncements and excommunicating rulers to surgical strikes executed by the covert commando program.
+- **Intervention Protocol:** A Moral Veto can be initiated by any clergy member of Grade 7 (Priest) or higher, but it requires the formal approval of either a group of Grade 6 (Bishops) or at least one Grade 5 (Archbishop). Intervention runs from public denouncements and the excommunication of rulers to surgical strikes by the covert commando program.
 
 ### Economic Stance
-- **Anti-Poverty & Charity:** The church views poverty as a systemic, societal failure rather than an individual failing. It teaches that it is the moral responsibility of the state to ensure the welfare of its citizens.
-- **Condemnation of Wealth Hoarding:** While the church does not view earning a high income as a sin, it fiercely condemns the hoarding of wealth. It preaches that the strong and wealthy have a divine obligation to carry and support the weak.
-- **Social Programs:** The church operates as one of the largest charitable organizations in the world, funding and running soup kitchens, orphanages, and aid programs, often partnering with secular governments to manage these public works.
+- **Anti-Poverty & Charity:** The church views poverty as a systemic failure of society, not of the individual. It teaches that the state carries the moral responsibility to ensure the welfare of its citizens.
+- **Condemnation of Wealth Hoarding:** The church does not treat a high income as a sin, but it fiercely condemns the hoarding of wealth. It teaches that the strong and wealthy have a divine obligation to carry and support the weak.
+- **Social Programs:** The church runs one of the largest charitable operations in the world, funding soup kitchens, orphanages, and aid programs and often partnering with secular governments to manage these public works.
 
 ---
 
 ## Rituals, Worship, & Daily Life
 
 ### Liturgical Services
-- **Weekly Mass:** The church holds daily mass throughout the week, with Sunday serving as a dedicated rest day featuring two primary services: one at dawn and one at dusk.
+- **Weekly Mass:** The church holds mass daily. Sunday is a dedicated rest day with two primary services, one at dawn and one at dusk.
 
 ### Gestures & Greetings
 - **The Solar Circle:** The common greeting involves drawing a large, counter clockwise circle over the chest using the right thumb, index, and middle fingers pinched together, accompanied by the phrase: *"Praise the sun."*
@@ -163,32 +163,32 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 - **Traveller's Attire:** A comfortable dark tunic and trousers, paired with a white traveller's poncho-capelet adorned with gold engravings.
 
 ### [[Tattoos of Penance]]
-- **The Tradition of Humility:** The church views its clergy not as flawless moral figures, but as redeemed sinners. To embody this truth, newly initiated members of the clergy receive the [[Tattoos of Penance]]—a sacred, indelible testament to their past transgressions, the goddess's divine mercy, and their lifelong vow of public humility. For the full rite of application, divine design, and re-consecration, see [[Tattoos of Penance]].
+- **The Tradition of Humility:** The church does not treat its clergy as flawless moral figures, but as redeemed sinners. To embody this, newly initiated clergy receive the [[Tattoos of Penance]], a sacred, permanent record of their past transgressions, the goddess's divine mercy, and their lifelong vow of public humility. The full rite of application, divine design, and re-consecration is set out in [[Tattoos of Penance]].
 ---
 
 ## Relations with Other Faiths
 
 ### Other Orthodox Churches
-- **The Concordance of True Faiths:** The church maintains diplomatic relations with other mainstream, benevolent deities. However, its interactions are often characterized by a gentle, patronizing condescension, as the church firmly believes the sun goddess represents the absolute pinnacle of moral goodness.
+- **The Concordance of True Faiths:** The church keeps diplomatic relations with other mainstream, benevolent deities, but its dealings often carry a gentle, patronizing condescension, for it holds the sun goddess to be the absolute pinnacle of moral goodness.
 
 ### [[The Grand Order of the Phoenix]]
 
-A smaller denomination that split from the church on good terms and remains in its good graces. It venerates the same sun goddess and upholds the same core creed, departing from orthodoxy in practice rather than doctrine — most notably in its blood-blessed tradition of thrall-binding, a holy necromancy that never touches the dead.
+A smaller denomination that split from the church on good terms and remains in its good graces. It venerates the same sun goddess and upholds the same core creed, departing from orthodoxy in practice rather than doctrine. Its most distinctive departure is the blood-blessed tradition of thrall-binding, a holy necromancy that never touches the dead.
 
 ### Cults & Heresies
-- **Cults of False Gods:** Cults dedicated to demon lords, evil deities, or entities that practice sacrifice and necromancy are viewed as absolute threats. The church actively deploys its intelligence and military arms to dismantle them.
-- **Heretics of the sun church:** The church faces no rival sun-worshipping sect — the heresies that plague it are groups that claim to belong to the church itself. These false brethren present themselves as orthodox clergy or faithful communities while preaching doctrines the church condemns, deceiving the laity from within. The church treats such claimants as the gravest form of heresy, hunting them relentlessly through its inquisitorial and intelligence arms. They stand in stark contrast to [[The Grand Order of the Phoenix]], which split openly and remains in good standing; the false brethren are impostors, and the church extends them none of the charity it shows kindred denominations. [Details to be established]
+- **Cults of False Gods:** Cults dedicated to demon lords, evil deities, or entities that practice sacrifice and necromancy are absolute threats. The church deploys its intelligence and military arms to dismantle them.
+- **Heretics of the sun church:** The church faces no rival sun-worshipping sect. The heresies that trouble it are groups that claim to belong to the church itself. These false brethren present themselves as orthodox clergy or faithful communities while preaching doctrines the church condemns, deceiving the laity from within. The church treats such claimants as the gravest form of heresy and hunts them relentlessly through its inquisitorial and intelligence arms. They stand in stark contrast to [[The Grand Order of the Phoenix]], which split openly and remains in good standing; the false brethren are impostors, and the church extends them none of the charity it shows kindred denominations. [Details to be established]
 
 ### Magic & Secularists
-- **Atheists & Agnostics:** Viewed as either misled, ignorant, or lacking exposure to the goddess's light. The church prioritizes missionary work to educate them.
-- **Arcane & Secular Magic:** The church is entirely accepting of arcane spellcasters, alchemists, and others who do not draw their power from divine sources, provided their talents are used for the moral good.
+- **Atheists & Agnostics:** The church views them as misled, ignorant, or simply never exposed to the goddess's light, and prioritizes missionary work to educate them.
+- **Arcane & Secular Magic:** The church is entirely accepting of arcane spellcasters, alchemists, and others who do not draw their power from divine sources, provided they use their talents for the moral good.
 
 ---
 
 ## History & Lore
 
 ### Origin Myth
-- **The Creation:** The sun goddess, alongside other true gods, shaped the cosmos, giving rise to the universe and the mortal world. [Details of the creation myth to be expanded].
+- **The Creation:** The sun goddess and the other true gods shaped the cosmos, giving rise to the universe and the mortal world. [Details of the creation myth to be expanded].
 - **The Founder:** The church was founded in antiquity by the very first Grade 2 (Solstice) of the faith, whose identity has been lost to time. [Details to be established].
 
 ### Historical Conflicts
@@ -199,7 +199,7 @@ A smaller denomination that split from the church on good terms and remains in i
 ## Current Threats & Prophecies
 
 ### Internal Threats
-While the church maintains a highly disciplined structure, it constantly monitors its own internal contradictions:
+Despite its discipline, the church keeps a close watch on its own internal contradictions:
 - **Top-Level Corruption:** The threat of high-ranking clergy (Grade 3 or 4) secretly hoarding wealth or abusing their influence.
 - **Clerical Complacency:** Lower-grade priests ignoring local injustices to maintain peaceful relations with secular authorities.
 - **Doctrinal Drift:** Younger members of the clergy attempting to soften the strict anti-undead doctrines or advocating for traditional burial practices.
@@ -209,4 +209,4 @@ While the church maintains a highly disciplined structure, it constantly monitor
 - **Other External Threats:** [To be determined].
 
 ### Apocalyptic Prophecy
-- **The End Times:** An ancient apocalyptic prophecy exists within the church's secret archives, foretelling a great cosmic trial. [Details of the prophecy are currently unknown/to be established].
+- **The End Times:** An ancient apocalyptic prophecy in the church's secret archives foretells a great cosmic trial. [Details of the prophecy are currently unknown/to be established].

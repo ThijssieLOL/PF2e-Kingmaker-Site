@@ -9,7 +9,7 @@ status: Active
 ---
 
 ## Overview
-The Chancellery of the Purifying Flame is the supreme judicial branch of [[The Church of the Eternal Blazing Sun]] — prosecutor of internal clerical corruption, enforcer of moral standards, and arbiter of ecclesiastical offenses. It is responsible for formally issuing and approving the Moral Veto against corrupt secular rulers.
+The Chancellery of the Purifying Flame is the supreme judicial branch of [[The Church of the Eternal Blazing Sun]]. It prosecutes internal clerical corruption, enforces moral standards, and arbitrates ecclesiastical offenses. It also issues and approves the Moral Veto against corrupt secular rulers.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
@@ -18,7 +18,7 @@ The Chancellery of the Purifying Flame is the supreme judicial branch of [[The C
 
 ## Mandate & Responsibilities
 - **Primary Function:** Legal administration, internal purges, and inquisitorial justice.
-- **Operations:** Functions as the supreme judicial branch, prosecuting internal clerical corruption, enforcing moral standards, and trying ecclesiastical offenses. It is responsible for formally issuing and approving the Moral Veto against corrupt secular rulers.
+- **Operations:** Acts as the supreme judicial branch: prosecutes internal clerical corruption, enforces moral standards, and tries ecclesiastical offenses. It also issues and approves the Moral Veto against corrupt secular rulers.
 
 ---
 

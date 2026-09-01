@@ -9,7 +9,7 @@ status: Active
 ---
 
 ## Overview
-The Chancellery of Celestial Aegis is the shield of [[The Church of the Eternal Blazing Sun]] — supreme command over the Church's standing armed forces and war fleets. It wages large-scale warfare against undead incursions and demonic threats.
+The Chancellery of Celestial Aegis is the shield of [[The Church of the Eternal Blazing Sun]]: it holds supreme command over the Church's standing armed forces and war fleets. It wages large-scale warfare against undead incursions and demonic threats.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]

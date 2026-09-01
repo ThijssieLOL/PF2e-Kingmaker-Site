@@ -11,20 +11,20 @@ aliases:
 
 ## Overview
 
-Most scholars of the spirit world teach that an apparition is a single, fixed entity — a specific ancestor, a particular battlefield, one voice. [[Aurelius]] knows better. Because of the [[Ocular of Kaelen]], he has learned that what the tomes call "an apparition" is better understood as a **family** of spirits: countless distinct beings who share a nature, an origin, and a common repertoire of power, yet differ utterly in face, temperament, and strength.
+Most scholars of the spirit world teach that an apparition is a single, fixed entity: a specific ancestor, a particular battlefield, one voice. [[Aurelius]] knows better. Through the [[Ocular of Kaelen]] he has learned that what the tomes call "an apparition" is better understood as a **family** of spirits, countless distinct beings who share a nature, an origin, and a common repertoire of power, yet differ in face, temperament, and strength.
 
 His **Binding Ledger** is the personal catalogue he keeps of these families and of the individual spirits he has met, bound, released, or only heard rumored. This note explains the system; the [[Spirit Template]] is used to document individual spirits; each family has its own page under `Apparitions/`.
 
 ## How Binding Works
 
-- **The Vessel & Attunement:** Each day during his morning preparations, Aurelius attunes to a selection of the spirits he has bound — two at first, a third from 7th level, a fourth from 15th. One is his **primary** spirit for the day, lending its vessel spell. Binding is permanent and personal; attunement is daily and practical. Unbound spirits wait in the spirit layer, patient as old debts.
-- **Spirit Level:** A spirit's power is measured by its **Level** — the highest apparition spell rank it can carry. A Level 1 spirit carries only the 1st-rank apparition spell (and the family cantrip); a Level 9 spirit carries the 9th-rank spell. The stronger the spirit, the deeper Aurelius's own soul must be to hold it without being consumed.
-- **Where Spirits Live:** Every spirit is a real creature with a true form in the spirit dimension — it hunts, hoards, argues, and ages there. To creatures that cannot perceive the spirit layer it is wholly invisible and intangible: no shadow, no sound, no presence at all. Only spiritual sight — the [[Ocular of Kaelen]], spirit-seeing magic, or an animist's attunement — reveals it to the living. (In rules terms, a spirit generally cannot be seen, targeted, or affected by anything that does not specifically perceive or affect spirits.)
-- **Seeking New Spirits:** As Aurelius's power deepens — each time he gains a new spell rank — his vessel can finally hold spirits of a higher level. He then sets out to *find* one: a new spirit of a family he already keeps, or a family he has never bound. A low-level spirit released with honor remains an ally; a spirit too strong to bind yet remains a goal.
+- **The Vessel & Attunement:** Each day during his morning preparations, Aurelius attunes to a selection of the spirits he has bound: two at first, a third from 7th level, a fourth from 15th. One is his **primary** spirit for the day, lending its vessel spell. Binding is permanent and personal; attunement is daily and practical. Unbound spirits wait in the spirit layer, patient as old debts.
+- **Spirit Level:** A spirit's power is measured by its **Level**, the highest apparition spell rank it can carry. A Level 1 spirit carries only the 1st-rank apparition spell (and the family cantrip); a Level 9 spirit carries the 9th-rank spell. The stronger the spirit, the deeper Aurelius's own soul must be to hold it without being consumed.
+- **Where Spirits Live:** Every spirit is a real creature with a true form in the spirit dimension, where it hunts, hoards, argues, and ages. To creatures that cannot perceive the spirit layer it is wholly invisible and intangible: no shadow, no sound, no presence at all. Only spiritual sight reveals it to the living: the [[Ocular of Kaelen]], spirit-seeing magic, or an animist's attunement. (In rules terms, a spirit generally cannot be seen, targeted, or affected by anything that does not specifically perceive or affect spirits.)
+- **Seeking New Spirits:** As Aurelius's power deepens, each time he gains a new spell rank, his vessel can finally hold spirits of a higher level. He then sets out to *find* one: a new spirit of a family he already keeps, or a family he has never bound. A low-level spirit released with honor remains an ally; a spirit too strong to bind yet remains a goal.
 
 ## Spirit Levels
 
-The level of a spirit is simply the rank of the apparition spell it carries: no titles, no grades — a Level 1 spirit, a Level 4 spirit, and so on. Aurelius can hold spirits of a given level once he can cast apparition spells of that rank.
+The level of a spirit is simply the rank of the apparition spell it carries: no titles, no grades. A Level 1 spirit, a Level 4 spirit, and so on. Aurelius can hold spirits of a given level once he can cast apparition spells of that rank.
 
 | Spirit Level | Carries | When Aurelius can hold it |
 | :----------- | :------ | :------------------------ |
@@ -60,4 +60,4 @@ Fourteen families are known to the animist tradition. Each page is a barebone te
 ## House Notes
 
 - **Rules:** The level system is house flavor layered over the *Pathfinder 2e* Animist class (*War of Immortals*). Mechanically, an apparition's skills, spell repertoire, vessel spell, and avatar are fixed by family (see each family page's Mechanical Reference); the level of the specific spirit bound is a narrative choice unless the group decides otherwise.
-- **New spirits:** Whenever the party wants a new spirit — or the GM needs one — draft it with the [[Spirit Template]] and add it to the appropriate level section of its family page.
+- **New spirits:** Whenever the party wants a new spirit, or the GM needs one, draft it with the [[Spirit Template]] and add it to the appropriate level section of its family page.

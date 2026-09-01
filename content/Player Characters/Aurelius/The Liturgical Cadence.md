@@ -4,7 +4,7 @@ tags:
   - lore
 ---
 
-To make this easy and sustainable to roleplay without slowing down the game or feeling forced, you can break his dialect down into a few simple linguistic habits, a curated word bank, and distinct "voices" depending on his mood.
+To keep it easy to roleplay without slowing down the game or feeling forced, break his dialect down into a few simple linguistic habits, a small word bank, and distinct "voices" for different moods.
 
 ---
 
@@ -20,7 +20,7 @@ Instead of adding "don't" before a verb, simply put "not" after the verb.
 ---
 
 ## 2. The "Shakespearean-Lite" Word Bank
-Keep a small cheat sheet of these words on your character sheet. You don't need to use them in every sentence—just sprinkling one or two into a conversation will instantly establish his dialect.
+Keep a small cheat sheet of these words on your character sheet. You do not need to use them in every sentence. One or two in a conversation is enough to establish his dialect.
 
 | Modern Phrase                 | Aurelius's Liturgical Equivalent         | Example in Sentence                                                        |
 | :---------------------------- | :--------------------------------------- | :------------------------------------------------------------------------- |
@@ -35,22 +35,22 @@ Keep a small cheat sheet of these words on your character sheet. You don't need 
 ---
 
 ## 3. The Three Voices of Aurelius
-Because Aurelius wears different masks, his dialect should shift slightly depending on who he is talking to. This adds incredible depth to your roleplay.
+Because Aurelius wears different masks, his dialect shifts slightly depending on who he is talking to.
 
 ### Voice A: The Warm Catechist
-When talking to children, commoners, or trying to uplift his companions, his archaic speech should sound gentle, poetic, and comforting—like a grandfatherly priest, despite his young age.
+When talking to children or commoners, or when trying to lift his companions' spirits, his archaic speech should sound gentle, poetic, and comforting, like a grandfatherly priest despite his young age.
 - **The Tone:** Soft, patient, and reassuring.
 - **Example:** *"Fret not, little one. The sun must set so that we may appreciate the glory of its rising. Come, let us speak of the stars."*
 - **Example:** *"Verily, your courage today was a sight to behold. The sun smiles upon your efforts."*
 
 ### Voice B: The Patronizing Missionary (His Scholarly/Debating Voice)
-When dealing with stubborn non-believers, debating politics with [[Vespera]], or dealing with mundane paperwork. He is polite, but his high-register vocabulary carries a subtle, academic condescension.
+When dealing with stubborn non-believers, debating politics with [[Vespera]], or facing mundane paperwork, he is polite, but his high-register vocabulary carries a subtle, academic condescension.
 - **The Tone:** Measured, highly intellectual, slightly aloof.
 - **Example:** *"You jest, surely? To suggest the military should govern without the moral guidance of the Church is to invite a swift and chaotic ruin."*
 - **Example:** *"I cannot but wonder, my friend, if your skepticism is born of genuine doubt, or merely a fear of the light that exposes your shadows."*
 
 ### Voice C: The Cold Executioner (His Commando Voice)
-When his "switch" is flipped and he confronts "unsalvageable sin." Here, his dialect shifts from "scholarly" to **biblical and absolute**. This is where you can occasionally use *Thou/Thee/Thy* to show he is speaking not as a man, but as an instrument of divine judgment.
+When his "switch" is flipped and he confronts "unsalvageable sin," his dialect shifts from "scholarly" to **biblical and absolute**. This is where you can occasionally use *Thou/Thee/Thy* to show he is speaking not as a man, but as an instrument of divine judgment.
 - **The Tone:** Flat, emotionless, clinical, and heavy.
 - **Example:** *"Thy sins have weighed the scales, and they have been found wanting. Verily, the sun must set upon thy life."*
 - **Example:** *"Speak not. The spirits of those you slew have already borne witness against you."*
@@ -59,6 +59,6 @@ When his "switch" is flipped and he confronts "unsalvageable sin." Here, his dia
 
 ## 4. How to Roleplay This at the Table (Practical Tips)
 
-- **Save "Thou" and "Thee" for High-Impact Moments:** Using *thou/thee/thy* constantly can be mentally exhausting for you and distracting for the table. Instead, use "you" and "your" for normal conversations, and save the heavy biblical pronouns for when Aurelius is **casting powerful divine magic**, **binding evil spirits**, or **acting as the Executioner**. It will make those moments feel incredibly intense.
-- **Use "Pray" as a Conversational Bridge:** "Pray" is a fantastic word for a clergyman. Use it to ask questions. *"Pray, hand me that map,"* or *"Pray, what did the tavern keeper say?"* It sounds incredibly polite and distinctively old-fashioned.
+- **Save "Thou" and "Thee" for High-Impact Moments:** Using *thou/thee/thy* constantly can be mentally exhausting for you and distracting for the table. Instead, use "you" and "your" for normal conversations, and save the heavy biblical pronouns for when Aurelius is **casting powerful divine magic**, **binding evil spirits**, or **acting as the Executioner**.
+- **Use "Pray" as a Conversational Bridge:** "Pray" is a good word for a clergyman. Use it to ask questions. *"Pray, hand me that map,"* or *"Pray, what did the tavern keeper say?"* It sounds polite and old-fashioned.
 - **Describe His Delivery:** Sometimes, the best way to roleplay a dialect is to describe it. You can say: *"Aurelius speaks in that overly formal, rhythmic cadence of someone who spent too much time reading 200-year-old theology books. He looks at Julian and says, 'You jest...'"*

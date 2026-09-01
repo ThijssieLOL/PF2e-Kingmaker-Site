@@ -9,7 +9,7 @@ status: Active
 ---
 
 ## Overview
-The Chancellery of Consecrated Solace tends the bodies and final rites of the faithful — the Church's hospitals, sanatoriums, and disaster relief networks. It manages public sanitation and strictly enforces the sacred cremation rites that guard the dead against necromancy.
+The Chancellery of Consecrated Solace tends the bodies and final rites of the faithful. It runs the Church's hospitals, sanatoriums, and disaster relief networks, manages public sanitation, and strictly enforces the sacred cremation rites that guard the dead against necromancy.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
