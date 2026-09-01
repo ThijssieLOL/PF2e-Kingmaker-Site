@@ -24,16 +24,16 @@ tags:
 ### Visual Design and Aesthetics
 
 - **5. What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?**
-- **Answer:** Tall with a lean, highly athletic build—broad across the shoulders yet narrow in the waist ([[Aurelius#Physicality & Features]]).
+- **Answer:** Tall with a lean, highly athletic build, broad across the shoulders yet narrow in the waist ([[Aurelius#Physicality & Features]]).
 
 - **6. What notable physical features does your character have? Impressive scars, unusual hair color or glamorous tattoos and piercings, what makes your character's look distinct.**
-- **Answer:** He possesses the rare [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]] ("Eyes of God") and the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]]—dark branded criminal tattoos across his forearms and shins that ignite into brilliant **Aureolin White** light when he channels divine magic ([[Aurelius#Appearance]]).
+- **Answer:** He has the rare [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]] ("Eyes of God") and the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]]: dark branded criminal tattoos across his forearms and shins that ignite into brilliant **Aureolin White** light when he channels divine magic ([[Aurelius#Appearance]]).
 
 - **7. Is your character well groomed? Do they bathe often? Do they brush their teeth?**
 - **Answer:** 
 
 - **8. Does your character have a condition or other distinction that makes them different from others of their race/species.**
-- **Answer:** He possesses the rare ocular trait known as the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], which allows him to perceive the spiritual layer of reality directly ([[Aurelius#The "Eyes of God" (Ocular of Kaelen)]]).
+- **Answer:** He has the rare ocular trait known as the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], which lets him perceive the spiritual layer of reality directly ([[Aurelius#The "Eyes of God" (Ocular of Kaelen)]]).
 
 - **9. What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the of wearing something new every day?**
 - **Answer:** He alternates between traditional formal Church vestments (an ankle-length black cassock and white stole) and practical frontier gear (black trousers, dark tunic, and a loose hooded white poncho-capelet with solar trim) ([[Aurelius#Attire & Outfits]]).
@@ -77,7 +77,7 @@ tags:
 - **Answer:** He has extensive combat experience gained through commando conditioning, operational field trials, and high-risk covert missions for [[The Chancellery of Silent Illumination#Mandate & Responsibilities]], though exact win-loss records are not detailed ([[Aurelius#Upbringing in The Chancellery of Silent Illumination]]).
 
 - **20. Does your character have rules or a code of honor for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?**
-- **Answer:** He prefers spatial detachment and spirit negotiation, but if pushed to the brink of death, his discipline breaks down into a brutal survival technique. If triggered by unsalvageable cruelty or blasphemy, he enters "The Eclipse"—a cold, emotionless executioner state ([[Aurelius#Trauma Response: "The Eclipse"]], [[Aurelius#Martial Combat Style]]).
+- **Answer:** He prefers spatial detachment and spirit negotiation, but if pushed to the brink of death, his discipline breaks down into a brutal survival technique. If triggered by unsalvageable cruelty or blasphemy, he enters "The Eclipse", a cold, emotionless executioner state ([[Aurelius#Trauma Response: "The Eclipse"]], [[Aurelius#Martial Combat Style]]).
 
 ---
 
@@ -105,7 +105,7 @@ tags:
 - **Answer:** Yes, a compassionate senior priest in [[The Church of the Eternal Blazing Sun]] who mentored him in controlling his Animist abilities despite having no spiritual sight himself, and later advocated for his frontier assignment ([[Aurelius#Adoption & Alchemical Redemption]], [[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
 
 - **28. Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.**
-- **Answer:** Yes, a shadowy cabal that raided his childhood home to harvest his [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]] and continues to hunt individuals possessing the trait ([[Aurelius#Childhood & The Tragic Origin]], [[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
+- **Answer:** Yes, a shadowy cabal that raided his childhood home to harvest his [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]] and continues to hunt individuals with the trait ([[Aurelius#Childhood & The Tragic Origin]], [[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
 
 - **29. Is your character or has your character been in a romantic relationship?**
 - **Answer:** No. He adheres strictly to a vow of celibacy ([[Aurelius#Dialect & Boundaries]]).
@@ -124,13 +124,13 @@ tags:
 - **Answer:** He received a comprehensive education in [[The Chancellery of Silent Illumination#Training Curriculum & Education]], studying theology, divine magic and martial combat, ... ([[Aurelius#Upbringing in The Chancellery of Silent Illumination]]).
 
 - **33. How has your upbringing shaped your worldview?**
-- **Answer:** His tragic past and strict commando upbringing made him deeply disciplined, committed to divine redemption, and cautious of tyranny, inspiring his political theories ([[Aurelius#Political & Spiritual Philosophy]], [[Aurelius#Personality & Psychology]]).
+- **Answer:** His tragic past and strict commando upbringing made him deeply disciplined, committed to divine redemption, and cautious of tyranny, which later inspired his political theories ([[Aurelius#Political & Spiritual Philosophy]], [[Aurelius#Personality & Psychology]]).
 
 - **34. Is your character's family well-off or are they fucking peasants?**
 - **Answer:** Fucking peasants.
 
 - **35. What is your (tragic) backstory?**
-- **Answer:** Born with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home in Restov was destroyed by a dark cabal. Fleeing as an orphan, desperation led him to theft and assault, and eventually to the murder of a wicked man's innocent family to silence witnesses. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings in battle, and now seeks out the frontier of the stolen lands ([[Aurelius#History]]).
+- **Answer:** Born with the [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], his home in Restov was destroyed by a dark cabal. Orphaned, he fled to the streets, where desperation led him to theft and assault, and eventually to murdering a wicked man's innocent family to silence witnesses. Saved by [[The Church of the Eternal Blazing Sun]], he submitted to the [[Aurelius#The Tattoos of Penance|Tattoos of Penance]], was trained in [[The Chancellery of Silent Illumination#Recruitment & The Orphan Cohorts]], lost two cohort siblings in battle, and now seeks out the frontier of the stolen lands ([[Aurelius#History]]).
 
 ---
 
@@ -140,16 +140,16 @@ tags:
 - **Answer:** Follow high-planar spiritual whispers calling him to the Stolen Lands, and field-test his political and spiritual projects ([[Aurelius#Overview]], [[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
 
 - **37. Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?**
-- **Answer:** As an official missionary under [[The Chancellery of the Outer Horizon]], his goal is to help shape the new kingdom's political institutions so they further the Church's political and spiritual ambitions — testing his political theories (the [[Aurelius#The Trias Politicas|Trias Politicas]] foremost among them) and the [[Aurelius#The Holy Ground Project|Holy Ground Project]] ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
+- **Answer:** As an official missionary under [[The Chancellery of the Outer Horizon]], his goal is to help shape the new kingdom's political institutions so they further the Church's political and spiritual ambitions, testing his political theories (the [[Aurelius#The Trias Politicas|Trias Politicas]] foremost among them) and the [[Aurelius#The Holy Ground Project|Holy Ground Project]] ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
 
 - **38. What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?**
 - **Answer:** Magister (Flavored as the role of High Priest)
 
 - **39. How does your character think a country should be run?**
-- **Answer:** He holds no single rigid blueprint — he reads each realm's circumstances with his intuitive grasp of political theory and adapts. His preferred theoretical model is the [[Aurelius#The Trias Politicas|Trias Politicas]]: power split equally between the Crown (Civil Law), Military (Defense), and Church (Moral Guidance), with clergy strictly forbidden from holding executive political thrones ([[Aurelius#The Trias Politicas]]).
+- **Answer:** He holds no single rigid blueprint; he reads each realm's circumstances with his intuitive grasp of political theory and adapts. His preferred theoretical model is the [[Aurelius#The Trias Politicas|Trias Politicas]]: power split equally between the Crown (Civil Law), Military (Defense), and Church (Moral Guidance), with clergy strictly forbidden from holding executive political thrones ([[Aurelius#The Trias Politicas]]).
 
 - **40. What are, in your opinion, the fundamental rights a citizen of your country should have?**
-- **Answer:** Apart from the basic human right; freedom from poverty, protection from undead threats and tyranny, the right to redemption, and governance free from state wealth hoarding ([[The Church of the Eternal Blazing Sun#Political & Economic Philosophy]], [[Aurelius#Political & Spiritual Philosophy]]).
+- **Answer:** Beyond the basic human rights, he names freedom from poverty, protection from undead threats and tyranny, the right to redemption, and governance free from state wealth hoarding ([[The Church of the Eternal Blazing Sun#Political & Economic Philosophy]], [[Aurelius#Political & Spiritual Philosophy]]).
 
 - **41. Would you sacrifice yourself for your friends, allies or future citizens?**
 - **Answer:** Yes. He views self-sacrifice as the highest standard of holy duty, inspired by his fallen cohort brother [[Tristan]] ([[Aurelius#The Fallen Siblings]]).
