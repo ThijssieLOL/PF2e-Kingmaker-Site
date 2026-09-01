@@ -12,7 +12,7 @@ status: Deceased
 > ""
 
 ## Overview
-Valerius was the impulsive, fiery vanguard of the Class of 21 cohort, a Fighter who lived for the clash of blades. He died heroically defending city walls during an invasion, and his death serves as a reminder of the brutal cost of war.
+Valerius was the impulsive, fiery vanguard of the Class of 21 cohort, a Fighter who lived for the clash of blades. He died defending the city walls during an invasion. His death reminds everyone who knew him of the brutal cost of war.
 
 ### Quick Facts
 - **Full Name:** Valerius

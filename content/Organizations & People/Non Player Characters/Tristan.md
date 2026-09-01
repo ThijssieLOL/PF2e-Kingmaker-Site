@@ -12,7 +12,7 @@ status: Deceased
 > ""
 
 ## Overview
-Tristan was the protective older-brother figure of the Class of 21 cohort, a Champion who served as its shield. He fell holding back a monstrous horde so his siblings could escape, and his memory is held as the supreme standard of holy sacrifice.
+Tristan was the protective older-brother figure of the Class of 21 cohort, a Champion who was its shield. He fell holding back a monstrous horde so his siblings could escape, and his memory is held as the highest standard of holy sacrifice.
 
 ### Quick Facts
 - **Full Name:** Tristan
