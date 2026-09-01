@@ -42,22 +42,22 @@ The level of a spirit is simply the rank of the apparition spell it carries: no 
 
 ## The Apparition Families
 
-Fourteen families are known to the animist tradition. Each page is a barebone template with a section for spirits of every level (1–9), ready to be filled in, plus its mechanical reference.
+Fourteen families are known to the animist tradition. Each page is a barebone template with a section for spirits of every level (1-9), ready to be filled in, plus its mechanical reference.
 
-- [[Crafter in the Vault]] — spirits of forges, workshops, and places where creation and injury happen together.
-- [[Custodian of Groves and Gardens]] — quiet spirits of tended land that believe they have already found paradise.
-- [[Echo of Lost Moments]] — spirits born of forgotten memories and time that was damaged and repaired.
-- [[Impostor in Hidden Places]] — secret-keepers that whisper in corners mortal voices never reach.
-- [[Lamentation of Sinister Deals]] — spirits of bargains that cost more than they returned.
-- [[Lurker in Devouring Dark]] — cold spirits of deep water, ice, and the hungers beneath the world.
-- [[Monarch of the Fey Courts]] — vain, capricious spirits of the First World's courts.
-- [[Reveler in Lost Glee]] — twisted spirits of joy that once was, mirth that now wounds.
-- [[Shepherd of Errant Winds]] — spirits of movement and freedom, born from the wake of the wind.
-- [[Speaker in Sibilance]] — hissing spirits of forbidden knowledge, each serpent a different counsel.
-- [[Stalker in Darkened Boughs]] — hunters of the ancient forests, drawn to violence and to those who master it.
-- [[Steward of Stone and Fire]] — slow-burning spirits of mountains, volcanoes, and hot springs.
-- [[Vanguard of Roaring Waters]] — chaotic spirits of rapids, breakers, and rivers that carve the world.
-- [[Witness to Ancient Battles]] — grim spirits of soldiers, sieges, and fields that drank too much blood.
+- [[Crafter in the Vault]] - spirits of forges, workshops, and places where creation and injury happen together.
+- [[Custodian of Groves and Gardens]] - quiet spirits of tended land that believe they have already found paradise.
+- [[Echo of Lost Moments]] - spirits born of forgotten memories and time that was damaged and repaired.
+- [[Impostor in Hidden Places]] - secret-keepers that whisper in corners mortal voices never reach.
+- [[Lamentation of Sinister Deals]] - spirits of bargains that cost more than they returned.
+- [[Lurker in Devouring Dark]] - cold spirits of deep water, ice, and the hungers beneath the world.
+- [[Monarch of the Fey Courts]] - vain, capricious spirits of the First World's courts.
+- [[Reveler in Lost Glee]] - twisted spirits of joy that once was, mirth that now wounds.
+- [[Shepherd of Errant Winds]] - spirits of movement and freedom, born from the wake of the wind.
+- [[Speaker in Sibilance]] - hissing spirits of forbidden knowledge, each serpent a different counsel.
+- [[Stalker in Darkened Boughs]] - hunters of the ancient forests, drawn to violence and to those who master it.
+- [[Steward of Stone and Fire]] - slow-burning spirits of mountains, volcanoes, and hot springs.
+- [[Vanguard of Roaring Waters]] - chaotic spirits of rapids, breakers, and rivers that carve the world.
+- [[Witness to Ancient Battles]] - grim spirits of soldiers, sieges, and fields that drank too much blood.
 
 ## House Notes
 

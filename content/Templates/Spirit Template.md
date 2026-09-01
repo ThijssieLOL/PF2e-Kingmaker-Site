@@ -12,7 +12,7 @@ aliases:
 > "A memorable line the spirit speaks, in its own voice."
 
 ## Overview
-A brief 1-2 sentence summary of who this spirit is: what it was, where it was found, and how it came to be bound. Every spirit belongs to one [[Spirits & Apparitions|apparition family]] and carries one Level that measures its strength.
+A brief 1-2 sentence summary of who this spirit is: what it was, where it was found, and how it came to be bound. Every spirit belongs to one [[Spirits Ledger|apparition family]] and carries one Level that measures its strength.
 
 ### Quick Facts
 - **Apparition Family:** [[Name of Apparition]]

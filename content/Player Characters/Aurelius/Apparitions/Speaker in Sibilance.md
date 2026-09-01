@@ -44,4 +44,4 @@ status: Active
 
 ---
 
-*See [[Spirits & Apparitions]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*
+*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*
