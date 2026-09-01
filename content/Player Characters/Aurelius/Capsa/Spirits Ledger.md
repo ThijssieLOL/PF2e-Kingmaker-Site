@@ -1,19 +1,21 @@
 ---
 agent-editable: true
-title: "Spirits & Apparitions — Aurelius's Binding Ledger"
+title: "Spirits Ledger"
 tags:
   - lore
   - spirit
   - apparition
+  - book
 aliases:
   - The Binding Ledger
+  - Spirits & Apparitions
 ---
 
 ## Overview
 
 Most scholars of the spirit world teach that an apparition is a single, fixed entity: a specific ancestor, a particular battlefield, one voice. [[Aurelius]] knows better. Through the [[Ocular of Kaelen]] he has learned that what the tomes call "an apparition" is better understood as a **family** of spirits, countless distinct beings who share a nature, an origin, and a common repertoire of power, yet differ in face, temperament, and strength.
 
-His **Binding Ledger** is the personal catalogue he keeps of these families and of the individual spirits he has met, bound, released, or only heard rumored. This note explains the system; the [[Spirit Template]] is used to document individual spirits; each family has its own page under `Apparitions/`.
+His **Binding Ledger** is the personal catalogue he keeps of these families and of the individual spirits he has met, bound, released, or only heard rumored. This note explains the system; the [[Spirit Template]] is used to document individual spirits; each family has its own page under `Apparitions/`. The ledger rides in the leather book case he calls the Capsa, always within reach.
 
 ## How Binding Works
 
