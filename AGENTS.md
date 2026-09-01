@@ -29,6 +29,9 @@ maintain wiki notes to a high standard — while **strictly respecting vault own
 - Quartz publishes `content/` to the website (built on GitHub from the `v5` branch). Frontmatter
   fields like `tags`, `aliases`, `description` are used by the site — never break them, and never
   add site-breaking raw HTML.
+- **Published site:** https://thijssielol.github.io/PF2e-Kingmaker-Site/ — **Source repo:**
+  https://github.com/ThijssieLOL/PF2e-Kingmaker-Site (git remote `origin`). The site is managed
+  through this same vault/repo; pushing to GitHub builds and deploys it.
 
 ## 3. HARD RULES — what you may edit (non-negotiable)
 
@@ -50,6 +53,11 @@ of truth for "this file may be edited by the agent". Currently that means:
 - `content/index.md` — group hub page.
 - Everything under `content/Templates/` — group templates.
 - `content/Attachments/` — **ADD new image files only. Never modify or delete existing ones.**
+  All vault images live here. If an image file (png, jpg, gif, webp, svg) is found anywhere
+  outside `content/Attachments/` — for example loose in the repo root — move it into
+  `content/Attachments/`. Exception: Quartz framework assets under `docs/` and `quartz/`
+  (e.g. `docs/images/`, `quartz/static/`) stay where they are; they are build assets, not vault
+  content.
 
 ### 3.3 New files you create
 - **MUST** include `agent-editable: true` in the frontmatter (insert it as the first line inside
