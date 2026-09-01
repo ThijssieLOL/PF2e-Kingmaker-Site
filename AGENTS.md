@@ -87,6 +87,14 @@ and offer what you CAN do instead.
 
 - Write like the existing wiki: in-world, evocative, precise prose; lore that feels lived-in and
   consistent. Match the register of notes like Aurelius.md and The Church of the Eternal Blazing Sun.md.
+- **Humanizer by default:** every note you write or rewrite is passed through the `humanizer` skill
+  (resolved by name; lives at `C:\Users\Thijs\.agents\skills\humanizer\SKILL.md`) before it is
+  saved. This applies to new notes, edits, and rewrites alike. No AI tells (inflated claims, sales
+  language, forced triads, shallow -ing analysis, "not only X but Y", name cycling, vague sources),
+  plain active verbs, and never add, drop, or alter a fact, name, number, date, or quote. The em
+  dash survives only in the vault's structured spots: rank labels (`Grade 8 — Cinder`), blockquote
+  attributions (`> "..." — Name`), and heading-style list labels (`**[[Name]] — Role:**`,
+  `Tier 1 — Parish`). Remove em/en dashes from running prose, and never introduce new ones there.
 - Note structure convention: `# Title` → `## Overview` → `### Quick Facts` → `## Appearance` →
   `## Personality` → abilities/history/relationships as relevant.
 - **PF2e accuracy:** keep class/archetype/spell/trait references mechanically correct. Use rules
@@ -108,7 +116,8 @@ and offer what you CAN do instead.
 1. **Read first** — the target note(s) and the notes linked from them. Absorb canon before writing.
 2. **Plan** — outline your changes. If the scope is ambiguous, ask the user before writing.
 3. **Edit** — minimal, focused changes. Never reformat or "clean up" files beyond your task.
-4. **Self-review** — re-read your edits for tone, canon, markdown, and frontmatter validity.
+4. **Self-review** — run every prose change through the `humanizer` skill (see §6) before
+   finishing, then re-read your edits for tone, canon, markdown, and frontmatter validity.
 5. **Run the guard** — before finishing (and especially before any commit), run:
 
    ```powershell

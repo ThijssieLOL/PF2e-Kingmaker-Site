@@ -21,16 +21,16 @@ A brief 1-2 sentence summary of who this spirit is: what it was, where it was fo
 - **First Met:** (where and when)
 
 ## Appearance
-The spirit's true form in the spirit dimension — its body, size, movement, and any aura it carries. It is a real creature there, hunting, hoarding, and living; but it is wholly invisible and intangible to creatures that cannot perceive the spirit layer. Describe what the [[Ocular of Kaelen]] or spirit-seeing magic reveals, and what other mortals simply cannot see. Appearance varies wildly between spirits of the same family; this spirit's is its own.
+The spirit's true form in the spirit dimension: its body, size, movement, and any aura it carries. It is a real creature there, hunting, hoarding, and living; but it is wholly invisible and intangible to creatures that cannot perceive the spirit layer. Describe what the [[Ocular of Kaelen]] or spirit-seeing magic reveals, and what other mortals simply cannot see. Appearance varies wildly between spirits of the same family; this spirit's is its own.
 
 ## Personality
 What it is like to converse with: temperament, speech, quirks, and what it values. Note what it demands or needs from a binder (praise, order, movement, silence...).
 
 ## Origin & History
-How this spirit came to exist — what event, place, or person it remembers. What it has forgotten, and what it cannot forget.
+How this spirit came to exist: what event, place, or person it remembers. What it has forgotten, and what it cannot forget.
 
 ## Relationship with Aurelius
-How it treats [[Aurelius]], how he earned (or forced) its respect, and how binding it feels — warmth, strain, or something in between.
+How it treats [[Aurelius]], how he earned (or forced) its respect, and how binding it feels: warmth, strain, or something in between.
 
 ## Gifts
 What the spirit lends while attuned: the spells from its family's repertoire it most readily carries, and any personal gift or habit it brings to the bond (a scent, a sound, a memory that surfaces).
