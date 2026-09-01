@@ -2,4 +2,4 @@
 tags: 
 ---
 
-Unlike the earth's singular moon, the world of Kaelerum possesses two moons. It's moons Minerva and Majarum
+Unlike the earth's singular moon, the world of Kaelerum possesses two moons. These two moons are called Minerva and Majorus
