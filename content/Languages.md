@@ -18,6 +18,7 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 	- **[[Low Ghadalian]]** - A subtle whispering language used by assassins, spies, and thieves guilds. Developed originally in the underbelly of the [[The Ghadalian Republic|Ghadalian Republic]], it relies on half-spoken syllables and implied meaning. To outsiders, it sounds like unfinished sentences.
 	- **[[High Ghadalian]]** - A modified version of [[Ghadalian]] used often by it's nobility. It is very well suited for political debate and is sometimes surprisingly similar to it's underworld counterpart in disguised threats and promises.
 - **[[Arboreal]]** - The language of treefolk and other sentient plants.
+- **[[Hallid]]** - 
 
 
 ### Rare languages
