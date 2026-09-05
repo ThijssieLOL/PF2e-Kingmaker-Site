@@ -7,4 +7,4 @@ tags:
 > — Alexander Hebble, former linguistics professor.
 
 ## Overview
-Hallid 
+Hallid is the primary language spoken by the hilland tribes. 
