@@ -31,7 +31,7 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 - **Sacred Colours:** 
 
 ## Appearance
-- **Description:** **Elisola** 
+- **Description:** 
 ---
 
 ## Personality
