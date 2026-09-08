@@ -23,7 +23,7 @@ It draws on divine theology, animist spirit manipulation, and advanced alchemica
 ## Technical & Magical Mechanics
 
 ### The Solar-Prism Battery Grid
-- **Energy Storage Cycle:** The grid is anchored by massive solar-prism batteries designed to absorb and store pure divine radiant energy from [[The Eternal Blazing Sun]] during daylight hours.
+- **Energy Storage Cycle:** The grid is anchored by massive solar-prism batteries designed to absorb and store pure divine radiant energy from [[Elisola]] during daylight hours.
 - **Nocturnal Projection:** During the night, the batteries gradually release their stored energy, keeping a continuous, unbroken protective barrier across the kingdom.
 
 ### The Cleansing Barrier

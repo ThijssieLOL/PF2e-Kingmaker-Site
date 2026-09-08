@@ -3,7 +3,7 @@ tags:
   - Religion
   - Constellation
   - Saint
-deity: "[[The Eternal Blazing Sun]]"
+deity: "[[Elisola]]"
 Saintly Domain:
 Constellation: "[[The Patriarch]]"
 Alternate names:
