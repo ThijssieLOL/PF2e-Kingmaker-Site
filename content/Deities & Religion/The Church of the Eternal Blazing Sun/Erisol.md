@@ -28,7 +28,7 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 - **Anathema:** 
 - **Domains:** 
 - **Sacred Animal:** 
-- **Sacred Colours:** Gold
+- **Sacred Colours:** Gold and red
 
 ## Appearance
 - **Description:** 
@@ -44,7 +44,7 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 ---
 
 ## Relationships
-
+Erisol obviously has various relationships with her starsaints as she is the one to raise them to sainthood. 
 
 --- 
 
