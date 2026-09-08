@@ -7,14 +7,14 @@ Godly Domains:
   - Life
   - Fire
   - Healing
-Edicts:
+Edicts: Destroy undead, aid those in need and
 Anathema: Willfully create undead
 aliases:
   - The Eternal Blazing Sun
 ---
 
 
-> "Dream no small dreams for they have no power to move the hearts of men."
+> "A fire can only burn as bright as the fuel it's fed"
 
 
 ## Overview
