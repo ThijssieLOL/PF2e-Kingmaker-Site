@@ -4,7 +4,7 @@ tags:
   - God
 faction: "[[The Church of the Everlasting Moonlight]]"
 Godly Domains:
-  - Moon, 
+  - Moon 
   - Fate
   - Water
   - Healing
