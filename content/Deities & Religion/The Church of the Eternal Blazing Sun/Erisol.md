@@ -28,7 +28,7 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 - **Anathema:** 
 - **Domains:** 
 - **Sacred Animal:** 
-- **Sacred Colours:** 
+- **Sacred Colours:** Gold
 
 ## Appearance
 - **Description:** 
