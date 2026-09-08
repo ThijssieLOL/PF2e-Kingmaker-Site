@@ -46,6 +46,10 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 ## Relationships
 Erisol obviously has various relationships with her star saints as she is the one to raise them to sainthood. 
 
+In some mythologies she has two daughters:
+- [[Kallya]], the god of nature
+- [[Esephera]], the god of life and death
+
 --- 
 
 ## Myths
