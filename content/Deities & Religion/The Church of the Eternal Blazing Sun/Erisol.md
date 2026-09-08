@@ -7,7 +7,7 @@ Godly Domains:
   - Life
   - Fire
   - Healing
-Edicts: Destroy undead, aid those in need and
+Edicts: Destroy undead, aid those in need
 Anathema: Willfully create undead
 aliases:
   - The Eternal Blazing Sun

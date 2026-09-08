@@ -19,7 +19,7 @@ The Grand Order of the Phoenix is a smaller denomination of [[The Church of the 
 ### Quick Facts
 - **Leader:** [To be established]
 - **Headquarters:** [To be established]
-- **Deity:** [[Elisola]]
+- **Deity:** [[Erisol]]
 - **Origin:** Amicable schism from [[The Church of the Eternal Blazing Sun]]
 - **Alignment:** Lawful Good
 - **Status:** Active

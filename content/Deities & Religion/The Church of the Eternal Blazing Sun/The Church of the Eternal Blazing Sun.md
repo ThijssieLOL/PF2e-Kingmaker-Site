@@ -18,7 +18,7 @@ The Church of the Eternal Blazing Sun is a large, Lawful Good religious institut
 The church does not seek to rule nations directly. It acts instead as a moral guardian of the mortal realms, intervening ruthlessly when secular rulers fall into corruption or commit grave evils.
 
 ### Quick Facts
-- **Deity:** [[Elisola]]
+- **Deity:** [[Erisol]]
 - **Alignment:** Lawful Good
 - **Leader:** Grade 2 (Solstice), chosen directly by the sun goddess
 - **Structure:** Grade-based hierarchy (Grade 9–0) and nine High Chancelleries

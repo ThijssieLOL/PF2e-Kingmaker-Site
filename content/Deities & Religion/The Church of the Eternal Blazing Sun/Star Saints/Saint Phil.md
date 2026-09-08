@@ -3,7 +3,7 @@ tags:
   - Religion
   - Constellation
   - Saint
-deity: "[[Elisola]]"
+deity: "[[Erisol]]"
 Saintly Domain:
   - Death
   - Redemption
