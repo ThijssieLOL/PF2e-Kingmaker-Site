@@ -18,7 +18,7 @@ aliases:
 
 
 ## Overview
-The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often called "the Eternal Blaze" or "the Pyre" is believed by her mythology to be the sun itself.
+The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often called "the Eternal Blaze" or "the Pyre" is believed by her mythology to be the sun itself. She is the god of light and life
 ### Quick Facts
 - **Titles:** The Eternal Blazing Sun, The Pyre
 - **Alignment:** Lawful Good
