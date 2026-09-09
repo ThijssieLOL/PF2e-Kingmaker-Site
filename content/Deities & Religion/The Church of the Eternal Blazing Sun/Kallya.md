@@ -45,7 +45,8 @@ Kallya is the god of nature in some iterations of [[The Church of the Eternal Bl
 ---
 
 ## Relationships
-
+- **[[Erisol]]:** Kallya's mother
+- **[[Esephera]]:** The younger sister of Kallya
 
 --- 
 
