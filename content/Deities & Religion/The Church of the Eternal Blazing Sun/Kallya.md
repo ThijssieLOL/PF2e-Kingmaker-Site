@@ -5,6 +5,9 @@ tags:
 Godly Domains:
   - Nature
   - Storms
+  - Plant
+  - Earth
+  - Water
 Edicts:
 Anathema:
 aliases:
@@ -18,7 +21,7 @@ aliases:
 Kallya is the god of nature in some iterations of [[The Church of the Eternal Blazing Sun|the Church of the Eternal Blazing Sun]]. She is believed to be the soul of the earth.
 ### Quick Facts
 - **Titles:** 
-- **Alignment:** 
+- **Alignment:** Chaotic Neutral
 - **Areas of concern:** 
 - **Main followers:** 
 - **Edicts:** 
