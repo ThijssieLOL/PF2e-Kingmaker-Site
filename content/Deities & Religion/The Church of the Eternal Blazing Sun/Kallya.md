@@ -21,7 +21,7 @@ aliases:
 Kallya is the god of nature in some iterations of [[The Church of the Eternal Blazing Sun|the Church of the Eternal Blazing Sun]] and [[Erisol|Erisol's]] first child. She is believed to be the soul of the earth.
 
 ### Quick Facts
-- **Titles:** 
+- **Titles:** Soul of the earth
 - **Alignment:** Chaotic Neutral
 - **Areas of concern:** 
 - **Main followers:** 
