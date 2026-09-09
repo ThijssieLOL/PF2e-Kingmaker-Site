@@ -7,6 +7,7 @@ Godly Domains:
   - Life
   - Fire
   - Healing
+  - Redemption
 Edicts: Destroy undead, aid those in need
 Anathema: Willfully create undead
 aliases:
@@ -27,7 +28,7 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 - **Main followers:** Humans, Beradonians
 - **Edicts:** Aid those in need, destroy undead
 - **Anathema:** Willfully create undead
-- **Domains:** Sun, Fire, Life, Healing
+- **Domains:** Sun, Fire, Life, Healing, Redemption
 - **Sacred Animal:** 
 - **Sacred Colours:** Gold and red
 
