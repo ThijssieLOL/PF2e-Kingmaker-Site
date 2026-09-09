@@ -22,7 +22,7 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 ### Quick Facts
 - **Titles:** The Eternal Blazing Sun, The Pyre
 - **Alignment:** Lawful Good
-- **Areas of concern:** 
+- **Areas of concern:** The Sun, light and charity
 - **Main followers:** Humans, Beradonians
 - **Edicts:** Aid those in need, destroy undead
 - **Anathema:** Willfully create undead
