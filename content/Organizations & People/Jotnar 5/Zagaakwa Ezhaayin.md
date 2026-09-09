@@ -2,6 +2,7 @@
 tags:
   - character
   - npc
+  - Jotnar5
 ancestry: Jotun
 class: Druid
 faction: "[[Jotnar Five]]"

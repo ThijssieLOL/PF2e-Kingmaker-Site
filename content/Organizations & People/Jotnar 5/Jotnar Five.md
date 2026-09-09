@@ -1,6 +1,7 @@
 ---
 tags:
   - faction
+  - Jotnar5
 leader: "[[Niigani Wewidun]]"
 headquarters: The Fourfold Hearth
 alignment: Neutral Good
