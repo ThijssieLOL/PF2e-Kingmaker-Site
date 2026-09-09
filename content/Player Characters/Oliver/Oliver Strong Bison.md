@@ -1,6 +1,7 @@
 ---
 tags:
   - character
+  - pc
 ancestry: Aiuvarin
 class: Commander
 faction: "[[Jotnar Five]]"
