@@ -23,8 +23,8 @@ Kallya is the god of nature in some iterations of [[The Church of the Eternal Bl
 ### Quick Facts
 - **Titles:** Soul of the earth
 - **Alignment:** Chaotic Neutral
-- **Areas of concern:** 
-- **Main followers:** 
+- **Areas of concern:** Upholding nature and the wild
+- **Main followers:** Druids, Hermits and woodsmen
 - **Edicts:** 
 - **Anathema:** 
 - **Domains:** Nature, Plant, Earth, Storms, Water
