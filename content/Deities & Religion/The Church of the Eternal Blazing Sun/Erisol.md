@@ -26,7 +26,7 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 - **Main followers:** Humans, Beradonians
 - **Edicts:** 
 - **Anathema:** 
-- **Domains:** 
+- **Domains:** Sun, Fire, Life, Healing
 - **Sacred Animal:** 
 - **Sacred Colours:** Gold and red
 
