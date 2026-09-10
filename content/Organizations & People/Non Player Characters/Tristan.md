@@ -18,7 +18,7 @@ Tristan was the shield of [[Aurelius]]'s training cohort in [[The Chancellery of
 - **Ancestry/Species:** 
 - **Class/Profession:** Champion
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
-- **Cohort:** The Class of 21, [[The Chancellery of Silent Illumination]]
+- **Cohort:** The Twenty-First Vigil, [[The Chancellery of Silent Illumination]]
 - **Role/Rank:** The Shield (presumed dead)
 - **Home City:** Restov
 - **Age at Loss:** 16
@@ -68,7 +68,7 @@ Tristan was born in Restov. His parents were alcoholics and mentally ill, and th
 ### The Church Court
 In Restov, the Church of the Eternal Blazing Sun was the court. A Church court found Tristan guilty and sentenced him, and that sentence placed him in the hands of [[The Chancellery of Silent Illumination]], which drew its operatives from convicted children. He abandoned his family name the moment he entered.
 
-### The Class of 21
+### The Twenty-First Vigil
 Tristan was raised in the isolated seven-member cohort, which lived, trained, and endured apart from the rest of the world. Its members came to trust one another like siblings. Tristan grew into its protective older brother, the one everyone went to when a task needed strength.
 
 ### The Horde & The Open Question

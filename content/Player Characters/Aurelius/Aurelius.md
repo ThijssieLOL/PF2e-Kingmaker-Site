@@ -143,7 +143,7 @@ Determined to answer this calling, Aurelius engineered an unprecedented administ
 
 ## Relationships
 
-Aurelius was raised alongside six other orphans in his training cohort within [[The Chancellery of Silent Illumination]]. Bound by shared survival and rigorous discipline, they share a deep sibling bond. All surviving members are 21 years old.
+Aurelius was raised alongside six other orphans in the Twenty-First Vigil, his training cohort within [[The Chancellery of Silent Illumination]]. Bound by shared survival and rigorous discipline, they share a deep sibling bond. All surviving members are 21 years old.
 
 ### The Church Clergy
 - **[[Lucian|Father Lucian Soler]] — The Mentor & Father Figure:** A Grade 7 Warpriest and head instructor within [[The Chancellery of Silent Illumination]]. Lucian was Aurelius's tactical instructor and worked directly with him to forge his Animist combat style. A paternal anchor and protector against the ocular-hunting cabal, Lucian gave Aurelius his personal combat talisman before he left for the Stolen Lands, and he keeps in touch through encrypted Church missives.

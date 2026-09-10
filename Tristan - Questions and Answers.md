@@ -119,7 +119,7 @@ Status key: [open] no answer yet, [partial] partly answered, [proposed] I sugges
 
 ## Locked in and written to [[Tristan]]
 
-- Champion, "The Shield," of the Class of 21 in [[The Chancellery of Silent Illumination]]; born in Restov.
+- Champion, "The Shield," of the Twenty-First Vigil in [[The Chancellery of Silent Illumination]]; born in Restov.
 - Tallest and heaviest, most scarred of the cohort, scars faded and presentable; full plate like [[Gideon]].
 - Killed his abusive, alcoholic, mentally ill parents as a child; tried by the Church court in Restov; conscripted; family name abandoned on intake.
 - Kind heart, helps the weak, not self-effacing, short concrete sentences, autistic, never speaks of his parents.
@@ -129,7 +129,7 @@ Status key: [open] no answer yet, [partial] partly answered, [proposed] I sugges
 ## Canon flags still open
 
 1. [[Aurelius]] and [[The Chancellery of Silent Illumination]] still say he "fell holding back a monstrous horde" as fact. Soften to presumed?
-2. "Class of 21" (named for finishing training at 21) conflicts with him dying at 16. Is 21 a class number rather than an age, or did he die mid-training?
+2. [resolved] The cohort is now the Twenty-First Vigil. "21" is its number in the Chancellery's sequence, not an age, so Tristan dying at 16 no longer conflicts.
 3. `ancestry` is blank in the note, and there is no image or quote block yet.
 
 ## Tattoo design options

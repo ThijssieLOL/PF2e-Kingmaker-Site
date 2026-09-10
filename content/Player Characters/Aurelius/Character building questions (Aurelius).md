@@ -87,7 +87,7 @@ tags:
 - **Answer:** His parents are deceased; his childhood home in Restov was raided by a dark cabal hunting his [[Aurelius#The "Eyes of God" (Ocular of Kaelen)|Ocular of Kaelen]], leaving him an orphan ([[Aurelius#Childhood & The Tragic Origin]]).
 
 - **22. Does your character have any siblings? What is your character's relationship with them?**
-- **Answer:** He has no biological siblings, but shares a deep, sibling-like bond with his orphan training cohort in [[The Chancellery of Silent Illumination#Known Operatives: The Class of 21]]: [[Gideon]], [[Julian]], [[Vespera]], [[Lyra]], and his fallen cohort-mates [[Tristan]] and [[Valerius]] ([[Aurelius#Relationships]]).
+- **Answer:** He has no biological siblings, but shares a deep, sibling-like bond with his orphan training cohort in [[The Chancellery of Silent Illumination#Known Operatives: The Twenty-First Vigil]]: [[Gideon]], [[Julian]], [[Vespera]], [[Lyra]], and his fallen cohort-mates [[Tristan]] and [[Valerius]] ([[Aurelius#Relationships]]).
 
 - **23. Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?**
 - **Answer:** He does not

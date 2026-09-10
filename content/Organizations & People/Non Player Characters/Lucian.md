@@ -20,7 +20,7 @@ status: Alive
 > — Father Lucian Soler
 
 ## Overview
-Father Lucian Soler is a Grade 7 (Blaze) Warpriest within [[The Church of the Eternal Blazing Sun]] and the head instructor for the parish branch of [[The Chancellery of Silent Illumination]] at the local church of Restov. A veteran and former orphan who rose through the Church's ranks, he teaches divine recruits physical combat, tactics, and survival. To [[Aurelius]] and the surviving cohort of the Class of 21, he is more than a military teacher. He is a quiet, deeply loving father who gave them guidance, discipline, and a home.
+Father Lucian Soler is a Grade 7 (Blaze) Warpriest within [[The Church of the Eternal Blazing Sun]] and the head instructor for the parish branch of [[The Chancellery of Silent Illumination]] at the local church of Restov. A veteran and former orphan who rose through the Church's ranks, he teaches divine recruits physical combat, tactics, and survival. To [[Aurelius]] and the surviving cohort of the Twenty-First Vigil, he is more than a military teacher. He is a quiet, deeply loving father who gave them guidance, discipline, and a home.
 
 ### Quick Facts
 - **Full Name:** Lucian Soler
@@ -103,7 +103,7 @@ When Aurelius and his siblings told Lucian about the shadowy cabal hunting the [
 
 ## Relationships
 
-Lucian shows no favoritism among the orphans in his care. With no biological family of his own, he loves every member of the Class of 21 equally, as his true sons and daughters.
+Lucian shows no favoritism among the orphans in his care. With no biological family of his own, he loves every member of the Twenty-First Vigil equally, as his true sons and daughters.
 
 - **[[Aurelius]]:** Lucian cherishes Aurelius as a son. He was his physical instructor and grounded anchor in the early years, helping him turn his rare spiritual sight into a fluid combat style, and he taught him deep moral discipline.
 - **[[Gideon]]:** Lucian is deeply proud of Gideon, a fellow Warpriest and a son. He guided his formidable strength and taught him quiet resolve and tactical restraint.
