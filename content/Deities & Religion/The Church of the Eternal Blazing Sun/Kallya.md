@@ -1,4 +1,5 @@
 ---
+agent-editable: true
 tags:
   - Religion
   - God
@@ -13,9 +14,7 @@ Anathema: Kill unnecessarily
 aliases:
 ---
 
-
 > ""
-
 
 ## Overview
 Kallya is the god of nature in some iterations of [[The Church of the Eternal Blazing Sun|the Church of the Eternal Blazing Sun]] and [[Erisol|Erisol's]] first child. She is believed to be the soul of the earth.
@@ -33,9 +32,11 @@ Kallya is the god of nature in some iterations of [[The Church of the Eternal Bl
 
 ## Appearance
 - **Description:** 
+
 ---
 
 ## Personality
+- **Demeanor:** 
 
 ---
 
@@ -48,6 +49,6 @@ Kallya is the god of nature in some iterations of [[The Church of the Eternal Bl
 - **[[Erisol]]:** Kallya's mother
 - **[[Esephera]]:** The younger sister of Kallya
 
---- 
+---
 
 ## Myths

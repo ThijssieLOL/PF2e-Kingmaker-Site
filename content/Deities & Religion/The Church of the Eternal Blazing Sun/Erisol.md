@@ -1,4 +1,5 @@
 ---
+agent-editable: true
 tags:
   - Religion
   - God
@@ -14,9 +15,7 @@ aliases:
   - The Eternal Blazing Sun
 ---
 
-
 > "A fire can only burn as bright as the fuel it's fed"
-
 
 ## Overview
 The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often called "the Eternal Blaze" or "the Pyre" is believed by her mythology to be the sun itself. She is the god of light and life.
@@ -34,9 +33,11 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 
 ## Appearance
 - **Description:** 
+
 ---
 
 ## Personality
+- **Demeanor:** 
 
 ---
 
@@ -46,15 +47,14 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Elisola, often
 ---
 
 ## Relationships
-Erisol obviously has various relationships with her star saints as she is the one to raise them to sainthood. 
+Erisol obviously has various relationships with her star saints as she is the one to raise them to sainthood.
 
 In some mythologies she has two daughters:
 - [[Kallya]], the god of nature
 - [[Esephera]], the god of life and death
 
---- 
+---
 
 ## Myths
-
 
 %%[[Hallowed flame]]%%

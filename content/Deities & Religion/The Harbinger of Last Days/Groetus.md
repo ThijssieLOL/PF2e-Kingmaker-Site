@@ -1,4 +1,5 @@
 ---
+agent-editable: true
 tags:
   - character
   - God
@@ -13,8 +14,6 @@ Edicts: Preach of the upcoming end times, destroy that which has outlived its us
 Anathema: Artificially extend something's existence or life span, spread hope
 status: Alive
 ---
-
-
 
 ![[Groetus.png|200]]
 
@@ -35,12 +34,11 @@ Overlooking all of **Pharasma**'s Boneyard is another, lesser god. This is **Gro
 - **Sacred Colours:** None
 
 ## Appearance
-- **Description:** Silently watching, **Groetus** hangs in the form of a bloated moon above **Pharasma**'s Boneyard in the Outer Sphere. This moon is simultaneously **Groetus**' physical form, his divine realm (where his servants and shades dwell), and a shell separating the Great Beyond  from its end. Its size varies between viewers, from that of a thumbnail held at arm's length to 20 times that size. Adventurous folk who have braved the surface of this place are either never heard from again, or are discovered soon after as the newest of the god's insane faithful. It is unknown what role **Groetus** will play in the End Times. 
+- **Description:** Silently watching, **Groetus** hangs in the form of a bloated moon above **Pharasma**'s Boneyard in the Outer Sphere. This moon is simultaneously **Groetus**' physical form, his divine realm (where his servants and shades dwell), and a shell separating the Great Beyond  from its end. Its size varies between viewers, from that of a thumbnail held at arm's length to 20 times that size. Adventurous folk who have braved the surface of this place are either never heard from again, or are discovered soon after as the newest of the god's insane faithful. It is unknown what role **Groetus** will play in the End Times.
 
 - It is a rare occurrence indeed for **Groetus** to manifest in humanoid form, but ancient records describe him as a tall, slender man wearing a long gray robe that hangs heavily to the floor. His complexion is ashen, with hollow eyes and long, smooth hands. He has a slight bent at the neck (as though bearing some great weight) and his bare feet are black from soot and ash (as though he has been walking through an old fire). His voice is described as a whisper, like old paper, and he speaks with an archaic or foreign inflection.
 
 ---
+
 ## Relationships
 - **Groetus** is rather isolated from other deities and they seldom make any effort to contact him. On those rare occasions, other gods and goddesses proceed with extreme caution, knowing full well that their followers (whether mortal, undead or other) often fall to insanity should they scry or otherwise make contact with him.
-
----
