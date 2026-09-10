@@ -28,7 +28,7 @@ Kallya is the god of nature in some iterations of [[The Church of the Eternal Bl
 - **Edicts:** 
 - **Anathema:** 
 - **Domains:** Nature, Plant, Earth, Storms, Water
-- **Sacred Animal:** 
+- **Sacred Animal:** None
 - **Sacred Colours:** None
 
 ## Appearance
