@@ -9,7 +9,7 @@ Godly Domains:
   - Earth
   - Water
 Edicts:
-Anathema:
+Anathema: Kill unnecessarily
 aliases:
 ---
 
@@ -26,7 +26,7 @@ Kallya is the god of nature in some iterations of [[The Church of the Eternal Bl
 - **Areas of concern:** Upholding nature and the wild
 - **Main followers:** Druids, Hermits and woodsmen
 - **Edicts:** 
-- **Anathema:** 
+- **Anathema:** Kill unnecessarily
 - **Domains:** Nature, Plant, Earth, Storms, Water
 - **Sacred Animal:** None
 - **Sacred Colours:** None
