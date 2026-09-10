@@ -121,6 +121,44 @@ and offer what you CAN do instead.
 
 ## 7. Workflow (follow every time)
 
+### 7.1 New concepts: braindump → questionnaire → answers
+
+The user opens a new idea with a **braindump**: rough, incomplete notes about a concept such as
+an NPC, location, faction, spell, or spirit. Treat it as a starting point, not a finished brief.
+
+When you receive a braindump:
+
+1. **Read the matching template first.** Pick the closest note in `content/Templates/` (Character,
+   Faction, Location, Chancellery, God, Noble house, Spirit, Spell, Session Note) and read it to
+   see which fields the finished page expects. If none fits, say so and propose what a new
+   template would need before you write anything.
+2. **Reply with a questionnaire, not a draft.** Write the questions yourself, in your own words.
+   Do not use [[Character building questions]] or any other existing list as a model. Organise the
+   questionnaire into subsections that fit this concept and this braindump, for example a section
+   on a specific relationship the braindump raises ("Relation to [[Vespera]]"), then History,
+   Appearance, Personality, Abilities, Motivations, and so on. The matching template is only a
+   checklist of fields the finished page expects; it is not a question bank. Cover two kinds of
+   ground:
+   - **Grounded questions** on what the user already told you: names, dates, relationships, and
+     mechanics that are still vague.
+   - **Baseline questions** for the concept type, covering the template fields the user did not
+     mention.
+3. **Never invent canon.** Do not fill a gap with a plausible guess or a detail borrowed from
+   another note. Unanswered stays unanswered. Never add, drop, or alter a fact, name, number,
+   date, or quote the user gave you.
+4. **Wait for the answers.** Only the user's replies authorize new canon. Write the page from
+   those replies, then run the edit steps in §7.2.
+5. **Barebone stubs.** When the user asks for a page on a concept they will work out later, create
+   the skeleton only: frontmatter with `agent-editable: true`, the template headings, and any
+   facts they already gave. Leave unanswered fields empty. Do not pre-fill them, and do not treat
+   the gaps as a licence to guess later.
+
+**Existing concepts follow the same rule.** Extend a note only through the user's answers to a
+questionnaire built the same way. A braindump about something already written produces questions,
+not edits. Flag contradictions with existing canon instead of overwriting it (see §6).
+
+### 7.2 Every edit
+
 1. **Read first** — the target note(s) and the notes linked from them. Absorb canon before writing.
 2. **Plan** — outline your changes. If the scope is ambiguous, ask the user before writing.
 3. **Edit** — minimal, focused changes. Never reformat or "clean up" files beyond your task.
