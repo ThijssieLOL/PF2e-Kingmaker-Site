@@ -14,7 +14,7 @@ The Chancellery of Silent Illumination is the intelligence service, internal sec
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Intelligence, Internal Security & Covert Strike Force
-- **Operative Force:** Orphan-warrior cohorts, including the Class of 21
+- **Operative Force:** Orphan-warrior cohorts, including the Twenty-First Vigil
 - **Status:** Active
 
 ## Mandate & Responsibilities
@@ -43,6 +43,7 @@ The Chancellery recruits its operatives from an elite program of orphan-warriors
 ### The Seven-Member Cohorts
 - **Isolated Upbringing:** Upon recruitment, children are placed into small, highly isolated cohorts of exactly seven individuals.
 - **Unbreakable Bonds:** Cohorts live, train, study, and endure hardships together in absolute isolation from external society. They come to trust one another like siblings, and their loyalty to the cohort and to the Church is complete.
+- **The Vigil:** The Chancellery calls each cohort a Vigil, a watch kept through the night until first light. Each Vigil is numbered in sequence, so the most recent cohort raised in Restov is the Twenty-First Vigil.
 
 ---
 
@@ -57,9 +58,9 @@ The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant
 
 ---
 
-## Known Operatives: The Class of 21
+## Known Operatives: The Twenty-First Vigil
 
-The most recent graduating cohort, known internally as the Class of 21, consists of seven operatives who completed their training at twenty-one years of age. Of the seven, two remain in active service to the Chancellery under public cover. The rest have transferred to another Chancellery, taken up public roles outside the covert service, or fallen in battle.
+The most recent graduating cohort, known internally as the Twenty-First Vigil, is the twenty-first batch of seven operatives raised in Restov. Of the seven, two remain in active service to the Chancellery under public cover. The rest have transferred to another Chancellery, taken up public roles outside the covert service, or fallen in battle.
 
 ### Current Members
 
