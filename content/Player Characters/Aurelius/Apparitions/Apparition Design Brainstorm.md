@@ -32,6 +32,7 @@ Work out the look of Aurelius's apparition spirits, one per rank per family, bef
 - **All three design sources are in play.** A spirit can be a fear made flesh, a monument that remembers, or raw elemental grandeur, and often two of those at once.
 - **Register is a mix.** Grotesque, epic, and uncanny all appear. The target is scary, cool, and visibly powerful.
 - **Humanoid and abstract forms both appear at every tier.** No fixed climb from person to phenomenon.
+- **Every family ladder gets its own rhythm.** The mix of forms differs from family to family. No two families should read the same way.
 - **No mortal-visible effects.** No auras, smells, or local phenomena that non-seers can perceive.
 
 ## Design principles
@@ -77,16 +78,35 @@ Carries: cantrip Ignition, then Interposing Earth (1) through Falling Stars (9).
 | 8 | Earthquake | *(Original: The Roots of the World.)* A blind colossus buried so deep only its spine shows, and that spine is a mountain range. | Deep time. Wrong thing: it is not asleep. It has been trying to turn over for a very long time. |
 | 9 | Falling Stars | *(Original: a meteor dragon.)* Options: **the Fall That Never Lands**, a spirit caught mid-impact forever, body a burning trail, head a crater; or **a basalt dragon with a human face**, the most articulate Steward. | The end of the world. Wrong thing: TBD. |
 
+## Approved spirit designs
+
+These two are settled as good ideas. They sit in different families at different ranks, which is the point: every family ladder gets its own rhythm.
+
+### Stalker in Darkened Boughs, Level 8 (Monstrosity Form)
+
+A stag whose antlers are a whole grove and whose ribcage is packed with eyes, walking on too many legs. It does not hunt you. It grazes, and you are in the pasture.
+
+- **Body plan:** Beast.
+- **Signature wrongness:** The ribcage of eyes.
+- **Origin:** TBD.
+
+### Lurker in Devouring Dark, Level 9 (Implosion)
+
+A whale-sized thing whose mouth opens upward along its spine. It swims through earth and air as if they were water, and everything it passes over collapses into it.
+
+- **Body plan:** Colossus.
+- **Signature wrongness:** No eyes. Only a mouth where the head should be.
+- **Origin:** TBD.
+
 ## Open questions
 
 1. **Humanoid vs monstrosity.** Per family, per rank, or per spirit from its origin? There is no rule yet.
-2. **Family rhythm.** Should every family's ladder hit the same rhythm of forms, or does each family get its own mix (Fey mostly humanoid, Lurker mostly monstrous)?
-3. **The Avatar.** Does the Avatar get a spirit of its own at Level 9, or does it stay a separate final form that no individual spirit reaches?
-4. **The Steward at Level 9.** Keep the meteor dragon, or replace it with one of the alternatives?
-5. **Output format.** One-line designs under each family page's Level section, or a full [[Spirit Template]] note per spirit, or one-liners on the family pages with full notes only for the spirits he actually binds?
-6. **Released spirits.** When a lower-rank spirit is released, does it stay an ally in the spirit world and become a recurring presence, or fade out of the story?
-7. **Names.** Do individual spirits get personal names, or are they known only by their design (the stone angel, the Fall That Never Lands)?
-8. **Objectivity.** How much of what Aurelius sees is objective truth versus his own interpretation? He is the only witness.
+2. **The Avatar.** Does the Avatar get a spirit of its own at Level 9, or does it stay a separate final form that no individual spirit reaches?
+3. **The Steward at Level 9.** Keep the meteor dragon, or replace it with one of the alternatives?
+4. **Output format.** One-line designs under each family page's Level section, or a full [[Spirit Template]] note per spirit, or one-liners on the family pages with full notes only for the spirits he actually binds?
+5. **Released spirits.** When a lower-rank spirit is released, does it stay an ally in the spirit world and become a recurring presence, or fade out of the story?
+6. **Names.** Do individual spirits get personal names, or are they known only by their design (the stone angel, the Fall That Never Lands)?
+7. **Objectivity.** How much of what Aurelius sees is objective truth versus his own interpretation? He is the only witness.
 
 ## Design checklist
 
@@ -100,4 +120,4 @@ Carries: cantrip Ignition, then Interposing Earth (1) through Falling Stars (9).
 
 ---
 
-*Related: [[Spirits Ledger]], [[Spirit Template]], [[Steward of Stone and Fire]].*
+*Related: [[Spirits Ledger]], [[Spirit Template]], [[Steward of Stone and Fire]], [[Stalker in Darkened Boughs]], [[Lurker in Devouring Dark]].*
