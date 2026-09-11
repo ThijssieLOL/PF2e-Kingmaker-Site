@@ -17,7 +17,7 @@ Tristan was the shield of [[Aurelius]]'s training cohort in [[The Chancellery of
 
 ### Quick Facts
 - **Full Name:** Tristan (family name abandoned on intake)
-- **Ancestry/Species:** 
+- **Ancestry/Species:** Human
 - **Class/Profession:** Champion
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
 - **Cohort:** The Twenty-First Vigil, [[The Chancellery of Silent Illumination]]
