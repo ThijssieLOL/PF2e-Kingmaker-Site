@@ -66,21 +66,25 @@ The body carries **exactly one violation.** One, not five. It is the single deta
 
 Every family page lists an **Avatar** in its Mechanical Reference. That is the family's ultimate silhouette, and the nine spirits can be read as the ladder leading toward it. It also tells you whether a family's top ranks should lean humanoid (Monarch of the Fey Courts: *Queen of the Winter Court*; Speaker in Sibilance: *Medusa of Merciless Mysteries*) or monstrous (Lurker in Devouring Dark: *Tentacles from the Dark*; Stalker in Darkened Boughs: *Beast of the Boughs*).
 
-## Steward of Stone and Fire: first worked example
+## Steward of Stone and Fire: reworked ladder
 
-Carries: cantrip Ignition, then Interposing Earth (1) through Falling Stars (9). Avatar: *Blood of Planets*.
+The family Aurelius will carry most, so it gets the most work. The throughline: a Steward holds something in, and it is made of the thing it holds. The lower ranks hold a line or a wall. The upper ranks hold the ground and the sky, and they are losing. The ladder ends where the Avatar begins: *Blood of Planets*, the molten core of a world.
+
+Carries: cantrip Ignition, then Interposing Earth (1) through Falling Stars (9).
 
 | Rank | Spell | Draft design | Origin and wrong thing |
 | :--- | :--- | :--- | :--- |
-| 1 | Interposing Earth | A hunched figure of packed earth that stands between things, arms spread. It cannot attack; it only blocks. | A person who died shielding someone. Wrong thing: no face, only two flat palms where the face should be. |
-| 2 | Exploding Earth | A stone toad that swells until it bursts, then reassembles from the pieces. | The pressure in a collapsing mine. Wrong thing: it keeps the shape of whatever it last burst against. |
-| 3 | Fireball | Unresolved. The rolling clot, the false hearth, and the furnace man were rejected. Non-humanoid preferred. | Needs a visibly wrong body, in the cursed-spirit register. |
-| 4 | Wall of Fire | A curtain of flame that walks, as wide and as patient as a city wall. | A siege fire-line. Wrong thing: TBD. |
-| 5 | Wall of Stone | A wall that has forgotten it was ever anything else. | A tomb sealed shut. Wrong thing: a mouth, because mouths are where sound comes from. |
-| 6 | Petrify | *(Original: a weeping stone angel.)* The preserved last instant of a person turning to stone, aware and unable to scream. | Someone caught mid-motion. Wrong thing: a tear-track that never dries. |
-| 7 | Volcanic Eruption | The mountain's throat: a thing that is mostly mouth. | The anger of people who live on a powder keg. Wrong thing: it screams in the voice of the last person it swallowed. |
-| 8 | Earthquake | *(Original: The Roots of the World.)* A blind colossus buried so deep only its spine shows, and that spine is a mountain range. | Deep time. Wrong thing: it is not asleep. It has been trying to turn over for a very long time. |
-| 9 | Falling Stars | *(Original: a meteor dragon.)* Options: **the Fall That Never Lands**, a spirit caught mid-impact forever, body a burning trail, head a crater; or **a basalt dragon with a human face**, the most articulate Steward. | The end of the world. Wrong thing: TBD. |
+| 1 | Interposing Earth | A squat figure of packed earth, arms spread wide, standing where something needs to be blocked. It cannot strike. It can only stand in the way. | A person who died shielding someone. Wrong thing: no face, only two flat palms pressed together where the face should be. |
+| 2 | Exploding Earth | A toad of cracked rock, squat and heavy, that swells with every breath until it bursts apart and drags itself back together. | The pressure in a collapsing mine. Wrong thing: it always reforms around whatever it last killed, so that thing stays pressed inside the stone. |
+| 3 | Fireball | A bead of fire the size of an eye, hanging in the air, still as a held breath. It does not burn until it looks at you. | A pocket of marsh gas, one breath before it catches. Wrong thing: it is an eye, and when it blinks, it goes off. |
+| 4 | Wall of Fire | A wall of fire that walks, as wide and patient as a city wall, advancing no faster than a siege. | The fire-line of a siege, held to the last. Wrong thing: through the flames, the wall is a crowd standing arm in arm, and not one of them is burning. |
+| 5 | Wall of Stone | A wall of fitted stone standing where no wall belongs, so smooth it has forgotten it was ever a doorway, a window, or a face. | A tomb sealed shut. Wrong thing: a mouth is set into the stone, sealed with a plug of the same rock, and it is warm. |
+| 6 | Petrify | A person caught mid-motion and turned entirely to stone, down to the last fold of their clothes. | Someone caught in the moment they looked back. Wrong thing: the eyes never finished turning, and they follow you. |
+| 7 | Volcanic Eruption | A column of ash and cinders walking down the mountainside, tall enough to blot out the sun, raining fire on everything ahead of it. | The anger of the people who live on a powder keg. Wrong thing: the plume is shaping itself into the face of the town it is walking toward. |
+| 8 | Earthquake | A blind colossus buried so deep that only its back breaks the surface, and its back is a mountain range. | Deep time. Wrong thing: the mountains are not stone. They are skin, and they are warm. |
+| 9 | Falling Stars | The Fall That Never Lands: a spirit caught forever one instant above the ground, still falling, a burning trail for a body and a crater for a head. | The end of the world, still on its way. Wrong thing: the crater-head holds the world's molten blood, spilling, and it never empties. |
+
+Alternates considered: Level 6 as a stone figure with a single wet tear-track down its cheek, the first pass's design, dropped because the living eyes are the sharper violation; Level 9 as a basalt dragon with a human face, the most articulate Steward, kept on the bench in case the family needs a spirit that speaks.
 
 ## Approved spirit designs
 
@@ -146,7 +150,7 @@ Liked so far: Level 1 (the drowned figure).
 
 1. **Humanoid vs monstrosity.** Per family, per rank, or per spirit from its origin? There is no rule yet.
 2. **The Avatar.** Does the Avatar get a spirit of its own at Level 9, or does it stay a separate final form that no individual spirit reaches?
-3. **The Steward at Level 9.** Keep the meteor dragon, or replace it with one of the alternatives?
+3. **The Steward at Level 9.** The rework picks the Fall That Never Lands. Is the basalt dragon retired, or kept for a spirit that speaks?
 4. **Output format.** One-line designs under each family page's Level section, or a full [[Spirit Template]] note per spirit, or one-liners on the family pages with full notes only for the spirits he actually binds?
 5. **Released spirits.** When a lower-rank spirit is released, does it stay an ally in the spirit world and become a recurring presence, or fade out of the story?
 6. **Names.** Do individual spirits get personal names, or are they known only by their design (the stone angel, the Fall That Never Lands)?
