@@ -149,8 +149,10 @@ Aurelius was raised alongside six other orphans in the Twenty-First Vigil, his t
 - **[[Lucian|Father Lucian Soler]] — The Mentor & Father Figure:** A Grade 7 Warpriest and head instructor within [[The Chancellery of Silent Illumination]]. Lucian was Aurelius's tactical instructor and worked directly with him to forge his Animist combat style. A paternal anchor and protector against the ocular-hunting cabal, Lucian gave Aurelius his personal combat talisman before he left for the Stolen Lands, and he keeps in touch through encrypted Church missives.
 
 ### The Fallen Siblings
-- **[[Tristan]] — The Shield (Champion):** The protective older-brother figure of the class, he gave his life holding back a monstrous horde so his siblings could escape. Aurelius holds Tristan's memory as the highest standard of holy sacrifice.
-- **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius lived for the clash of blades. He often bickered with Aurelius over discipline versus instinct, then died defending city walls during an invasion. His death reminds Aurelius of the brutal cost of war.
+- **[[Tristan]] — The Shield (Champion):** The protective older-brother figure of the class and Aurelius's closest listener, the one he could speak to about ordinary things when he could speak to no one else. Tristan was lost holding back a monstrous horde so his siblings could escape; whether he died is not known. Aurelius holds his memory as the highest standard of holy sacrifice, and he often blames himself for the loss.
+- **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius lived for the clash of blades. He often bickered with Aurelius over discipline versus instinct, then died defending city walls during an invasion a few years after Tristan. His death reminds Aurelius of the brutal cost of war.
+
+The Vigil keeps a shrine to the fallen in the church graveyard garden of Restov, tended by [[Lucian|Father Lucian Soler]]. Every member visits it from time to time.
 
 ### The Living Siblings
 - **[[Gideon]] — The Anchor (Warpriest):** The emotional heart of the group, he embodies the sun goddess' healing grace. Gideon keeps a close eye on Aurelius's mental health, gently pulling him back to humanity whenever he slips into "The Eclipse."

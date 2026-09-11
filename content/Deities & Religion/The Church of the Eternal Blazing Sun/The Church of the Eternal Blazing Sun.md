@@ -161,6 +161,7 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 ### [[The Vestments of the Clergy|Clergy Attire]]
 - **Ceremonial Vestments:** An ankle-length black cassock featuring high collars and gold engravings, often paired with a long white stole embroidered with gold floral and solar patterns.
 - **Traveller's Attire:** A comfortable dark tunic and trousers, paired with a white traveller's poncho-capelet adorned with gold engravings.
+- **No Armor:** The vestments carry no armor; a cleric who expects combat wears armor as a separate kit.
 
 ### [[Tattoos of Penance]]
 - **The Tradition of Humility:** The church does not treat its clergy as flawless moral figures, but as redeemed sinners. To embody this, newly initiated clergy receive the [[Tattoos of Penance]], a sacred, permanent record of their past transgressions, the goddess's divine mercy, and their lifelong vow of public humility. The full rite of application, divine design, and re-consecration is set out in [[Tattoos of Penance]].

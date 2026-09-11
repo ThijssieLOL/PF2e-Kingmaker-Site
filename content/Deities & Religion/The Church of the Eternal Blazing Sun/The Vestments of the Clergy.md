@@ -11,7 +11,7 @@ status: Active
 
 ## Overview
 
-The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Each [[The Grade System|grade]] of the Church has its own **primary outfit**; the **secondary outfit** follows the chancellery a cleric belongs to.
+The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Each [[The Grade System|grade]] of the Church has its own **primary outfit**; the **secondary outfit** follows the chancellery a cleric belongs to. The vestments carry no armor; a cleric who expects combat wears their own armor as a separate kit.
 
 *(To be filled in.)*
 

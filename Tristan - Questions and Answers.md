@@ -6,7 +6,7 @@ tags:
 
 # Tristan - Questions and Answers (working notes)
 
-> Working page for developing [[Tristan]]. It sits at the repo root, outside `content/`, so Quartz never builds or publishes it. Round 1 questions were not saved to disk, so they are reconstructed from the answers. Round 2 and Round 3 are written as asked. Answers are kept verbatim where given.
+> Working page for developing [[Tristan]]. It sits at the repo root, outside `content/`, so Quartz never builds or publishes it. Round 1 questions were not saved to disk, so they are reconstructed from the answers. Rounds 2 through 4 are written as asked. Answers are kept verbatim where given.
 
 ## Source braindump
 
@@ -80,7 +80,7 @@ Each answer is verbatim. My processing note follows the arrow.
    → 9 at the killing and at intake; 16 at his loss. Seven years in the Vigil.
 6. **Was he sentenced to death and spared into the orphan program, or was conscription the sentence itself? Did anyone ([[Lucian]]?) intervene?**
    **Answer:** "He was sentenced to a prison sentence, but because he was underage he had the choice to become part of the silent illumination chancellery, which he took"
-   → Prison was the sentence. Joining the Chancellery was the option offered to a child, and he chose it. No intervention is on record. The current note says the sentence itself placed him in the Chancellery and needs rewording.
+   → Prison was the sentence. Joining the Chancellery was the option offered to a child, and he chose it. No intervention is on record.
 
 ### B. The parents and the killing
 7. **Names or occupations of the parents? Any siblings in the house?**
@@ -94,31 +94,31 @@ Each answer is verbatim. My processing note follows the arrow.
    → He confessed.
 10. **What did the killing mean to Tristan himself?**
     **Answer:** "Nothing, it was just something he had to do"
-    → He attaches no guilt or remorse to the act itself. See Round 3 on what the goddess's redemption works on instead.
+    → He attaches no guilt or remorse to the act itself. Round 3 refines this: he does carry private guilt and confesses it, but hates discussing it.
 
 ### C. Appearance and armor
 11. **Hair, eyes, coloring, and where the worst scars sit?**
     **Answer:** "He has one streak across his eye, one across his lip, one streak on his nose horizontally and a few on his cheeks and under his eye."
-    → The scars are on the face. Hair, eyes, and coloring are still open.
+    → The scars are on the face. Hair, eyes, and coloring came from the image.
 12. **Where did the scars come from: the parents, training, the horde, or a mix?**
     **Answer:** "The parents, but a mix as he also has some scars on his hands since joining the chancellery"
     → Face scars from the parents; hand scars from the Chancellery.
 13. **Full plate details (sunburst devices, helm) and whether he wears it off duty?**
     **Answer:** "No, the main outfit for the grade within the sun goddess church is the same for everyone, and has no armor."
-    → Canon flag 1: this reverses the full-plate detail from Round 1 and conflicts with [[Gideon]]'s breastplate.
+    → Resolved by answer 31: the no-armor rule covers the ceremonial kit only. Field combat armor stands.
 14. **Is he scary because of the scars, or because of his size and stillness?**
     **Answer:** "Combination"
 
 ### D. Tattoos of Penance
 15. **Which design do you want? (see options at the end)**
     **Answer:** "I dislike all of them. Make sure that you give more options, ones with more symbolic meaning rather than real shapes. I prefer tattoos of penance that symbolize the crime, yet have the overall design of the japenese crime tattoos."
-    → New options below.
+    → New options below. The Koi Through Ash was chosen in Round 3.
 16. **Placement: hidden under the plate, or deliberately visible on the face or neck?**
     **Answer:** "All tattoos of penance are deliberately visible for all members of the church of the eternal blazing sun."
-    → Canon flag 2: the current note hides his on his chest. A visible placement now applies.
+    → Placement is forearms and back (answer 22), both visible areas.
 17. **Glow color when he channels: I suggested a banked-ember red-gold.**
     **Answer:** "All tattoos of penance glow in the same color as aurelius' tattoos"
-    → Canon flag 3: this makes every brand Aureolin White, which conflicts with the per-bearer colors listed in [[Tattoos of Penance]].
+    → Canon flag 1: this makes every brand Aureolin White, which conflicts with the per-bearer colors listed in [[Tattoos of Penance]]. Still open.
 18. **Any other sins the goddess would mark besides the killing?**
     **Answer:** "No, this is his major sin"
     → The killing is the only sin marked.
@@ -139,6 +139,7 @@ Each answer is verbatim. My processing note follows the arrow.
 ### F. Combat and Champion mechanics
 23. **Which PF2e Champion cause fits: Redeemer, Liberator, or Paladin/Justice?**
     **Answer:** "I am not sure, he is low charisma and defender build mainly"
+    → Resolved in Round 3: Redeemer (answer 30).
 24. **Answer 11 ("the traits") did not name them. Which traits or feats did you have in mind?**
     **Answer:** "Quiet, mysterious, strong, intimidating, Kind heart"
 25. **Does he fight purely defensively, or is there a moment where the old brutality surfaces (a personal "Eclipse")?**
@@ -149,7 +150,7 @@ Each answer is verbatim. My processing note follows the arrow.
     **Answer:** (blank)
 27. **What was his bond with [[Aurelius]] specifically?**
     **Answer:** "This is the most important thing I want to expand upon, I am not sure yet actually"
-    → Round 3 builds questions around it.
+    → Round 3 answers 6 through 11 build the bond out.
 28. **How did each surviving sibling react, and does Aurelius's guilt feed his "Eclipse"?**
     **Answer:** "Absolutely"
     → Aurelius's guilt feeds the Eclipse. Each survivor's reaction is still open.
@@ -164,105 +165,162 @@ Each answer is verbatim. My processing note follows the arrow.
 
 ---
 
-## Round 3 (this session) - asked
+## Round 3 (previous session) - answered
 
 ### A. The killing and its aftermath
-1. You said the killing meant "nothing, it was just something he had to do." Does he carry any guilt at all, or did the goddess have to redeem something else (the survival, the abuse, the brutality that stayed with him)? What does he confess when he prays?
-2. The parents got worse and worse until he feared they would kill him. Was there one final incident that tipped it, or the accumulated weight? Leave it unnamed, or give it a shape (a night, a room, a weapon)?
-3. He turned himself in. Did he expect to be executed? What did he say when he confessed?
-4. He was 9 at the killing and at intake, and 16 when he was lost: seven years in the Vigil. Is there anything you want to mark about those years (the silent first year, his first mission, the day he received the brand)?
-5. Do the parents stay a blank in the note, or should it say plainly that he never named them?
+1. You said the killing meant "nothing, it was just something he had to do." Does he carry any guilt at all, or did the goddess have to redeem something else?
+   **Answer:** "He does carry a lot of guilt about it privately which he does confess, but he hates talking about it"
+   → The guilt is real and private, and it lives in confession, not in conversation.
+2. Was there one final incident that tipped it, or the accumulated weight?
+   **Answer:** "Accumulated weight"
+   → No single trigger. The abuse built until he broke.
+3. He turned himself in. Did he expect to be executed?
+   **Answer:** "Not necessarily executed, but absolutely incarcerated"
+   → He expected prison, not death.
+4. Anything to mark about the seven years in the Vigil?
+   **Answer:** "The silent year mainly, I will note more maybe later"
+   → The first year, when he spoke not at all, is the detail that matters. More to come.
+5. Do the parents stay a blank in the note?
+   **Answer:** "Yes, blank"
+   → They are never named.
 
 ### B. The bond with Aurelius
-6. What made the two of them close: shared silence, a shared post, one incident, or simply the years?
-7. Who leaned on whom? Was Aurelius the one who talked and Tristan the one who listened, or the reverse?
+6. What made the two of them close?
+   **Answer:** "I guess the years? But that is not really a good description"
+   → Time and proximity, not one incident. Open for a sharper answer.
+7. Who leaned on whom?
+   **Answer:** "Yes"
+   → Aurelius talked, Tristan listened.
 8. Did Aurelius ever see the brutality surface? What did he do?
-9. Did Tristan know about the [[Ocular of Kaelen]] and the cabal hunting Aurelius? Did he guard him?
-10. The braindump calls him the cohort's protective older brother. Did he choose that role, or did the others put it on him?
-11. When Tristan was lost, what did Aurelius lose that he has never replaced? This is the thread that feeds the Eclipse.
+   **Answer:** "Aurelius has brought it up with tristan one time but he could see that it was a sensitive topic, and he is not one to judge"
+   → Read as: Aurelius once tried to broach Tristan's past, saw how raw it was, and let it lie.
+9. Did Tristan know about the [[Ocular of Kaelen]] and the cabal?
+   **Answer:** "Yes, all cohort members know about this"
+10. Did he choose the protective older-brother role, or did the others put it on him?
+    **Answer:** "He fit into that role, but he also loves it, as he wishes to protect others"
+11. What did Aurelius lose that he has never replaced?
+    **Answer:** "Someone who would listen to his ranting about daily life, someone he could talk to about the mundane things while doing missions together, or fulfilling church tasks. He was the greatest listening ear for aurelius"
+    → This is the heart of the bond.
 
 ### C. The cohort
-12. You left the specific bonds blank. Who was closest to him? Was there a rivalry beyond [[Valerius]]'s jealousy? Did he protect one sibling more than the rest?
-13. How did each survivor react: [[Gideon]], [[Julian]], [[Vespera]], [[Lyra]]?
-14. Did [[Lucian]] train him differently, given his size and his silence?
+12. Who was closest to him, and was there a rivalry?
+    **Answer:** "I think valerius tried to establish a rivalry with everyone, he was just very competitive, but not in a bad way. He did not"
+    → Valerius was competitive with everyone, not jealous of Tristan alone. Tristan did not favour one sibling over the rest.
+13. How did each survivor react, and how did Valerius's end come?
+    **Answer:** "All dealt with the grief in their own way, I still have to establish how. I think it would have hit valerius the hardest, before he himself also died a few years later."
+    → Valerius died a few years after Tristan. Each survivor's grief is still to be established.
+14. Did [[Lucian]] train him differently?
+    **Answer:** "Lucian was a fantastic mentor, playing into the strengths of each member individually, so yes"
 
 ### D. Appearance and bearing
-15. Hair, eyes, and coloring are still blank. Human, or another ancestry?
-16. Are the facial scars from the parents and the hand scars from the Chancellery, or mixed? The note currently says they faded to presentable.
-17. With no armor in the grade kit, what does he wear in the field as a defender: the same unarmored kit, a shield, heavier layering, or does he simply take the hits?
-18. What is the thing that makes strangers step back: the size, the stillness, the scars, or the eyes?
+15. Hair, eyes, and coloring. Human, or another ancestry?
+    **Answer:** "See image" ([[Tristan.png]])
+    → Human. Black, short, spiky hair; green eyes; warm tan skin; plate with a sunburst chest device.
+16. Facial scars from the parents, hand scars from the Chancellery, or mixed?
+    **Answer:** (blank)
+17. With no armor in the ceremonial kit, what does he wear in the field?
+    **Answer:** (blank) → resolved by 31: field armor stands.
+18. What makes strangers step back?
+    **Answer:** (blank)
 
 ### E. Faith and the mark
-19. What did the sun goddess give him that he is grateful for (a home, a purpose, a clean slate, an end to the abuse)?
-20. If the goddess chooses the design, what does Tristan believe she was saying with it? This shapes which tattoo option fits.
-21. Does he show the brand deliberately, the way [[Aurelius]] does, or does he simply not hide it?
-22. Where should the brand sit now that it is visible: face, throat, hands, forearms, chest, back?
+19. What did the goddess give him?
+    **Answer:** "A purpose, he lacked a purpose before and he is eternally grateful for that"
+20. What does Tristan believe the goddess was saying with the brand?
+    **Answer:** (blank)
+21. Does he show the brand deliberately?
+    **Answer:** "Everyone in the cohort does"
+22. Where should the brand sit?
+    **Answer:** "Forearms, back"
 
 ### F. The brutality
-23. What sets it off: cruelty to the weak, a raised hand, a locked door, a drunk voice?
-24. Is it a state with a name, like Aurelius's Eclipse, or a quieter crack? Does he apologize after?
-25. Does it frighten his siblings? Does it frighten him?
+23. What sets it off?
+    **Answer:** "Cruelty to the weak"
+24. Is it a state with a name, and does he apologize after?
+    **Answer:** "No"
+    → Not a named state, a quieter crack. No apology is on record.
+25. Does it frighten his siblings and him?
+    **Answer:** "Yes, both naturally, but his siblings try and help him become a better person without thinking any less of him"
 
 ### G. The open death and the shrine
 26. Where is the shrine, who tends it, and what sits on it?
-27. Is there anything at the shrine that could be a thread (an object, a name, a missing thing)?
-28. Anything the DM hinted at, or keep the death strictly ambiguous?
-29. Status wording: the note reads `Presumed Deceased`. You said "something like pronounced dead." Do you want `Presumed Deceased`, `Pronounced Dead`, or another phrase?
+    **Answer:** "Lucius tends it, its in the church graveyard garden. Every cohort member visits it from time to time. Valerius' grave is situated next to it."
+    → "Lucius" read as [[Lucian|Father Lucian Soler]]; there is no separate Lucius note.
+27. Anything at the shrine that could be a thread?
+    **Answer:** (blank)
+28. Any DM hint, or keep the death strictly ambiguous?
+    **Answer:** (not answered)
+29. Status wording?
+    **Answer:** (not answered)
 
 ### H. Mechanics
-30. Champion cause: given the low Charisma and the defender build, the cleanest fits are Redeemer (mercy and protection) or Justice/Paladin (punish the guilty). Which way does his faith lean, or do you want the cause left unstated?
-31. Defender build: is he unarmored and shield-based, or does the no-armor rule apply only to the ceremonial kit?
+30. Champion cause?
+    **Answer:** "Redeemer"
+31. Does the no-armor rule apply only to the ceremonial kit?
+    **Answer:** "Only to the ceremonial kit"
+
+---
+
+## Round 4 (this session) - asked
+
+### A. Resolve the glow
+1. Answer 17 makes every tattoo of penance glow Aureolin White, but [[Tattoos of Penance]] still gives each bearer a different color ([[Gideon]] amber, [[Julian]] white, [[Lyra]] molten gold, [[Vespera]] gold). Do you want to rewrite the church-wide note and the other bearers so all brands are Aureolin White, or keep their colors and treat Tristan as the exception?
+
+### B. Still blank from Round 3
+2. Facial scars: are they all from the parents, and the hand scars all from the Chancellery, or is it mixed? (Answer 12 said the parents, "but a mix" because of the hands.)
+3. What is the thing that makes strangers step back: the size, the stillness, the scars, or the eyes?
+4. If the goddess chooses the design, what does Tristan believe she was saying with the koi? (This shapes the note's wording.)
+5. Is there anything at the shrine that could be a thread later: an object, a name, a missing thing?
+6. Anything the DM hinted at about the fallen siblings, or keep the death strictly ambiguous?
+7. Status wording: `Presumed Deceased`, `Pronounced Dead`, or another phrase?
+8. The bond with Aurelius formed over the years. Is there one moment or habit you can point to, or is it simply time and proximity? (Your answer 6 said the years were "not really a good description.")
+
+### C. The guilt and the "nothing"
+9. Answer 10 said the killing meant nothing to him, and answer 1 says he carries a lot of guilt privately. Is the guilt about the act itself, or about the brutality of it, or about something else? This decides how his confessions read.
+
+### D. The silent year
+10. You said you may note more later. What did the silent year look like: refusal, shutdown, or simple absence of words? Did anyone reach him during it?
+
+### E. The cohort's grief
+11. You want to establish how each survivor grieved. Do you want a Round 5 built around [[Gideon]], [[Julian]], [[Vespera]], and [[Lyra]] one at a time, or will you write those later?
 
 ---
 
 ## Tattoo design options (round 2, irezumi style)
 
-These are symbolic compositions in the manner of Japanese crime tattoos: a central motif over a background of wind, water, cloud, or fire. Each one reads the crime without depicting it. The design rests rust-brown and, per your answer, glows Aureolin White like Aurelius's.
+These are symbolic compositions in the manner of Japanese crime tattoos: a central motif over a background of wind, water, cloud, or fire. Each one reads the crime without depicting it. The design rests rust-brown. Like every tattoo of penance, it never resolves into a clear picture; it stays a vague collection of streaks and shapes.
 
-1. **The Split Mask (hannya and oni).** A hannya mask on one shoulder and an oni mask on the other, joined across the upper back by a single jagged crack that runs down the spine. Wind bars curl through the horns, and a thin line of flame traces the crack. Sakura drift at the edges.
-   Read: the two faces the house wore, rage and brute cruelty, split by the one act that ended them. The flame in the crack is the goddess entering where the break was made.
-   Placement: upper back into the shoulders.
+**Chosen: The Koi Through Ash.** A koi drives upstream through a river of ash and cinders. Behind it, a burned-out grove; ahead, clean water and a rising sun. Read: survival and transformation, the old life burned behind him. The koi is perseverance, the ash is the home, the sun is the goddess. Placement: forearms and back. It glows Aureolin White pending question A.1.
 
-2. **The Tiger and the Shattered Grove.** A tiger, low and coiled, stands in a grove of bamboo snapped and splintered around it. Wind bars tear through the stalks. A single peony blooms at its feet, roots bare.
-   Read: the strongest thing in a brittle house, and the grove that should have sheltered him. Bamboo reads as resilience, but a dense grove can be a cage; the tiger is his strength and his survival.
-   Placement: full back.
+The rest were not chosen and are kept for reference:
 
-3. **The Severed Thread.** A red thread winds the length of the piece, knotted at two points and cut clean at a third. The frayed ends curl into the shape of a low sun, and a small flame burns at the cut.
-   Read: the family bond and its severing; the flame is the claim the goddess kept on what survived.
-   Placement: forearm to shoulder, following the arm.
-
-4. **The Koi Through Ash.** A koi drives upstream through a river of ash and cinders. Behind it, a burned-out grove; ahead, clean water and a rising sun.
-   Read: survival and transformation, the old life burned behind him. The koi is perseverance, the ash is the home, the sun is the goddess.
-   Placement: chest or ribs.
-
-5. **The Torn Web.** A jorogumo spider hangs at the center of a wide web. The web is torn open from the inside, and a small flame burns in the tear.
-   Read: the house as a trap, and the one who tore through it. The spider reads as the parents, the web as the home that held him.
-   Placement: full back or shoulder blades.
-
-6. **The Lightning-Struck Pine.** A great pine split down the trunk by a single bolt, its upper branches broken. Two crows lift from the ruin. Wind bars and clouds close the background. One lower branch still holds green needles.
-   Read: the family line split at the trunk, the old life ended, and the one green branch is what grew after.
-   Placement: back, centered on the spine.
-
-These can be combined, and I can draft more. Pick one, or name the pieces you want mixed.
+- **The Split Mask.** A hannya on one shoulder and an oni on the other, joined by one jagged crack down the spine; a line of flame runs the crack.
+- **The Tiger and the Shattered Grove.** A coiled tiger in a grove of bamboo snapped around it, one bare-rooted peony at its feet.
+- **The Severed Thread.** A red thread knotted at two points and cut at a third; the frayed ends curl into a low sun, a small flame at the cut.
+- **The Torn Web.** A jorogumo spider at the center of a web torn open from inside, a flame in the tear.
+- **The Lightning-Struck Pine.** A pine split down the trunk by one bolt, two crows rising, one lower branch still green.
 
 ---
 
-## Canon flags still open
+## Canon flags
 
-1. **Armor (answer 13).** The note says Tristan wore full plate like [[Gideon]], and [[Gideon]]'s note gives him a steel breastplate. Answer 13 says the grade outfit is uniform and has no armor. Needs a decision: does the no-armor rule cover combat kit, or only ceremonial dress?
-2. **Tattoo visibility (answer 16).** The note hides his brand on his chest. All brands are now deliberately visible. His placement needs to move.
-3. **Tattoo glow (answer 17).** Answer 17 makes every brand Aureolin White, which conflicts with the per-bearer colors in [[Tattoos of Penance]] ([[Gideon]] amber, [[Julian]] white, [[Lyra]] molten gold, [[Vespera]] gold). Decide whether to change the church-wide note and the other bearers, or keep the per-bearer colors and treat answer 17 as Aureolin White for Tristan alone.
-4. **Intake (answer 6).** The note says the sentence placed him in the Chancellery. Reword to: sentenced to prison, offered the Chancellery as an alternative because he was underage, and he took it.
-5. **Death wording.** The note says he "fell holding back a monstrous horde," and [[Aurelius]] and [[The Chancellery of Silent Illumination]] still state it as fact. Soften to presumed, per the DM.
-6. **Ancestry.** Still blank, and there is no image or quote block.
+1. **Tattoo glow (open).** Answer 17 makes every brand Aureolin White, which conflicts with the per-bearer colors in [[Tattoos of Penance]]. Tristan's note now reads Aureolin White. Awaiting the Round 4 decision.
+2. **Armor (resolved).** The no-armor rule covers the ceremonial kit only. Field combat armor stands, and [[Tristan]] wears dark plate with a sunburst device.
+3. **Tattoo visibility (resolved).** Brands are deliberately visible. Tristan's sit on his forearms and back.
+4. **Intake (resolved and applied).** Sentenced to prison, offered the Chancellery as an alternative because he was underage, and he took it.
+5. **Death wording (open).** [[Tristan]], [[Aurelius]], and [[The Chancellery of Silent Illumination]] now read presumed and unconfirmed. Status wording is still open (Round 4 question B.7).
+6. **Ancestry (resolved).** Human, from the image. Image embedded in the note.
 
 ---
 
-## Locked in and written to [[Tristan]]
+## Applied to the vault this session
 
-- Champion, "The Shield," of the Twenty-First Vigil in [[The Chancellery of Silent Illumination]]; born in Restov.
-- Tallest and heaviest, most scarred of the cohort, scars faded and presentable.
-- Killed his abusive, alcoholic, mentally ill parents at 9 as a breaking point, to keep them from killing him; turned himself in; sentenced to prison; took the Chancellery option; family name abandoned on intake.
-- Kind heart, helps the weak, not self-effacing, short concrete sentences, never spoke for his first year, devout believer.
-- Defensive bulwark who steps in front of the weak.
-- Lost at 16 holding back a horde, but his death is unconfirmed.
+- [[Tristan]]: full rewrite (Koi Through Ash on forearms and back, private guilt, accumulated weight, prison-then-Chancellery intake, silent first year, Redeemer, image details, shrine, relationships).
+- [[The Chancellery of Silent Illumination]]: Tristan marked presumed, Valerius timed after him, Vigil shrine added.
+- [[Aurelius]]: Tristan as closest listener, presumed death, Valerius timed, shrine added.
+- [[Gideon]]: looked up to Tristan, visits the shrine.
+- [[Valerius]]: competitive with everyone, Tristan's loss hit him hardest, died a few years later, grave beside the shrine.
+- [[Lucian]]: shapes each member to their strengths, tends the shrine.
+- [[Tattoos of Penance]]: Tristan's design added, vague-streaks detail added.
+- [[The Vestments of the Clergy]] and [[The Church of the Eternal Blazing Sun]]: vestments carry no armor.
+- [[AGENTS.md]]: added the rule to propagate every answer across all relevant notes.

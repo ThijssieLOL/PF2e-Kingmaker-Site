@@ -20,7 +20,7 @@ status: Alive
 > — Father Lucian Soler
 
 ## Overview
-Father Lucian Soler is a Grade 7 (Blaze) Warpriest within [[The Church of the Eternal Blazing Sun]] and the head instructor for the parish branch of [[The Chancellery of Silent Illumination]] at the local church of Restov. A veteran and former orphan who rose through the Church's ranks, he teaches divine recruits physical combat, tactics, and survival. To [[Aurelius]] and the surviving cohort of the Twenty-First Vigil, he is more than a military teacher. He is a quiet, deeply loving father who gave them guidance, discipline, and a home.
+Father Lucian Soler is a Grade 7 (Blaze) Warpriest within [[The Church of the Eternal Blazing Sun]] and the head instructor for the parish branch of [[The Chancellery of Silent Illumination]] at the local church of Restov. A veteran and former orphan who rose through the Church's ranks, he teaches divine recruits physical combat, tactics, and survival. To [[Aurelius]] and the surviving cohort of the Twenty-First Vigil, he is more than a military teacher. He is a quiet, deeply loving father who gave them guidance, discipline, and a home. He trained each of the seven to their own strengths rather than to a single mold.
 
 ### Quick Facts
 - **Full Name:** Lucian Soler
@@ -110,4 +110,4 @@ Lucian shows no favoritism among the orphans in his care. With no biological fam
 - **[[Julian]]:** Lucian loves Julian dearly, with a firm, patient affection for his theatrical swashbuckling style. He sees the sharp martial skill and the fiercely loyal heart beneath the performance.
 - **[[Vespera]]:** Lucian cares deeply for Vespera. He encourages her sharp, analytical mind and sets her complex tactical scenarios to keep her investigative instincts honed.
 - **[[Lyra]]:** Lucian shows Lyra warm paternal affection. He embraces her chaotic enthusiasm while making sure her brilliant alchemical mind stays safe, supported, and grounded within the Church.
-- **The Late Cohort ([[Tristan]] & [[Valerius]]):** Lucian grieved deeply over the loss of Tristan and Valerius, loving them as much as his surviving children. He carries their memory stoically, turning his sorrow into work: protecting and guiding the rest of his family.
+- **The Late Cohort ([[Tristan]] & [[Valerius]]):** Lucian grieved deeply over the loss of Tristan and Valerius, loving them as much as his surviving children. He carries their memory stoically, turning his sorrow into work: protecting and guiding the rest of his family. He tends the shrine to the fallen in the church graveyard garden of Restov himself.

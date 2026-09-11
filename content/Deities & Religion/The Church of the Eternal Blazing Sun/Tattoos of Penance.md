@@ -17,6 +17,7 @@ The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[Th
 - The design of the tattoo is chosen directly by the goddess. As the holy water is applied, it reveals the recipient's specific sins and each sin's personal meaning to the person, shaping the tattoo.
 - The officiating priests choose where the tattoos sit, favoring highly visible areas of the body to emphasize public humility.
 - Because the designs come from the goddess, there are no standardized symbols. They only share a distinct, cohesive style. In their resting state they are a warm, reddish-brown, like rust, close to traditional criminal brands.
+- The patterns never resolve into a clear picture. A bearer can see what the design likely means, and others can read it too, but it stays a vague collection of streaks and shapes that only suggest the sin.
 - The tattoos do not change over time. They stay an unyielding reflection of a history already fixed.
 
 ## Magical Properties & Durability
@@ -34,4 +35,5 @@ The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[Th
 - **[[Julian]]:** Wrapped tightly around his throat and collarbones, depicting a stylized, split-tongued serpent for his childhood sins of malicious deceit, rumor-mongering, and betrayal of street allies. They glow a brilliant, blinding white when channeling.
 - **[[Lyra]]:** Scorched, blackened handprints covering her palms and running up her wrists, representing her past sins of reckless arson and the accidental destruction of a civilian shelter. They glow like molten gold when she channels her alchemy or divine power.
 - **[[Vespera]]:** Etched across her collarbones as a broken, unbalanced scale, representing her past sin of pride: cold, detached calculation once led her to ignore a plea for help, and the tragedy that followed was avoidable. When she channels magic, the cracks in the scale mend with gold light.
+- **[[Tristan]]:** Across his forearms and back, a koi driving upstream through a river of ash and cinders, a burned grove behind it and a rising sun ahead, marking the killing of his parents. At rest it is the muted rust-brown of a criminal brand. When he channeled magic it glowed a brilliant **Aureolin White**.
 - [[Selion]]: Located on his forearms and torso, are black lines of tattoo's. Representing that he once had unholy powers coursing through his veins. Whenever he uses his magic the tattoos don't glow but instead become more darker and darker.

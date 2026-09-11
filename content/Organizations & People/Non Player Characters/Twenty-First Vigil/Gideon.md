@@ -51,3 +51,4 @@ Gideon is the emotional anchor and self-appointed "big brother" of the surviving
 
 ## Relationships
 - **[[Aurelius]]:** Gideon is the only sibling who openly challenges Aurelius's "cold-blooded executioner" state. When Aurelius retreats into isolation after a trigger, Gideon sits quietly with him, brings silent support or a warm meal, and reminds him of his humanity.
+- **[[Tristan]]:** Gideon looked up to Tristan, most of all for his strength and his readiness to help anyone in need. He visits the shrine to the fallen in the church graveyard garden when he can.

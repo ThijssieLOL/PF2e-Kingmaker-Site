@@ -72,5 +72,7 @@ The most recent graduating cohort, known internally as the Twenty-First Vigil, i
 - [[Aurelius]] (Animist / Covert Operative) — A gifted field operative trained in spirit-binding and wilderness deployment. He formally transferred to [[The Chancellery of the Outer Horizon]] to serve as an official missionary on the Stolen Lands charter.
 - [[Gideon]] (Warpriest / The Emotional Anchor) — The physical powerhouse and moral core of the cohort, he keeps the group grounded through intense trials. After commando training he chose the path of a healer and protector, and serves publicly as a Grade 8 Hospitaler and Chaplain.
 - [[Julian]] (Swashbuckler / The Charismatic Vanguard) — The unit's frontline duelist and infiltration expert, skilled in social disguise and high-mobility combat. He now serves as a Cantor and Choir Lead (Grade 8), and gathers local gossip and intelligence through his public position.
-- [[Tristan]] (Champion / Deceased) — Fell holding back a monstrous horde so his siblings could escape.
-- [[Valerius]] (Fighter / Deceased) — Fell defending city walls during an invasion.
+- [[Tristan]] (Champion (Redeemer) / Presumed Deceased) — Lost holding back a monstrous horde so his siblings could escape; whether he died is not known.
+- [[Valerius]] (Fighter / Deceased) — Fell defending city walls during an invasion, a few years after Tristan.
+
+The Vigil keeps a shrine to its fallen in the church graveyard garden of Restov, tended by [[Lucian|Father Lucian Soler]]. Every member visits it from time to time.
