@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Spirit Codex</title>
+<style>
+  .wrap{max-width:1180px;padding:4px 2px 28px}
+  h1{font-size:15px;letter-spacing:.14em;text-transform:uppercase;font-weight:600;margin:0 0 6px;color:var(--foreground)}
+  .sub{font-size:12.5px;color:var(--muted-foreground);margin:0 0 4px;line-height:1.5;max-width:74ch}
+  .legend{display:flex;gap:14px;flex-wrap:wrap;font-size:11px;color:var(--muted-foreground);margin:14px 0 18px;
+          padding-bottom:12px;border-bottom:1px solid var(--border)}
+  .legend b{font-weight:600;color:var(--foreground)}
+  .dot{display:inline-block;width:7px;height:7px;border-radius:50%;margin-right:5px;vertical-align:1px}
+  .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(268px,1fr));gap:12px}
+  .card{background:var(--card);border:1px solid var(--border);border-radius:10px;padding:13px 14px 12px;
+        cursor:pointer;transition:transform .12s ease,border-color .12s ease;position:relative}
+  .card:hover{transform:translateY(-2px);border-color:var(--accent)}
+  .card:hover .go{opacity:1}
+  .go{position:absolute;top:11px;right:12px;font-size:10px;letter-spacing:.08em;text-transform:uppercase;
+      color:var(--accent);opacity:0;transition:opacity .12s ease}
+  .tag{font-size:10px;letter-spacing:.1em;text-transform:uppercase;color:var(--muted-foreground)}
+  .name{font-size:14px;font-weight:600;margin:3px 0 7px;color:var(--foreground);line-height:1.25}
+  .sil{font-size:12.5px;line-height:1.5;color:var(--foreground);margin:0 0 7px}
+  .wrong{font-size:12px;line-height:1.45;color:var(--muted-foreground);margin:0 0 10px}
+  .wrong em{font-style:normal;color:var(--foreground);font-weight:600}
+  .sw{display:flex;height:19px;border-radius:3px;overflow:hidden;margin-bottom:6px;border:1px solid var(--border)}
+  .sw i{flex:1}
+  .rule{font-size:11px;line-height:1.45;color:var(--muted-foreground)}
+  .rule em{font-style:normal;color:var(--foreground)}
+  .foot{margin-top:22px;padding-top:14px;border-top:1px solid var(--border);font-size:11.5px;color:var(--muted-foreground);
+        display:flex;gap:8px;flex-wrap:wrap;align-items:center}
+  .chip{border:1px solid var(--border);border-radius:99px;padding:4px 11px;cursor:pointer;color:var(--foreground);
+        transition:border-color .12s ease}
+  .chip:hover{border-color:var(--accent)}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>Spirit Codex &middot; first pass</h1>
+  <p class="sub">Fifteen of the thirty-six drafted against the new laws. Each card is one creature, and the palette under it is a rule, not a mood: the colour is what the material does when light hits it. Click any card to have it written up as a full Spirit Template note.</p>
+
+  <div class="legend">
+    <span><b>Rupture</b></span>
+    <span><span class="dot" style="background:#7f9cd6"></span>scale</span>
+    <span><span class="dot" style="background:#c98f3f"></span>plan</span>
+    <span><span class="dot" style="background:#a4657f"></span>material</span>
+    <span><span class="dot" style="background:#5f9c8a"></span>absence</span>
+  </div>
+
+  <div class="grid" id="grid"></div>
+
+  <div class="foot">
+    <span>Next:</span>
+    <span class="chip" data-hermes-send="Kill-test the Stalker in Darkened Boughs and Lurker in Devouring Dark ladders against the three rupture laws, and tell me which ranks fail and what to replace them with.">Kill-test the two old ladders</span>
+    <span class="chip" data-hermes-send="Draft the next three apparition family ladders using the generator in the Apparition Design Brainstorm note: Witness to Ancient Battles, Speaker in Sibilance, and Impostor in Hidden Places.">Draft three more families</span>
+  </div>
+</div>
+
+<script>
+const S = [
+ {f:"Steward of Stone and Fire", lvl:1, n:"the silt woman", r:"material", c:"#a4657f",
+  s:"A woman of packed river silt, kneeling, waist up. The rest of her is still climbing out of the ground behind her.",
+  w:"She is unfinished, and she is apologetic about the room she takes up.",
+  pal:["#6b5847","#7d6a58","#8b8478","#c0bcb2","#b08347"],
+  rule:"Riverbed brown going grey where she dries, with one ochre seam running through her like a water line."},
+
+ {f:"Steward of Stone and Fire", lvl:3, n:"the kiln toad", r:"material", c:"#a4657f",
+  s:"A toad the size of a wagon wheel, seated in a hot spring, grown so warm it has gone round. It rolls a sphere of heat at anything worth eating.",
+  w:"It cannot close its mouth, and everything inside its mouth is the colour of the pool.",
+  pal:["#c8a33a","#d9b64e","#8a4a2b","#7c6f52","#a8d3dd"],
+  rule:"Sulphur yellow rimmed with iron red. The mouth is the flat pale blue of the shallow end."},
+
+ {f:"Steward of Stone and Fire", lvl:5, n:"the man holding the rockslide", r:"material", c:"#a4657f",
+  s:"A man standing inside a rockslide with his arms out, holding a whole fall of stone a hand's width off the ground. The stones have not landed.",
+  w:"The stones never touch each other, and that sound is the only sound he makes.",
+  pal:["#3a3f45","#4c5259","#6a7178","#8f959b","#d6d9dc"],
+  rule:"Cold granite grey with pale seams, where stone grinds on air instead of on stone."},
+
+ {f:"Steward of Stone and Fire", lvl:6, n:"the stone family at dinner", r:"quantity", c:"#c98f3f",
+  s:"Six people at a table, mid-meal, all stone. They keep the routine and the plates go round. Only the youngest still moves, and only enough to smile.",
+  w:"One of the six is still warm, and it is the one smiling.",
+  pal:["#8d8a80","#b9b5aa","#e6e2d8","#f0eee7","#d9a8a0"],
+  rule:"Chalk white over grey, and the one warm body a faint rose, like the inside of a wrist."},
+
+ {f:"Steward of Stone and Fire", lvl:7, n:"the bear in two states", r:"plan", c:"#c98f3f",
+  s:"A bear-shaped mass of cooling lava standing in a spring, solid black rock above the waterline and molten below it, and the line has climbed higher every year.",
+  w:"The boundary runs across its chest, and it is resigned to it.",
+  pal:["#1a1a1c","#2b2724","#6b3410","#c2521a","#f2a03a"],
+  rule:"Black above the waterline, furnace below, and the waterline itself the only cool colour in it."},
+
+ {f:"Steward of Stone and Fire", lvl:8, n:"the hill that breathes", r:"scale", c:"#7f9cd6",
+  s:"A hill that breathes. The hot springs of the Kamelands are its breath and the vents along its spine are the nostrils.",
+  w:"At one end a face is buried under the soil, comfortably asleep, and it is the only contented part of the spirit.",
+  pal:["#5a5c56","#6e7269","#9aa08f","#cfd8d2","#b8452a"],
+  rule:"Sleep-warm basalt and steam, pale mineral bloom where the breath comes out, red only in the deepest cracks."},
+
+ {f:"Steward of Stone and Fire", lvl:9, n:"the sky-catcher", r:"scale", c:"#7f9cd6",
+  s:"A woman of black glass from the waist up, her upper body out past the sky, standing exactly where she landed and never leaving. One hand is open, palm up, receiving.",
+  w:"Her face is tilted back and rapt, listening for what is on its way down. She is not hostile, only catching.",
+  pal:["#0d1a17","#16302a","#3c4a3f","#8c3a2e","#e8e6df"],
+  rule:"Black-green obsidian with one iron-red fracture running her full height, and points of white still falling above the hand."},
+
+ {f:"Crafter in the Vault", lvl:4, n:"the self-carving boar", r:"material", c:"#a4657f",
+  s:"A boar-shaped thing in a workshop, missing pieces. It has been carving finished objects out of its own body for a very long time and the floor is six feet deep in them.",
+  w:"The work on the floor is perfect, and nobody has ever wanted any of it.",
+  pal:["#3a3128","#b9ab92","#d8cfbe","#efe9dc","#c99a3f"],
+  rule:"Bone and sawdust, with the finished goods the only saturated colour in the room."},
+
+ {f:"Crafter in the Vault", lvl:7, n:"the polite lady-saw", r:"plan", c:"#c98f3f",
+  s:"A woman from the waist up, clean and composed, mounted as the arbor of a saw and running it. She is the operator and the blade at once.",
+  w:"Her hands are folded politely, and she is content.",
+  pal:["#6e7478","#9aa0a4","#b9c4c9","#cfd6d9","#e8e2d0"],
+  rule:"Machine grey with one pale blue shoulder, and the beam gone from oak to a soft flour white."},
+
+ {f:"Crafter in the Vault", lvl:9, n:"the interior", r:"absence", c:"#5f9c8a",
+  s:"The inside of a building, alive. It is not the walls, it is the space they hold, standing in the mouth of a valley with no walls at all and rain that stops at its ceiling.",
+  w:"It is hospitable, and the room it is proudest of is the one with the anvil in it.",
+  pal:["#1d2a33","#2a3b45","#3b2a1c","#5a4028","#a8763a"],
+  rule:"Lamplight amber over oak, with a cold blue under every doorway and a sky that only exists indoors."},
+
+ {f:"Lamentation of Sinister Deals", lvl:3, n:"the clerk at the desk", r:"plan", c:"#c98f3f",
+  s:"A woman's head and shoulders set into a writing desk at chest height, the desk walking on its own four legs, her hands writing on the surface of her own body.",
+  w:"Her hands are worn to bone, she has written through herself twice, and she has left grooves in three floors.",
+  pal:["#1b1b1e","#6b4a2a","#8a6136","#c9a23f","#efe7d2"],
+  rule:"Warm wood and black ink, white bone showing at the wrists, and one gold leaf she keeps polishing."},
+
+ {f:"Lamentation of Sinister Deals", lvl:7, n:"the man who is ready", r:"absence", c:"#5f9c8a",
+  s:"A small neat old man at a table in a room that is not there. One lamp. Hands folded. Everything about him is ready. He will stand exactly once.",
+  w:"He cannot say whether he is before or after, and his chair has worn through the floor so his knees are holding him up.",
+  pal:["#17130f","#2a2118","#3d2f1e","#d9a53c","#efe9da"],
+  rule:"Lampblack and varnish with one square of lamp yellow, and his collar the only clean white in the room."},
+
+ {f:"Lamentation of Sinister Deals", lvl:9, n:"the office", r:"scale", c:"#7f9cd6",
+  s:"A room with no walls standing under a ceiling that is the sky, and a desk the size of a hill. Behind it sits something that is only the idea of a signature.",
+  w:"It has no hands, and the page in front of you already carries your name, in your own handwriting.",
+  pal:["#0b0b0c","#3a3630","#b08d4a","#d8d2c4","#efe9de"],
+  rule:"Bone white and cold brass under a sky grey ceiling, with one line of wet black standing high enough to see from the door."},
+
+ {f:"Echo of Lost Moments", lvl:7, n:"the ox that remembers", r:"material", c:"#a4657f",
+  s:"An ox, enormous and patient, covered nose to tail in eyes that are all closed, each one holding a single event. When one opens, the event is true again.",
+  w:"It has forgotten which eyes it already opened, so it repeats, and each retelling comes out a little less true.",
+  pal:["#6b4a33","#8a6448","#e8e4d8","#8c2a24","#8fa6a8"],
+  rule:"Ox brown with a blind white ruin across the head, and each open eye the colour of river water."},
+
+ {f:"Echo of Lost Moments", lvl:9, n:"the thing that finishes", r:"material", c:"#a4657f",
+  s:"A small, tidy, faceless loaf of a spirit, blunt at both ends, with no mouth. It follows a person one moment behind. Wherever you are, it has just eaten where you were.",
+  w:"It is small and companionable and it walks beside you, and every time you look back the thing you just did is gone.",
+  pal:["#6e6a62","#8a8378","#a49c8e","#b5b0a4","#c9c2b0"],
+  rule:"Wet clay and pocket grey, with one clean polished place where the hands of the country have touched it."}
+];
+
+const g = document.getElementById('grid');
+S.forEach(x => {
+  const d = document.createElement('div');
+  d.className = 'card';
+  d.setAttribute('data-hermes-send', 'Write the full Spirit Template note for ' + x.n + ' (' + x.f + ', Level ' + x.lvl + '), using the design already drafted in the Apparition Design Brainstorm note.');
+  d.innerHTML =
+    '<div class="go">full note</div>' +
+    '<div class="tag">' + x.f + ' &middot; Level ' + x.lvl + '</div>' +
+    '<div class="name">' + x.n + '</div>' +
+    '<p class="sil">' + x.s + '</p>' +
+    '<p class="wrong"><em>' + x.w + '</em></p>' +
+    '<div class="sw">' + x.pal.map(c => '<i style="background:' + c + '"></i>').join('') + '</div>' +
+    '<div class="rule"><span class="dot" style="background:' + x.c + '"></span>' + x.rule + '</div>';
+  g.appendChild(d);
+});
+</script>
+</body>
+</html>
