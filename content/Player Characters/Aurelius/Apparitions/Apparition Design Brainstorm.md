@@ -74,7 +74,7 @@ Carries: cantrip Ignition, then Interposing Earth (1) through Falling Stars (9).
 | :--- | :--- | :--- | :--- |
 | 1 | Interposing Earth | A hunched figure of packed earth that stands between things, arms spread. It cannot attack; it only blocks. | A person who died shielding someone. Wrong thing: no face, only two flat palms where the face should be. |
 | 2 | Exploding Earth | A stone toad that swells until it bursts, then reassembles from the pieces. | The pressure in a collapsing mine. Wrong thing: it keeps the shape of whatever it last burst against. |
-| 3 | Fireball | Unresolved. The rolling clot and the false hearth were both rejected. | Needs a body that is visibly wrong, in the cursed-spirit register. |
+| 3 | Fireball | Unresolved. The rolling clot, the false hearth, and the furnace man were rejected. Non-humanoid preferred. | Needs a visibly wrong body, in the cursed-spirit register. |
 | 4 | Wall of Fire | A curtain of flame that walks, as wide and as patient as a city wall. | A siege fire-line. Wrong thing: TBD. |
 | 5 | Wall of Stone | A wall that has forgotten it was ever anything else. | A tomb sealed shut. Wrong thing: a mouth, because mouths are where sound comes from. |
 | 6 | Petrify | *(Original: a weeping stone angel.)* The preserved last instant of a person turning to stone, aware and unable to scream. | Someone caught mid-motion. Wrong thing: a tear-track that never dries. |
