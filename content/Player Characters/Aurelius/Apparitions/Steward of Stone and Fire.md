@@ -32,6 +32,7 @@ status: Active
 
 ## Level 8 Spirits
 *Carries the 8th-rank apparition spell: Earthquake.*
+- Idea 1: The Roots of the World. A blind, ancient colossus buried so deep that only its spine shows, and that spine is a mountain range. It sleeps, and when it turns, the land breaks.
 
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Falling Stars.*
