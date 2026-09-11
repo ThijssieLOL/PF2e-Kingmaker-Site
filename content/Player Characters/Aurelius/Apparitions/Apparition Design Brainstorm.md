@@ -110,7 +110,7 @@ Drafted outward from the approved Level 8 design. The ladder runs person, beast,
 | :--- | :--- | :--- | :--- |
 | 1 | Runic Body | A hunter walking on all fours, its skin cut into one unbroken rune from crown to fingertip until the marks read as fur. | A hunter killed and skinned by his own quarry. Wrong thing: a beast's muzzle is stitched over its face, and the hunter's mouth moves inside it. |
 | 2 | Vomit Swarm | A hairless forest beast, more belly than body, its jaw unhinged into a permanent wound. It breathes out a living carpet of its own young, which eats and returns. | A mother beast that ate what it should not have. Wrong thing: every one of the young is the same animal, the same size, and wears its mother's face. |
-| 3 | Wall of Thorns | A blackthorn hedge grown into the shape of a charging beast, rootless, walking the forest margin. | A thorn wall that remembered the beast that died against it. Wrong thing: at its center, a heart beats in a cage of thorns. |
+| 3 | Wall of Thorns | A blackthorn wall that walks the game trails wearing the shape of every creature that died against it, changing from one to the next as it moves. Whatever tries to pass, it becomes and lets through. | A wall of thorns grown over a killing ground. Wrong thing: one pair of real eyes passes between the shapes, and it never stops watching. |
 | 4 | Bestial Curse | A hunched figure with a wolf breaking out of it: shoulders split, a beast's skull pushing through the chest, a human face above, dry-eyed and calm. | A person cursed to hunt their own blood. Wrong thing: the human face is still trying to speak, and only the beast's mouth obeys. |
 | 5 | Moon Frenzy | A tide of wolves joined at a single spine, running under one howl, every head turned up. | A moonlit night of slaughter, remembered by the beasts that survived it. Wrong thing: it has one eye, and the eye is the moon. |
 | 6 | Tangling Creepers | A low tide of vine that flows across the ground like a closing hand, every tendril ending in a human hand. | The people who died tangled in the strangler fig, still reaching. Wrong thing: all the hands reach the same way, toward something that is not there. |
@@ -119,6 +119,8 @@ Drafted outward from the approved Level 8 design. The ladder runs person, beast,
 | 9 | Wrathful Storm | A storm that has taken the shape of the oldest beast: rain for fur, thunder for growl, uprooted trees walking as legs. It is always about to arrive. | The forest's answer to everything that ever hunted in it. Wrong thing: at its heart hangs a human hunter like a swallowed hook, and the storm grows around him. |
 
 Alternates considered: Level 5 as a single wolf whose shadow is the pack, dropped because the shadow puts the wrongness in the scenery; Level 9 with lightning for antlers, dropped because it repeats the Level 8 motif.
+
+Liked so far: Level 3 (the blackthorn that changes shape).
 
 ## Lurker in Devouring Dark: ladder draft
 
@@ -137,6 +139,8 @@ Built the same way, but the rhythm is different on purpose. Where the Stalker cl
 | 9 | Implosion | A whale-sized thing whose mouth opens upward along its spine. It swims through earth and air as if they were water, and everything it passes over collapses into it. | Proposed: the hunger at the bottom of the deepest trench, grown from everything the sea has ever swallowed. Wrong thing: no eyes, only a mouth where the head should be. |
 
 Alternates considered: Level 3 with a face rotating across the orb's surface, dropped as a second violation; Level 8 with lips along the rift's edges, folded into the mouth imagery already at Levels 7 and 9.
+
+Liked so far: Level 1 (the drowned figure).
 
 ## Open questions
 
