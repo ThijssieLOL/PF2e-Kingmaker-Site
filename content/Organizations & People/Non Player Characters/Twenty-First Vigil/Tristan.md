@@ -8,6 +8,8 @@ class: Champion
 faction: The Church of the Eternal Blazing Sun
 status: Presumed Deceased
 ---
+![[Tristan.png|375]]
+
 
 ## Overview
 
