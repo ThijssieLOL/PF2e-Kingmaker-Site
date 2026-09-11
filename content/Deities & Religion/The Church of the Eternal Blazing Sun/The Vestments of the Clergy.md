@@ -29,6 +29,7 @@ The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Eac
 *(To be filled in.)*
 
 ### Grade 8 — Cinder
+![[Grade 8 Cinder Vestment.png|300]]
 *(To be filled in.)*
 
 ### Grade 7 — Blaze
@@ -62,6 +63,7 @@ The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Eac
 *(To be filled in.)*
 
 ### [[The Chancellery of Silent Illumination]]
+![[Silent Illumination Vestment.png|300]]
 *(To be filled in.)*
 
 ### [[The Chancellery of the Shared Hearth]]
