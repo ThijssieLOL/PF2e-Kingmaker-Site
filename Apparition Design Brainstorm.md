@@ -116,6 +116,9 @@ This note asks for a different rhythm in every family. Here is the mechanism: as
 | Crafter | plan | plan | absence | material | material | material | plan | material | absence |
 | Lamentation | plan | material | plan | material | material | absence | absence | quantity | scale |
 | Echo | plan | absence | plan | quantity | scale | material | material | plan | material |
+| Monarch | plan | material | absence | plan | quantity | material | plan | scale | scale |
+| Witness | material | plan | quantity | material | plan | scale | plan | absence | scale |
+| Vanguard | scale | plan | material | scale | plan | quantity | material | scale | plan |
 
 Three ranks in a row sharing a rupture is a mistake. Vary it, or the ladder flattens.
 
@@ -248,6 +251,240 @@ The family's trade is damaged time, and its life is the reason the Stolen Lands 
 | 7 | Retrocognition | An ox, enormous and patient, covered from nose to tail in eyes that are all closed, each one holding a single event. When one opens, the event is true again and everything alive sees it. It is blind, because it spent itself on remembering, and it can only open one at a time. | The memory of the country, put to work and broken by it. Wrong thing: it has forgotten which eyes it has already opened, so it repeats, and each retelling comes out a little less true. | Hide, blind white and old blood. Ox brown with a white ruin across the head, and each open eye the colour of river water. |
 | 8 | Quandary | A woman seated on the one chair in the room, holding a knife and a bowl, and she cannot be looked at long enough to settle whether she is cutting or being cut. Whatever you decide on the first glance becomes her body, and if you look again and decide differently, the change is your fault. | The moment a person stopped being able to tell the difference, given a body. Wrong thing: there is one chair and she is on both sides of it, and only one of her can be seen at a time. | Porcelain, raw meat and one steel blade. Bone china white against a deep wet red, and the steel the only clean line in her. |
 | 9 | Foresight | A small, tidy, faceless loaf of a spirit, blunt at both ends, with no mouth. It follows a person one moment behind. Wherever you are, it has just eaten where you were. It has never been seen doing anything except finishing. | The last moment of every moment, come to collect, and it is very gentle about it. Wrong thing: it is small and companionable and it walks beside you, and every time you look back the thing you just did is gone. | Wet clay and dust, and the grey of the inside of a pocket, with one clean polished place where the hands of the country have touched it. |
+
+## Monarch of the Fey Courts: ladder draft
+
+The family's trade is the gift that binds. Every spirit here is polite, and every one of them is keeping something that was given to it. The register is hospitality, not menace: the court is warm, the food is good, and the door does not open from the inside. The ladder runs from a wreath at the threshold up to the winter the court imagines as its queen, so it stays small and social at the bottom and turns humanoid and vast at the top. Carries Tangle Vine, then Charm (1) through Unfathomable Song (9). Avatar: *Queen of the Winter Court*.
+
+**Rhythm:** plan, material, absence, plan, quantity, material, plan, scale, scale.
+
+### Level 1 — Charm *(rupture: plan)*
+- **The creature and its life:** A wreath of hawthorn and honeysuckle that walks on its own briars, seated at the edge of every fey ring in the Narlmarches. It offers a cup it refills from its own mouth and asks for nothing. Its whole life is the hour after you arrive.
+- **Origin:** The first welcome ever given at a fey crossing, which nobody ever withdrew.
+- **The wrong thing:** It is a ring of itself. There is no front and no back; walk around it and the smiling face is always on the far side, so it can never be left behind.
+- **Material and palette:** Hawthorn and honey. Wet dark green wood, cream blossom, amber running down its chin.
+- **Face:** Pleased, hospitable, in no hurry at all.
+- **Where found:** A mushroom ring at the edge of the Narlmarches.
+
+### Level 2 — Create Food *(rupture: material)*
+- **The creature and its life:** A long table that walks on the legs of its own roasted animals, laid for a feast, coming to settlements at the end of winter. It feeds a whole town for one night and is gone before dawn. Every dish on it was alive, and the table grows a new one each night.
+- **Origin:** The winter the fey fed a starving village and took the children as the price of the meal.
+- **The wrong thing:** It is not set with food. It is the food, stacked and still warm, and the stack is a body.
+- **Material and palette:** Roast brown and curd white, mould green at the edges, one hot gold centre where the cook's face is.
+- **Face:** A cook's face at the head of the table, proud of the work.
+- **Where found:** A thawed field near a river crossing in the Greenbelt.
+
+### Level 3 — Enthrall *(rupture: absence)*
+- **The creature and its life:** A herald standing in a clearing, announcing a guest who has not yet arrived. It has been announcing for six hundred years, and the announcement has no end, so anyone who hears it stops where they stand to wait. It is the court's front door.
+- **Origin:** An announcement that was never finished, because the guest it named never left.
+- **The wrong thing:** It is only the parts a voice needs. A throat, a tongue, the posture of listening, and nothing that could walk away.
+- **Material and palette:** Throat pink and ivory, night black behind it, one silver note hanging in the air.
+- **Face:** Eager. It has been waiting to finish the sentence longer than you have been alive.
+- **Where found:** A clearing on the edge of Thousand Voices.
+
+### Level 4 — Suggestion *(rupture: plan)*
+- **The creature and its life:** A courtier with a face on every side of its head, so that whichever way you approach it has the face you most want to agree with. It travels between the fey courts and the mortal towns, giving excellent advice that turns out to be an order. It has been in service longer than the courts have had names.
+- **Origin:** A flatterer so agreeable that his court kept him and kept adding faces to him.
+- **The wrong thing:** The head turns in quarters, and each face belongs to someone it has already ruined. The one at the back is its own, bare and grey, and it never turns that way.
+- **Material and palette:** Powder, rouge, court velvet. The back face is unpainted and pale as a root.
+- **Face:** Each face wears the expression it was taken with.
+- **Where found:** A market road where a fey crossing opens behind the stalls.
+
+### Level 5 — Hallucination *(rupture: quantity)*
+- **The creature and its life:** A garden that is not there, tended by a gardener who is not there, and both of them are real while you are standing in them. The gardener plants things that exist only while someone believes in them, and he is delighted with the crop.
+- **Origin:** The garden a dying queen described so precisely that her court lived in it for a year.
+- **The wrong thing:** There are too many gardeners. One for every visitor, all identical, each certain he is the only one, and each planting around you.
+- **Material and palette:** Over-saturated green, flowers a shade too bright, a sky slightly the wrong blue.
+- **Face:** Content, absorbed in the weeding.
+- **Where found:** A hollow in the Kamelands that has never held water.
+
+### Level 6 — Dominate *(rupture: material)*
+- **The creature and its life:** A hollow statue of a beautiful person, made of sugar and wax, standing in the fey court with its mouth open. It speaks in the voice of whoever last ate from it, and it says what the court wants said. The court takes a little off it at every audience, and it is never smaller.
+- **Origin:** A wedding cake that was promised a wish, and was granted one.
+- **The wrong thing:** It is made of what the court eats. Its flesh is confection, the red at its heart is candied, and it is the sweetest thing that has ever given an order.
+- **Material and palette:** Cream and spun sugar, a candied cherry where the heart should be.
+- **Face:** Sweet and vacant, wearing the smile of the last person who tasted it.
+- **Where found:** The fey side of a crossing in the Narlmarches.
+
+### Level 7 — Mask of Terror *(rupture: plan)*
+- **The creature and its life:** The Queen's jester, juggling the faces of everyone the court has ever punished, changing them as they fall. It is not cruel. It is only doing the job it was given, which is to remind the court what displeasure costs.
+- **Origin:** A fool who was told to be funny or die, and was funny.
+- **The wrong thing:** Every face is a real one, taken, and it is still alive in the jester's hands. The jester's own face is underneath them all, and no one has seen it in six hundred years.
+- **Material and palette:** Motley red, yellow, black, and under the paint a grey that does not belong to a living man.
+- **Face:** Cheerful. It is always mid-joke.
+- **Where found:** A fey court that holds its revels on the far bank of a river.
+
+### Level 8 — Uncontrollable Dance *(rupture: scale)*
+- **The creature and its life:** A ring of dancers so large that the ring itself is a hill, and the dance has been going since the court was founded. It cannot stop. It has forgotten how. It goes round and round in a green hollow, and it will not be interrupted for anything short of the end of the world.
+- **Origin:** A revel that was ordered to continue until every guest agreed to stay forever.
+- **The wrong thing:** The dancers are the ground. You walk on them. They are still dancing, and they feel it.
+- **Material and palette:** Moss green over pale flesh, one line of white where the ring's edge is.
+- **Face:** Hundreds, all turned outward, all smiling, none looking at you.
+- **Where found:** A hill in the Narlmarches that locals say is a fairy fort.
+
+### Level 9 — Unfathomable Song *(rupture: scale)*
+- **The creature and its life:** A woman of snow and glass seated on the winter she brought with her, larger than the forest she sits in. She is the Queen as the court imagines her, and the court has been imagining her for a very long time. Her song is the wind. Anyone who hears it does what they had always meant to do.
+- **Origin:** The idea of the Queen, fed by a thousand years of flattery until it could sit down.
+- **The wrong thing:** She is the season. The cold around her is her body, and the woman is only the part you can see. Walk far enough from the throne and you are still inside her.
+- **Material and palette:** White and blue glass, a black thorn crown, breath fogging in front of a face that does not breathe.
+- **Face:** Serene, and listening to something behind you.
+- **Where found:** The heart of winter, wherever the court has gathered that year.
+
+## Witness to Ancient Battles: ladder draft
+
+The family's trade is duty, and the ladder is what happens when duty outlives everyone who gave the order. Nobody here is angry. They are all on post, and the post is the horror. The ladder climbs from a single held line to a commander grown into his own monument, so it stays martial and humanoid at the top. Carries Shield, then Sure Strike (1) through Weapon of Judgment (9). Avatar: *General of Endless Battle*.
+
+**Rhythm:** material, plan, quantity, material, plan, scale, plan, absence, scale.
+
+### Level 1 — Sure Strike *(rupture: material)*
+- **The creature and its life:** A shield standing in an old field, and behind it the outline of the shield-bearer, made only of the wear on the shield. It steps into the path of the first blow of any fight that starts within sight of it, and it has been doing this since the line it was posted to hold was ploughed under.
+- **Origin:** A shield-bearer who died holding a line and never put the shield down.
+- **The wrong thing:** The man is not flesh. He is the dents. Every scratch and split in the shield is standing in the shape of a soldier, and the newest one is the brightest.
+- **Material and palette:** Oak and iron, split leather at the rim, the dents bright where they are new.
+- **Face:** There is none. The shield has no device and no boss, only the marks.
+- **Where found:** A flat field in the Greenbelt where a hedge line is older than the farms around it.
+
+### Level 2 — Enlarge *(rupture: plan)*
+- **The creature and its life:** A siege tower that walks on the legs of the men who crewed it, moving itself across the country toward a wall that fell four hundred years ago. It gets larger as it goes. Inside it, the crew are still working the winch, and they have not noticed.
+- **Origin:** A siege that never reached its wall and would not stop.
+- **The wrong thing:** The crew are the engine. Their arms are the ropes and their backs are the frame, and the tower keeps growing because there is always another man in it.
+- **Material and palette:** Raw timber, tarred rope, the pale of men who never saw the sun.
+- **Face:** Hundreds of faces at the winch, all intent, none looking out.
+- **Where found:** A road of old wheels across the Dunsward, worn through the turf.
+
+### Level 3 — Ghostly Weapon *(rupture: quantity)*
+- **The creature and its life:** A battlefield where every dropped weapon stands upright in the air, point down, hundreds of them, waiting. They belonged to the men who ran. The field holds them the way a hand holds a nail, and it is still waiting for the hands to come back.
+- **Origin:** The instant a line broke, held in place.
+- **The wrong thing:** There are far too many, and they are all the same, and none of them will fall.
+- **Material and palette:** Rust, ash, and one blade still bright enough to catch the light.
+- **Face:** None. The field has the patience of a held breath.
+- **Where found:** A fallow dip in the Greenbelt that grows nothing.
+
+### Level 4 — Weapon Storm *(rupture: material)*
+- **The creature and its life:** A cavalry charge that has become one animal: horses and riders and lances fused into a single wave of iron and horseflesh, galloping forever at a line that is no longer there. It crosses the old battlefields at dusk, and it does not slow.
+- **Origin:** A charge that was ordered, begun, and never landed.
+- **The wrong thing:** It is all one material now. The lances are its bones and the horses are its muscle, and it rings like a struck bell when it moves.
+- **Material and palette:** Steel, horsehide, dust, and one banner colour that has gone brown.
+- **Face:** A rider's face at the front, eyes open, mouth set, four hundred years past the end of the charge.
+- **Where found:** The long flat approach to a hillfort in the Kamelands.
+
+### Level 5 — Invoke Spirits *(rupture: plan)*
+- **The creature and its life:** A standard-bearer holding a banner that is the whole regiment. Every face of the fallen is pressed into the cloth, and when the banner is raised they answer, and the field fills with a line that has not existed for centuries.
+- **Origin:** The last man left holding the colours.
+- **The wrong thing:** He is not carrying the banner. The banner is carrying him, and it has been adding to itself since the day he picked it up.
+- **Material and palette:** Faded regimental red, gold thread gone green, and the grey of a great many dead.
+- **Face:** The bearer's, worn thin, and every face in the cloth behind him.
+- **Where found:** A cairn on a ridge in the Dunsward.
+
+### Level 6 — Phantasmal Calamity *(rupture: scale)*
+- **The creature and its life:** The battle itself, still happening, spread across a valley that no longer exists, at the scale of weather. It is not the soldiers. It is the noise, the movement, the charge, and it passes over the land on the same day every year and leaves the crops flattened.
+- **Origin:** A defeat so complete that the field kept fighting after everyone had stopped.
+- **The wrong thing:** It is far larger than any battle could have been. The men inside it are the size of trees, and they do not know, and they cannot be seen as men from outside it.
+- **Material and palette:** Smoke, churned mud, and the red of standards gone to rust.
+- **Face:** The whole thing has an expression, and it is concentration.
+- **Where found:** A valley in the Branthlend foothills that the locals will not plough.
+
+### Level 7 — True Target *(rupture: plan)*
+- **The creature and its life:** A general who can be seen only by the finger he points with, standing on a hill above a plain, aiming. Whatever he points at becomes the target of every weapon within a day's march. He has been pointing at the same patch of ground for six hundred years, and his arm has not tired.
+- **Origin:** An order that was given once and never countermanded.
+- **The wrong thing:** The arm has grown into a road. Men still march down it to the patch of ground, and none of them can see what they are marching toward.
+- **Material and palette:** Field grey, brass buttons, and one bright straight road through the grass.
+- **Face:** The rest of him is invisible; only the finger is certain.
+- **Where found:** A barrow hill above a crossing of the Sellen.
+
+### Level 8 — Canticle of Everlasting Grief *(rupture: absence)*
+- **The creature and its life:** A harvested field with no battle on it. No bodies, no weapons, no marks, nothing, and a sound that comes out of the empty air and will not stop. It is what is left when a battle is taken out of the world and the hole is not filled in.
+- **Origin:** A battle erased from every record, and the shape of the absence.
+- **The wrong thing:** There is nothing there, and that is the spirit. It is defined entirely by what is gone, and standing in it you feel each missing thing by name.
+- **Material and palette:** No material and no colour but the grey of a field after harvest, and a silence with a sound in it.
+- **Face:** None. The absence has no face, which is the point.
+- **Where found:** Any field the chronicles refuse to name.
+
+### Level 9 — Weapon of Judgment *(rupture: scale)*
+- **The creature and its life:** The last commander of the cyclops host, grown into his own monument: a colossus of black iron seated on a hill with a sword across his knees, and the sword is the only part of him that still moves. He judges every army that crosses the plain. He is still waiting for orders.
+- **Origin:** A commander who stayed to keep a field his people had already lost.
+- **The wrong thing:** He is the size of the hill he sits on. His face is the cliff face, the seams in the rock are the seams of a helmet, and the moss has been growing on him for an age.
+- **Material and palette:** Black iron, verdigris, and one line of red on the sword that is always wet.
+- **Face:** A cliff with a helmet's seams, and a patience that has outlasted the war.
+- **Where found:** A hill in the Kamelands ringed with cyclops stones.
+
+## Vanguard of Roaring Waters: ladder draft
+
+The family's trade is the water's claim, and the water's claim is older than any charter. Nothing here is angry. A river does not hate the stone it cuts; it simply keeps arriving. The ladder runs from a hand at a ford to the whole river standing up, so it stays elemental and enormous, with only a few human shapes caught in it. Carries Rousing Splash, then Hydraulic Push (1) through Wrathful Storm (9). Avatar: *River that Splits the World*.
+
+**Rhythm:** scale, plan, material, scale, plan, quantity, material, scale, plan.
+
+### Level 1 — Hydraulic Push *(rupture: scale)*
+- **The creature and its life:** A hand of river water the size of a house, reaching up out of the shallows at a ford. It shoves whatever tries to cross, then settles back and waits for the next one. It has been posted at the same ford since the ford was made.
+- **Origin:** The crossing that drowned a whole caravan, and the water that has been shoving ever since.
+- **The wrong thing:** It is only a hand and a forearm. The rest of it is the river, and the river is the arm, so there is no end of it to cut off.
+- **Material and palette:** Brown water, white foam, green weed braided through the fingers.
+- **Face:** None. It has the manners of a door.
+- **Where found:** A ford on the Thorn River.
+
+### Level 2 — Mist *(rupture: plan)*
+- **The creature and its life:** A fog that walks upstream against the current, wearing the shapes of the people who drowned in the flood and carrying them home, one each year. It moves slowly and it never arrives, because home is also gone.
+- **Origin:** A flood that took a village and has been bringing it back a person at a time.
+- **The wrong thing:** The shapes are only there when you are not looking straight at them, and they always walk the wrong way up the river. Look directly and you see only fog; look away and the whole drowned village is beside you.
+- **Material and palette:** Grey mist, wet hair, one lamp carried by no one.
+- **Face:** A crowd of faces at the edge of sight, all patient.
+- **Where found:** The stretch of the Sellen above a drowned ford.
+
+### Level 3 — Crashing Wave *(rupture: material)*
+- **The creature and its life:** A breaker that never lands, standing upright like a wall of glass on the river and moving upstream. It is full of everything it has taken. It sweeps the shallows clean and carries the load until it finds somewhere worth leaving it.
+- **Origin:** The wave that came up the river with the storm and forgot to stop.
+- **The wrong thing:** It is not water. It is riverbed: silt and stone and drowned wood held in the shape of a wave, and it grinds as it moves.
+- **Material and palette:** Grey-brown silt, black stone, one bright line of foam along the crest.
+- **Face:** None. It has the weight of the whole bottom of the river.
+- **Where found:** The Hooktongue Slough, after a storm.
+
+### Level 4 — Hydraulic Torrent *(rupture: scale)*
+- **The creature and its life:** A whole tributary that has stood up and walked onto the land, its channel for a spine, looking for the sea. It cuts a new valley wherever it goes and it has been going for ten thousand years, and the valleys it has left behind are the rivers of the region.
+- **Origin:** A river that changed its mind about where it lived.
+- **The wrong thing:** It is the river itself, and at the headwaters it has a mouth that is drinking the mountain it came from.
+- **Material and palette:** Cold blue, gravel, green banks, and a white floodline across its shoulders.
+- **Face:** A face at the head of it that is mostly water and partly appetite.
+- **Where found:** The headwaters of the Little Sellen.
+
+### Level 5 — Control Water *(rupture: plan)*
+- **The creature and its life:** A figure of standing water in the shape of a woman, at the meeting of two rivers, deciding which one goes where. She has stood there since before the rivers had names, and she has never once been wrong.
+- **Origin:** The first person to dam a river, and the dam that learned to want.
+- **The wrong thing:** She is not made of water. She is the holding, and when she moves, the rivers move, and the shape of the land goes with them.
+- **Material and palette:** Clear water, mossy stone, one gold ring on a finger of water that never closes.
+- **Face:** Composed. She is doing arithmetic.
+- **Where found:** The confluence of the Sellen and the Little Sellen.
+
+### Level 6 — Personal Ocean *(rupture: quantity)*
+- **The creature and its life:** A sea inside the outline of a person, walking on dry land, full to the brim. It is one body holding a whole ocean and the ocean wants out. It wanders the coast, and when it stops moving the water gets higher.
+- **Origin:** A sailor who swallowed the sea and did not drown.
+- **The wrong thing:** There is far too much water for the shape that holds it. The body is a skin around a tide, and it sloshes when the body turns.
+- **Material and palette:** Deep blue, whitecap at the collar, the pale of a drowned face inside the clear part.
+- **Face:** Calm, and behind the calm a great deal of pressure.
+- **Where found:** A beach below the Tuskwater.
+
+### Level 7 — Dancing Fountain *(rupture: material)*
+- **The creature and its life:** A fountain in a drowned city, still playing, rising and falling to a rhythm it has kept for centuries. It is fed by no spring. It is fed by everyone who ever drank from it, and they are still in the water.
+- **Origin:** A city that went under a reservoir with its festival still in progress.
+- **The wrong thing:** The fountain is made of its audience. The spray holds their shapes, the drops are their voices, and it has never stopped playing.
+- **Material and palette:** Pale stone, a rainbow in the mist, and a dark green under the water.
+- **Face:** Many, rising and falling in the water, all mid-song.
+- **Where found:** Beneath the surface of Candlemere.
+
+### Level 8 — Whirlpool *(rupture: scale)*
+- **The creature and its life:** A hole in the river that goes down further than the river is deep. Everything near it goes in and does not come out, and it has been emptying the shallows since the first flood.
+- **Origin:** The first thing the water ever swallowed, still hungry.
+- **The wrong thing:** It is bigger underneath than it is on top. Look into it at the right angle and you can see the far side of the world through the water.
+- **Material and palette:** Black water, a white spiral, and a light coming up from below that is not the sun.
+- **Face:** None. It is a mouth, and it is patient.
+- **Where found:** A bend of the Sellen where no boat will go.
+
+### Level 9 — Wrathful Storm *(rupture: plan)*
+- **The creature and its life:** The whole river, from source to sea, lifted into the air as one body, looking for somewhere to put itself down. It has no bed, so it is always falling, and the land beneath it is already gone. It is the flood that ended the age of the cyclops.
+- **Origin:** A river that rose up and never came back down.
+- **The wrong thing:** It is a river and a storm at once, and it is still a river: it has a current, a source, and a mouth, and the mouth is open over the Stolen Lands.
+- **Material and palette:** Storm grey, lightning white, and the green of the land it is about to erase.
+- **Face:** None that can be looked at. It is a horizon.
+- **Where found:** Over the Sellen, in the last week before the flood.
 
 ## Open questions
 
