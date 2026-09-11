@@ -185,6 +185,14 @@ not edits. Flag contradictions with existing canon instead of overwriting it (se
    anyone else's commits.
 7. Leave changes uncommitted if the user prefers to review first — that is the default in this vault.
 
+### 7.3 Propagate every answer across the vault
+
+A single answer often settles canon that several notes depend on. When the user gives information,
+find every note it touches — the character, their cohort, the faction, the church lore, the
+tattoos, the relationships — and update them together. Never stop at the note the question was
+asked about. A fact that lives in one note but not its neighbours is an unfinished edit. If a note
+it touches is off-limits, flag it instead of editing.
+
 ## 8. Failsafes & reversibility
 
 - **Everything is reversible via git.** To review: `git diff`. To discard an edit:
