@@ -30,16 +30,16 @@ Work out the look of Aurelius's apparition spirits, one per rank per family, bef
 - **Rank correlates with intelligence and might, but it is not a personhood ladder.** A Level 9 spirit can be a mindless catastrophe. A Level 2 spirit can be sly and articulate. The correlation is a tendency, not a law.
 - **Size is independent of rank.** A rank 1 spirit can be enormous, a rank 9 spirit can be small.
 - **All three design sources are in play.** A spirit can be a fear made flesh, a monument that remembers, or raw elemental grandeur, and often two of those at once.
-- **The register is cursed-spirit horror.** The designs are grotesque and confrontational, in the vein of JJK curses: wrong bodies, misplaced human features, exposed anatomy. They should be scary, cool, and visibly powerful. Subtle environmental horror is not the target. A spirit that hides in the scenery is a trap, not a curse.
+- **The register is cursed-spirit horror, played eerie.** The designs are grotesque and confrontational, in the vein of JJK curses: wrong bodies, misplaced human features, exposed anatomy. They should be scary, cool, and visibly powerful. But the fright is often calm rather than aggressive. The model is the stag: it does not menace, it grazes, and that is worse. Subtle environmental horror is not the target. A spirit that hides in the scenery is a trap, not a curse.
 - **Humanoid and abstract forms both appear at every tier.** No fixed climb from person to phenomenon.
 - **Every family ladder gets its own rhythm.** The mix of forms differs from family to family. No two families should read the same way.
 - **No mortal-visible effects.** No auras, smells, or local phenomena that non-seers can perceive.
 
 ## Design principles
 
-### The spell is the body
+### The spirit is a creature first
 
-Design each spirit from what its apparition spell actually does. The spirit *is* the verb. Interposing Earth is a thing that exists to be in the way. Petrify is a thing that exists to stop you. Falling Stars is a thing that exists to fall. This gives nine distinct silhouettes per family and keeps the designs honest to the mechanics.
+Design the creature, not the spell. Start with what the spirit is and what it does all day: what it eats, where it nests, what it herds or hoards or tends, how it moves, what it wants. Give it a life that would make sense even if it never met Aurelius. The apparition spell is the creature's capability, the thing that falls out of what it is. A fire spirit does not have to look like fire. The stag carries Monstrosity Form at Level 8, and it is not a picture of that spell; it is a grazing animal whose nature happens to be monstrous. A design that answers "what does the spell do" stops too early. A design that answers "what is this creature" already has the spell inside it.
 
 ### The origin sets the body plan
 
@@ -60,7 +60,11 @@ A cursed spirit is a creature you see, and what you see is a body that should no
 
 ### The one wrong thing
 
-The body carries **exactly one violation.** One, not five. It is the single detail the eye lands on and cannot leave. Tie it to the spell and the origin so it feels inevitable rather than random. One violation makes a curse; five make noise.
+The body carries **one signature violation.** One, not five. It is the single detail the eye lands on and cannot leave. The rest of the body should read as a real creature, so the violation has something normal to break. The stag is a stag before it is anything else; the ribcage of eyes is what ruins it. Tie the violation to the origin so it feels inevitable rather than random. One violation makes a curse; five make noise.
+
+### The horror is in the behavior
+
+A spirit is not a threat display. The stag does not hunt; it grazes, and you are in the pasture. The designs that work do something ordinary with terrible consequences, and they are calm while doing it. Indifference frightens more than aggression, because aggression can be answered and indifference cannot. Look for the moment the eye lands on the creature and the mind supplies the logic on its own: it is doing something, and you are part of what it is doing.
 
 ### The Avatar is the family's final shape
 
@@ -68,23 +72,23 @@ Every family page lists an **Avatar** in its Mechanical Reference. That is the f
 
 ## Steward of Stone and Fire: reworked ladder
 
-The family Aurelius will carry most, so it gets the most work. The throughline: a Steward holds something in, and it is made of the thing it holds. The lower ranks hold a line or a wall. The upper ranks hold the ground and the sky, and they are losing. The ladder ends where the Avatar begins: *Blood of Planets*, the molten core of a world.
+The family Aurelius will carry most, so it gets the most work. Every Steward is a creature with a trade, and the trade is bad news for anyone nearby. The throughline: a Steward keeps something or carries something, and it is made of the thing it keeps. The ladder climbs from a hand-sized guard to a falling world, and it ends where the Avatar begins: *Blood of Planets*, the molten core of a world.
 
 Carries: cantrip Ignition, then Interposing Earth (1) through Falling Stars (9).
 
-| Rank | Spell | Draft design | Origin and wrong thing |
+| Rank | Spell | The creature and its life | Origin and wrong thing |
 | :--- | :--- | :--- | :--- |
-| 1 | Interposing Earth | A squat figure of packed earth, arms spread wide, standing where something needs to be blocked. It cannot strike. It can only stand in the way. | A person who died shielding someone. Wrong thing: no face, only two flat palms pressed together where the face should be. |
-| 2 | Exploding Earth | A toad of cracked rock, squat and heavy, that swells with every breath until it bursts apart and drags itself back together. | The pressure in a collapsing mine. Wrong thing: it always reforms around whatever it last killed, so that thing stays pressed inside the stone. |
-| 3 | Fireball | A bead of fire the size of an eye, hanging in the air, still as a held breath. It does not burn until it looks at you. | A pocket of marsh gas, one breath before it catches. Wrong thing: it is an eye, and when it blinks, it goes off. |
-| 4 | Wall of Fire | A wall of fire that walks, as wide and patient as a city wall, advancing no faster than a siege. | The fire-line of a siege, held to the last. Wrong thing: through the flames, the wall is a crowd standing arm in arm, and not one of them is burning. |
-| 5 | Wall of Stone | A wall of fitted stone standing where no wall belongs, so smooth it has forgotten it was ever a doorway, a window, or a face. | A tomb sealed shut. Wrong thing: a mouth is set into the stone, sealed with a plug of the same rock, and it is warm. |
-| 6 | Petrify | A person caught mid-motion and turned entirely to stone, down to the last fold of their clothes. | Someone caught in the moment they looked back. Wrong thing: the eyes never finished turning, and they follow you. |
-| 7 | Volcanic Eruption | A column of ash and cinders walking down the mountainside, tall enough to blot out the sun, raining fire on everything ahead of it. | The anger of the people who live on a powder keg. Wrong thing: the plume is shaping itself into the face of the town it is walking toward. |
+| 1 | Interposing Earth | A squat figure of packed earth that stands in a mountain pass with its arms spread. It has stood there so long that the road was rerouted around it. It cannot strike. It only stands in the way. | A person who died shielding someone. Wrong thing: no face, only two flat palms pressed together over the space where the face should be, and it listens through them. |
+| 2 | Exploding Earth | A toad of cracked rock that nests in collapsing mines and eats the stone that falls. It swells with every breath until it bursts apart, then drags itself back together. | The pressure in a collapsing mine. Wrong thing: it reforms around whatever it last killed, so the dead thing stays pressed inside the stone, and it is slowly becoming their shape. |
+| 3 | Fireball | A squat thing of grey stone, the size of a goat, that walks the slopes on short legs and plants its feet carefully. Days later, fire blooms where it stepped, and it returns to watch the fires catch. | A mountain's anger, gone quiet and patient. Wrong thing: it plants its own teeth in the ground, and fire grows from each one. Its mouth is empty, and it is always smiling. |
+| 4 | Wall of Fire | A long, low creature that walks the same line across the mountainside, back and forth, and the ground smolders behind it. It has worn a trench into the rock with its walking. | A border that outlived the war it was drawn for. Wrong thing: it has forgotten what it divides, and it will not let anything cross, not even itself. |
+| 5 | Wall of Stone | A creature of fitted stone that walks the high valleys, and wherever it finds an opening, it closes it. It has sealed caves, wells, and doorways, and it remembers every one. | A mason who sealed a tomb and could not stop. Wrong thing: its own mouth is sealed with a fitted plug of the same rock, and the plug is warm. |
+| 6 | Petrify | A tall, thin figure of grey stone that walks the high valleys collecting living things. It touches them, and they stop. It arranges what it collects in rows along the ridge, all facing the sunrise. | A collector who could not stop. Wrong thing: its hands are the only living part of it, and they are gentle. |
+| 7 | Volcanic Eruption | A beast the size of the mountain, curled asleep around the fire at its root. The mountain is its shell. Its breath is what comes out of the peak. | A caldera that dreams. Wrong thing: you can see it through the vents, and its ribs are the mountain's caves, and its snore is warm. |
 | 8 | Earthquake | A blind colossus buried so deep that only its back breaks the surface, and its back is a mountain range. | Deep time. Wrong thing: the mountains are not stone. They are skin, and they are warm. |
-| 9 | Falling Stars | The Fall That Never Lands: a spirit caught forever one instant above the ground, still falling, a burning trail for a body and a crater for a head. | The end of the world, still on its way. Wrong thing: the crater-head holds the world's molten blood, spilling, and it never empties. |
+| 9 | Falling Stars | The Fall That Never Lands: a thing caught forever one instant above the ground, still falling, a burning trail for a body and a crater for a head. It has been falling since before the mountains, and it is patient. | The end of the world, still on its way. Wrong thing: its crater-head holds the world's molten blood, spilling, and it never empties. |
 
-Alternates considered: Level 6 as a stone figure with a single wet tear-track down its cheek, the first pass's design, dropped because the living eyes are the sharper violation; Level 9 as a basalt dragon with a human face, the most articulate Steward, kept on the bench in case the family needs a spirit that speaks.
+Alternates considered: Level 6 as a stone figure with a single wet tear-track down its cheek, dropped because the gentle living hands are the sharper violation; Level 9 as a basalt dragon with a human face, the most articulate Steward, kept on the bench in case the family needs a spirit that speaks.
 
 ## Approved spirit designs
 
@@ -108,19 +112,19 @@ A whale-sized thing whose mouth opens upward along its spine. It swims through e
 
 ## Stalker in Darkened Boughs: ladder draft
 
-Drafted outward from the approved Level 8 design. The ladder runs person, beast, place, then the forest itself. Hunters keep surfacing in it, which fits a family drawn to violence and to those who master it.
+Drafted outward from the approved Level 8 design. The family's trade is the hunt, and the hunt keeps turning on the hunter. Every spirit here is a creature with a way of life, and the spell is what that life can do. Level 3 (the blackthorn) is liked.
 
-| Rank | Spell | Draft design | Origin and wrong thing |
+| Rank | Spell | The creature and its life | Origin and wrong thing |
 | :--- | :--- | :--- | :--- |
-| 1 | Runic Body | A hunter walking on all fours, its skin cut into one unbroken rune from crown to fingertip until the marks read as fur. | A hunter killed and skinned by his own quarry. Wrong thing: a beast's muzzle is stitched over its face, and the hunter's mouth moves inside it. |
-| 2 | Vomit Swarm | A hairless forest beast, more belly than body, its jaw unhinged into a permanent wound. It breathes out a living carpet of its own young, which eats and returns. | A mother beast that ate what it should not have. Wrong thing: every one of the young is the same animal, the same size, and wears its mother's face. |
+| 1 | Runic Body | A hunter who walks on all fours now, hunting the way the beasts do. It keeps a tally of every creature that has ever escaped it, cut into its own hide. | A hunter killed and skinned by his own quarry. Wrong thing: a beast's muzzle is stitched over its face, and the hunter's mouth moves inside it. |
+| 2 | Vomit Swarm | A hairless forest beast, more belly than body, that nests in hollows and eats whatever it can swallow whole. It breathes out a living carpet of its own young, which eats and returns. | A mother beast that ate what it should not have. Wrong thing: every one of the young is the same animal, the same size, and wears its mother's face. |
 | 3 | Wall of Thorns | A blackthorn wall that walks the game trails wearing the shape of every creature that died against it, changing from one to the next as it moves. Whatever tries to pass, it becomes and lets through. | A wall of thorns grown over a killing ground. Wrong thing: one pair of real eyes passes between the shapes, and it never stops watching. |
-| 4 | Bestial Curse | A hunched figure with a wolf breaking out of it: shoulders split, a beast's skull pushing through the chest, a human face above, dry-eyed and calm. | A person cursed to hunt their own blood. Wrong thing: the human face is still trying to speak, and only the beast's mouth obeys. |
-| 5 | Moon Frenzy | A tide of wolves joined at a single spine, running under one howl, every head turned up. | A moonlit night of slaughter, remembered by the beasts that survived it. Wrong thing: it has one eye, and the eye is the moon. |
-| 6 | Tangling Creepers | A low tide of vine that flows across the ground like a closing hand, every tendril ending in a human hand. | The people who died tangled in the strangler fig, still reaching. Wrong thing: all the hands reach the same way, toward something that is not there. |
-| 7 | Unfettered Pack | A hunting party fused into one many-limbed beast: shoulders joined, spears and horns growing from the same hide, too many legs moving as one. | Hunters who followed their quarry past the edge of the map. Wrong thing: every face in the mass is a hunter's, and all of them are still blowing the horn. |
+| 4 | Bestial Curse | A thin, patient thing that follows hunters through the dark and waits outside their homes. Over weeks the hunter inside grows a coat, then a muzzle, then stops coming out. It leaves when the work is done. | A hunter who envied the beasts and got his wish. Wrong thing: its face is a stack of the faces it has finished with, and it wears the top one loosely. |
+| 5 | Moon Frenzy | A single wolf that walks the forest alone and howls at the moon. Whatever hears it wakes up changed, runs with it for one night, and forgets by morning. | A wolf that lost its pack and would not stop looking. Wrong thing: it is the only one of its kind, and it will make a pack out of anything. |
+| 6 | Tangling Creepers | A low tide of vine that flows across the forest floor and takes the hands of whatever it catches. It plants them, and they grow into more of itself. | The people who died tangled in the strangler fig, still reaching. Wrong thing: every tendril ends in a human hand, and all of them are still reaching. |
+| 7 | Unfettered Pack | A hunting party fused into one many-limbed beast. It still hunts in formation and still runs down its quarry, but there is only one of it now. | Hunters who followed their quarry past the edge of the map. Wrong thing: every face in the mass is a hunter's, and all of them are still blowing the horn. |
 | 8 | Monstrosity Form | A stag whose antlers are a whole grove and whose ribcage is packed with eyes, walking on too many legs. It does not hunt you. It grazes, and you are in the pasture. | Proposed: a grove's memory of being prey, given antlers. Wrong thing: the ribcage of eyes. |
-| 9 | Wrathful Storm | A storm that has taken the shape of the oldest beast: rain for fur, thunder for growl, uprooted trees walking as legs. It is always about to arrive. | The forest's answer to everything that ever hunted in it. Wrong thing: at its heart hangs a human hunter like a swallowed hook, and the storm grows around him. |
+| 9 | Wrathful Storm | The oldest hunter of the forest, grown so large and so old that it is mostly weather now. It walks, and storms follow it, and the trees bend out of its way. | The forest's answer to everything that ever hunted in it. Wrong thing: it has a hunter's face, and it is pleased. |
 
 Alternates considered: Level 5 as a single wolf whose shadow is the pack, dropped because the shadow puts the wrongness in the scenery; Level 9 with lightning for antlers, dropped because it repeats the Level 8 motif.
 
@@ -128,21 +132,21 @@ Liked so far: Level 3 (the blackthorn that changes shape).
 
 ## Lurker in Devouring Dark: ladder draft
 
-Built the same way, but the rhythm is different on purpose. Where the Stalker climbs toward a beast, this family climbs toward a mouth. The ladder is mostly bodies and mouths, and the cold does the work.
+The rhythm is different on purpose. Where the Stalker hunts, this family waits. Every spirit here is a creature of the cold and the deep, and most of them have been waiting longer than the world. Level 1 (the drowned figure) is liked.
 
-| Rank | Spell | Draft design | Origin and wrong thing |
+| Rank | Spell | The creature and its life | Origin and wrong thing |
 | :--- | :--- | :--- | :--- |
-| 1 | Grim Tendrils | A drowned figure hanging upright in empty air as if in water, arms branched into long black tendrils, feet trailing kelp. | A sailor who went under in the dark and never stopped reaching. Wrong thing: the tendrils grow from its mouth and nose, and it is still trying to breathe them in. |
-| 2 | Acid Grip | A boneless hand of black water, man-sized and dripping, that crawls on its fingers and grips. | The hand of someone the sea took and did not give back. Wrong thing: a wedding band sits on one finger, and the finger beneath it is bare bone. |
-| 3 | Aqueous Orb | A rolling sphere of black seawater, always on the verge of breaking but never breaking. | A wave that swallowed a ship and forgot to come ashore. Wrong thing: drowned faces press out from inside, all turned toward the surface. |
-| 4 | Grasp of the Deep | A colossal hand rising from a dark pool, its wrist thick as a ship's mast. | The pressure at the bottom of the world, given fingers. Wrong thing: the arm never ends; it goes down into the dark and is attached to nothing. |
-| 5 | Wall of Ice | A wave of black water frozen solid mid-crash, taller than a ship and standing where it stopped. | A tsunami that met a killing cold and never landed. Wrong thing: the fish and the sailors inside are still swimming, slowly, and they face you. |
-| 6 | Frost Pillar | A beast of rime and old ice, its body one open frozen wound, breathing out a pillar of cold that does not stop. | A thing that froze to death and kept breathing. Wrong thing: the pillar is not its breath but its tongue, frozen mid-lash. |
-| 7 | Hungry Depths | A pool of black water that is a stomach: a rim like a lip, a bottom that is not there. Things fall in and keep falling. | The first thing the deep ever swallowed. Wrong thing: you can hear the falling, and it has been going on a long time. |
-| 8 | Arctic Rift | A vertical tear in the spirit world, rimed with frost, opening onto absolute dark. | A crack in the ice at the end of the world. Wrong thing: something enormous is pressed against the far side, and only its rim shows. |
+| 1 | Grim Tendrils | A drowned figure hanging upright in empty air as if in water, arms branched into long black tendrils, feet trailing kelp. It reaches up, always, at nothing. | A sailor who went under in the dark and never stopped reaching. Wrong thing: the tendrils grow from its mouth and nose, and it is still trying to breathe them in. |
+| 2 | Acid Grip | A boneless hand of black water, man-sized and dripping, that crawls on its fingers along the seafloor and grips. It is looking for the rest of itself. | The hand of someone the sea took and did not give back. Wrong thing: a wedding band sits on one finger, and the finger beneath it is bare bone. |
+| 3 | Aqueous Orb | A ball of drowned things, fused and drifting along the seafloor. It rolls where the current takes it, picks up whatever it touches, and keeps it. | A ship's crew that went down together and did not come apart. Wrong thing: the faces pressed into its surface are all turned up, toward a surface they will never reach. |
+| 4 | Grasp of the Deep | A thing buried in the lake bed, so old and heavy that only one hand is free. The hand reaches up, slowly, and pulls down whatever comes close. | The pressure at the bottom of the world, given fingers. Wrong thing: the rest of it is the lake bed, and the hand is the only part still alive. |
+| 5 | Wall of Ice | A wave frozen solid mid-crash, taller than a ship, and inside it something enormous is still trying to come ashore. The ice is its shell, and it grows every winter. | A tsunami that met a killing cold and never landed. Wrong thing: the drowned inside are all facing the shore, and they are still swimming. |
+| 6 | Frost Pillar | A thing asleep under the ice, breathing up a column of frost that rises to the surface and does not stop. It has been breathing a long time. | A thing that froze to death and kept breathing. Wrong thing: the pillar is not its breath but its tongue, frozen mid-lash. |
+| 7 | Hungry Depths | A pit in the seafloor that swallows whatever falls in. It has been eating since before the sea, and it is not full. | The first thing the deep ever swallowed. Wrong thing: it is not a pit but a mouth, and it has been open so long that it has forgotten how to close. |
+| 8 | Arctic Rift | A vertical tear in the world, rimed with frost, opening onto absolute dark. It widens by a hair each year. | A crack in the ice at the end of the world. Wrong thing: something enormous is pressed against the far side, and it has been waiting for the tear to open. |
 | 9 | Implosion | A whale-sized thing whose mouth opens upward along its spine. It swims through earth and air as if they were water, and everything it passes over collapses into it. | Proposed: the hunger at the bottom of the deepest trench, grown from everything the sea has ever swallowed. Wrong thing: no eyes, only a mouth where the head should be. |
 
-Alternates considered: Level 3 with a face rotating across the orb's surface, dropped as a second violation; Level 8 with lips along the rift's edges, folded into the mouth imagery already at Levels 7 and 9.
+Alternates considered: Level 3 with a face rotating across its surface, dropped as a second violation; Level 8 with lips along the rift's edges, folded into the mouth imagery at Levels 7 and 9.
 
 Liked so far: Level 1 (the drowned figure).
 
@@ -153,19 +157,21 @@ Liked so far: Level 1 (the drowned figure).
 3. **The Steward at Level 9.** The rework picks the Fall That Never Lands. Is the basalt dragon retired, or kept for a spirit that speaks?
 4. **Output format.** One-line designs under each family page's Level section, or a full [[Spirit Template]] note per spirit, or one-liners on the family pages with full notes only for the spirits he actually binds?
 5. **Released spirits.** When a lower-rank spirit is released, does it stay an ally in the spirit world and become a recurring presence, or fade out of the story?
-6. **Names.** Do individual spirits get personal names, or are they known only by their design (the stone angel, the Fall That Never Lands)?
+6. **Names.** Do individual spirits get personal names, or are they known only by their design (the stag, the fire-planter, the Fall That Never Lands)?
 7. **Objectivity.** How much of what Aurelius sees is objective truth versus his own interpretation? He is the only witness.
 
 ## Design checklist
 
-1. Pick the family and rank, and read the apparition spell.
-2. Decide the origin: what was this spirit born from?
-3. Let the origin pick the body plan.
-4. Add one physical violation, tied to the spell.
-5. Check that the wrongness is written on the body, not hidden in the scenery.
-6. Describe the silhouette in a single sentence. If it takes two, it is two designs.
-7. Tie it to a place in the Stolen Lands where Aurelius finds it.
-8. Name it, or decide it stays unnamed.
+1. Pick the family and rank. Read the apparition spell last, not first.
+2. Design the creature: what is it, what does it do all day, where does it live, how does it move?
+3. Decide the origin: what was this spirit born from? Let the origin pick the body plan.
+4. Add one signature violation. Keep the rest of the body a coherent creature.
+5. Check that the horror is in the creature's behavior and logic, not only in its shape.
+6. Let the apparition spell be the capability that follows from what the creature is.
+7. Check that the wrongness is written on the body, not hidden in the scenery.
+8. Describe the silhouette in a single sentence. If it takes two, it is two designs.
+9. Tie it to a place in the Stolen Lands where Aurelius finds it.
+10. Name it, or decide it stays unnamed.
 
 ---
 
