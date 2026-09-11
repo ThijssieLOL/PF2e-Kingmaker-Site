@@ -72,23 +72,19 @@ Every family page lists an **Avatar** in its Mechanical Reference. That is the f
 
 ## Steward of Stone and Fire: reworked ladder
 
-The family Aurelius will carry most, so it gets the most work. The first pass ran on one idea, that a Steward keeps something and is made of the thing it keeps, and it flattened the family into nine versions of one note. This pass runs on a different throughline: **every Steward keeps a fire warm.** Each one tends a hearth, and the hearth is whatever it cannot let go cold, whether that is a coal, a pool, a body, or a mountain's heart. The horror is warmth that has outlived its reason. The ladder climbs from a coin-sized fire in a dead hearth to the last keeper at the door of the world's fire, and it ends where the Avatar begins: *Blood of Planets*, the molten core of a world.
-
 Carries: cantrip Ignition, then Interposing Earth (1) through Falling Stars (9).
 
 | Rank | Spell | The creature and its life | Origin and wrong thing |
 | :--- | :--- | :--- | :--- |
-| 1 | Interposing Earth | A figure of baked clay, the size of a child, crouched in the cold hearth of a burned hall. It has kept a coin-sized fire alive there since the hall burned. It does not fight and will not leave. When wind or rain reaches the fire, it unfolds a slab of earth from its own back and holds it up as a windbreak, and the slab stays after the weather passes. Over the years it has walled itself inside a little house of its own body. | The last keeper of the hearth, who stayed when the family fled the fire. Wrong thing: its jaw hangs open as the hearth, and the little fire burns inside its mouth. |
-| 2 | Exploding Earth | A round beast like a river boulder, on stubby legs, that buries itself belly-deep in scalding ground and swells with heat. Every few days it bursts apart and scatters hot shards across the slope, and the shards crawl back and fuse. It travels by bursting. | A beast that denned in a hot spring and was boiled. Wrong thing: its belly is a kiln, and pressed into the hot rock inside are the shapes of everything that ever fell into the spring, still warm, still perfect. It keeps them. |
-| 3 | Fireball | A hollow boulder that rolls down the volcanic slopes trailing fire. It cannot walk and does not want to; rolling is how it moves, and the fire is what its passage leaves. It herds small game down the slope ahead of it and eats what the fire cooks. | A wildfire that came loose from a lightning strike and would not stop. Wrong thing: inside the boulder, a person-shaped flame runs to keep it turning, face pressed to the cracks, watching where it is going. It never arrives. |
-| 4 | Wall of Fire | A wall of standing fire that drifts across burned country, tall as a house and slow as a day. It is a hearth that got up and walked: it lies across a valley to warm the ground through, and it will not let anything cross, because crossing lets the cold in. | A wildfire that someone stopped by standing in it. Wrong thing: cut into the fire is a doorway shaped like a person, and it is warm, and whatever steps through does not come out the other side. |
-| 5 | Wall of Stone | A long beast that lay down along a cliffside and never got up. Its body has grown over with fitted stone, and a road was built on its back. It holds still because the road is warm and it likes the weight. | A beast that lay down in a pass and was built over. Wrong thing: the road's tunnel runs through its jaws, and its mouth is always slightly wet, and it swallows when carts pass. |
-| 6 | Petrify | A tall, thin figure that turns whatever it touches to stone. It knows this about itself, so it sheathes both hands in stone and keeps to the high ridges, away from people. It is lonely, and it reaches anyway. | A person who was petrified in a mineral spring and woke up able to petrify. Wrong thing: the stone gloves are worn through at the palms, and beneath them the hands are still flesh, still reaching. |
-| 7 | Volcanic Eruption | A hairless beast the size of a barn that walks the caldera rim carrying bundles of dead trees and dead things, and throws them into the vent. It has done this since the mountain was young. It is not hunting and it is not angry; it is stoking. | A beast that crawled into the vent to die and was kept as the mountain's hands. Wrong thing: the fire burned its face away, and the smooth scarred mask it turns down toward the vent is smiling. |
-| 8 | Earthquake | A colossus that walks far beneath the crust, and its footsteps are earthquakes. It is going somewhere and has been going there since before the mountains. You only ever see a part of it: a knee through a mine shaft, a shoulder through a cave, a hand through the crack a tremor opened. | The weight of the world, given a body. Wrong thing: on the sole of each foot is a human face, and it presses them into the ground with every step, and the faces are still moving their mouths. |
-| 9 | Falling Stars | A vast figure of cracked basalt that stands at the bottom of the deepest shaft in the world, holding shut a door in the rock with its whole body. Behind the door is the world's fire. It has no arms, so it holds the door with its teeth, and its jaw has been breaking for an age. Sparks squeeze past it, rise through the stone, and fall back as stars. | The first stone, the first barrier. Wrong thing: its jaw is broken from holding the door, and it has held it anyway for an age, and its face is calm. |
-
-Alternates considered: Level 2 as a swarm of cinder-people that pours from a vent and builds something out of its own coals, held for a family that needs a crowd; Level 5 as a beast that sheds a fitted stone shell each century and leaves the shells as standing stones; Level 8 as a colossus whose back is an inhabited mountain range, and the people on it think they live on a mountain. Level 9 stays the door-holder for now, and the family still has no spirit that speaks.
+| 1 | Interposing Earth | | |
+| 2 | Exploding Earth | | |
+| 3 | Fireball | | |
+| 4 | Wall of Fire | | |
+| 5 | Wall of Stone | | |
+| 6 | Petrify | | |
+| 7 | Volcanic Eruption | | |
+| 8 | Earthquake | | |
+| 9 | Falling Stars | | |
 
 ## Approved spirit designs
 
@@ -154,10 +150,10 @@ Liked so far: Level 1 (the drowned figure).
 
 1. **Humanoid vs monstrosity.** Per family, per rank, or per spirit from its origin? There is no rule yet.
 2. **The Avatar.** Does the Avatar get a spirit of its own at Level 9, or does it stay a separate final form that no individual spirit reaches?
-3. **The Steward at Level 9.** The rework picks the door-holder at the world's fire. Is there room for a Steward that speaks, or does the family stay wordless?
+3. **The Steward at Level 9.** Is there room for a Steward that speaks, or does the family stay wordless?
 4. **Output format.** One-line designs under each family page's Level section, or a full [[Spirit Template]] note per spirit, or one-liners on the family pages with full notes only for the spirits he actually binds?
 5. **Released spirits.** When a lower-rank spirit is released, does it stay an ally in the spirit world and become a recurring presence, or fade out of the story?
-6. **Names.** Do individual spirits get personal names, or are they known only by their design (the stag, the burning runner, the door-holder)?
+6. **Names.** Do individual spirits get personal names, or are they known only by their design (the stag, the blackthorn)?
 7. **Objectivity.** How much of what Aurelius sees is objective truth versus his own interpretation? He is the only witness.
 
 ## Design checklist
