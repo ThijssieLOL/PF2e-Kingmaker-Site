@@ -4,6 +4,7 @@ tags:
   - character
   - God
 faction: "[[Heralds of the Moon Incarnate]]"
+Pantheon:
 Godly Domains:
   - Darkness
   - Decay

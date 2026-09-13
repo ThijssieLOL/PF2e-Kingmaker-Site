@@ -4,6 +4,7 @@ tags:
   - God
   - Religion
 faction: "[[The Order of the Sacred Mother]]"
+Pantheon:
 Godly Domains:
   - Community
   - Death

@@ -4,6 +4,7 @@ tags:
   - character
   - God
 faction: "[[The Church of the Everlasting Moonlight]]"
+Pantheon: 
 Godly Domains:
   - Moon
   - Fate
