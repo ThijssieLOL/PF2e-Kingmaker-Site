@@ -3,6 +3,7 @@ agent-editable: true
 tags:
   - Religion
   - God
+Pantheon: Erissian
 Godly Domains:
   - Sun
   - Life

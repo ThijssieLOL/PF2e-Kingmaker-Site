@@ -2,6 +2,7 @@
 tags:
   - Religion
   - God
+Pantheon:
 Godly Domains:
 Edicts:
 Anathema:
