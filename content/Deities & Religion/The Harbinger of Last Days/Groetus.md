@@ -1,10 +1,10 @@
 ---
-agent-editable: true
+agent-editable: false
 tags:
   - character
   - God
 faction: "[[Heralds of the Moon Incarnate]]"
-Pantheon:
+Pantheon: The Old Gods
 Godly Domains:
   - Darkness
   - Decay

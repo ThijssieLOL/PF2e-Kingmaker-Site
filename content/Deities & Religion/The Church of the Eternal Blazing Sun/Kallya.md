@@ -1,5 +1,5 @@
 ---
-agent-editable: true
+agent-editable: false
 tags:
   - Religion
   - God

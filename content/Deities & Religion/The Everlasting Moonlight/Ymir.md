@@ -1,10 +1,10 @@
 ---
-agent-editable: true
+agent-editable: false
 tags:
   - character
   - God
 faction: "[[The Church of the Everlasting Moonlight]]"
-Pantheon: 
+Pantheon:
 Godly Domains:
   - Moon
   - Fate
