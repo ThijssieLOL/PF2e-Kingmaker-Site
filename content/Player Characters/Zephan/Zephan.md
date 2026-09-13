@@ -41,9 +41,10 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - **The Resting Hero**: When he is recovering from another high stakes adventure, he wears more comfortable but still fashionable outfits. He often wears a crisp untucked white linen shirt with the top few buttons open (for the audiences enjoyment), loose fitting charcoal trousers and soft and comfortable indoor boots. 
   ![[Comfy Drip.png|232]]![[Comfy drip 2.png|192]]![[Comfy drip 3.png|229]]
 - **Diamond in the Rough**: When he is traveling terrains that would put him in danger of being dirtied, he wears more simple looking garments. He often wears a incredibly dark blue cloak, lined with a silver star pattern on the inside, over a dark grey double-breasted doublet with silver buttons. The outfit is finished with flexible dark blue leather pants and well worn travelers boots.
-  ![[Traveler drip.png|178]]![[Traveler Drip 2.png|245]]![[Pasted image 20260801154704.png|234]]
+  ![[Traveler drip.png|178]]![[Traveler Drip 2.png|245]]
 (The cloak is the general concept, what i described is really hard to find)
--**Shining Star**: Even the brightest star in the sky has nights that it must shine brighter still. For these occasions, Zephan has a large array of suits and uniforms that are capable of 
+-**Shining Star**: Even the brightest star in the sky has nights that it must shine brighter still. For these occasions, Zephan has a large array of suits and uniforms that are capable of bringing his natural glamour to new heights. Beautiful night sky black 
+
 ### Misc Appearance
 - Zephan always walks in quick measured strides
 - Zephan has immaculate posture
