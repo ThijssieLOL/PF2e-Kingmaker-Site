@@ -44,7 +44,8 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
   ![[Traveler drip.png|178]]![[Traveler Drip 2.png|245]]
 (The cloak is the general concept, what i described is really hard to find)
 -**Shining Star**: Even the brightest star in the sky has nights that it must shine brighter still. For these occasions, Zephan has a large array of suits and uniforms that are capable of bringing his natural glamour to new heights. Beautiful night sky black suits lined with gold starry accents with a silk purple sash below his hip. 
-![[Pasted image 20260913152755.png|201]]
+![[Pasted image 20260913152755.png|201]]![[Pasted image 20260913153857.png|182]]![[Pasted image 20260913153935.png|203]]
+
 ### Misc Appearance
 - Zephan always walks in quick measured strides
 - Zephan has immaculate posture
