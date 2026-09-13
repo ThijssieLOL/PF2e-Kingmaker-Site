@@ -43,7 +43,7 @@ Zephan must always looks his best for his adoring fans, so he has a plethora of 
 - **Diamond in the Rough**: When he is traveling terrains that would put him in danger of being dirtied, he wears more simple looking garments. He often wears a incredibly dark blue cloak, lined with a silver star pattern on the inside, over a dark grey double-breasted doublet with silver buttons. The outfit is finished with flexible dark blue leather pants and well worn travelers boots.
   ![[Traveler drip.png|178]]![[Traveler Drip 2.png|245]]
 (The cloak is the general concept, what i described is really hard to find)
--**Shining Star**: Even the brightest star in the sky has nights that it must shine brighter still. For these occasions, Zephan has a large array of suits and uniforms that are capable of bringing his natural glamour to new heights. Beautiful night sky black suits lined with gold starry accents with a purple sash to acc
+-**Shining Star**: Even the brightest star in the sky has nights that it must shine brighter still. For these occasions, Zephan has a large array of suits and uniforms that are capable of bringing his natural glamour to new heights. Beautiful night sky black suits lined with gold starry accents with a silk purple sash below his hip. 
 ![[Pasted image 20260913152755.png|201]]
 ### Misc Appearance
 - Zephan always walks in quick measured strides
@@ -165,5 +165,5 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 35   | Ew. If you fell in a vat of horse feces, i'm pretty sure the vat would have to take a bath.                                                                                                                                                                  |
 | 36   | You are so easily forgotten you wouldn't even make it on a missing persons case.                                                                                                                                                                             |
 ### Personality Quizes
-![[Pasted image 20260825134456.png]]
-![[Pasted image 20260825134517.png]]![[Pasted image 20260825134652.png]]![[Pasted image 20260825134755.png]]![[Pasted image 20260825134939.png]]![[Pasted image 20260825135005.png]]
+![[Big five 1.png]]
+![[Bigfive2.png]]![[Bigfive3.png]]![[Bigfive4.png]]![[Bigfive5.png]]![[Bigfive6.png]]
