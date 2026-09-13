@@ -166,4 +166,4 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 36   | You are so easily forgotten you wouldn't even make it on a missing persons case.                                                                                                                                                                             |
 ### Personality Quizes
 ![[Big five 1.png]]
-![[Bigfive2.png]]![[Bigfive3.png]]![[Bigfive4.png]]![[Bigfive5.png]]![[Pasted image 20260825135005.png]]
+![[Bigfive2.png]]![[Bigfive3.png]]![[Bigfive4.png]]![[Bigfive5.png]]![[Bigfive6.png]]
