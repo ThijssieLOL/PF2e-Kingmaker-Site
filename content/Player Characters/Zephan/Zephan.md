@@ -165,5 +165,5 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 35   | Ew. If you fell in a vat of horse feces, i'm pretty sure the vat would have to take a bath.                                                                                                                                                                  |
 | 36   | You are so easily forgotten you wouldn't even make it on a missing persons case.                                                                                                                                                                             |
 ### Personality Quizes
-![[Pasted image 20260825134456.png]]
-![[Pasted image 20260825134517.png]]![[Pasted image 20260825134652.png]]![[Pasted image 20260825134755.png]]![[Pasted image 20260825134939.png]]![[Pasted image 20260825135005.png]]
+![[Big five 1.png]]
+![[Bigfive2.png]]![[Bigfive3.png]]![[Bigfive4.png]]![[Bigfive5.png]]![[Pasted image 20260825135005.png]]
