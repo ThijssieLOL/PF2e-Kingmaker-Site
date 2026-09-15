@@ -1,7 +1,7 @@
 ---
 tags:
   - faction
-Current leaders:
+current leaders:
 headquarters:
 alignment:
 status: Active
