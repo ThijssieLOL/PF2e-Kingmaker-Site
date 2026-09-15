@@ -4,7 +4,7 @@ tags:
   - character
   - God
 faction: "[[The Church of the Everlasting Moonlight]]"
-Pantheon: Kellid
+Pantheon:
 Godly Domains:
   - Moon
   - Fate
