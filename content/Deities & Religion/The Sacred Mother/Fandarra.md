@@ -4,7 +4,7 @@ tags:
   - God
   - Religion
 faction: "[[The Order of the Sacred Mother]]"
-Pantheon:
+Pantheon: Kellid
 Godly Domains:
   - Community
   - Death
