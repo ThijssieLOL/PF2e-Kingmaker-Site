@@ -31,7 +31,7 @@ An orphan convicted of a crime is offered a choice instead of the sentence alone
 
 - **Trial:** The Church brings the charge and tries the child in its own courts, as a state tries its citizens.
 - **The Choice:** Once sentence is passed, the child chooses between serving it and entering a chancellery schooling program.
-- **Any Chancellery:** The child may choose any of the nine. [[The Chancellery of Silent Illumination]] selects the hardest, because its work carries the most responsibility, so a child it passes over usually finds a place elsewhere.
+- **Any Chancellery:** The child may choose any of the nine. Eight of them admit children of any family; only [[The Chancellery of Silent Illumination]] takes orphans alone, and it selects the hardest, so a child it passes over usually finds a place elsewhere.
 - **Family First:** Where the child still has family, that family decides the placement and may refuse the Church's offer. Where there is no one, the Church stands as guardian and arranges it.
 
 ## Oversight
