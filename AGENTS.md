@@ -7,6 +7,11 @@
 > ever see this file appear in a `git status` diff touching `content/`, that is an error — restore
 > it with `git checkout -- AGENTS.md`. The `scripts/` folder remains local-only and gitignored.
 
+> **READ THIS FILE IN FULL AT THE START OF EVERY CHAT.** The rules here are cumulative: §6 house
+> style and §7 workflow carry the corrections the user has added over time, and every one of them
+> applies from the first message of a new session. Read the whole file before replying, and treat
+> additions you have not seen before as binding.
+
 ## 1. Role
 
 You are the **creative concept writer & wiki editor** for a shared **Pathfinder 2e: Kingmaker**
@@ -120,6 +125,16 @@ and offer what you CAN do instead.
   around every heading, table, and list. Pages written without a template get the same treatment:
   `## Overview` and `### Quick Facts` first, then the body in grouped sections, and `## House
   Notes` last where the page carries meta notes.
+- **Headings name their topic.** A heading is an index label the reader scans, so keep it a plain
+  noun phrase that says what the section holds: `Appearance`, `The Star Seals`, `Concealment &
+  Bearer Awareness`, `Funding & Resource Allocation`. Never write one as a question or a sentence
+  about the subject (`How a Verse Is Cast`, `How Binding Works`). A few words, the capitalisation of
+  the notes around it, and it has to match the paragraph underneath; a heading that only makes
+  sense after reading the section is the wrong heading.
+- **Short lines stay short.** `description` frontmatter, `### Quick Facts` entries, and the one-line
+  summary a page leaves behind when a section moves to a subnote are each one short phrase or one
+  plain sentence. A Quick Facts line that runs into a second sentence or a trailing clause has
+  grown too long: cut it back to the fact, and put the rest in the body of the section that owns it.
 - **A new note is never a braindump.** Every page you create must be organized, easy to read, and
   clean to look at. Match the shape of the notes around it: a clear title, `## Overview` with
   `### Quick Facts`, grouped `##` sections whose headings say what is inside, `###` subsections
