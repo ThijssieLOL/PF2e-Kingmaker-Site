@@ -30,7 +30,7 @@
 Skip this section if your character has no magic/can't cast spells.
 
 12. **Where does your character tell people their magic came from?
-    - 
+    - Jock learned to navigate by the stars and quickly memorized the constellations. During his nights beneath the open sky, he began to notice patterns that no one else seemed to see. One night, he discovered a constellation among the familiar stars that appeared on no map. As he gazed at it, he heard music—not as though it were coming from the heavens, but as if the space between the stars itself were singing. Without really thinking about it, Jock sang back. And the world answered. From that moment on, he began to realize that there was an underlying language woven into everything that exists.
 13. **Where does your character actually get their magic?
     - 
 14. **Does this origin affect the magic's working and visuals?
