@@ -69,7 +69,7 @@ Skip this section if your character has no magic/can't cast spells.
      - He likes to act like a womanizer. In reality he can't get past a talking stage or he gets all flustered. 
 ### Backstory and Upbringing
 30. **Where did your character grow up?
-    - Eryndale, the town of his family with his parents  pet DAVE, WILLEN, BOB FRANKENSTEIN THE FIRST.
+    - Eryndale, the town of his family with his parents Zaleria and Esrin, and pet DAVE, WILLEM, BOB FRANKENSTEIN THE FIRST.
 31. **Who raised them? If not their parents, why?
     - His parents, but when his parents were too busy his butlers would take care of him.
 32. **Did your character have any form of education? Did they go to school? Were they home schooled? 
