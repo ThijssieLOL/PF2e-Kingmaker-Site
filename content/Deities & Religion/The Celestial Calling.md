@@ -2,8 +2,8 @@
 tags:
   - faction
 leader: The Sovereign Muse
-headquarters:
-alignment:
+headquarters: Atra Peak Observatory
+alignment: Lawful Good
 status: Active
 ---
 
