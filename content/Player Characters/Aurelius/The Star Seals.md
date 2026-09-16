@@ -13,7 +13,7 @@ status: Draft
 
 ## Overview
 
-The Star Seals are the somatic component of [[Aurelius]]'s casting: the handshapes his fingers take when he draws on divine power. Each seal is a single, fixed configuration of the hands, and no verse is cast with one alone. A spell is a short sequence of seals, and the order of that sequence is what shapes it. Change the order, and the spell changes with it.
+The Star Seals are the somatic component of [[Aurelius]]'s casting: the handshapes his fingers take when he draws on divine power. A seal is one fixed configuration of the hands, and one alone casts nothing. A spell is a short sequence of seals, and the order of that sequence is what shapes it. Change the order, and the spell changes with it.
 
 Every seal is named for a constellation, and every constellation is held by a Star Saint. [[The Hymnal]] records each verse in full, and the seal sequence is written down beside the verse it belongs to.
 
