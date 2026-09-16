@@ -141,11 +141,11 @@ Skip this section if your character has no magic/can't cast spells.
 63. **How would your character try to impress someone?
     - Flaunting like a peacock and boasting.
 64. **How does your character make friends?
-    - He makes friends by (mostly being himself 
+    - He makes friends by (mostly) being himself; cracking jokes, lighthearted talking etc.
 65. **What is your most valuable possession and why?
-
+    - The ring he has kept from his father. It has sentimental value to him.
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?
-
+    - If it requires etiquette, hell no. Otherwise he would be a part
 67. **What is your character's least funny joke that they think is great?
 
 68. **If your character was a celestial body(sun, star, moon, black hole) what one would they be?
