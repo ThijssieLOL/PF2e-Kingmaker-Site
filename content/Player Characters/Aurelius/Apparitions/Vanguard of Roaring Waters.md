@@ -9,32 +9,21 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Rousing Splash and the 1st-rank apparition spell: Hydraulic Push.*
+## Overview
+Spirits of the Vanguard of Roaring Waters are chaotic spirits of rapids, breakers, and rivers that carve the world.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Mist.*
-
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Crashing Wave.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Hydraulic Torrent.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Control Water.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Personal Ocean.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Dancing Fountain.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Whirlpool.*
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Wrathful Storm.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Hydraulic Push* (cantrip: Rousing Splash) | |
+| 2 | *Mist* | |
+| 3 | *Crashing Wave* | |
+| 4 | *Hydraulic Torrent* | |
+| 5 | *Control Water* | |
+| 6 | *Personal Ocean* | |
+| 7 | *Dancing Fountain* | |
+| 8 | *Whirlpool* | |
+| 9 | *Wrathful Storm* | |
 
 ## Mechanical Reference
 - **Apparition Skills:** Mountain Lore, River Lore

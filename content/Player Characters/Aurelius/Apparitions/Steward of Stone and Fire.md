@@ -9,32 +9,21 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Ignition and the 1st-rank apparition spell: Interposing Earth.*
+## Overview
+Spirits of the Steward of Stone and Fire are slow-burning spirits of mountains, volcanoes, and hot springs.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Exploding Earth.*
-
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Fireball.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Wall of Fire.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Wall of Stone.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Petrify.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Volcanic Eruption.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Earthquake.*
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Falling Stars.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Interposing Earth* (cantrip: Ignition) | |
+| 2 | *Exploding Earth* | |
+| 3 | *Fireball* | |
+| 4 | *Wall of Fire* | |
+| 5 | *Wall of Stone* | |
+| 6 | *Petrify* | |
+| 7 | *Volcanic Eruption* | |
+| 8 | *Earthquake* | |
+| 9 | *Falling Stars* | |
 
 ## Mechanical Reference
 - **Apparition Skills:** Mountain Lore, Volcano Lore

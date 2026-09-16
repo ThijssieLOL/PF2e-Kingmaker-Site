@@ -9,32 +9,21 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Figment and the 1st-rank apparition spell: Déjà Vu.*
+## Overview
+Spirits of the Echo of Lost Moments are born of forgotten memories, and of time that was damaged and then repaired.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Dispel Magic.*
-
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Curse of Lost Time.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Vision of Death.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Illusory Scene.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Phantasmal Calamity.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Retrocognition.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Quandary.*
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Foresight.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Déjà Vu* (cantrip: Figment) | |
+| 2 | *Dispel Magic* | |
+| 3 | *Curse of Lost Time* | |
+| 4 | *Vision of Death* | |
+| 5 | *Illusory Scene* | |
+| 6 | *Phantasmal Calamity* | |
+| 7 | *Retrocognition* | |
+| 8 | *Quandary* | |
+| 9 | *Foresight* | |
 
 ## Mechanical Reference
 - **Apparition Skills:** Fortune-Telling Lore, Genealogy Lore

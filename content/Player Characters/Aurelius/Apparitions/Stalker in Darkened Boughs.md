@@ -9,38 +9,31 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Gouging Claw and the 1st-rank apparition spell: Runic Body.*
+## Overview
+Spirits of the Stalker in Darkened Boughs are hunters of the ancient forests, drawn to violence and to those who master it.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Vomit Swarm.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Runic Body* (cantrip: Gouging Claw) | |
+| 2 | *Vomit Swarm* | |
+| 3 | *Wall of Thorns* | [[The Hedge]] |
+| 4 | *Bestial Curse* | |
+| 5 | *Moon Frenzy* | |
+| 6 | *Tangling Creepers* | |
+| 7 | *Unfettered Pack* | |
+| 8 | *Monstrosity Form* | [[The Grazer]] |
+| 9 | *Wrathful Storm* | |
 
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Wall of Thorns.*
+## Spirits
 
 ### [[The Hedge]]
+*Level 3 — Wall of Thorns*
 A blackthorn hedge grown into the shape of an animal, and the animal keeps changing. One pair of real eyes moves from shape to shape, and it never stops watching.
 
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Bestial Curse.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Moon Frenzy.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Tangling Creepers.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Unfettered Pack.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Monstrosity Form.*
-
 ### [[The Grazer]]
+*Level 8 — Monstrosity Form*
 A stag the height of a barn, its antlers grown into a grove of real trees and its open ribcage packed with eyes. It grazes, and you are in the pasture.
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Wrathful Storm.*
 
 ## Mechanical Reference
 - **Apparition Skills:** Forest Lore, Hunting Lore

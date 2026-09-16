@@ -9,35 +9,27 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Telekinetic Hand and the 1st-rank apparition spell: Ill Omen.*
+## Overview
+Spirits of the Impostor in Hidden Places are secret-keepers. They whisper in corners that mortal voices never reach.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Invisibility.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Ill Omen* (cantrip: Telekinetic Hand) | |
+| 2 | *Invisibility* | [[The Reflection]] |
+| 3 | *Veil of Privacy* | |
+| 4 | *Liminal Doorway* | |
+| 5 | *Strange Geometry* | |
+| 6 | *Mislead* | |
+| 7 | *Planar Palace* | |
+| 8 | *Disappearance* | |
+| 9 | *Phantasmagoria* | |
+
+## Spirits
 
 ### [[The Reflection]]
+*Level 2 — Invisibility*
 A spirit that lives only in glass, standing behind whoever looks into it in the shape of the person they fear most, and always smiling.
-
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Veil of Privacy.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Liminal Doorway.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Strange Geometry.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Mislead.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Planar Palace.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Disappearance.*
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Phantasmagoria.*
 
 ## Mechanical Reference
 - **Apparition Skills:** Fortune-Telling Lore, Underworld Lore

@@ -9,37 +9,30 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Caustic Blast and the 1st-rank apparition spell: Grim Tendrils.*
+## Overview
+Spirits of the Lurker in Devouring Dark are cold spirits of deep water and ice, and of the hungers beneath the world.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Acid Grip.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Grim Tendrils* (cantrip: Caustic Blast) | |
+| 2 | *Acid Grip* | [[The Reacher]] |
+| 3 | *Aqueous Orb* | |
+| 4 | *Grasp of the Deep* | |
+| 5 | *Wall of Ice* | |
+| 6 | *Frost Pillar* | |
+| 7 | *Hungry Depths* | |
+| 8 | *Arctic Rift* | |
+| 9 | *Implosion* | [[The Swallower]] |
+
+## Spirits
 
 ### [[The Reacher]]
+*Level 2 — Acid Grip*
 A drowned sailor hanging upright in the air, reaching at nothing. What answers him waits below in the dark and is never seen.
 
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Aqueous Orb.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Grasp of the Deep.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Wall of Ice.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Frost Pillar.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Hungry Depths.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Arctic Rift.*
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Implosion.*
-
 ### [[The Swallower]]
+*Level 9 — Implosion*
 A whale-sized thing with no head, its spine opening into a mouth from shoulder to tail. It swims through earth and air, and everything it passes over collapses into it.
 
 ## Mechanical Reference

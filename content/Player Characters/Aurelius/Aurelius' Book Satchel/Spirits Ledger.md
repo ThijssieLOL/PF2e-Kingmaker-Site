@@ -42,7 +42,7 @@ The level of a spirit is simply the rank of the apparition spell it carries: no 
 
 ## The Apparition Families
 
-Fourteen families are known to the animist tradition. Each page is a barebone template with a section for spirits of every level (1-9), ready to be filled in, plus its mechanical reference.
+Fourteen families are known to the animist tradition. Each page opens with the family's nature, then lists the nine levels with the spell each one carries, the spirits documented so far, and its mechanical reference.
 
 - [[Crafter in the Vault]] - spirits of forges, workshops, and places where creation and injury happen together.
 - [[Custodian of Groves and Gardens]] - quiet spirits of tended land that believe they have already found paradise.
@@ -62,4 +62,4 @@ Fourteen families are known to the animist tradition. Each page is a barebone te
 ## House Notes
 
 - **Rules:** The level system is house flavor layered over the *Pathfinder 2e* Animist class (*War of Immortals*). Mechanically, an apparition's skills, spell repertoire, vessel spell, and avatar are fixed by family (see each family page's Mechanical Reference); the level of the specific spirit bound is a narrative choice unless the group decides otherwise.
-- **New spirits:** Whenever the party wants a new spirit, or the GM needs one, draft it with the [[Spirit Template]] and add it to the appropriate level section of its family page.
+- **New spirits:** Whenever the party wants a new spirit, or the GM needs one, draft it with the [[Spirit Template]], add it to the level table on its family page, and give it a short entry under that page's Spirits heading.

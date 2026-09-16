@@ -9,32 +9,21 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Prestidigitation and the 1st-rank apparition spell: Dizzying Colors.*
+## Overview
+Spirits of the Reveler in Lost Glee are twisted spirits of joy that once was, and of mirth that now wounds.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Laughing Fit.*
-
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Hypnotize.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Confusion.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Illusory Scene.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Vibrant Pattern.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Warp Mind.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Quandary.*
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Wails of the Damned.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Dizzying Colors* (cantrip: Prestidigitation) | |
+| 2 | *Laughing Fit* | |
+| 3 | *Hypnotize* | |
+| 4 | *Confusion* | |
+| 5 | *Illusory Scene* | |
+| 6 | *Vibrant Pattern* | |
+| 7 | *Warp Mind* | |
+| 8 | *Quandary* | |
+| 9 | *Wails of the Damned* | |
 
 ## Mechanical Reference
 - **Apparition Skills:** Circus Lore, Fortune-Telling Lore

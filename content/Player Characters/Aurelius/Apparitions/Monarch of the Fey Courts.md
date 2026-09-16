@@ -9,35 +9,27 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Tangle Vine and the 1st-rank apparition spell: Charm.*
+## Overview
+Spirits of the Monarch of the Fey Courts are vain and capricious, and they belong to the courts of the First World.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Create Food.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Charm* (cantrip: Tangle Vine) | |
+| 2 | *Create Food* | |
+| 3 | *Enthrall* | |
+| 4 | *Suggestion* | |
+| 5 | *Hallucination* | |
+| 6 | *Dominate* | |
+| 7 | *Mask of Terror* | |
+| 8 | *Uncontrollable Dance* | [[The Court of One]] |
+| 9 | *Unfathomable Song* | |
 
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Enthrall.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Suggestion.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Hallucination.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Dominate.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Mask of Terror.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Uncontrollable Dance.*
+## Spirits
 
 ### [[The Court of One]]
+*Level 8 — Uncontrollable Dance*
 A line of masked dancers in gowns grey with dust, holding hands in a line with no fixed length. Anyone who watches must dance too, until they fall and join it.
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Unfathomable Song.*
 
 ## Mechanical Reference
 - **Apparition Skills:** Art Lore, Fey Lore

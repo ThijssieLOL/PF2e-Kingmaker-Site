@@ -9,32 +9,21 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Slashing Gust and the 1st-rank apparition spell: Tailwind.*
+## Overview
+Spirits of the Shepherd of Errant Winds are spirits of movement and freedom, born from the wake of the wind.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Propulsive Breeze.*
-
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Wall of Wind.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Vapor Form.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Scouting Eye.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Mislead.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Vacuum.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Punishing Winds.*
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Wrathful Storm.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Tailwind* (cantrip: Slashing Gust) | |
+| 2 | *Propulsive Breeze* | |
+| 3 | *Wall of Wind* | |
+| 4 | *Vapor Form* | |
+| 5 | *Scouting Eye* | |
+| 6 | *Mislead* | |
+| 7 | *Vacuum* | |
+| 8 | *Punishing Winds* | |
+| 9 | *Wrathful Storm* | |
 
 ## Mechanical Reference
 - **Apparition Skills:** Sailing Lore, Scouting Lore

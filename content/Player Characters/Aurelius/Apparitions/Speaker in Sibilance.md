@@ -9,32 +9,21 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Puff of Poison and the 1st-rank apparition spell: Ill Omen.*
+## Overview
+Spirits of the Speaker in Sibilance are hissing spirits of forbidden knowledge, and each serpent is a different counsel.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Stupefy.*
-
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Hypercognition.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Snake Fangs.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Slither.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Petrify.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Mask of Terror.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Unrelenting Observation.*
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Unfathomable Song.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Ill Omen* (cantrip: Puff of Poison) | |
+| 2 | *Stupefy* | |
+| 3 | *Hypercognition* | |
+| 4 | *Snake Fangs* | |
+| 5 | *Slither* | |
+| 6 | *Petrify* | |
+| 7 | *Mask of Terror* | |
+| 8 | *Unrelenting Observation* | |
+| 9 | *Unfathomable Song* | |
 
 ## Mechanical Reference
 - **Apparition Skills:** Fortune-Telling Lore, Mountain Lore

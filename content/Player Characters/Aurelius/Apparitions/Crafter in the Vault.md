@@ -9,32 +9,21 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Sigil and the 1st-rank apparition spell: Mending.*
+## Overview
+Spirits of the Crafter in the Vault are born of forges, workshops, and places where creation and injury happen together.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Knock.*
-
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Ghostly Weapon.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Creation.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Impaling Spike.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Wall of Metal.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: Beheading Buzz Saw.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Ferrous Form.*
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Resplendent Mansion.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Mending* (cantrip: Sigil) | |
+| 2 | *Knock* | |
+| 3 | *Ghostly Weapon* | |
+| 4 | *Creation* | |
+| 5 | *Impaling Spike* | |
+| 6 | *Wall of Metal* | |
+| 7 | *Beheading Buzz Saw* | |
+| 8 | *Ferrous Form* | |
+| 9 | *Resplendent Mansion* | |
 
 ## Mechanical Reference
 - **Apparition Skills:** Architecture Lore, Engineering Lore

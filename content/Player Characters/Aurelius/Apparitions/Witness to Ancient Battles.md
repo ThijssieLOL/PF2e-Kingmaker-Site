@@ -9,35 +9,27 @@ aliases:
 status: Active
 ---
 
-## Level 1 Spirits
-*Carries the cantrip Shield and the 1st-rank apparition spell: Sure Strike.*
+## Overview
+Spirits of the Witness to Ancient Battles are grim spirits of soldiers, sieges, and fields that drank too much blood.
 
-## Level 2 Spirits
-*Carries the 2nd-rank apparition spell: Enlarge.*
+## The Nine Levels
+| Level | Spell | Spirit |
+| :---: | :--- | :--- |
+| 1 | *Sure Strike* (cantrip: Shield) | |
+| 2 | *Enlarge* | |
+| 3 | *Ghostly Weapon* | |
+| 4 | *Weapon Storm* | |
+| 5 | *Invoke Spirits* | |
+| 6 | *Phantasmal Calamity* | |
+| 7 | *True Target* | |
+| 8 | *Canticle of Everlasting Grief* | [[The Piper]] |
+| 9 | *Weapon of Judgment* | |
 
-## Level 3 Spirits
-*Carries the 3rd-rank apparition spell: Ghostly Weapon.*
-
-## Level 4 Spirits
-*Carries the 4th-rank apparition spell: Weapon Storm.*
-
-## Level 5 Spirits
-*Carries the 5th-rank apparition spell: Invoke Spirits.*
-
-## Level 6 Spirits
-*Carries the 6th-rank apparition spell: Phantasmal Calamity.*
-
-## Level 7 Spirits
-*Carries the 7th-rank apparition spell: True Target.*
-
-## Level 8 Spirits
-*Carries the 8th-rank apparition spell: Canticle of Everlasting Grief.*
+## Spirits
 
 ### [[The Piper]]
+*Level 8 — Canticle of Everlasting Grief*
 A man-sized spirit with three faces on one head and a coat over a body that is only wounds. It plays before a battle, and only the men who will die in the coming attack can hear the tune.
-
-## Level 9 Spirits
-*Carries the 9th-rank apparition spell: Weapon of Judgment.*
 
 ## Mechanical Reference
 - **Apparition Skills:** Battlegrounds Lore, Heraldry Lore
