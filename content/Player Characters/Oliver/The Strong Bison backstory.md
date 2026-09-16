@@ -175,7 +175,7 @@ This time, he will not be the frightened eight year old boy watching from the sh
 
 So when an opportunity arises to join an expedition into the **Stolen Lands**, [[Oliver Strong Bison|Oliver]] takes it.
 
-Officially, he is travelling there to help establish a new settlement and explore the dangerous wilderness.
+Officially, he is travelling there to explore the dangerous wilderness.
 
 Unofficially, he has another purpose.
 
