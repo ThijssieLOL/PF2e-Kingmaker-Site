@@ -62,7 +62,7 @@ The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant
 
 ## Known Operatives: The Twenty-First Vigil
 
-The most recent graduating cohort. Of the seven, two remain in active service to the Chancellery under public cover; the rest have transferred to another Chancellery, taken up public roles outside the covert service, or fallen in battle.
+The most recent graduating cohort. Of the seven, four remain in active service to the Chancellery under public cover; one has transferred to another Chancellery, and two are counted among the fallen.
 
 ### Current Members
 
@@ -70,15 +70,15 @@ The most recent graduating cohort. Of the seven, two remain in active service to
 | :----- | :--- | :----------- |
 | [[Vespera]] | Investigator | Grade 8 Legal Scribe and Archival Assistant |
 | [[Lyra]] | Alchemist | Grade 8 Apothecary and Sacristan |
+| [[Gideon]] | Warpriest | Grade 8 Hospitaler and Chaplain |
+| [[Julian]] | Swashbuckler | Grade 8 Cantor and Choir Lead |
 
 ### Former Members
 
 | Member | Path | Now |
 | :----- | :--- | :-- |
-| [[Aurelius]] | Animist | Missionary on the Stolen Lands charter, [[The Chancellery of the Outer Horizon]] |
-| [[Gideon]] | Warpriest | Grade 8 Hospitaler and Chaplain |
-| [[Julian]] | Swashbuckler | Cantor and Choir Lead (Grade 8) |
+| [[Aurelius]] | Animist | Grade 8 (Cinder) missionary on the Stolen Lands charter, [[The Chancellery of the Outer Horizon]] |
 | [[Tristan]] | Champion (Redeemer) | Presumed deceased |
-| [[Valerius]] | Fighter | Deceased |
+| [[Valerius]] | Fighter | Presumed deceased |
 
 The Vigil keeps a shrine to its fallen in the church graveyard garden of Restov, tended by [[Lucian|Father Lucian Soler]].

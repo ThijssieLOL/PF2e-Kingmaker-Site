@@ -21,7 +21,7 @@ Lyra is an eccentric, enthusiastic researcher fascinated by the physical propert
 - **Ancestry/Species:** Human
 - **Class/Profession:** Alchemist (Chirurgeon)
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
-- **Role/Rank:** Combat Medic, Demolitions Expert, and Tech Support (Public Cover: Apothecary and Sacristan, Grade 8)
+- **Role/Rank:** Combat Medic, Demolitions Expert, and Tech Support (Public Cover: Grade 8 Apothecary and Sacristan)
 
 ## Appearance
 - **Physical Build & Features:** Lyra has a petite, slender frame that never seems to stop moving. Her face is all wide, expressive amber eyes that burn with an intense, almost manic curiosity. Her hair, a wild, unruly crown of copper-brown, is perpetually messy, with several locks singed at the ends from close-call laboratory mishaps. She is rarely seen without a light dusting of charcoal soot, dried herbal residue, or dark ink smudged across her cheeks and the bridge of her nose.
