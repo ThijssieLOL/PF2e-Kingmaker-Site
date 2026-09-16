@@ -16,12 +16,12 @@ status: Active
 
 ## Overview
 
-The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, written down the way a singer writes down a song, so that he can sing it true again after long weeks without use. Each dawn he prays the day's office out of it in the [[The Liturgical Cadence|Liturgical Cadence]], and the rest of the book keeps the record of every verse he has ever learned. When he casts, the verses burn Aureolin White and his tattoos ignite along his forearms and shins.
+The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, set down so that he can speak it true again after long weeks without use. Each dawn he prays the day's office out of it in the [[The Liturgical Cadence|Liturgical Cadence]], and the rest of the book keeps the record of every verse he has ever learned. When he casts, the verses burn Aureolin White and his tattoos ignite along his forearms and shins.
 
 ### Quick Facts
 - **Kind of Book:** Prayer book of divine hymns
 - **What It Holds:** Every verse Aurelius has learned, divine, apparition, or focus
-- **How It Records:** Each verse is entered in full, in short phrases, per the [[Spell Template]]. Material components are left out, the seal sequence stays inside the somatic line, and provenance carries the source
+- **How It Records:** Each verse is entered in full, in short phrases, per the [[Spell Template]]. The record leaves material components out, keeps the seal sequence inside the somatic line, and lets provenance carry the source
 - **Morning Office:** Said at dawn: the divine verses are prayed for and bestowed, then the spirits in the [[Spirits Ledger]] are called, their chief lending its vessel spell
 - **Kept In:** Aurelius's book satchel
 - **Current Verses:** Cantrips and 1st-rank spells
@@ -30,7 +30,7 @@ The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound 
 
 A verse is chanted or spoken, never sung, and Aurelius speaks it aloud. It holds no rhyme and no meter: the words are plain liturgical prose, and the old pronouns of the [[The Liturgical Cadence|Cadence]] stay out of them.
 
-The words are fixed. He recalls each verse exactly as it was set down, though the telling can shift with the moment, and the words belong to the spell rather than to the spirit that lends it.
+The words are fixed. He recalls each verse exactly as it was set down, though the telling can shift with the moment. A verse belongs to the spell, not to the spirit that lends it.
 
 Where a verse is heard depends on its source. A spirit's verse is spoken in the spirit realm and does not carry to mortal ears; a divine verse is spoken aloud and heard by anyone nearby.
 
@@ -138,4 +138,4 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 
 ## House Notes
 
-- **Open items:** the three-action *Heal* is not yet set down; whether it lengthens the verse or sings the same words with more force is still open.
+- **Open items:** the three-action *Heal* is still open. Does it lengthen the verse, or is it the same words spoken with more force?

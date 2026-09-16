@@ -76,6 +76,14 @@ Every seal is one of these twelve configurations.
 
 ![[The Star Seals - Ram.png|170]]
 
+## Building a Sequence
+
+A verse is cast through a run of seals, and the run grows with the rank of the verse: a cantrip takes the fewest seals, and a higher verse takes more. The traits of the spell choose the shapes, and the Star Saint whose seal matches the spell's domain matters; *Heal* draws on [[The Chalice]], held by [[Saint Olevira]], for health and healing.
+
+A sequence belongs to the spell, not to the spirit that lends it. When two apparitions lend the same verse, the seals do not change.
+
+No verse opens or closes on a fixed seal.
+
 ## The Seals
 
 | Seal | Star Saint | Saintly Domain | Base Shape |
@@ -102,3 +110,4 @@ Every seal is one of these twelve configurations.
 
 - **The size of the set** is still open: it depends on whether the seals cover the thirteen of the Cosmic Caravan or all seventeen constellations in [[Constellations and Cosmology]].
 - **Open items** are marked in the table above, where five saints wait on a domain and five seals wait on a shape.
+- **Interposing Earth** is cast as a reaction, which may not leave time for a full sequence; how the hands manage it is not yet set down.
