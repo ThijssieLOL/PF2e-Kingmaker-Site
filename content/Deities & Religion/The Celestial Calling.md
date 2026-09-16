@@ -1,6 +1,9 @@
 ---
 tags:
   - faction
+  - lore
+  - Religion
+  - spirit
 leader: The Sovereign Muse
 headquarters: Atra Peak Observatory
 alignment: Lawful Good
@@ -12,7 +15,7 @@ status: Active
 > "May your spark burn clear, your Muse walk near, and your name find its star. -Common prayer"
 
 ## Overview
-A brief 1-2 sentence summary of what this faction is and its main role.
+The Celestial Calling is a religion centered on spirits and 
 
 ### Quick Facts
 - **Leader:** 
