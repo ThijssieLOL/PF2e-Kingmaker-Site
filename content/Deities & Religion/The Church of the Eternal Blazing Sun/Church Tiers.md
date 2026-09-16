@@ -32,4 +32,4 @@ Every Cinder (Grade 8) must hold active assignment to a Chancellery, so a Tier 2
 
 Most local churches carry a single **main chancellery**, the pillar that founded, endowed, or champions that house. Such a church becomes the regional hub in its area for that chancellery: the seat of its local leadership, its training grounds, its storehouses, and the first address of its faithful across the surrounding land.
 
-- **Example — Restov:** The local church of Restov, home parish of [[Aurelius]], is the regional hub of [[The Chancellery of Silent Illumination]] in the area. Orphans of the region are gathered there, tested, and begun in their training before induction into the Chancellery's covert cohorts.
+- **Example — Restov:** The local church of Restov, home parish of [[Aurelius]], is the regional hub of [[The Chancellery of Silent Illumination]] in the area. Orphaned children of the region who choose the Chancellery's path are schooled and trained there before induction into its cohorts.
