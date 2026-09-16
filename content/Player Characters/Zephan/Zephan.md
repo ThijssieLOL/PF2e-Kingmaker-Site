@@ -163,6 +163,8 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 34   | You should try to find a Tengu. Some say they absorb misfortune, and it seems you have plenty of that to spare.                                                                                                                                              |
 | 35   | Ew. If you fell in a vat of horse feces, i'm pretty sure the vat would have to take a bath.                                                                                                                                                                  |
 | 36   | You are so easily forgotten you wouldn't even make it on a missing persons case.                                                                                                                                                                             |
+| 37   | I can see that you are commited to your current level of understanding                                                                                                                                                                                       |
+| 38   | I am truly jealous of everyone that hasn't met you                                                                                                                                                                                                           |
 ### Personality Quizes
 ![[Zephan_Big five 1.png]]
 ![[Zephan_Bigfive2.png]]![[Zephan_Bigfive3.png]]![[Zephan_Bigfive4.png]]![[Zephan_Bigfive5.png]]![[Zephan_Bigfive6.png]]
