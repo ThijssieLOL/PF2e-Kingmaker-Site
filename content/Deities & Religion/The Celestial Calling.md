@@ -45,7 +45,8 @@ Spirits and their ascension are greatly important to this religion.
 - **The Sovereign Muse**: The Sovereign muse is a Greater Spirit with the concept of guiding. It seeks to aid the Polars in helping as many people as possible, because it suspects it will become a constellation if it helps create the ultimate guide it will ascend to the level of constellation. It is an extremely old and thus powerful spirit and has no solid form. If often chooses to appear as a dense, murmuration-like flock of hundreds of starlight-colored songbirds or moths. When speaking to the people other than the Polars, the flock condenses into a shimmering, humanoid silhouette wearing robes made of moving night sky, to appear more human. No matter what form it takes, it always has a hole somewhere in its body where no lights seem to glow. 
 ### Buildings
 - **Shrines**: The majority of worship buildings for The Celestial Calling are small shrines. They are comprised of two kinds: more general shrines used for any matter of spirit calling or more specialized shrines, designed with a specific spirit kind in mind.
-- **Temples**: Temples for The Celestial Calling are rare, and often only found in major cities. They are building, where within their is a single general shrine and a collection of more specialist shrines surrounding it. 
+- **Temples**: Temples for The Celestial Calling are rare, and often only found in major cities. They are building, where within their is a single general shrine and a collection of more specialist shrines surrounding it. These depend on the most used shrines in the city, and it is believed that the larger amount of offerings that are left here attract more spirits.
+- **Astra Peak Observatory**: This large monastery is build on a snowy mountain where the stars are especially clear. It holds both the seat of the Polars,
 ---
 
 ## Customs and Rituals

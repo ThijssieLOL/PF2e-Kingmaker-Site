@@ -66,12 +66,12 @@ Skip this section if your character has no magic/can't cast spells.
 28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.
 
 29. **Is your character or has your character been in a romantic relationship?
-     - He likes to act like a womanizer. In reality he can't get p
+     - He likes to act like a womanizer. In reality he can't get past a talking stage or he gets all flustered. 
 ### Backstory and Upbringing
 30. **Where did your character grow up?
-
+    - Eryndale, the town of his family.
 31. **Who raised them? If not their parents, why?
-
+    - His parents and the butlers. 
 32. **Did your character have any form of education? Did they go to school? Were they home schooled? 
 
 33. **How has your upbringing shaped your worldview?
