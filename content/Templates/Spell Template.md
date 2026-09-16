@@ -17,7 +17,6 @@ aliases:
 - **Manifestation:** (What the spell looks like as it takes form: the shape the verse gives the power.)
 - **Verbal Component:** (The words the verse is spoken with.)
 - **Somatic Component:** (The handshapes the casting calls for. For [[Aurelius]] this is a sequence of [[The Star Seals|seals]].)
-- **Material Component:** (The object the casting requires or consumes, if the spell has one.)
 - **Sensation:** (What the casting feels like while it happens, both to Aurelius and to anyone standing near.)
 - **Residue:** (What the spell leaves behind once it has ended, such as a mark or a lingering trace.)
 - **Provenance:** (Where the verse came from: the spirit or source that granted it.)
