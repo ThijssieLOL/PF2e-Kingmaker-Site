@@ -36,7 +36,7 @@ Skip this section if your character has no magic/can't cast spells.
 14. **Does this origin affect the magic's working and visuals?
     - 
 15. **What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
-    - It depends on the song he's playing. There are symbols flowing out of the strings 
+    - It depends on the song he's playing. There are symbols flowing out of the strings based on the theme.
 16. **Is there a cost to the magic?
     - 
 #### Combat style
