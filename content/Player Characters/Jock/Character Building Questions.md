@@ -11,6 +11,7 @@
     - Common
     - Elvish
     - Thallasic
+    - River Cant
 ### Visual Design and Aesthetics
 5. **What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
     - Tall (1,80m) and athletic but quite slender. Isn't hairy but does have luscious hair on top of his head.
@@ -19,9 +20,9 @@
 7. **Is your character well groomed? Do they bathe often? Do they brush their teeth? 
     - He's pretty well groomed even if he doesn't look the type to be. He's horrible with cleaning his shoes though.
 8. **Does your character have a condition or other distinction that makes them different from others of their race/species.
-    - 2 different colored eyes
+    - Has heterochromia (or homophobia like some of you like to call it).
 9. **What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?
-    - He doesn't wear 'fancy' clothes like his parents. 
+    - He wears pirate-esque clothing. Back in his family home he was forced to be 'proper' like his noble parents but he didn't care much for it. 
 10. **Does your character have a particular set of nice clothes? If so, what does it look like?
 
 11. **What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?
