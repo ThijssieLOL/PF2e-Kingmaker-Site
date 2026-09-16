@@ -16,13 +16,13 @@ status: Active
 
 ## Overview
 
-The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in the book case he calls the Capsa. He does not read it to a congregation. Every verse inside is a spell, written down the way a singer writes down a song, with its sight, its word, and its gesture, so that he can sing it true again after long weeks without use. The book holds his magic in two parts. At the front sits the day's office, the prayers he says each morning to have his divine spells bestowed and to call the spirits he has bound to his side. Behind it lies the record, every verse he has ever learned, kept in order of rank and never struck out. The pages he will need seem to warm against his palm. When he casts, the verses burn Aureolin White: his tattoos ignite along his forearms and shins, and the magic rises as pure white-gold flame.
+The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, written down the way a singer writes down a song, with its sight, its word, and its gesture, so that he can sing it true again after long weeks without use. The book holds his magic in two parts. At the front sits the day's office, the prayers he says each morning to have his divine spells bestowed and to call the spirits he has bound to his side. Behind it lies the record, every verse he has ever learned, kept in order of rank and never struck out. The pages he will need seem to warm against his palm. When he casts, the verses burn Aureolin White: his tattoos ignite along his forearms and shins, and the magic rises as pure white-gold flame.
 
 ### Quick Facts
 - **Kind of Book:** Prayer book of divine hymns
 - **What It Holds:** Every verse Aurelius has learned, divine and apparition alike
 - **How It Records:** Each verse is entered in full, with its sight, its word, and its gesture, per the [[Spell Template]]
-- **Kept In:** The leather book case Aurelius calls the Capsa
+- **Kept In:** Aurelius's book satchel
 - **Current Verses:** Cantrips and 1st-rank spells
 
 ## The Morning Prayer
