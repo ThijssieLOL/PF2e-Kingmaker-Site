@@ -9,11 +9,11 @@
     - Deception
 4. **What languages does your character speak and why?
     - Common
-    - Elven
+    - Elvish
     - Thallasic
 ### Visual Design and Aesthetics
 5. **What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
-    - Tall and athletic but quite slender. Isn't hairy but does have luscious hair on top of his head.
+    - Tall (1,80m) and athletic but quite slender. Isn't hairy but does have luscious hair on top of his head.
 6. **What notable physical features does your character have? Impressive scars, unusual hair colour or glamorous tattoos and piercings, what makes your character's look distinct.
     - Has a pirate hat he thinks look cool (it doesn't) and jewelry that varies between gold and silver. Most noticeable is probably the heterochromia and pointy ears.
 7. **Is your character well groomed? Do they bathe often? Do they brush their teeth? 
