@@ -170,6 +170,8 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 41   | Nothing lights up a room like your absense                                                                                                                                                                                                                   |
 | 42   | Sometimes I wish i didn't have common sense. You and your ilk always seem so... happy                                                                                                                                                                        |
 | 43   | I am absolutely resoundingly sure that it is impossible to underestimate you                                                                                                                                                                                 |
+| 44   | I commend you sir. you have mastered the tone of authority without the inconvenience of depth                                                                                                                                                                |
+| 45   | Normally i                                                                                                                                                                                                                                                   |
 ### Personality Quizes
 ![[Zephan_Big five 1.png]]
 ![[Zephan_Bigfive2.png]]![[Zephan_Bigfive3.png]]![[Zephan_Bigfive4.png]]![[Zephan_Bigfive5.png]]![[Zephan_Bigfive6.png]]
