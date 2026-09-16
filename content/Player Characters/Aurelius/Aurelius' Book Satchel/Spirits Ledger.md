@@ -26,6 +26,15 @@ His **Binding Ledger** is the personal catalogue he keeps of these families and 
 - **Where Spirits Live:** Every spirit is a real creature with a true form in the spirit dimension, where it hunts, hoards, argues, and ages. To creatures that cannot perceive the spirit layer it is wholly invisible and intangible: no shadow, no sound, no presence at all. Only spiritual sight reveals it to the living: the [[Ocular of Kaelen]], spirit-seeing magic, or an animist's attunement. (In rules terms, a spirit generally cannot be seen, targeted, or affected by anything that does not specifically perceive or affect spirits.)
 - **Seeking New Spirits:** As Aurelius's power deepens, each time he gains a new spell rank, his vessel can finally hold spirits of a higher level. He then sets out to *find* one: a new spirit of a family he already keeps, or a family he has never bound. A low-level spirit released with honor remains an ally; a spirit too strong to bind yet remains a goal.
 
+## How He Meets Spirits
+
+Spirits meet Aurelius according to their nature.
+
+- **Weak spirits** recognize his spiritual authority and submit to his presence without contest.
+- **Good spirits** work with him as willing partners, in mutual respect.
+- **Neutral spirits** he guides gently toward order and the sun goddess' light, through patient negotiation.
+- **Evil spirits** he treats as unnatural parasites. He binds them in holy chains of pure white-gold light, bends them to serve divine justice, and cleanses them. Managing them demands intense mental focus and takes a physical toll on him.
+
 ## Spirit Levels
 
 The level of a spirit is simply the rank of the apparition spell it carries: no titles, no grades. A Level 1 spirit, a Level 4 spirit, and so on. Aurelius can hold spirits of a given level once he can cast apparition spells of that rank.
