@@ -39,7 +39,7 @@ Aurelius is a religious warrior-philosopher living a delicate double life. By da
 Aurelius is tall and lean, with an athletic build, broad in the shoulder and narrow at the waist. He looks like an agile martial artist, built for speed, precision, and relentless movement. His features are youthful and refined: high cheekbones, a straight nose, expressive, gentle lips. Thick, dark hair falls in loose, windswept layers around his face.
 
 ### The "Eyes of God" ([[Ocular of Kaelen]])
-Aurelius has an extraordinarily rare, prophetic eye condition called the [[Ocular of Kaelen]] in ancient texts, and informally the "Eyes of God" within the Church. His eyes see directly into the spiritual layer of reality. When he works covertly or needs to avoid the shadowy cabal that hunts his ocular trait, he pulls a thick traveler's hood low over his brow and keeps a humble, downcast gaze to blend into scholarly crowds.
+Aurelius has an extraordinarily rare, prophetic eye condition called the [[Ocular of Kaelen]] in ancient texts, and informally the "Eyes of God" within the Church. His eyes see directly into the spiritual layer of reality. When he works covertly or needs to avoid the shadowy cabal that hunts his ocular trait, he pulls a thick traveler's hood low over his brow and keeps a humble, downcast gaze to blend into scholarly crowds. [1]
 
 ### The [[Tattoos of Penance]]
 Dark, intricate tattoos in the style of traditional criminal brands run across his forearms and shins, marking his past transgressions: theft, assault, and the murder of an innocent family.
@@ -173,5 +173,11 @@ The Vigil keeps a shrine to the fallen in the church graveyard garden of Restov,
 
 ## Inspiration & References
 
-- [Naruto](https://youtu.be/RzClCJFpSoM?si=vRJE6fSOgOU461Dp): video reference for the choreography of Aurelius's combat style.
+| Ref | Source | Inspired |
+| :-- | :-- | :-- |
+| [1] | [Saint's Corpse](https://jojowiki.com/Saint's_Corpse) (*JoJo's Bizarre Adventure*) | The [[Ocular of Kaelen]] ("Eyes of God") |
+| [2] | [Ryomen Sukuna](https://jujutsu-kaisen.fandom.com/wiki/Ryomen_Sukuna) (*Jujutsu Kaisen*) | The [[Tattoos of Penance]] |
+| [3] | [Naruto](https://youtu.be/RzClCJFpSoM?si=vRJE6fSOgOU461Dp) (video) | The choreography of Aurelius's combat style |
+| [4] | [Hand Seal](https://naruto.fandom.com/wiki/Hand_Seal) (*Naruto*) | The [[The Star Seals]] |
+| [5] | [Cursed Spirit](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Spirit) (*Jujutsu Kaisen*) | His bound spirits and apparitions |
 
