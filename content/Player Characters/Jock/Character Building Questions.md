@@ -11,6 +11,7 @@
     - Common
     - Elvish
     - Thallasic
+    - River Cant
 ### Visual Design and Aesthetics
 5. **What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
     - Tall (1,80m) and athletic but quite slender. Isn't hairy but does have luscious hair on top of his head.
