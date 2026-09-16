@@ -21,12 +21,12 @@ The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound 
 ### Quick Facts
 - **Kind of Book:** Prayer book of divine hymns
 - **What It Holds:** Every verse Aurelius has learned, divine, apparition, or focus
-- **How It Records:** Each verse is entered in full, in short phrases, per the [[Spell Template]]. The record leaves material components out and keeps the seal sequence inside the somatic line
-- **Morning Office:** Said at dawn: the divine verses are prayed for and bestowed, then the spirits in the [[Spirits Ledger]] are called, their chief lending its vessel spell
+- **How It Records:** Entered in full, in short phrases, per the [[Spell Template]]
+- **Morning Office:** Divine verses prayed for and bestowed, then the spirits in the [[Spirits Ledger]] are called
 - **Kept In:** Aurelius's book satchel
 - **Current Verses:** Cantrips and 1st-rank spells
 
-## How a Verse Is Cast
+## Casting a Verse
 
 A verse is chanted or spoken, never sung, and Aurelius speaks it aloud. It holds no rhyme and no meter: the words are plain liturgical prose. Every verse is a petition to the sun goddess, spoken to her in thou and thee, the old pronouns the [[The Liturgical Cadence|Cadence]] keeps for casting. She is addressed by her titles, never by name.
 
@@ -38,7 +38,7 @@ The hands are the other half of the casting. How a run of [[The Star Seals|seals
 
 ## The Recorded Library
 
-Every verse Aurelius has ever set down, sorted by the source he draws it from and by rank within each. Nothing leaves this section once it is recorded.
+Every verse Aurelius has ever set down, sorted by the source he draws it from and by rank within each. The record leaves material components out and keeps the seal sequence inside the somatic line. Nothing leaves this section once it is recorded.
 
 ### Apparition Spells
 
