@@ -53,7 +53,7 @@ Spirits and their ascension are greatly important to this religion.
 ### Customs
 - **Offerings**: People often leave offerings on shrines depending on the type of spirit they seek. Gold might be wanted by a trade spirit, but would not entice a dueling spirit who would enjoy a well worn blade as offering, while a medicine spirit would much rather see drugs. 
 - **The Empty Stool at the Forge/Workshop:** Workplaces keep an empty seat or workspace open for local lesser spirits, leaving small offerings matched to their craft (metal filings for smiths, leftover ink for scribes) to keep spirits pleased.
-- **Guiding Hospitality:** Traveling Guides are given free room and board in any religioustown they visit. Refusing a Guide hospitality is believed to cause local lesser spirits to abandon the town's workshops and fields.
+- **Guiding Hospitality:** Traveling Guides are given free room and board in any religious town they visit. Refusing a Guide hospitality is believed to cause local lesser spirits to abandon the town's workshops and fields.
 ### Rituals
 - **Rite of Illumination**: The Rite of Illumination  involves a guide summoning or gathering a large collection of spirits to surround a person. This can be done in public or private, but more influential followers often make it a point to do it in public. The spirits that glows or resonates with the person is a spirit that represents a concept in line with that persons calling.
 - **Ceremony of First Crucible**: If a calling is determined in a field the follower has no experience in, the first partaking in this calling is often a ceremonious affair. This is akin to a childs first day at school in importance.
