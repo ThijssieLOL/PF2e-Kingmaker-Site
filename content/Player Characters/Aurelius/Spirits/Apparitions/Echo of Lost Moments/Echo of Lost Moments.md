@@ -30,7 +30,3 @@ Spirits of the Echo of Lost Moments are born of forgotten memories, and of time 
 - **Vessel Spell:** *Store Time*
 - **Avatar:** *Devourer of Lost Time*
 - **Source:** *War of Immortals* pg. 18
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*

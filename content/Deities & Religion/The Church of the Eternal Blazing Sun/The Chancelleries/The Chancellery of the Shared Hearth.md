@@ -9,16 +9,20 @@ status: Active
 ---
 
 ## Overview
-The Chancellery of the Shared Hearth is the financial and charitable arm of [[The Church of the Eternal Blazing Sun]]. It keeps the Church's treasuries, regulates its tithes, and enforces the doctrine against hoarding wealth. From these funds the Chancellery runs the Church's social safety networks, including state-run soup kitchens, orphanages, public housing, and community aid programs.
+The Chancellery of the Shared Hearth is the financial and charitable arm of [[The Church of the Eternal Blazing Sun]]. It keeps the Church's treasuries and turns its tithes into relief for the poor.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
-- **Primary Function:** Finance & Public Welfare — Treasury management, tithing, economic regulation, and public relief.
+- **Primary Function:** Finance & Public Welfare
 - **Status:** Active
 
 ## Mandate & Responsibilities
-- **Primary Function:** Treasury management, tithing, economic regulation, and public relief.
-- **Operations:** Oversees all church coffers and enforces strict anti-wealth-hoarding doctrines. It funds and manages social safety networks, including state-run soup kitchens, orphanages, public housing, and community aid programs.
+
+### Treasury & Tithing
+Oversees all church coffers and enforces the strict doctrine against hoarding wealth.
+
+### Public Relief
+Funds and manages the Church's social safety networks: state-run soup kitchens, orphanages, public housing, and community aid programs.
 
 ---
 

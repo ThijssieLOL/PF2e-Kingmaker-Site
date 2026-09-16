@@ -35,22 +35,24 @@ Spirits meet Aurelius according to their nature.
 
 ## The Apparition Families
 
-Fourteen families are known to the animist tradition. Each page opens with the family's nature, then lists the nine ranks with the spell each one carries, the spirits documented so far, and its mechanical reference.
+Fourteen families are known to the animist tradition. Each page opens with the family's nature, then lists the nine ranks with the spell each one carries and any spirit documented at that rank, and closes with its mechanical reference.
 
-- [[Crafter in the Vault]] - spirits of forges, workshops, and places where creation and injury happen together.
-- [[Custodian of Groves and Gardens]] - quiet spirits of tended land that believe they have already found paradise.
-- [[Echo of Lost Moments]] - spirits born of forgotten memories and time that was damaged and repaired.
-- [[Impostor in Hidden Places]] - secret-keepers that whisper in corners mortal voices never reach.
-- [[Lamentation of Sinister Deals]] - spirits of bargains that cost more than they returned.
-- [[Lurker in Devouring Dark]] - cold spirits of deep water, ice, and the hungers beneath the world.
-- [[Monarch of the Fey Courts]] - vain, capricious spirits of the First World's courts.
-- [[Reveler in Lost Glee]] - twisted spirits of joy that once was, mirth that now wounds.
-- [[Shepherd of Errant Winds]] - spirits of movement and freedom, born from the wake of the wind.
-- [[Speaker in Sibilance]] - hissing spirits of forbidden knowledge, each serpent a different counsel.
-- [[Stalker in Darkened Boughs]] - hunters of the ancient forests, drawn to violence and to those who master it.
-- [[Steward of Stone and Fire]] - slow-burning spirits of mountains, volcanoes, and hot springs.
-- [[Vanguard of Roaring Waters]] - chaotic spirits of rapids, breakers, and rivers that carve the world.
-- [[Witness to Ancient Battles]] - grim spirits of soldiers, sieges, and fields that drank too much blood.
+| Family | Domain |
+| :----- | :----- |
+| [[Crafter in the Vault]] | Forges and workshops |
+| [[Custodian of Groves and Gardens]] | Tended land |
+| [[Echo of Lost Moments]] | Forgotten memory |
+| [[Impostor in Hidden Places]] | Secrets |
+| [[Lamentation of Sinister Deals]] | Bargains |
+| [[Lurker in Devouring Dark]] | Deep water and ice |
+| [[Monarch of the Fey Courts]] | The First World's courts |
+| [[Reveler in Lost Glee]] | Joy that wounds |
+| [[Shepherd of Errant Winds]] | Movement and freedom |
+| [[Speaker in Sibilance]] | Forbidden knowledge |
+| [[Stalker in Darkened Boughs]] | The ancient forests |
+| [[Steward of Stone and Fire]] | Mountains and fire |
+| [[Vanguard of Roaring Waters]] | Rapids and rivers |
+| [[Witness to Ancient Battles]] | Soldiers and sieges |
 
 ## House Notes
 

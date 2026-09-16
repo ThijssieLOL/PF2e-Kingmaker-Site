@@ -25,18 +25,8 @@ Spirits of the Impostor in Hidden Places are secret-keepers. They whisper in cor
 | 8 | *Disappearance* | |
 | 9 | *Phantasmagoria* | |
 
-## Spirits
-
-### [[The Reflection]]
-*Rank 2 — Invisibility*
-A spirit that lives only in glass, standing behind whoever looks into it in the shape of the person they fear most, and always smiling.
-
 ## Mechanical Reference
 - **Apparition Skills:** Fortune-Telling Lore, Underworld Lore
 - **Vessel Spell:** *Discomfiting Whisper*
 - **Avatar:** *Whisper Hiding in Shadows*
 - **Source:** *War of Immortals* pg. 18
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*

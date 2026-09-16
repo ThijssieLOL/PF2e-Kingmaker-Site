@@ -30,7 +30,3 @@ Spirits of the Lamentation of Sinister Deals come from bargains that cost more t
 - **Vessel Spell:** *Wish Market*
 - **Avatar:** *Cosmic Notary*
 - **Source:** *Pathfinder #223: Hell's Destiny* pg. 226 *(Uncommon)*
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*

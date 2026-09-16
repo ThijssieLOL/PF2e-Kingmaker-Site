@@ -30,7 +30,3 @@ Spirits of the Vanguard of Roaring Waters are chaotic spirits of rapids, breaker
 - **Vessel Spell:** *River Carving Mountains*
 - **Avatar:** *River that Splits the World*
 - **Source:** *War of Immortals* pg. 21
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*
