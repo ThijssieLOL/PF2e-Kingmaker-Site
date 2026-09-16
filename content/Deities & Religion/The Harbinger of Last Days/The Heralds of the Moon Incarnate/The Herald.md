@@ -18,9 +18,9 @@ A brief 1-2 sentence summary of who this character is and their role.
 ### Quick Facts
 - **Full Name:** The Herald?
 - **Ancestry/Species:** Human?
-- **Class/Profession:** 
-- **Affiliation:** 
-- **Role/Rank:** 
+- **Class/Profession:** (mortal) Herald
+- **Affiliation:** [[Heralds of the Moon Incarnate]]
+- **Role/Rank:** Herald / Leader?
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
@@ -43,4 +43,4 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## Relationships
-- **[[Character Link]]:** Brief description of their dynamic.
+- **[[Oliver Strong Bison|Oliver]]:** The Herald murdered Oliver's entire
