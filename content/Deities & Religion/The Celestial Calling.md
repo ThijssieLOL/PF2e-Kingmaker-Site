@@ -50,7 +50,7 @@ Spirits and their ascension are greatly important to this religion.
 ---
 
 ## Customs and Rituals
-- **Offerings**: People often leave offerings on shrines depending on the type of spirit they seek. Gold might be wanted by a trade spirit, but would not entice a medicine spirit, who would much rather see drugs. 
+- **Offerings**: People often leave offerings on shrines depending on the type of spirit they seek. Gold might be wanted by a trade spirit, but would not entice a dueling spirit medicine spirit, who would much rather see drugs. 
 
 ---
 
