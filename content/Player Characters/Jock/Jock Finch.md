@@ -3,7 +3,7 @@ tags:
   - character
   - pc
 aliases:
-  - Jovian Lamerri
+  - Jovian Larmelli
 ancestry: Human/Aiuvarin
 class: Bard
 faction:
