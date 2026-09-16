@@ -7,10 +7,10 @@
 > ever see this file appear in a `git status` diff touching `content/`, that is an error — restore
 > it with `git checkout -- AGENTS.md`. The `scripts/` folder remains local-only and gitignored.
 
-> **READ THIS FILE IN FULL AT THE START OF EVERY CHAT.** The rules here are cumulative: §6 house
-> style and §7 workflow carry the corrections the user has added over time, and every one of them
-> applies from the first message of a new session. Read the whole file before replying, and treat
-> additions you have not seen before as binding.
+> **READ THIS FILE IN FULL BEFORE YOU EDIT.** The rules here are cumulative: §3 ownership, §6 house
+> style, and §7 editing etiquette carry the corrections the user has added over time. Before you
+> create or change a note, read the whole file, and treat additions you have not seen before as
+> binding. A chat that only discusses or plans does not need the full pass.
 
 ## 1. Role
 

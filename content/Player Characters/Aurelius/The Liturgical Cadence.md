@@ -8,7 +8,7 @@ To keep it easy to roleplay without slowing down the game or feeling forced, bre
 
 ---
 
-## 1. The Golden Rule: Simple Verb Negation
+## Simple Verb Negation
 The easiest way to sound Shakespearean without memorizing complex grammar is to **drop the word "do" or "don't" when negating verbs**. 
 Instead of adding "don't" before a verb, simply put "not" after the verb.
 
@@ -19,7 +19,7 @@ Instead of adding "don't" before a verb, simply put "not" after the verb.
 
 ---
 
-## 2. The "Shakespearean-Lite" Word Bank
+## Word Bank
 Keep a small cheat sheet of these words on your character sheet. You do not need to use them in every sentence. One or two in a conversation is enough to establish his dialect.
 
 | Modern Phrase                 | Aurelius's Liturgical Equivalent         | Example in Sentence                                                        |
@@ -34,22 +34,22 @@ Keep a small cheat sheet of these words on your character sheet. You do not need
 
 ---
 
-## 3. The Three Voices of Aurelius
+## The Three Voices
 Because Aurelius wears different masks, his dialect shifts slightly depending on who he is talking to.
 
-### Voice A: The Warm Catechist
+### The Warm Catechist
 When talking to children or commoners, or when trying to lift his companions' spirits, his archaic speech should sound gentle, poetic, and comforting, like a grandfatherly priest despite his young age.
 - **The Tone:** Soft, patient, and reassuring.
 - **Example:** *"Fret not, little one. The sun must set so that we may appreciate the glory of its rising. Come, let us speak of the stars."*
 - **Example:** *"Verily, your courage today was a sight to behold. The sun smiles upon your efforts."*
 
-### Voice B: The Patronizing Missionary (His Scholarly/Debating Voice)
+### The Debating Scholar
 When dealing with stubborn non-believers, debating politics with [[Vespera]], or facing mundane paperwork, he is polite, but his high-register vocabulary carries a subtle, academic condescension.
 - **The Tone:** Measured, highly intellectual, slightly aloof.
 - **Example:** *"You jest, surely? To suggest the military should govern without the moral guidance of the Church is to invite a swift and chaotic ruin."*
 - **Example:** *"I cannot but wonder, my friend, if your skepticism is born of genuine doubt, or merely a fear of the light that exposes your shadows."*
 
-### Voice C: The Cold Executioner (His Commando Voice)
+### The Executioner
 When his "switch" is flipped and he confronts "unsalvageable sin," his dialect shifts from "scholarly" to **biblical and absolute**. This is where you can occasionally use *Thou/Thee/Thy* to show he is speaking not as a man, but as an instrument of divine judgment.
 - **The Tone:** Flat, emotionless, clinical, and heavy.
 - **Example:** *"Thy sins have weighed the scales, and they have been found wanting. Verily, the sun must set upon thy life."*
@@ -57,7 +57,7 @@ When his "switch" is flipped and he confronts "unsalvageable sin," his dialect s
 
 ---
 
-## 4. How to Roleplay This at the Table (Practical Tips)
+## Playing the Cadence
 
 - **Save "Thou" and "Thee" for High-Impact Moments:** Using *thou/thee/thy* constantly can be mentally exhausting for you and distracting for the table. Instead, use "you" and "your" for normal conversations, and save the heavy biblical pronouns for when Aurelius is **casting powerful divine magic**, **binding evil spirits**, or **acting as the Executioner**.
 - **Use "Pray" as a Conversational Bridge:** "Pray" is a good word for a clergyman. Use it to ask questions. *"Pray, hand me that map,"* or *"Pray, what did the tavern keeper say?"* It sounds polite and old-fashioned.

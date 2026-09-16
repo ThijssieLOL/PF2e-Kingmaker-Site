@@ -33,5 +33,5 @@ If the government ignores the Moral Veto, the Church uses a tiered system of non
 ### 4. Theological Synthesis
 When political allies deadlock, Aurelius favors writing scholarly essays to find a middle-ground compromise. He firmly believes that members of the clergy (including himself) must never accept the crown; their place is to guide and judge from within the Church.
 
-## A Theory, Not a Doctrine
-Aurelius treats the Trias Politicas as one hypothesis among the many he holds, to be tested against circumstance rather than imposed. He advocates it where a fledgling realm's circumstances allow, and adapts where they do not.
+## A Working Hypothesis
+Aurelius tests the Trias Politicas against circumstance rather than imposing it. He advocates it where a fledgling realm's circumstances allow, and adapts where they do not.
