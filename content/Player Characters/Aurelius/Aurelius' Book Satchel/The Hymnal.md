@@ -16,7 +16,7 @@ status: Active
 
 ## Overview
 
-The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, written down the way a singer writes down a song, so that he can sing it true again after long weeks without use. Each dawn he prays the day's office out of it in the [[The Liturgical Cadence|Liturgical Cadence]], and the rest of the book keeps the record of every verse he has ever learned. When he casts, the verses burn Aureolin White and his tattoos ignite along his forearms and shins.
+The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, set down so that he can speak it true again after long weeks without use. Each dawn he prays the day's office out of it in the [[The Liturgical Cadence|Liturgical Cadence]], and the rest of the book keeps the record of every verse he has ever learned. When he casts, the verses burn Aureolin White and his tattoos ignite along his forearms and shins.
 
 ### Quick Facts
 - **Kind of Book:** Prayer book of divine hymns
