@@ -72,12 +72,6 @@ A man hanging upright in the air at the height a drowned man hangs in water, and
 - **Behaviour:** It reaches up, always, at nothing.
 - **Origin:** A sailor who went under in the dark and never stopped reaching.
 
----
-
-## New designs (drafts)
-
-Drafts for review, built on the same rule as above: the creature first, the spell last. Move any that stick up into Liked spirit designs.
-
 ### The Glass Serpent of the Upper Air, Shepherd of Errant Winds, Level 7 (Vacuum)
 
 A serpent longer than a river, and it has no wings. It swims the high cold in slow curves that keep the whole length of it moving at once. The scales are clear, and light bends through them the way it bends through a prism, so from the ground the thing reads as a rainbow coming apart across the sky. Four small hands sit along the belly, evenly spaced and perfect, with knuckles and nails. It grooms itself with them while it drifts. The body is hollow and clear, and what it has swallowed turns inside it where anyone looking up can see it. The head is narrow and smooth, and when the mouth opens there is nothing inside to see.
@@ -87,49 +81,13 @@ A serpent longer than a river, and it has no wings. It swims the high cold in sl
 - **Behaviour:** It feeds on breath. It does not bite; it opens its mouth and the air leaves yours to fill the space inside it. It leaves vacuums behind it like footprints, and birds that cross its wake drop without a mark. It is vain. It will hold still to be admired, and that is the best time to run.
 - **Origin:** What a rainbow becomes when enough people pray to it.
 
-### The Husbandman of the Last Orchard, Custodian of Groves and Gardens, Level 9 (Nature's Enmity)
-
-A stooped old man, twice the height of a house, built out of hedgerow: hawthorn and bramble and blackthorn wound together into a back, a pair of shoulders, and a long bent spine. One hand is a bronze hook, tarnished green, and it sits where the hand should be. The face is a hollow in the head, and bees live in it. There is no other face. An orchard grows down its back, terraced along the spine in shallow steps, and every tree on it is in bloom at once, white and pink, with the roots going down into the hedgerow body. It walks slowly, and flowers come up where it steps.
-
-- **Body plan:** Colossus, plant.
-- **Signature wrongness:** The orchard is planted in people, and the blossoms carry their faces, and the faces are smiling.
-- **Behaviour:** It buries the dead it finds upright in neat rows, waters them, prunes them, and waits. In time they bloom, and they are still aware, and they are happy. It hums while it works. It has found paradise, and it wants you to stay, and it does not understand why you would leave. When the orchard is threatened, every tree on its back turns to face the threat at once, and the garden becomes the enemy.
-- **Origin:** A gardener who died in the grove he had tended for sixty years and simply kept tending it.
-
-### The Cinder Sow, Steward of Stone and Fire, Level 7 (Volcanic Eruption)
-
-A boar the size of a barn, and it is made of cooled lava. The hide is black and rough and cracked along seams that follow the grain of the animal, and the seams glow when it breathes, so the whole flank goes from dark to red and back. The belly is split open into a caldera ringed with teeth, and inside it a clutch of glowing stones turns slowly, each one a lesser fire spirit not yet hatched. It has one eye, and the eye is a pool of lava; when it wakes, a stone sinks through the pool, and that is the pupil. Its tusks are the length of a man and blunt at the ends. Curled asleep it reads as a hill, and snow will not settle near it, because it is warm.
-
-- **Body plan:** Beast, colossal.
-- **Signature wrongness:** The caldera in its belly is both mouth and womb, and its young are stones that hatch into fire.
-- **Behaviour:** It eats stone. It chews a mountain down a mouthful at a time, and what it cannot digest comes up again as fire. Travelers camp on its back while it sleeps. It is a mother, and its children are always hungry.
-- **Origin:** A sow that sheltered in a caldera during an eruption and woke as the mountain's animal.
-
-### The Joiner, Crafter in the Vault, Level 5 (Impaling Spike)
-
-It was a cabinetmaker, and it is still shaped like one: a short man in a work apron, and the apron is stiff with old varnish. It has too many arms. They come out of the shoulders and the chest and the back, and each one ends in a tool instead of a hand: a hammer, an awl, a chisel, a clamp, and more behind those. There are no palms anywhere on it. The face is a plane, smooth and blank, the kind a carpenter keeps for flattening boards, and it has no eyes and no mouth. Iron spikes stand out of its torso in rows, and some of them are holding something. Its nest is a collapsed workshop, and the things it has mended stand on the shelves arranged by type.
-
-- **Body plan:** Aberration, humanoid.
-- **Signature wrongness:** Its hands are the tools, and the things pinned to its body are still alive and still thank it.
-- **Behaviour:** It cannot bear anything broken. A wounded animal, a limping man, a cracked beam: it fixes them, and it fixes them by pinning the parts together with iron spikes, and it hums a work song the whole time. It sees by touch, so it lays its face against a thing before it knows what the thing is. The things on its shelves are still moving, and still grateful.
-- **Origin:** A craftsman who reached for one more nail as the roof came down.
-
-### The Listener, Speaker in Sibilance, Level 6 (Petrify)
-
-A serpent long enough to lie coiled around the base of a mountain, and it does lie there, ring on ring, filling the valley floor. The head is a human face stretched over a serpent's skull: the skin is tight enough to show the bone, the jaw is too wide, and the eyes are sewn shut with black thread, stitch by stitch, and the stitches have healed. Its listeners sit in the crook of the coils, in rows, facing the head. They are stone. Some of them are only half turned, and those are still weeping, and their mouths are open on the word. The scales are a dull grey-brown and dry, like old rope.
-
-- **Body plan:** Beast, colossal serpent.
-- **Signature wrongness:** Its eyes are sewn shut, and the statues are frozen mid-answer, and it never stops talking.
-- **Behaviour:** It speaks one word, over and over, and hearing the word turns flesh to stone. It does not eat the statues. It wants an audience. It is lonely.
-- **Origin:** A prophet no one believed, who kept preaching after death.
-
 ### The Court of One, Monarch of the Fey Courts, Level 8 (Uncontrollable Dance)
 
-A line of dancers joined at the waist, one behind the other, in court gowns that were fine once and are grey with dust now. None of them has a head. The chain loops back on itself, so there is no first dancer and no last, and the whole ring moves in perfect step, faster than a court dance should go. Every dancer wears a mask, and every mask is the same face: smooth, smiling, painted, with the paint cracked across the cheek. Under the masks there is nothing. The dancers wear each other's hands, and the hands do not match the sleeves, so a duchess's gown ends in a soldier's grip and a soldier's cuff ends in a child's.
+A line of dancers holding hands, one behind the other, in court gowns that were fine once and are grey with dust now. None of them has a head. The line bends and snakes and can be as long as it needs to be, and it has no fixed shape. Every dancer wears a mask, and every mask is the same face: smooth, smiling, painted, with the paint cracked across the cheek. Under the masks there is nothing. The hands they hold do not match the sleeves, so a duchess's gown ends in a soldier's grip and a soldier's cuff ends in a child's. They dance in perfect step, faster than a court dance should go.
 
 - **Body plan:** Swarm, humanoid.
-- **Signature wrongness:** Every mask is the same face, and they are hollow, and the dancers wear each other's hands.
-- **Behaviour:** It cannot stop; the dance is its heartbeat. Anyone who watches must dance too, and they dance until they fall, and then they join the chain. It is vain. Being ignored offends it more than being interrupted.
+- **Signature wrongness:** Every mask is the same face, and they are hollow, and the hands they hold do not match the sleeves.
+- **Behaviour:** It cannot stop; the dance is its heartbeat. Anyone who watches must dance too, and they dance until they fall, and then they join the line. When it takes a target, the line draws in and rings them, and the ring dances around them until they fall in with it. It is vain. Being ignored offends it more than being interrupted.
 - **Origin:** A court that danced while its kingdom burned, and kept dancing when the fire reached the hall.
 
 ### The Piper, Witness to Ancient Battles, Level 8 (Canticle of Everlasting Grief)
@@ -144,6 +102,94 @@ The arms are the part that does not fit the man. There are many of them, and onl
 - **Signature wrongness:** The third face keeps its mouth shut, and the body under the coat is only wounds.
 - **Behaviour:** It plays before a battle, and only the men who are going to die in the coming attack can hear the tune. A rare one survives the day to carry word of it, and dies when the wider war ends. It does not fight. It does not eat or sleep either, and this is how the dead know it is theirs. It marches, and they climb out of the ground and fall in behind it, already in ranks and already in step. It never looks back, because a piper does not turn around, so it has no idea how long the column is. It was told to play until the last man was off the field, and the count never came out right, and nobody ever relieved it. It walks the same ground in one long circle, and every army that died there walks with it, and they all step to the same tune. Any living thing that hears the tune must keep time. Keeping time is walking. The walking does not end.
 - **Origin:** A piper ordered to play the retreat until the last man was clear of the field. The count never came out right, so he is still playing.
+
+## Rejected
+
+Kept as names only, so the same idea does not come back around. The full text of each is in git history.
+
+- **The Listener, Speaker in Sibilance, Level 6 (Petrify).** Rejected: the Petrify slot should be a weeping-angel-inspired creature instead.
+- **The Joiner, Crafter in the Vault, Level 5 (Impaling Spike).** Disliked.
+- **The Husbandman of the Last Orchard, Custodian of Groves and Gardens, Level 9 (Nature's Enmity).** Disliked.
+
+---
+
+## New designs (drafts)
+
+Drafts for review, built on the same rule as above: the creature first, the spell last. Move any that stick up into Liked spirit designs.
+
+### The Reflection, Impostor in Hidden Places, Level 2 (Invisibility)
+
+A person standing in a room, and there is nothing in the room. It is only ever there in glass. In a mirror, in a dark window, in a still bucket of water, it is a tall figure in a good coat, standing behind whoever is looking, close enough to touch. It has a face. The face is the face of the person looking, older, wearing the expression they make when they are alone. It does not move while it is being watched, and it does not appear in glass that nobody is looking into. Paintings of a room it has stood in show a shoulder that no one painted.
+
+- **Body plan:** Humanoid, glass-bound.
+- **Signature wrongness:** It wears the face of whoever is looking at it, aged, with the expression they wear when nobody can see them.
+- **Behaviour:** It lives in reflections and cannot leave them. It follows a person from mirror to mirror and stands behind them in the glass. Outside a reflection it cannot be seen, heard, or touched, and it cannot act while it is being watched. What it does when a mirror is left alone long enough is not known to anyone who has seen it.
+- **Origin:** Someone who spent a life being overlooked, and got very good at it.
+
+### The Deathwatch, Echo of Lost Moments, Level 4 (Vision of Death)
+
+A hunched figure in a heavy coat, shorter than a child, walking with a lantern. There is nothing above the collar: the coat ends in a seam, and the lantern hangs where the head should be, held up by a hand that comes out of the collar and grips the ring. The lantern is iron and old glass, and the light inside it is not a flame. What is inside is a moment, no bigger than a plum, and it repeats: a small scene, over and over. If you look closely you can find yourself in it, and it is the last thing you will ever see. The coat is buttoned to the throat, and there are no feet under it.
+
+- **Body plan:** Humanoid, small.
+- **Signature wrongness:** There is no head, and the lantern hangs in its place with someone's last moment inside it.
+- **Behaviour:** It walks among the dying. It holds the lantern up to a face, and the person sees their own death in it, and the seeing is what kills them; it never has to touch anyone. When the moment is spent, the light goes out and it moves on to find another. It keeps what it collects. The lantern is never empty and the light is never the same twice.
+- **Origin:** Someone who was never told how they would die and went looking for it.
+
+### The Halfway, Stalker in Darkened Boughs, Level 4 (Bestial Curse)
+
+A man on all fours, and the change into the thing he was becoming stopped partway and never finished. His back is a wolf's, with the fur coming through the shirt in patches, and his hands are still hands, with nails. His head is a wolf's head set on wrong: turned too far round, with the jaw hanging, because the skull is not attached the way a skull should be. One eye is a man's and one is a wolf's. The fur stops in a straight line across his chest, the way water stops at a wall, and below the line he is a man, and the man part is thin and grey. He walks on the knuckles of both hands, which is a thing neither a wolf nor a man does.
+
+- **Body plan:** Beast, humanoid.
+- **Signature wrongness:** The change stopped in a straight line across his chest, and both halves are still alive.
+- **Behaviour:** He is not a wolf and cannot become one, and he remembers being a man and cannot go back to it. He bites. The bite does not wound; it starts the change in whoever he bites, and their change does not finish either, so he is never alone for long. He runs with packs that will not have him. He never stands still.
+- **Origin:** A hunter who took a curse meant for someone else, and could not finish it.
+
+### The Rustfall, Witness to Ancient Battles, Level 4 (Weapon Storm)
+
+A cloud the size of a village, hanging low, and it is not made of water. It is made of weapons. Swords and spears and axes and the pieces of all of them turn slowly inside it the way birds turn in a flock, and the whole mass makes a sound like a smithy heard across a valley. The edges of the cloud thin out into single blades, spinning on their own, keeping pace. Rust falls out of it in a steady rain, and the ground under it goes orange for a mile.
+
+- **Body plan:** Swarm, colossal.
+- **Signature wrongness:** It is made of every blade that was ever dropped on a field, and it keeps every one.
+- **Behaviour:** It gathers. It drifts over old battlefields and draws up every weapon left lying there, and the field is bare behind it. When it passes over anything alive, it lets go, and the whole flock comes down at once. Then it gathers itself and drifts on. It has been doing this since the first war and it has never been empty.
+- **Origin:** The weapons left on a field that was never cleared, and the weather that passed over it.
+
+### The Lodger, Impostor in Hidden Places, Level 5 (Strange Geometry)
+
+A tall, thin man in a nightshirt, folded. His knees are up beside his ears and his elbows are tucked against his ribs and his head is bent to one side, and he holds the fold the way furniture holds a fold: perfectly still, for hours at a time. He stands inside a wall. Where the plaster has cracked, a strip of him shows through, and the strip is the same colour as the wall. He is taller than the house he is in and he does not fit, and the house has arranged itself around him: the corridor outside is longer than the building, the ceiling above him is higher than the roof, and the corner he stands in gets further from the door every month. He wears no shoes, and his feet are clean.
+
+- **Body plan:** Humanoid, folded.
+- **Signature wrongness:** He is taller than the house, and the house has stretched to keep him.
+- **Behaviour:** He walks in the spaces inside a house: the gap behind the plaster, the cavity above the ceiling, the shaft beside the chimney. Where he walks the house stretches, and a house he lives in takes longer to cross every week. He whispers through the walls, and the whisper always stops one word short, so the people inside finish the sentence themselves and get it wrong. He never comes out. He keeps to his part of the house, and he is a quiet lodger.
+- **Origin:** A lodger who was never asked to leave.
+
+### The Mourner, Steward of Stone and Fire, Level 6 (Petrify)
+
+A woman in a widow's dress, life-sized, carved out of grey stone, standing in a shallow pool of hot water. The dress and the veil are stone like the rest of her, and both hands are over her face. Wings are folded against her back, and they are carved stone, so the feathers have no joints and nothing about them can move. Water runs out from under her hands and down her wrists. It is warm, and the stone where it has fallen has gone dark. There is no face behind the hands, only a smooth blank, and the blank is wet too. She stands on a plinth of pale stone that has grown up around her feet, and the plinth comes with her when she moves.
+
+- **Body plan:** Humanoid, stone.
+- **Signature wrongness:** The hands are wet, the face behind them is a blank, and the tears turn what they touch to stone.
+- **Behaviour:** She holds still whenever anything is watching her. Between one look and the next she is closer, and she only ever moves in the moment you blink. She weeps, and what her tears touch turns to stone. Whoever she catches joins the pool: a statue in the same pose, hands over the face, weeping the same water. She has stood in one place for a long time, and the pool is full of them, in rows, all facing her. She makes no sound at all except the water.
+- **Origin:** A mourner's statue that people prayed to, standing in a hot spring that had already turned the ground around it to stone.
+
+### The Shore, Vanguard of Roaring Waters, Level 6 (Personal Ocean)
+
+A hermit crab the size of a cathedral, walking the seabed with a piece of coastline on its back. The shell is not a shell: it is a length of shore lifted up whole, sand and rock and a stand of dead trees, and the sea is still in it. Water sits in the hollow of it and moves with each step, and fish turn in the shallow part, and something bigger keeps to the deep end and is only ever a shape. The legs are barnacled and wet and jointed like a crab's, and the smallest of them is the height of a mast. Two eyes sit on stalks above the water, and the eyes are closed most of the time.
+
+- **Body plan:** Colossus, crustacean.
+- **Signature wrongness:** The sea it carries is a real sea, with things living in it, and it can be poured out.
+- **Behaviour:** It carries the sea and keeps it level, the way a man keeps soup in a bowl. It walks the seabed and the drowned roads and it does not hunt. It is territorial about the shell and nothing else. When something threatens the water, it tips, and the whole sea comes out at once in one wave with everything in it, and then it gathers what it can and walks on. Fish fall out of the air when it does this, and they flap on the ground.
+- **Origin:** A piece of shore torn loose in a storm that kept the water it was holding.
+
+### The Cinder Sow, Steward of Stone and Fire, Level 7 (Volcanic Eruption)
+
+*Not yet reviewed.*
+
+A boar the size of a barn, and it is made of cooled lava. The hide is black and rough and cracked along seams that follow the grain of the animal, and the seams glow when it breathes, so the whole flank goes from dark to red and back. The belly is split open into a caldera ringed with teeth, and inside it a clutch of glowing stones turns slowly, each one a lesser fire spirit not yet hatched. It has one eye, and the eye is a pool of lava; when it wakes, a stone sinks through the pool, and that is the pupil. Its tusks are the length of a man and blunt at the ends. Curled asleep it reads as a hill, and snow will not settle near it, because it is warm.
+
+- **Body plan:** Beast, colossal.
+- **Signature wrongness:** The caldera in its belly is both mouth and womb, and its young are stones that hatch into fire.
+- **Behaviour:** It eats stone. It chews a mountain down a mouthful at a time, and what it cannot digest comes up again as fire. Travelers camp on its back while it sleeps. It is a mother, and its children are always hungry.
+- **Origin:** A sow that sheltered in a caldera during an eruption and woke as the mountain's animal.
 
 ---
 
