@@ -205,7 +205,7 @@ tags:
 - **Answer:** He likes to journal, philosophize and write letters to his siblings, updating them about his journey.
 
 - **56. What is your character's worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?**
-- **Answer:** Roland Mcdonald.
+- **Answer:** Clowns, specifically Roland Mcdonald.
 
 - **57. What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?**
 - **Answer:** Permanently slipping into "The Eclipse" executioner state, and losing divine grace ([[Aurelius#Trauma Response: "The Eclipse"]]).
