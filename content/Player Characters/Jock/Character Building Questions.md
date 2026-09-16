@@ -2,7 +2,7 @@
 1. **What is your character's class**
     - Bard
 2. **What is your character's species/race(Ancestry)**
-    - Human/Aviuvarian 
+    - Human/Aiuvarin
 3. **Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
     - Performance
     - Astronomy
