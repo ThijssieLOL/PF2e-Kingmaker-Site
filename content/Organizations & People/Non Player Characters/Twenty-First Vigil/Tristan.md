@@ -10,6 +10,7 @@ status: Presumed Deceased
 ---
 ![[Tristan.png|375]]
 
+> "A memorable quote."
 
 ## Overview
 

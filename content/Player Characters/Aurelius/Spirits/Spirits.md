@@ -8,6 +8,8 @@ aliases:
   - Spirits of the Spirit Realm
 ---
 
+> "A memorable quote."
+
 ## Overview
 Spirits are the beings that live in the spirit realm, the plane that lies alongside the material world. The word covers a great deal, and the kinds within it differ sharply from one another. What they share is where they live, not a shape or a temper. This page is [[Aurelius]]'s own reading of them, written out in full rather than sketched. The spirit realm does not owe him the last word.
 

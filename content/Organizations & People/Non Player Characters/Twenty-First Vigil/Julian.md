@@ -11,6 +11,8 @@ status: Alive
 
 ![[Julian.png|372]]
 
+> "A memorable quote."
+
 ## Overview
 Julian is the class's resident morale booster. Beneath his jokes he hides a highly observant mind and a deadly agile fighting style that uses mockery to unbalance his enemies.
 

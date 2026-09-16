@@ -105,6 +105,12 @@ and offer what you CAN do instead.
   dash survives only in the vault's structured spots: rank labels (`Grade 8 — Cinder`), blockquote
   attributions (`> "..." — Name`), and heading-style list labels (`**[[Name]] — Role:**`,
   `Tier 1 — Parish`). Remove em/en dashes from running prose, and never introduce new ones there.
+- **Quotes are the user's to write.** Never invent a quote, motto, or creed for a page, and never
+  delete a quote line that is already there. When a page has a quote slot and the user has not
+  given you the words, leave the placeholder in place: `> "A memorable quote."`. Templates carry
+  their own variants (`> "A faction motto or creed."`, `> "A House motto or creed."`, and the
+  like); keep whichever variant the page or template already uses. Hold the slot open, do not
+  fill it, and never strip it out during a rewrite.
 - Note structure convention: `# Title` → `## Overview` → `### Quick Facts` → the body, then
   abilities, history, and relationships as relevant.
 - **Page layout (every page, template or not):** a page has to read cleanly from top to bottom.
@@ -165,7 +171,8 @@ When you receive a braindump:
      mention.
 3. **Never invent canon.** Do not fill a gap with a plausible guess or a detail borrowed from
    another note. Unanswered stays unanswered. Never add, drop, or alter a fact, name, number,
-   date, or quote the user gave you.
+   date, or quote the user gave you. A quote slot is a gap like any other: leave the placeholder
+   in it and let the user write the words (see §6).
 4. **Wait for the answers.** Only the user's replies authorize new canon. Write the page from
    those replies, then run the edit steps in §7.2.
 5. **Barebone stubs.** When the user asks for a page on a concept they will work out later, create

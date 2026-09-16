@@ -11,6 +11,8 @@ affiliation: "[[The Church of the Eternal Blazing Sun]]"
 status: In Development
 ---
 
+> "A memorable quote."
+
 ## Overview
 The **Holy Ground Project** is [[Aurelius]]'s grandest ambition, at once magical, spiritual, and political. Conceived as a theoretical, kingdom-scale spiritual defense network, it aims to shield entire mortal populations from spiritual corruption, parasitic entity possession, and undead incursions.
 
