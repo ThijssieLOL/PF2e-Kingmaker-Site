@@ -12,7 +12,7 @@ aliases:
 > — Aurelius
 
 #### Spell Name
-*Rank · traits · actions · components. One or two sentences on what the spell does.*
+*Rank · traits · actions · range. One or two sentences on what the spell does.*
 
 - **Manifestation:**
 - **Verbal Component:**

@@ -76,7 +76,7 @@ Every verse Aurelius has ever set down, kept in order of rank. A verse can leave
 The first verse he ever set down, learned in his first year of training in the church halls of Restov:
 
 #### Stabilize, the First Verse
-*Cantrip 1 · Necromancy, healing, vitality · two actions · somatic, verbal. A touch ends a dying creature's dying condition and leaves it stable.*
+*Cantrip 1 · Concentrate, Healing, Manipulate, Vitality · two actions · range 30 feet. Ends a dying creature's dying condition, though it remains unconscious at 0 Hit Points.*
 
 - **Manifestation:** A thin Aureolin White thread, cool rather than hot, unspools from his fingertip and wraps the dying one's wrist like a bandage of light. It does not burn; it banks like embers deciding to sleep.
 - **Verbal Component:** "As the sun does not abandon the horizon, neither do I abandon you."
@@ -86,9 +86,95 @@ The first verse he ever set down, learned in his first year of training in the c
 - **Residue:** The thread thins to nothing and the air smells briefly of warm stone. The dying one's breath steadies.
 - **Provenance:** The first verse in the book, copied in Restov before his first mission. He keeps it at the front, where the pages are softest.
 
+#### Guidance
+*Cantrip 1 · Concentrate · one action · range 30 feet*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Material Component:**
+- **Sensation:**
+- **Residue:**
+- **Provenance:**
+
+#### Needle Darts
+*Cantrip 1 · Attack, Concentrate, Manipulate, Metal · two actions · range 60 feet*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Material Component:**
+- **Sensation:**
+- **Residue:**
+- **Provenance:**
+
+#### Ignition
+*Cantrip 1 · Attack, Concentrate, Fire, Manipulate · two actions · range 30 feet*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Material Component:**
+- **Sensation:**
+- **Residue:**
+- **Provenance:**
+
+#### Tangle Vine
+*Cantrip 1 · Attack, Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Material Component:**
+- **Sensation:**
+- **Residue:**
+- **Provenance:**
+
 ### 1st Rank
 
-*(No verses recorded yet. The first will be entered when his first bound spirit is named, in full, with its manifestation and its components.)*
+#### Heal
+*Spell 1 · Healing, Manipulate, Vitality · one to three actions · range varies*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Material Component:**
+- **Sensation:**
+- **Residue:**
+- **Provenance:**
+
+#### Interposing Earth
+*Spell 1 · Earth, Manipulate · reaction · duration 3 rounds*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Material Component:**
+- **Sensation:**
+- **Residue:**
+- **Provenance:**
+
+#### Protector Tree
+*Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Material Component:**
+- **Sensation:**
+- **Residue:**
+- **Provenance:**
+
+#### Earth's Bile
+*Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Material Component:**
+- **Sensation:**
+- **Residue:**
+- **Provenance:**
 
 ### 2nd Rank and Higher
 
