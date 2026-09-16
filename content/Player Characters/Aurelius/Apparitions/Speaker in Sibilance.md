@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Speaker in Sibilance are hissing spirits of forbidden knowledge, and each serpent is a different counsel.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Ill Omen* (cantrip: Puff of Poison) | |
 | 2 | *Stupefy* | |

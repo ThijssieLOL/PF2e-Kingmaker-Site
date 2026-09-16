@@ -33,25 +33,9 @@ Spirits meet Aurelius according to their nature.
 - **Neutral spirits** he guides gently toward order and the sun goddess' light, through patient negotiation.
 - **Evil spirits** he treats as unnatural parasites. He binds them in holy chains of pure white-gold light, bends them to serve divine justice, and cleanses them. Managing them demands intense mental focus and takes a physical toll on him.
 
-## Spirit Levels
-
-The level of a spirit is simply the rank of the apparition spell it carries: no titles, no grades. A Level 1 spirit, a Level 4 spirit, and so on. Aurelius can hold spirits of a given level once he can cast apparition spells of that rank.
-
-| Spirit Level | Carries | When Aurelius can hold it |
-| :----------- | :------ | :------------------------ |
-| **Level 1** | 1st-rank apparition spell (+ the family cantrip) | Level 1 |
-| **Level 2** | 2nd-rank apparition spell | Level 3 |
-| **Level 3** | 3rd-rank apparition spell | Level 5 |
-| **Level 4** | 4th-rank apparition spell | Level 7 |
-| **Level 5** | 5th-rank apparition spell | Level 9 |
-| **Level 6** | 6th-rank apparition spell | Level 11 |
-| **Level 7** | 7th-rank apparition spell | Level 13 |
-| **Level 8** | 8th-rank apparition spell | Level 15 |
-| **Level 9** | 9th-rank apparition spell | Level 17 |
-
 ## The Apparition Families
 
-Fourteen families are known to the animist tradition. Each page opens with the family's nature, then lists the nine levels with the spell each one carries, the spirits documented so far, and its mechanical reference.
+Fourteen families are known to the animist tradition. Each page opens with the family's nature, then lists the nine ranks with the spell each one carries, the spirits documented so far, and its mechanical reference.
 
 - [[Crafter in the Vault]] - spirits of forges, workshops, and places where creation and injury happen together.
 - [[Custodian of Groves and Gardens]] - quiet spirits of tended land that believe they have already found paradise.
@@ -70,5 +54,5 @@ Fourteen families are known to the animist tradition. Each page opens with the f
 
 ## House Notes
 
-- **Rules:** The level system is house flavor layered over the *Pathfinder 2e* Animist class (*War of Immortals*). Mechanically, an apparition's skills, spell repertoire, vessel spell, and avatar are fixed by family (see each family page's Mechanical Reference); the level of the specific spirit bound is a narrative choice unless the group decides otherwise.
-- **New spirits:** Whenever the party wants a new spirit, or the GM needs one, draft it with the [[Spirit Template]], add it to the level table on its family page, and give it a short entry under that page's Spirits heading.
+- **Rules:** The rank system is house flavor layered over the *Pathfinder 2e* Animist class (*War of Immortals*). Mechanically, an apparition's skills, spell repertoire, vessel spell, and avatar are fixed by family (see each family page's Mechanical Reference); the rank of the specific spirit bound is a narrative choice unless the group decides otherwise.
+- **New spirits:** Whenever the party wants a new spirit, or the GM needs one, draft it with the [[Spirit Template]], add it to the rank table on its family page, and give it a short entry under that page's Spirits heading.

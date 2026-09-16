@@ -11,7 +11,7 @@ aliases:
 > "Look long enough, and you will see that the world is crowded." — Aurelius
 
 ## Overview
-Spirits are the beings that live in the spirit realm, the plane that lies alongside the material world. The word covers a great deal: concept spirits, undead spirits, fear spirits, and every other kind that keeps its home there. What they share is where they live, not a shape or a temper. This page is [[Aurelius]]'s own reading of them, written out in full rather than sketched. The spirit realm does not owe him the last word.
+Spirits are the beings that live in the spirit realm, the plane that lies alongside the material world. The word covers a great deal, and the kinds within it differ sharply from one another. What they share is where they live, not a shape or a temper. This page is [[Aurelius]]'s own reading of them, written out in full rather than sketched. The spirit realm does not owe him the last word.
 
 ### Quick Facts
 - **Realm:** The spirit realm, a single plane parallel to the material world.
@@ -21,7 +21,7 @@ Spirits are the beings that live in the spirit realm, the plane that lies alongs
 - **Known Families:** Fourteen apparition families, and a great many spirits that belong to none of them.
 
 ## What a Spirit Is
-Strictly speaking, a spirit is a thing that lives in the spirit realm. The category is wide. It takes in the concept spirits, the undead spirits, the fear spirits, and any other kind that makes its home there. A spirit is not alive. It is a being of another place, and that place is the one thing its many kinds have in common.
+Strictly speaking, a spirit is a thing that lives in the spirit realm. The category is wide: concept spirits, undead spirits, fear spirits, and every other kind that makes its home there. A spirit is not alive. It is a being of another place.
 
 ## The Spirit Realm
 The spirit realm is a single plane, parallel to the material world and always beside it. Like the material realm, it divides into sections: regions with their own character and their own inhabitants. A living mortal can enter it.
@@ -61,4 +61,5 @@ What people make of spirits differs from one culture to the next. The [[The Cele
 ## House Notes
 - **Perspective:** This page is Aurelius's understanding of the spirit realm, not settled fact. Its true workings are the GM's to decide.
 - **Rank:** A spirit's Rank is separate from a caster's own level. A spirit can only be held once its binder can cast apparition spells of that rank.
+- **Rules:** A spirit generally cannot be seen, targeted, or affected by anything that does not specifically perceive or affect spirits.
 - **Related pages:** the [[Spirits Ledger]] for the apparition families and Aurelius's bindings, and the [[Spirit Template]] for documenting an individual spirit.

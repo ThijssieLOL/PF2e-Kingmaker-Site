@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Crafter in the Vault are born of forges, workshops, and places where creation and injury happen together.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Mending* (cantrip: Sigil) | |
 | 2 | *Knock* | |

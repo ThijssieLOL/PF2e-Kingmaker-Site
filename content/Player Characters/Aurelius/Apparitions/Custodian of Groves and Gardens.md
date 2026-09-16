@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Custodian of Groves and Gardens are quiet spirits of tended land, and they believe they have already found paradise.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Protector Tree* (cantrip: Tangle Vine) | |
 | 2 | *Gentle Breeze* | |

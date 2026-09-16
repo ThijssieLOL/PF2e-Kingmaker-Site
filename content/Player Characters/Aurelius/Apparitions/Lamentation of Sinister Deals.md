@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Lamentation of Sinister Deals come from bargains that cost more than they returned.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Sure Strike* (cantrip: Message) | |
 | 2 | *Blistering Invective* | |
