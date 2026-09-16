@@ -50,7 +50,7 @@ Skip this section if your character has no magic/can't cast spells.
     - He does have some kind of honor (not a lot). He would accept a surrender depending on the circumstances but they do like playing dirty.
 ### Family and Relationships
 21. **Describe your character's parents. Are they still alive? What are they doing now? (still have to finish this)
-    - **Zaleria** _(elf)_ and **Esrin** _(human)_ **Larmelli** have always been a bit negligent with their son Jock Finch _(formerly known as **Jovian Larmelli**)_ while still keeping him on a leash with lessons and training. Zaleria Larmelli has always been the stricter and most absent between Jock's father and herself, while still showing tough love while being around. Esrin Larmelli on the other hand was more involved in Jock's upbringing and generally softer. He could potentially be seen as 'weak' or 'lesser' by elf standards by being a human. They're both alive as far as he knows with his mother managing the town of **Eryndale and** his father being a teacher at the local school.
+    - **Zaleria** _(elf)_ and **Esrin** _(human)_ **Larmelli** have always been a bit negligent with their son Jock Finch _(formerly known as **Jovian Larmelli**)_ while still keeping him on a leash with lessons and training. Zaleria Larmelli has always been the stricter and most absent between Jock's father and herself, while still showing tough love while being around. Esrin Larmelli on the other hand was more involved in Jock's upbringing and generally softer. He could potentially be seen as 'weak' or 'lesser' by elf standards by being a human. They're both alive as far as he knows with his mother managing the town of **Eryndale** and his father being a teacher at the local school.
 22. **Does your character have any siblings? What is your character's relationship with them? 
     - As far as he knows no.
 23. **Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
@@ -69,7 +69,7 @@ Skip this section if your character has no magic/can't cast spells.
      - He likes to act like a womanizer. In reality he can't get past a talking stage or he gets all flustered. 
 ### Backstory and Upbringing
 30. **Where did your character grow up?
-    - Eryndale, the town of his family.
+    - Eryndale, the town of his family with his parents Zaleria and Esrin, and pet DAVE, WILLEM, BOB FRANKENSTEIN THE FIRST.
 31. **Who raised them? If not their parents, why?
     - His parents, but when his parents were too busy his butlers would take care of him.
 32. **Did your character have any form of education? Did they go to school? Were they home schooled? 
@@ -97,58 +97,58 @@ Skip this section if your character has no magic/can't cast spells.
 42. **How would you describe your character's moral compass?
     - Chaotic neutral
 43. **Where does your character draw the line? When do the ends stop justifying the means?
-     - He draws the line when people he cares about are in danger.
+     - He draws the line when people he cares about are in danger and when the meaning of the journey gets lost.
 ### Religion
 44. **Is your character religious? If so, what religion do they follow?
     - No
 45. **Do they follow a particular god within their religion?
      - N.v.t.
 46. **What is their opinion on people of other religions?
-
+    - He likes learning about them, but doesn't like it when they go all 'preachy' on him.
 47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?
-
-48. **Do you believe in an afterlife(heaven) and do you think you are going to end up there?
-
+    - Fascinating.
+48. **Do you believe in an afterlife (heaven) and do you think you are going to end up there?
+    - He's unsure, but if there is one he definitely won't be up there.
 ### Personality and Preferences
 49. **What is your character's favourite food?
-
+    - His father's potato soup.
 50. **What is your character's favourite drink?
-
+     - Mead
 51. **Does your character have a favourite colour or colour group?
-
+    - He likes a dark red or green.
 52. **What is your character's favourite animal?
-
+     - Whale
 53. **What would be your character's spirit animal and why?
-
+    - Parrot
 54. **What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?
-
+    - Music ofc.
 55. **What does your character like to spend their free time on if they have a break from adventuring?
-
+    - Playing music, looking at the stars and drawing constellations, daydreaming about his nonexistent ship with crew, playing games (gambling) and drinking beer. 
 56. **What is your character's worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?
-
+    - He's very claustrophobic and has a small fear of heights. 
 57. **What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?
-
+    - He might not admit it, but he's afraid of failure and in the end dying.
 58. **What is your character's biggest pet peeve? 
-
+    - People who chew with their mouth open. 
 59. **Do you have any bad or annoying habits?
-
+     - Procrasination and nail biting. 
 60. **Sweet, sour, salty or bitter?
-
+    - Salty
 61. **Soldier, Poet or King?
-
+    - Poet
 62. **What is your character's most controversial opinion? Do they have any true hot takes?
-
+    - Religion should not be head of the law.
 63. **How would your character try to impress someone?
-
+    - Flaunting like a peacock and boasting.
 64. **How does your character make friends?
-
+    - He makes friends by (mostly) being himself; cracking jokes, lighthearted talking etc.
 65. **What is your most valuable possession and why?
-
+    - The ring he has kept from his father. It has sentimental value to him.
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?
-
+    - If it requires etiquette, hell no, he would be moping. Otherwise he would be a party beast.
 67. **What is your character's least funny joke that they think is great?
-
+    - I want to buy a parrot, should I put it on this shoulder (putting hand on left shoulder) or on this shoulder? (putting his entire arm over the person).
 68. **If your character was a celestial body(sun, star, moon, black hole) what one would they be?
-
+     - Sun
 
 ### Any additional information you want to share that i didn't ask about or that you think is important:
