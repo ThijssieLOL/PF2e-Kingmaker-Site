@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Stalker in Darkened Boughs are hunters of the ancient forests, drawn to violence and to those who master it.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Runic Body* (cantrip: Gouging Claw) | |
 | 2 | *Vomit Swarm* | |
@@ -28,11 +28,11 @@ Spirits of the Stalker in Darkened Boughs are hunters of the ancient forests, dr
 ## Spirits
 
 ### [[The Hedge]]
-*Level 3 — Wall of Thorns*
+*Rank 3 — Wall of Thorns*
 A blackthorn hedge grown into the shape of an animal, and the animal keeps changing. One pair of real eyes moves from shape to shape, and it never stops watching.
 
 ### [[The Grazer]]
-*Level 8 — Monstrosity Form*
+*Rank 8 — Monstrosity Form*
 A stag the height of a barn, its antlers grown into a grove of real trees and its open ribcage packed with eyes. It grazes, and you are in the pasture.
 
 ## Mechanical Reference

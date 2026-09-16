@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Echo of Lost Moments are born of forgotten memories, and of time that was damaged and then repaired.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Déjà Vu* (cantrip: Figment) | |
 | 2 | *Dispel Magic* | |

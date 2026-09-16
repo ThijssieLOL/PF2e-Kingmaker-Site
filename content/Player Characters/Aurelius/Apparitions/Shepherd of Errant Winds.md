@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Shepherd of Errant Winds are spirits of movement and freedom, born from the wake of the wind.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Tailwind* (cantrip: Slashing Gust) | |
 | 2 | *Propulsive Breeze* | |

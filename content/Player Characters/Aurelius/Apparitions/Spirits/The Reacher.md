@@ -5,7 +5,7 @@ tags:
   - apparition
   - lore
 apparition: "[[Lurker in Devouring Dark]]"
-level: 2
+rank: 2
 status: 
 aliases:
   - The Reacher
@@ -13,11 +13,11 @@ own-name:
 ---
 
 ## Overview
-The Reacher is a Level 2 spirit of the [[Lurker in Devouring Dark]] family. What is seen of it is a drowned sailor hanging upright in the air; the thing itself waits below in the dark and is never seen.
+The Reacher is a Rank 2 spirit of the [[Lurker in Devouring Dark]] family. What is seen of it is a drowned sailor hanging upright in the air; the thing itself waits below in the dark and is never seen.
 
 ### Quick Facts
 - **Apparition Family:** [[Lurker in Devouring Dark]]
-- **Spirit Level:** 2 (carries the 2nd-rank apparition spell, *Acid Grip*)
+- **Spirit Rank:** 2 (carries the 2nd-rank apparition spell, *Acid Grip*)
 - **Binding Status:** *TBD.*
 - **Own Name:** *TBD.*
 - **First Met:** *TBD.*

@@ -5,7 +5,7 @@ tags:
   - apparition
   - lore
 apparition: "[[Impostor in Hidden Places]]"
-level: 2
+rank: 2
 status: 
 aliases:
   - The Reflection
@@ -13,11 +13,11 @@ own-name:
 ---
 
 ## Overview
-The Reflection is a Level 2 spirit of the [[Impostor in Hidden Places]] family. It exists only in glass, where it stands behind whoever is looking, wearing the shape of the person they fear most.
+The Reflection is a Rank 2 spirit of the [[Impostor in Hidden Places]] family. It exists only in glass, where it stands behind whoever is looking, wearing the shape of the person they fear most.
 
 ### Quick Facts
 - **Apparition Family:** [[Impostor in Hidden Places]]
-- **Spirit Level:** 2 (carries the 2nd-rank apparition spell, *Invisibility*)
+- **Spirit Rank:** 2 (carries the 2nd-rank apparition spell, *Invisibility*)
 - **Binding Status:** *TBD.*
 - **Own Name:** *TBD.*
 - **First Met:** *TBD.*

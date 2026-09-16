@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Witness to Ancient Battles are grim spirits of soldiers, sieges, and fields that drank too much blood.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Sure Strike* (cantrip: Shield) | |
 | 2 | *Enlarge* | |
@@ -28,7 +28,7 @@ Spirits of the Witness to Ancient Battles are grim spirits of soldiers, sieges, 
 ## Spirits
 
 ### [[The Piper]]
-*Level 8 — Canticle of Everlasting Grief*
+*Rank 8 — Canticle of Everlasting Grief*
 A man-sized spirit with three faces on one head and a coat over a body that is only wounds. It plays before a battle, and only the men who will die in the coming attack can hear the tune.
 
 ## Mechanical Reference

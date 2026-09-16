@@ -5,7 +5,7 @@ tags:
   - apparition
   - lore
 apparition: "[[Lurker in Devouring Dark]]"
-level: 9
+rank: 9
 status: 
 aliases:
   - The Swallower
@@ -13,11 +13,11 @@ own-name:
 ---
 
 ## Overview
-The Swallower is a Level 9 spirit of the [[Lurker in Devouring Dark]] family: a whale-sized thing with no head, whose spine opens into a mouth from shoulder to tail. It swims through earth and air as if they were water, and everything it passes over collapses into it.
+The Swallower is a Rank 9 spirit of the [[Lurker in Devouring Dark]] family: a whale-sized thing with no head, whose spine opens into a mouth from shoulder to tail. It swims through earth and air as if they were water, and everything it passes over collapses into it.
 
 ### Quick Facts
 - **Apparition Family:** [[Lurker in Devouring Dark]]
-- **Spirit Level:** 9 (carries the 9th-rank apparition spell, *Implosion*)
+- **Spirit Rank:** 9 (carries the 9th-rank apparition spell, *Implosion*)
 - **Binding Status:** *TBD.*
 - **Own Name:** *TBD.*
 - **First Met:** *TBD.*

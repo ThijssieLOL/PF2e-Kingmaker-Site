@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Lurker in Devouring Dark are cold spirits of deep water and ice, and of the hungers beneath the world.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Grim Tendrils* (cantrip: Caustic Blast) | |
 | 2 | *Acid Grip* | [[The Reacher]] |
@@ -28,11 +28,11 @@ Spirits of the Lurker in Devouring Dark are cold spirits of deep water and ice, 
 ## Spirits
 
 ### [[The Reacher]]
-*Level 2 — Acid Grip*
+*Rank 2 — Acid Grip*
 A drowned sailor hanging upright in the air, reaching at nothing. What answers him waits below in the dark and is never seen.
 
 ### [[The Swallower]]
-*Level 9 — Implosion*
+*Rank 9 — Implosion*
 A whale-sized thing with no head, its spine opening into a mouth from shoulder to tail. It swims through earth and air, and everything it passes over collapses into it.
 
 ## Mechanical Reference

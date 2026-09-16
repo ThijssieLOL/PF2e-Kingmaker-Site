@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Impostor in Hidden Places are secret-keepers. They whisper in corners that mortal voices never reach.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Ill Omen* (cantrip: Telekinetic Hand) | |
 | 2 | *Invisibility* | [[The Reflection]] |
@@ -28,7 +28,7 @@ Spirits of the Impostor in Hidden Places are secret-keepers. They whisper in cor
 ## Spirits
 
 ### [[The Reflection]]
-*Level 2 — Invisibility*
+*Rank 2 — Invisibility*
 A spirit that lives only in glass, standing behind whoever looks into it in the shape of the person they fear most, and always smiling.
 
 ## Mechanical Reference

@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Monarch of the Fey Courts are vain and capricious, and they belong to the courts of the First World.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Charm* (cantrip: Tangle Vine) | |
 | 2 | *Create Food* | |
@@ -28,7 +28,7 @@ Spirits of the Monarch of the Fey Courts are vain and capricious, and they belon
 ## Spirits
 
 ### [[The Court of One]]
-*Level 8 — Uncontrollable Dance*
+*Rank 8 — Uncontrollable Dance*
 A line of masked dancers in gowns grey with dust, holding hands in a line with no fixed length. Anyone who watches must dance too, until they fall and join it.
 
 ## Mechanical Reference

@@ -12,8 +12,8 @@ status: Active
 ## Overview
 Spirits of the Reveler in Lost Glee are twisted spirits of joy that once was, and of mirth that now wounds.
 
-## The Nine Levels
-| Level | Spell | Spirit |
+## The Nine Ranks
+| Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Dizzying Colors* (cantrip: Prestidigitation) | |
 | 2 | *Laughing Fit* | |
