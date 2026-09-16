@@ -9,6 +9,7 @@ level: 3
 status: 
 aliases:
   - The Hedge
+own-name:
 ---
 
 ## Overview
@@ -18,6 +19,7 @@ The Hedge is a Level 3 spirit of the [[Stalker in Darkened Boughs]] family: a bl
 - **Apparition Family:** [[Stalker in Darkened Boughs]]
 - **Spirit Level:** 3 (carries the 3rd-rank apparition spell, *Wall of Thorns*)
 - **Binding Status:** *TBD.*
+- **Own Name:** *TBD.*
 - **First Met:** *TBD.*
 
 ## Appearance

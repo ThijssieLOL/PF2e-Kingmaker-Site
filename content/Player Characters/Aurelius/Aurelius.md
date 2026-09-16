@@ -124,7 +124,7 @@ Spirits meet him according to their nature.
 - **Neutral spirits** he guides gently toward order and the sun goddess' light, through patient negotiation.
 - **Evil spirits** he treats as unnatural parasites. He binds them in holy chains of pure white-gold light, bends them to serve divine justice, and cleanses them. Managing them demands intense mental focus and takes a physical toll on him.
 
-Binding is a naming. A spirit becomes bound the moment Aurelius gives it a name, and he can name only the spirits his vessel can hold. A spirit of a lower Level than the highest he commands submits to the name when he gives it. If a spirit will not submit, he must first defeat it in combat, and he names it where it falls. Every name he gives opens the same way, with the word The: The Grazer, The Piper, The Hedge. Each is his own name for the spirit, and each spirit keeps its own name besides.
+Binding is a naming: a spirit is bound when he gives it a name, and the names he gives follow one form, **The** something, as his [[Spirits Ledger]] sets down in full.
 
 ---
 

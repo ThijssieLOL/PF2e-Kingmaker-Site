@@ -9,6 +9,7 @@ level: 2
 status: 
 aliases:
   - The Reacher
+own-name:
 ---
 
 ## Overview
@@ -18,6 +19,7 @@ The Reacher is a Level 2 spirit of the [[Lurker in Devouring Dark]] family. What
 - **Apparition Family:** [[Lurker in Devouring Dark]]
 - **Spirit Level:** 2 (carries the 2nd-rank apparition spell, *Acid Grip*)
 - **Binding Status:** *TBD.*
+- **Own Name:** *TBD.*
 - **First Met:** *TBD.*
 
 ## Appearance
