@@ -57,4 +57,4 @@ Fourteen families are known to the animist tradition. Each page opens with the f
 ## House Notes
 
 - **Rules:** The rank system is house flavor layered over the *Pathfinder 2e* Animist class (*War of Immortals*). Mechanically, an apparition's skills, spell repertoire, vessel spell, and avatar are fixed by family (see each family page's Mechanical Reference); the rank of the specific spirit bound is a narrative choice unless the group decides otherwise.
-- **New spirits:** Whenever the party wants a new spirit, or the GM needs one, draft it with the [[Spirit Template]], add it to the rank table on its family page, and give it a short entry under that page's Spirits heading.
+- **New spirits:** Whenever the party wants a new spirit, or the GM needs one, draft it with the [[Spirit Template]], then add it to the rank table on its family page, in the Spirit column beside the spell it carries.

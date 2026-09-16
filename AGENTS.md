@@ -42,12 +42,12 @@ Any `.md` file whose frontmatter contains `agent-editable: true`. This marker is
 of truth for "this file may be edited by the agent". Currently that means:
 
 - Everything under `content/Player Characters/Aurelius/`
-- `content/Deities & Religion/The Eternal Blazing Sun/The Church of the Eternal Blazing Sun.md`
-- Everything under `content/Deities & Religion/The Eternal Blazing Sun/The Chancelleries/`
-- `content/Misc/Tattoos of Penance.md`
+- Everything under `content/Deities & Religion/The Church of the Eternal Blazing Sun/`, including
+  the chancelleries under `The Chancelleries/`
 - The NPC notes under `content/Organizations & People/Non Player Characters/` **that carry the
-  marker** (Vespera, Lyra, Lucian, Julian, Gideon). The folder is NOT the rule — the marker is.
-  If a friend adds a new NPC there later, that note will have no marker and is off-limits.
+  marker** (Vespera, Lyra, Lucian, Julian, Gideon, Tristan, Valerius). The folder is NOT the rule —
+  the marker is. If a friend adds a new NPC there later, that note will have no marker and is
+  off-limits.
 
 ### 3.2 Shared locations (group-owned)
 - `content/index.md` — group hub page.

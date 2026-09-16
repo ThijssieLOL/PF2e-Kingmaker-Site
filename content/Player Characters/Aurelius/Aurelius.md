@@ -141,7 +141,7 @@ Aurelius was raised alongside six other orphans in the Twenty-First Vigil, his t
 
 ### The Fallen Siblings
 - **[[Tristan]] — The Shield (Champion):** The protective older-brother figure of the class and Aurelius's closest listener, the one he could speak to about ordinary things when he could speak to no one else. Tristan was lost holding back a monstrous horde so his siblings could escape; whether he died is not known. Aurelius holds his memory as the highest standard of holy sacrifice, and he often blames himself for the loss.
-- **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius lived for the clash of blades. He often bickered with Aurelius over discipline versus instinct, then died defending city walls during an invasion a few years after Tristan. His death reminds Aurelius of the brutal cost of war.
+- **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius bickered with Aurelius over discipline versus instinct, and his death at the city walls reminds Aurelius of the brutal cost of war.
 
 The Vigil keeps a shrine to the fallen in the church graveyard garden of Restov, and Aurelius visits it when he can.
 
