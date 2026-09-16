@@ -12,9 +12,9 @@
     - Elvish
     - River Cant
 ### Visual Design and Aesthetics
-5. **What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?
+5. **What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?**
     - Tall (1,80m) and athletic but quite slender. Isn't hairy but does have luscious hair on top of his head.
-6. **What notable physical features does your character have? Impressive scars, unusual hair colour or glamorous tattoos and piercings, what makes your character's look distinct.
+6. **What notable physical features does your character have? Impressive scars, unusual hair colour or glamorous tattoos and piercings, what makes your character's look distinct.**
     - Has a pirate hat he thinks look cool (it doesn't) and jewelry that varies between gold and silver. Most noticeable is probably the heterochromia and pointy ears.
 7. **Is your character well groomed? Do they bathe often? Do they brush their teeth? 
     - He's pretty well groomed even if he doesn't look the type to be. He's horrible with cleaning his shoes though.
