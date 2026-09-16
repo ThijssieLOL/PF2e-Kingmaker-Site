@@ -6,7 +6,7 @@ tags:
   - spirit
 leader: The Sovereign Muse
 headquarters: Atra Peak Observatory
-alignment: Lawful Good
+alignment: Neutral Good
 status: Active
 ---
 
@@ -15,7 +15,7 @@ status: Active
 > "May your spark burn clear, your Muse walk near, and your name find its star. -Common prayer"
 
 ## Overview
-The Celestial Calling is a religion centered on spirits and 
+The Celestial Calling is a religion centered on spirits and finding peoples
 
 ### Quick Facts
 - **Leader:** 
