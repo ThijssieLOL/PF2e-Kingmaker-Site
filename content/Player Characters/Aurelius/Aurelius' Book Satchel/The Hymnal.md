@@ -113,7 +113,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 
 - **Manifestation:** The metal reforms in Aureolin White into three thin needles, which rise and fly clean through the target, each trailing light.
 - **Verbal Component:** "O Blazing Sun, forge Thou these darts in Thy light, and guide them true to the mark."
-- **Somatic Component:** A short run of three [[The Star Seals|seals]], each one closed as a needle leaves the hand, so the sequence and the flight are one motion.
+- **Somatic Component:** The Bridge -> The North Star -> The Archer
 - **Sensation:** Hotter than Guidance and quicker: the heat spikes at his fingertips, and the metal leaves his hand cold against it.
 - **Residue:** The needles burn out on impact and leave three brief glimmers that fade with the light.
 
