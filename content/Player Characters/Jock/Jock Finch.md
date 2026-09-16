@@ -18,11 +18,11 @@ status: Alive
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** Jock Finch (formerely known as Jovian Lamerri)
+- **Full Name:** Jock Finch (formerely known as Jovian Larmelli)
 - **Ancestry/Species:** Human/Aiuvarin
 - **Class/Profession:** Bard
 - **Affiliation:** -
-- **Role/Rank:** 
+- **Role/Rank:** Missing
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
@@ -31,6 +31,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 
 ## Personality
 - **Demeanor:** (How they act, their general attitude, and core beliefs)
+    Has heterochromia
 
 ---
 
