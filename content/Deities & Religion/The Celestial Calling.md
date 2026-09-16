@@ -62,8 +62,9 @@ Spirits and their ascension are greatly important to this religion.
 ### Beliefs
 - **The Shame of the Tethered Muse:** There are old stories about Muses who did not ascend to constellation due to love for mortals.  Believers view Muses who abandon ascension out of love for a mortal as tragic backsliders. High clergy condemn them for wasting cosmic potential, while common folk tell romantic ballads about them.
 -  **Inspiration as Possession:** Sudden bursts of artistic genius, tactical insight, or sudden breakthroughs are viewed as a Muse temporarily stepping into a mortal's body to nudge their hands or mind.
+- **The Great Unseen Void:** The spaces between constellations are believed to be "unlit concepts"—talents and ideas that humanity has not yet invented or discovered, waiting for a mortal to dream them into existence.
 
 ---
 
 ## Relations
-- **Faction Dynamics:** (Their relationship with the party, kingdom, or rival groups)
+- [[Zephan]]
