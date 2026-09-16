@@ -2,7 +2,7 @@
 tags:
   - character
   - npc
-ancestry:
+ancestry: Aiuvarin
 class: Bard
 faction:
 status: Alive
@@ -17,7 +17,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
 - **Full Name:** Jock Finch
-- **Ancestry/Species:** Half
+- **Ancestry/Species:** Aiuvarin
 - **Class/Profession:** 
 - **Affiliation:** 
 - **Role/Rank:** 
