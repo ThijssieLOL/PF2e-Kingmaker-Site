@@ -93,9 +93,9 @@ Skip this section if your character has no magic/can't cast spells.
 40. **What are, in your opinion, the fundamental rights a citizen of your country should have?
     - Nourishment, roof over the head, education, voting, religion, etc.
 41. **Would you sacrifice yourself for your friends, allies or future citizens?
-    - 
+    - Depends how close he is with them and the circumstances, he wouldn't normally sacrifice himself for people he didn't know.
 42. **How would you describe your character's moral compass?
-
+    - 
 43. **Where does your character draw the line? When do the ends stop justifying the means?
 
 ### Religion
