@@ -21,7 +21,7 @@
 8. **Does your character have a condition or other distinction that makes them different from others of their race/species.
     - Has heterochromia (or homophobia like some of you like to call it).
 9. **What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?
-    - He wear pirate-esque clothing. Back in his family home he was forced to be 'proper' like his noble parents but he didn't care much for it. 
+    - He wears pirate-esque clothing. Back in his family home he was forced to be 'proper' like his noble parents but he didn't care much for it. 
 10. **Does your character have a particular set of nice clothes? If so, what does it look like?
 
 11. **What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?
