@@ -2,7 +2,7 @@
 1. **What is your character's class**
     - Bard
 2. **What is your character's species/race(Ancestry)**
-    - Half elf (half human/half elf)
+    - Human/Aviuvarian 
 3. **Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
     - Performance
     - Astronomy
@@ -30,7 +30,7 @@
 Skip this section if your character has no magic/can't cast spells.
 
 12. **Where does your character tell people their magic came from?
-
+    - 
 13. **Where does your character actually get their magic?
 
 14. **Does this origin affect the magic's working and visuals?
