@@ -13,8 +13,8 @@ status: Alive
 
 ![[Aurelius final design.png|375]]
 
-> "..."
-> — Aurelius
+> "A poor orphan boy doing gangsigns"
+> — Noella
 
 ## Overview
 
@@ -160,5 +160,3 @@ The Vigil keeps a shrine to the fallen in the church graveyard garden of Restov,
 - **[[Vespera]] — The Mind (Investigator):** Analytical, quiet, and razor-sharp, Vespera is Aurelius's intellectual counterpart. She regularly challenges his grand political theories with practical logic and tactical realism.
 - **[[Lyra]] — The Catalyst (Alchemist):** A chaotic genius obsessed with sacred alchemy, Lyra is Aurelius's primary collaborator on the [[Holy Ground Project]], turning his spiritual theories into physical alchemical instruments.
 
-Quotes:
-- "A poor orphan boy doing gangsigns" - Noella
