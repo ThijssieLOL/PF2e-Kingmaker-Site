@@ -165,6 +165,10 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 36   | You are so easily forgotten you wouldn't even make it on a missing persons case.                                                                                                                                                                             |
 | 37   | I can see that you are commited to your current level of understanding                                                                                                                                                                                       |
 | 38   | I am truly jealous of everyone that hasn't met you                                                                                                                                                                                                           |
+| 39   | I admire your courage to speak in the absense of knowlegde                                                                                                                                                                                                   |
+| 40   | Your food for thought leaves even an ant hungry                                                                                                                                                                                                              |
+| 41   | Nothing lights up a room like your absense                                                                                                                                                                                                                   |
+| 42   |                                                                                                                                                                                                                                                              |
 ### Personality Quizes
 ![[Zephan_Big five 1.png]]
 ![[Zephan_Bigfive2.png]]![[Zephan_Bigfive3.png]]![[Zephan_Bigfive4.png]]![[Zephan_Bigfive5.png]]![[Zephan_Bigfive6.png]]
