@@ -7,6 +7,8 @@ headquarters: Unknown
 alignment: Chaotic Evil (presumed)
 status: Active
 deity: "[[Groetus]]"
+aliases:
+  - Heralds
 ---
 
 

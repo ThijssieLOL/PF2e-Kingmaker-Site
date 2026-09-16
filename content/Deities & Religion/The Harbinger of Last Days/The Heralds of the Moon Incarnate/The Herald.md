@@ -13,7 +13,7 @@ status: Alive
 > "Hear me and rejoice! you have had the privilege of being saved by the Great Herald. You may think this is suffering. No... it is salvation. The universal scales tip toward balance because of your sacrifice. Smile... for even in death, you have become [[Heralds of the Moon Incarnate]]" - The Herald
 
 ## Overview
-The **Herald of the Moon Incarnate** is the name [[Oliver]] has given to the man he remembers from the destruction of his village. He was one of the figures responsible for the massacre that claimed Oliver's family, standing among the cultists and demons that descended upon the village when Oliver was only eight years old.
+The **Herald of the Moon Incarnate** is the name [[Oliver Strong Bison]] has given to the man he remembers from the destruction of his village. He was one of the figures responsible for the massacre that claimed Oliver's family, standing among the cultists and demons that descended upon the village when Oliver was only eight years old.
 
 ### Quick Facts
 - **Full Name:** Unkown
