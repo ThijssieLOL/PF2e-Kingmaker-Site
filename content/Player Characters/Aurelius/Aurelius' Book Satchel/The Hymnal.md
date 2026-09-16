@@ -10,7 +10,7 @@ aliases:
   - The Hymnal (Prayer Book)
 status: Active
 ---
-
+ 
 > "Every spell is a verse, and every verse is a promise kept."
 > — Aurelius
 
