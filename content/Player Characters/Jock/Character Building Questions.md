@@ -139,9 +139,9 @@ Skip this section if your character has no magic/can't cast spells.
 62. **What is your character's most controversial opinion? Do they have any true hot takes?
     - Religion should not be head of the law.
 63. **How would your character try to impress someone?
-    - Flaunting like a 
+    - Flaunting like a peacock and boasting.
 64. **How does your character make friends?
-
+    - He makes friends by (mostly being himself 
 65. **What is your most valuable possession and why?
 
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?
