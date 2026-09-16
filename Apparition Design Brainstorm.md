@@ -124,7 +124,7 @@ A line of dancers joined at the waist, one behind the other, in court gowns that
 - **Behaviour:** It cannot stop; the dance is its heartbeat. Anyone who watches must dance too, and they dance until they fall, and then they join the chain. It is vain. Being ignored offends it more than being interrupted.
 - **Origin:** A court that danced while its kingdom burned, and kept dancing when the fire reached the hall.
 
-### The Piper Who Was Never Relieved, Level 8 (Canticle of Everlasting Grief)
+### The Piper, Level 8 (Canticle of Everlasting Grief)
 
 It wears the uniform of an army that no longer exists, and the uniform has been rained on for a long time. It stands a head taller than the tallest man and keeps the bearing of a soldier on parade. It has three faces set into the one head, stacked one above the other: a young face turned to the side, an older weathered face facing front with the cheeks puffed, and a third below that which is all open mouth. One blows the chanter. One sings. One screams. All three share the one breath, so the cheeks of all of them move at once. Every company it has marched off a field gives it another face, always a face that was following it, and the new face always screams.
 
