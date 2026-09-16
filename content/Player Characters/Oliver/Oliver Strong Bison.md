@@ -63,4 +63,4 @@ aliases:
 
 The [[Jotnar Five|Jotnar Four]]: **Oliver** doesn't think of the four giants as separate mentors anymore; they are simply his family. Each gave him something different: **Zagaakwaa** taught him to understand, Bapakine taught him to survive, **Daga** taught him to live and **Niigani** taught him to choose. They may disagree constantly about how to guide him, but all four consider **Oliver** family
 
-[[]]
+[[The Herald]]: **The Herald** murdered **Oliver**'s entire family, and most if not all of his tribe
