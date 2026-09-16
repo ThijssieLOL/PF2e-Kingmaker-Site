@@ -9,6 +9,7 @@ level: 2
 status: 
 aliases:
   - The Reflection
+own-name:
 ---
 
 ## Overview
@@ -18,6 +19,7 @@ The Reflection is a Level 2 spirit of the [[Impostor in Hidden Places]] family. 
 - **Apparition Family:** [[Impostor in Hidden Places]]
 - **Spirit Level:** 2 (carries the 2nd-rank apparition spell, *Invisibility*)
 - **Binding Status:** *TBD.*
+- **Own Name:** *TBD.*
 - **First Met:** *TBD.*
 
 ## Appearance

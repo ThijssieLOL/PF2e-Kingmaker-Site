@@ -7,17 +7,19 @@ level:
 status: Bound
 aliases:
   - Spirit Name
+own-name:
 ---
 
 > "A memorable line the spirit speaks, in its own voice."
 
 ## Overview
-A brief 1-2 sentence summary of who this spirit is: what it was, where it was found, and how it came to be bound. Every spirit belongs to one [[Spirits Ledger|apparition family]] and carries one Level that measures its strength.
+A brief 1-2 sentence summary of who this spirit is: what it was, where it was found, and how it came to be bound. Every spirit belongs to one [[Spirits Ledger|apparition family]] and carries one Level that measures its strength. The page title is the name Aurelius gave the spirit at its binding; the spirit's own name is kept separately in Own Name.
 
 ### Quick Facts
 - **Apparition Family:** [[Name of Apparition]]
 - **Spirit Level:** 1–9 (the highest apparition spell rank it can carry, see the family page)
 - **Binding Status:** Bound / Attuned / Encountered / Sought / Released
+- **Own Name:** (the spirit's own name, apart from the one Aurelius gave it)
 - **First Met:** (where and when)
 
 ## Appearance

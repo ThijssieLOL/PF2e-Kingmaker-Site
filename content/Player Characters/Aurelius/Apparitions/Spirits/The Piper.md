@@ -9,6 +9,7 @@ level: 8
 status: 
 aliases:
   - The Piper
+own-name:
 ---
 
 ## Overview
@@ -18,6 +19,7 @@ The Piper is a Level 8 spirit of the [[Witness to Ancient Battles]] family, no t
 - **Apparition Family:** [[Witness to Ancient Battles]]
 - **Spirit Level:** 8 (carries the 8th-rank apparition spell, *Canticle of Everlasting Grief*)
 - **Binding Status:** *TBD.*
+- **Own Name:** *TBD.*
 - **First Met:** *TBD.*
 
 ## Appearance

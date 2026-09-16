@@ -9,6 +9,7 @@ level: 8
 status: 
 aliases:
   - The Court of One
+own-name:
 ---
 
 ## Overview
@@ -18,6 +19,7 @@ The Court of One is a Level 8 spirit of the [[Monarch of the Fey Courts]] family
 - **Apparition Family:** [[Monarch of the Fey Courts]]
 - **Spirit Level:** 8 (carries the 8th-rank apparition spell, *Uncontrollable Dance*)
 - **Binding Status:** *TBD.*
+- **Own Name:** *TBD.*
 - **First Met:** *TBD.*
 
 ## Appearance

@@ -9,6 +9,7 @@ level: 9
 status: 
 aliases:
   - The Swallower
+own-name:
 ---
 
 ## Overview
@@ -18,6 +19,7 @@ The Swallower is a Level 9 spirit of the [[Lurker in Devouring Dark]] family: a 
 - **Apparition Family:** [[Lurker in Devouring Dark]]
 - **Spirit Level:** 9 (carries the 9th-rank apparition spell, *Implosion*)
 - **Binding Status:** *TBD.*
+- **Own Name:** *TBD.*
 - **First Met:** *TBD.*
 
 ## Appearance

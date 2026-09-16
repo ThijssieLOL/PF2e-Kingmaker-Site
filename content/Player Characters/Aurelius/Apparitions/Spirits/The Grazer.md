@@ -9,6 +9,7 @@ level: 8
 status: 
 aliases:
   - The Grazer
+own-name:
 ---
 
 ## Overview
@@ -18,6 +19,7 @@ The Grazer is a Level 8 spirit of the [[Stalker in Darkened Boughs]] family: a s
 - **Apparition Family:** [[Stalker in Darkened Boughs]]
 - **Spirit Level:** 8 (carries the 8th-rank apparition spell, *Monstrosity Form*)
 - **Binding Status:** *TBD.*
+- **Own Name:** *TBD.*
 - **First Met:** *TBD.*
 
 ## Appearance
