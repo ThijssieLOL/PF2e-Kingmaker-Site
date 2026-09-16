@@ -79,7 +79,7 @@ Skip this section if your character has no magic/can't cast spells.
 34. **Is your character's family well-off or are they fucking peasants?
     - We ain't raise no **PEASANTS** in this house. His family is loaded but he's kinda broke. 
 35. **What is your (tragic) backstory?
-    - Jovian Larmelli (futurely known as Jock Finch) was and still is a pretty carefree spirit. Ever since he was a child he was interested in everything the world had to offer him. 
+    - Jovian Larmelli (futurely known as Jock Finch) was and still is a pretty carefree spirit. Ever since he was a child he was interested in everything the world had to offer him, most of all pirates and things called seas??? He would order his fr
 ### Motivations and morality
 
 36. **Why is your character out adventuring?
