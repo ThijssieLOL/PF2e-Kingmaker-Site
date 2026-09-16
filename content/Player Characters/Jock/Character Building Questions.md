@@ -3,11 +3,11 @@
     - Bard
 2. **What is your character's species/race(Ancestry)**
     - Human/Aiuvarin
-3. **Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
+3. **Are there any (lore)skill proficiencies you find particularly interesting/important for this character?**
     - Performance
     - Astronomy
     - Deception
-4. **What languages does your character speak and why?
+4. **What languages does your character speak and why?**
     - Common
     - Elvish
     - River Cant
