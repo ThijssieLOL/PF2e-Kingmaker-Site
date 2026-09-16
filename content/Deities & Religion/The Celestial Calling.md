@@ -38,13 +38,13 @@ Spirits and their ascension are greatly important to this religion.
 ---
 
 ## Structure & Ranks
-- **Followers**: Followers are people who simply belief in The Celestial Calling. They practice their calling, 
-- **Guides**: Guides are 
+- **Followers**: Followers are people who simply belief in The Celestial Calling. They practice their calling, do their best to appease the spirits related to their calling and go on with their life.
+- **Guides**: Guides are the lowest rank in the lead3
 
 
 ---
 
-## Key Members
+## Customs and Rituals
 - **[[Character Link]]:** Brief description of their role within the faction.
 
 ---
