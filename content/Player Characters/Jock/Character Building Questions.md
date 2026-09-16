@@ -71,9 +71,9 @@ Skip this section if your character has no magic/can't cast spells.
 30. **Where did your character grow up?
     - Eryndale, the town of his family.
 31. **Who raised them? If not their parents, why?
-    - His parents and the butlers. 
+    - His parents, but when his parents were too busy his butlers would take care of him.
 32. **Did your character have any form of education? Did they go to school? Were they home schooled? 
-
+    - They had a very good education. At first 
 33. **How has your upbringing shaped your worldview?
 
 34. **Is your character's family well-off or are they fucking peasants?
