@@ -43,4 +43,4 @@ A brief 1-2 sentence summary of who this character is and their role.
 ---
 
 ## Relationships
-- **[[Oliver Strong Bison|Oliver]]:** The Herald murdered Oliver's entire
+- **[[Oliver Strong Bison|Oliver]]:** **The Herald** murdered **Oliver**'s entire family, and most if not all of his tribe
