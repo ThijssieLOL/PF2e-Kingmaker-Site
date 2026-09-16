@@ -20,7 +20,7 @@ The Celestial Calling is a religion centered on spirits and finding peoples call
 ### Quick Facts
 - **Leader:** The Sovereign Muse - A greater spirit who seeks to help people find their calling
 - **Headquarters:** Astra Peak Observatory - An observatory on one of the highest peaks, where the stars shine clear and true.
-- **Hierarchy**: Guides (priests) - Wayfinders (Bischops) - 
+- **Hierarchy**: Guides (priests) - Wayfinders (Bischops) - Polars (Archbischop/cardinals) - Sovereign Muse (Pope and also g)
 - **Alignment:** Neutral good leaning lawful
 ---
 ## Theology & Cosmology
