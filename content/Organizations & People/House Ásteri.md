@@ -22,7 +22,7 @@ The House Ásteri is a noble house known for their oracles, crystal mines and of
 - **Affiliation / Alliances:** [[The Church of the Everlasting Moonlight]]
 
 ## Founding and Lore
-- **Founding**: According to legend, the house Ásteri was founded by an adventurer of ancient times
+- **Founding**: According to legend, the house Ásteri was founded by an adventurer of ancient times named Sybill Ásteri. 
 - **History:** (What the organization is trying to achieve)
 
 ---
