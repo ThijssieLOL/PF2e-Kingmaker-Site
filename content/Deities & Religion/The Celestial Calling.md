@@ -35,7 +35,7 @@ Spirits and their ascension are greatly important to this religion.
 - **Social Expectations:** Fulfilling ones spark is seen as the greatest obligation according to The Celestial Calling. People who are unable to follow their spark due to circumstance are often still encouraged to do their calling, but if they truly can't they are pitied and seen as social outcasts, while those unwilling to follow a calling are ostracized, akin to if a one would renounce the god that their family believes in. There are also people who are seemingly born without a calling, also called ash-born. Often when one turns 30 and still cannot find their calling it is agreed they are sparkless, and they tend to be ignored, due to people believing them to be cursed. Meanwhile people with more than one spark are exceedingly rare and seen as saints in this religion. It is akin as if a person could talk directly with god.
 - **Evil callings**: If a person is found to hold an evil calling such as murder, arson or theft, they are seen as exceptions and allowed to practice something else. These people still tend to be shamed, but to a lesser degree than other groups, because most people wouldn't actually want these people to follow their calling. However, there are fundamentalists who belief that even these people should follow their calling, but these people are seen as heretics, and often start their own cults to spread this belief.
 ### Life, Death and Afterlife
-
+It is believed
 
 ---
 
