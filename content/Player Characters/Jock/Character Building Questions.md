@@ -25,7 +25,7 @@
 10. **Does your character have a particular set of nice clothes? If so, what does it look like?
     - No, he has a few nice shirts with embroidery on them but he refuses to put on a suit.
 11. **What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?
-    - He smells like seasalt (how you may ask? Power of delusion)
+    - He smells like sea salt (how you may ask, power of delusion). Sometimes he has a perfume he likes to spray on himself for special ocass
 #### Magic
 Skip this section if your character has no magic/can't cast spells.
 
