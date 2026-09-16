@@ -2,7 +2,7 @@
 tags:
   - character
   - npc
-ancestry:
+ancestry: Human
 class: Bard
 faction:
 status: Alive
