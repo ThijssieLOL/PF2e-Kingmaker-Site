@@ -10,47 +10,30 @@ aliases:
   - The Hymnal (Prayer Book)
 status: Active
 ---
- 
+
 > "Every spell is a verse, and every verse is a promise kept."
 > — Aurelius
 
 ## Overview
 
-The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, written down the way a singer writes down a song, with its manifestation, its verbal component, and its somatic component, so that he can sing it true again after long weeks without use. The book holds his magic in two parts. At the front sits the day's office, the prayers he says each morning to have his divine spells bestowed and to call the spirits he has bound to his side. Behind it lies the record, every verse he has ever learned, kept in order of rank and never struck out. The pages he will need seem to warm against his palm. When he casts, the verses burn Aureolin White: his tattoos ignite along his forearms and shins, and the magic rises as pure white-gold flame.
+The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, written down the way a singer writes down a song, so that he can sing it true again after long weeks without use. Each dawn he prays the day's office out of it in the [[The Liturgical Cadence|Liturgical Cadence]], and the rest of the book keeps the record of every verse he has ever learned. When he casts, the verses burn Aureolin White and his tattoos ignite along his forearms and shins.
 
 ### Quick Facts
 - **Kind of Book:** Prayer book of divine hymns
 - **What It Holds:** Every verse Aurelius has learned, divine and apparition alike
 - **How It Records:** Each verse is entered in full, with its manifestation and its components, per the [[Spell Template]]
+- **Morning Office:** Said at dawn: the divine verses are prayed for and bestowed, then the spirits in the [[Spirits Ledger]] are called, their chief lending its vessel spell
 - **Kept In:** Aurelius's book satchel
 - **Current Verses:** Cantrips and 1st-rank spells
 
-## The Morning Prayer
-
-Each dawn Aurelius opens the Hymnal and prays the day's office out of it, in the [[The Liturgical Cadence|Liturgical Cadence]]. Nothing in the office is improvised. He prays only the verses already written in the book, and he says them in two halves.
-
-### The Bestowal
-
-The first half is for his divine spells. He names each verse he will need that day and prays it aloud, and the sun goddess bestows it on him for the day. A verse prayed this way is spent once it is cast; the next dawn he must ask for it again.
-
-### The Summoning
-
-The second half is for his spirits. He speaks the names of the spirits he has bound and chosen for the day, and they come in from the spirit layer to attend him. The chief among them lends its vessel spell, and the others lend the verses of their families. The [[Spirits Ledger]] keeps the roll of what he holds and how many he can carry.
-
 ## Prepared Today
 
-The day's loadout, written fresh each morning: the verses Aurelius has prayed for, and the spirits he has called to ride with him. Divine spells come first, then the apparition spells of the attending spirits. The full flavor of every verse is kept in the recorded library below.
-
 ### Divine Spells
-
-The verses prayed for and bestowed at dawn.
 
 - **Cantrips:** [to be entered]
 - **1st Rank:** [to be entered]
 
 ### Apparition Spells
-
-The spirits called at dawn, and the verses they carry.
 
 #### Primary Spirit
 - **Spirit:** [to be entered]
