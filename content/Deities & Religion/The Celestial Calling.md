@@ -41,8 +41,8 @@ Spirits and their ascension are greatly important to this religion.
 - **Followers**: Followers are people who simply belief in The Celestial Calling. They practice their calling, do their best to appease the spirits related to their calling and go on with their life.
 - **Guides**: Guides are the lowest rank in the leadership of The Celestial Calling. There is often a single guide per town, if there is any, who helps people within that town with matters related to spirits or sparks. They could subdue a rowdy spirit, perform a Rite of Illumination or simply help the townsfolk with clerical magic. In larger cities there could be multiple guides, and there even some guides that travel, providing help to towns that do not have guides of their own. Guides are often picked because they have a calling related to it such as leadership, teaching or debate.
 - **Wayfinders**: Wayfinders are higher ranked guides. They have more of a managerial position, leading a larger territory comprised of numerous cities or towns. They often reside in a temple or church, unlike guides who life in houses, in a larger city. 
-- **Polars**: Polars are the highest ranked human members of The Celestial Calling. They are a council, where every member governs over the guides and Wayfinders of one specific country. They reside in the
-
+- **Polars**: Polars are the highest ranked human members of The Celestial Calling. They are a council, where every member governs over the guides and Wayfinders of one specific country. They reside in the Astra Peak Observatory, and are the only people who are regularly in contact with The Sovereign Muse.   
+### Buildings
 
 ---
 
