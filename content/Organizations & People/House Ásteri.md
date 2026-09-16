@@ -35,7 +35,7 @@ The House Ásteri is a noble house known for their oracles, crystal mines and of
 ---
 
 ## Key Members
-- **[[Zephan]]:** Zephan is the oldest son of the Current House Ásteri and is either loved or hated by the townsfolk, no in between. Those who hate him pou
+- **[[Zephan]]:** Zephan is the oldest son of the Current House Ásteri and is either loved or hated by the townsfolk, no in between. Those who hate him point out his exceptional arrogance, flamboyantly chaotic behavior or general aura of smugness, while defenders point to his strong sense of jsutice, 
 
 ---
 
