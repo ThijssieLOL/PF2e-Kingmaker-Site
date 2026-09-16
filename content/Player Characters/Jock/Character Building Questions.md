@@ -89,9 +89,9 @@ Skip this section if your character has no magic/can't cast spells.
 38. **What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?
     - I think treasurer. He has common sense when it comes to money and knows how to keep the citizen's confidence with his charms. Or emissary since he has knowledge of the criminal world and knows how it works. 
 39. **How does your character think a country should be run?
-    - He thinks it should be a democracy 
+    - He thinks it should be ruled as a democracy with good money income.
 40. **What are, in your opinion, the fundamental rights a citizen of your country should have?
-
+    - 
 41. **Would you sacrifice yourself for your friends, allies or future citizens?
 
 42. **How would you describe your character's moral compass?
