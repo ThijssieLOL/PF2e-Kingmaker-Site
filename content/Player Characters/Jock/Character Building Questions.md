@@ -123,15 +123,15 @@ Skip this section if your character has no magic/can't cast spells.
 54. **What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?
     - Music ofc.
 55. **What does your character like to spend their free time on if they have a break from adventuring?
-    - Playing music, looking at the stars and drawing constellations, daydreaming about his nonexistent ship with crew, gambling and drinking beer. 
+    - Playing music, looking at the stars and drawing constellations, daydreaming about his nonexistent ship with crew, playing games (gambling) and drinking beer. 
 56. **What is your character's worst material fear? Are they scared of spiders, snakes or some other animal or rather something like heights or tight spaces?
     - He's very claustrophobic and has a small fear of heights. 
 57. **What is their worst immaterial fear? Do they fear death, abandonment or something else altogether?
-
+    - He might not admit it, but he's afraid of failure and in the end dying.
 58. **What is your character's biggest pet peeve? 
-
+    - People who chew with their mouth open. 
 59. **Do you have any bad or annoying habits?
-
+     - 
 60. **Sweet, sour, salty or bitter?
 
 61. **Soldier, Poet or King?
