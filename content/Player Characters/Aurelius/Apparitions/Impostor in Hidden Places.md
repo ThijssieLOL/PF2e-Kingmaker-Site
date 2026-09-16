@@ -15,7 +15,8 @@ status: Active
 ## Level 2 Spirits
 *Carries the 2nd-rank apparition spell: Invisibility.*
 
-**Spirit:** [[The Reflection]]
+### [[The Reflection]]
+A spirit that lives only in glass, standing behind whoever looks into it in the shape of the person they fear most, and always smiling.
 
 ## Level 3 Spirits
 *Carries the 3rd-rank apparition spell: Veil of Privacy.*
