@@ -67,11 +67,11 @@ Whether the man who destroyed [[Oliver Strong Bison|Oliver]]'s village genuinely
 
 He doesn't even know why the village was targeted.
 
-The [[Heralds were looking for something when they came.
+The [[Heralds of the Moon Incarnate|Heralds]] were looking for something when they came.
 
 Something important enough to justify unleashing demons upon an entire settlement.
 
-Oliver has never learned what it was.
+[[Oliver Strong Bison|Oliver]] has never learned what it was.
 
 ---
 
