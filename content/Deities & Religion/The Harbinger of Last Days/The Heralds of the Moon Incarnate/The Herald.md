@@ -25,9 +25,10 @@ The **Herald of the Moon Incarnate** is the name [[Oliver Strong Bison]] has giv
 
 ## Appearance
 - The man's most distinctive feature is his **complete lack of hair**. He is completely bald, with pale, almost grayish skin that gives him an unnervingly corpse-like appearance.
-- A long, unmistakable **scar runs from his forehead down toward one of his eyes**. It is the feature Oliver remembers most clearly, even after more than two decades.
-
-He wears a large, dark **fur cloak** over heavy, blackened armor and leather
+- A long, unmistakable scar runs from his forehead down toward one of his eyes. It is the feature [[Oliver remembers most clearly, even after more than two decades.
+- He wears a large, dark fur cloak over heavy, blackened armor and leather
+- He carries himself with a quiet confidence and appears physically imposing, though Oliver's childhood memories make it difficult to distinguish what the man actually looked like from how terrifying he seemed at the time.
+- Oliver also remembers strange markings or symbols associated with the man, though he cannot say with certainty whether they were tattoos, magical markings, or simply part of his equipment.
 
 ---
 
