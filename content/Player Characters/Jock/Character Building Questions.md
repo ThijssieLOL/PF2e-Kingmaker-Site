@@ -77,7 +77,7 @@ Skip this section if your character has no magic/can't cast spells.
 33. **How has your upbringing shaped your worldview?
     - 
 34. **Is your character's family well-off or are they fucking peasants?
-    - We ain't raise no
+    - We ain't raise no **PEASANTS** in this house.
 35. **What is your (tragic) backstory?
 
 ### Motivations and morality
