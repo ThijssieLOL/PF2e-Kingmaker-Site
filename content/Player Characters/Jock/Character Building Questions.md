@@ -104,9 +104,9 @@ Skip this section if your character has no magic/can't cast spells.
 45. **Do they follow a particular god within their religion?
      - N.v.t.
 46. **What is their opinion on people of other religions?
-    - 
+    - Doesn't have a strong opinion, as long as they don't go all 'preachy' to him.
 47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?
-
+    - 
 48. **Do you believe in an afterlife(heaven) and do you think you are going to end up there?
 
 ### Personality and Preferences
