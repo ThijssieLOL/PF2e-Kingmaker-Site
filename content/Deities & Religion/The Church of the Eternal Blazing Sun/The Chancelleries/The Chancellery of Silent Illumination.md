@@ -11,7 +11,7 @@ status: Active
 > "A memorable quote."
 
 ## Overview
-The Chancellery of Silent Illumination is the intelligence service and internal security agency of [[The Church of the Eternal Blazing Sun]]. It works quietly behind the faith's public ministry. Its agents monitor internal clerical corruption, gather foreign intelligence, track existential threats, and run covert investigations and field operations where open force is too loud and standard clergy are too vulnerable.
+The Chancellery of Silent Illumination is the intelligence service and internal security agency of [[The Church of the Eternal Blazing Sun]], and its members are trained for the whole of that work: investigation, counterintelligence, forensics, and the tactical operations that end a case when it turns violent. The Chancellery works quietly behind the faith's public ministry. Its agents monitor internal clerical corruption, gather foreign intelligence, track existential threats, and run field operations where open force is too loud and standard clergy are too vulnerable.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
@@ -31,12 +31,13 @@ The Chancellery of Silent Illumination is the intelligence service and internal 
 
 ### Covert Operations
 - **Targeted Intervention:** When hostile actors or necromantic threats cannot be reached through diplomacy or open crusade, the Chancellery sends field agents to locate, infiltrate, and neutralize them.
+- **Tactical Teams:** When an operation turns violent, the Chancellery sends its own tactical teams, trained to the same standard as its field agents.
 
 ---
 
 ## Recruitment & The Orphan Cohorts
 
-Silent Illumination is the one chancellery that accepts orphans alone, and it selects the hardest of the nine because its work carries the most responsibility. Its recruits come out of [[The Church Schooling Program|the Church's schooling program]], where a convicted orphan may choose a chancellery in place of a prison sentence. Entry rests on consent, and a recruit keeps the right to refuse and the right to leave.
+Silent Illumination is the only chancellery that takes orphans and no one else; the other eight admit children of any family as well. It also selects the hardest of the nine, because its work carries the most responsibility. Its recruits come out of [[The Church Schooling Program|the Church's schooling program]], where a convicted orphan may choose a chancellery in place of a prison sentence. Entry rests on consent, and a recruit keeps the right to refuse and the right to leave.
 
 ### Selection of the Gifted
 - **The Strictest Gate:** The Chancellery asks more of its children than any other chancellery, and it takes only those it is sure of. A child it passes over usually finds a place in another chancellery.
