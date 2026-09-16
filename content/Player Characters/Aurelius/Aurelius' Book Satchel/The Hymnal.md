@@ -107,9 +107,9 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Guidance
 *Cantrip 1 · Concentrate · one action · range 30 feet*
 
-- **Manifestation:**
+- **Manifestation:** A quick flare of Aureolin White on the target's brow, gone before anyone notes it.
 - **Verbal Component:** "O Blazing Sun, light Thou his path, that he stumble not."
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 - **Provenance:**
