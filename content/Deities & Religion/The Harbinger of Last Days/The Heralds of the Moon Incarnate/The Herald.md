@@ -8,7 +8,7 @@ faction:
 status: Alive
 ---
 
-![[Herald.jpg|200]]
+![[TheHerald.png|300]]
 
 > "A memorable quote."
 
