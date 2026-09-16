@@ -50,7 +50,7 @@ Skip this section if your character has no magic/can't cast spells.
     - They do have some kind of honor (not a lot). They would accept a surrender depending on the circumstances but they do like playing dirty.
 ### Family and Relationships
 21. **Describe your character's parents. Are they still alive? What are they doing now? 
-    
+    - Being the son of Zaleria and 
 22. **Does your character have any siblings? What is your character's relationship with them? 
 
 23. **Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
