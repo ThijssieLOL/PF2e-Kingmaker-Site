@@ -41,9 +41,9 @@ Skip this section if your character has no magic/can't cast spells.
     - He needs a few drinks after but otherwise no.
 #### Combat style
 17. **How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?
-    - He's between 'going gun's blazing' and being all tactical. He's kinda in de middle with going with the flow and being laidback (except when there's a big boss, then it)
+    - He's between 'going gun's blazing' and being all tactical. He's kinda in de middle with going with the flow and being laidback (except when there's a big boss, then it's a 'o fuck' moment).
 18. **How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?
-
+    - Part of it has been from his old master teachings and dueling with a certain butler boy, the other part is completely improvised over the years.
 19. **How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
 
 20. **Does your character have rules or a code of honour for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?
