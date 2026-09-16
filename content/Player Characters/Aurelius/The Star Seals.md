@@ -25,7 +25,13 @@ Every seal is named for a constellation, and every constellation is held by a St
 
 ## The Twelve Base Shapes
 
-The reference above shows the twelve configurations the seals are built from. Five constellations are not yet covered by any of them.
+The seals are built from twelve configurations of the hands. Five constellations are not yet covered by any of them.
+
+![[The Star Seals - Bird.png|200]] ![[The Star Seals - Boar.png|200]] ![[The Star Seals - Dog.png|200]] ![[The Star Seals - Dragon.png|200]]
+
+![[The Star Seals - Ox.png|200]] ![[The Star Seals - Tiger.png|200]] ![[The Star Seals - Serpent.png|200]] ![[The Star Seals - Rat.png|200]]
+
+![[The Star Seals - Horse.png|200]] ![[The Star Seals - Monkey.png|200]] ![[The Star Seals - Hare.png|200]] ![[The Star Seals - Ram.png|200]]
 
 ## The Seals
 
