@@ -120,6 +120,12 @@ and offer what you CAN do instead.
   around every heading, table, and list. Pages written without a template get the same treatment:
   `## Overview` and `### Quick Facts` first, then the body in grouped sections, and `## House
   Notes` last where the page carries meta notes.
+- **A new note is never a braindump.** Every page you create must be organized, easy to read, and
+  clean to look at. Match the shape of the notes around it: a clear title, `## Overview` with
+  `### Quick Facts`, grouped `##` sections whose headings say what is inside, `###` subsections
+  for the pieces within a group, tables where the material compares, and a blank line around every
+  heading, table, and list. Someone opening the page for the first time should see the structure
+  at a glance and read it top to bottom without hunting for the point.
 - **Keep a page lean, and split it when it fills up.** A page should stay short enough to scan in
   one sitting. When a section outgrows the page's subject, give it a note of its own in the parent
   page's folder (the pattern already used by `Spirits/Apparitions/`), leave a short summary and a
