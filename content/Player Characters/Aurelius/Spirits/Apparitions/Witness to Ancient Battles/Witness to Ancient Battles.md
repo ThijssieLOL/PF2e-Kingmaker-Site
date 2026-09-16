@@ -25,18 +25,8 @@ Spirits of the Witness to Ancient Battles are grim spirits of soldiers, sieges, 
 | 8 | *Canticle of Everlasting Grief* | [[The Piper]] |
 | 9 | *Weapon of Judgment* | |
 
-## Spirits
-
-### [[The Piper]]
-*Rank 8 — Canticle of Everlasting Grief*
-A man-sized spirit with three faces on one head and a coat over a body that is only wounds. It plays before a battle, and only the men who will die in the coming attack can hear the tune.
-
 ## Mechanical Reference
 - **Apparition Skills:** Battlegrounds Lore, Heraldry Lore
 - **Vessel Spell:** *Embodiment of Battle*
 - **Avatar:** *General of Endless Battle*
 - **Source:** *War of Immortals* pg. 21
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*

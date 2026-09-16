@@ -42,12 +42,12 @@ Any `.md` file whose frontmatter contains `agent-editable: true`. This marker is
 of truth for "this file may be edited by the agent". Currently that means:
 
 - Everything under `content/Player Characters/Aurelius/`
-- `content/Deities & Religion/The Eternal Blazing Sun/The Church of the Eternal Blazing Sun.md`
-- Everything under `content/Deities & Religion/The Eternal Blazing Sun/The Chancelleries/`
-- `content/Misc/Tattoos of Penance.md`
+- Everything under `content/Deities & Religion/The Church of the Eternal Blazing Sun/`, including
+  the chancelleries under `The Chancelleries/`
 - The NPC notes under `content/Organizations & People/Non Player Characters/` **that carry the
-  marker** (Vespera, Lyra, Lucian, Julian, Gideon). The folder is NOT the rule — the marker is.
-  If a friend adds a new NPC there later, that note will have no marker and is off-limits.
+  marker** (Vespera, Lyra, Lucian, Julian, Gideon, Tristan, Valerius). The folder is NOT the rule —
+  the marker is. If a friend adds a new NPC there later, that note will have no marker and is
+  off-limits.
 
 ### 3.2 Shared locations (group-owned)
 - `content/index.md` — group hub page.
@@ -90,6 +90,8 @@ and offer what you CAN do instead.
 - Follow the matching template in `content/Templates/` (Character, Faction, Location, Session Note).
 - Use the frontmatter keys used across the vault (see §2).
 - Link with wikilinks `[[Note]]`; embed images with `![[image.png]]`.
+- Follow the layout rules in §6: grouped sections, scannable length, and a subnote when a page
+  fills up.
 
 ## 6. House style (creative brief)
 
@@ -103,8 +105,26 @@ and offer what you CAN do instead.
   dash survives only in the vault's structured spots: rank labels (`Grade 8 — Cinder`), blockquote
   attributions (`> "..." — Name`), and heading-style list labels (`**[[Name]] — Role:**`,
   `Tier 1 — Parish`). Remove em/en dashes from running prose, and never introduce new ones there.
-- Note structure convention: `# Title` → `## Overview` → `### Quick Facts` → `## Appearance` →
-  `## Personality` → abilities/history/relationships as relevant.
+- Note structure convention: `# Title` → `## Overview` → `### Quick Facts` → the body, then
+  abilities, history, and relationships as relevant.
+- **Page layout (every page, template or not):** a page has to read cleanly from top to bottom.
+  Group related material under a few `##` sections instead of a long run of short ones, and use
+  `###` subsections for the pieces inside a group. Use a table when the material compares (ranks,
+  spells, tiers, rosters). Keep each section to what its heading promises, and leave a blank line
+  around every heading, table, and list. Pages written without a template get the same treatment:
+  `## Overview` and `### Quick Facts` first, then the body in grouped sections, and `## House
+  Notes` last where the page carries meta notes.
+- **Keep a page lean, and split it when it fills up.** A page should stay short enough to scan in
+  one sitting. When a section outgrows the page's subject, give it a note of its own in the parent
+  page's folder (the pattern already used by `Spirits/Apparitions/`), leave a short summary and a
+  wikilink on the parent page, and move the detail to the subnote. Detail belongs on the subnote,
+  not the hub.
+- **No duplicated detail across pages.** Every fact has one home, the note that owns it, and every
+  other page carries a short description and a wikilink. Write enough that a reader who never opens
+  the subnote still understands the sentence in front of them, and no more: a page must not
+  restate in full what a dedicated note already sets down. When the same fact turns up on several
+  pages, pick the page that owns it, move the detail there, and leave the summaries behind. The
+  same rule applies inside one page, between `### Quick Facts` and the body.
 - **PF2e accuracy:** keep class/archetype/spell/trait references mechanically correct. Use rules
   only where they serve the fiction.
 - The Church's clergy speak in the **Liturgical Cadence** (see `The Liturgical Cadence.md`): formal,
@@ -192,6 +212,10 @@ find every note it touches — the character, their cohort, the faction, the chu
 tattoos, the relationships — and update them together. Never stop at the note the question was
 asked about. A fact that lives in one note but not its neighbours is an unfinished edit. If a note
 it touches is off-limits, flag it instead of editing.
+
+Propagating an answer means correcting what each affected note says about it, not copying the same
+paragraph into each one. The full account stays on the note that owns the fact; every other page
+keeps its short description and its wikilink (see §6).
 
 ## 8. Failsafes & reversibility
 

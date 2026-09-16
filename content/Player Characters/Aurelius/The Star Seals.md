@@ -26,7 +26,7 @@ Every seal is named for a constellation, and every constellation is held by a St
 
 ## The Twelve Base Shapes
 
-Every seal is one of these twelve configurations. Five constellations are not yet covered by any of them.
+Every seal is one of these twelve configurations.
 
 **Bird**
 
@@ -98,8 +98,7 @@ Every seal is one of these twelve configurations. Five constellations are not ye
 | [[The Chalice]] | [[Saint Olevira]] | Health, Healing | Serpent |
 | [[The Dragon]] | [[Saint Henry]] | *not yet recorded* | Dragon |
 
-## To Be Established
+## House Notes
 
-- **Five saints have no recorded domain:** [[The Rider]], [[The Dragon]], [[The Patriarch]], [[The Daughter]], and [[The Stargazer]]. Their seals carry no meaning yet.
-- **Five shapes are still to be designed,** for [[The North Star]], [[The Lantern Bearer]], [[The Newlyweds]], [[The Daughter]], and [[The Stargazer]].
-- **The size of the set** depends on whether the seals cover the thirteen of the Cosmic Caravan or all seventeen constellations in [[Constellations and Cosmology]].
+- **The size of the set** is still open: it depends on whether the seals cover the thirteen of the Cosmic Caravan or all seventeen constellations in [[Constellations and Cosmology]].
+- **Open items** are marked in the table above, where five saints wait on a domain and five seals wait on a shape.

@@ -16,8 +16,12 @@ A brief 1-2 sentence summary of what this Chancellery is and its role within the
 - **Status:** Active
 
 ## Mandate & Responsibilities
-- **Primary Function:** (The pillar of statecraft or divine law this Chancellery manages)
-- **Operations:** (How the Chancellery carries out its duties within the Church)
+
+### (Area of duty)
+(How the Chancellery carries out this part of its work within the Church)
+
+### (Area of duty)
+(How the Chancellery carries out this part of its work within the Church)
 
 ---
 

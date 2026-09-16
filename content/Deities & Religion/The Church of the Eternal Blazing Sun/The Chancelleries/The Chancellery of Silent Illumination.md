@@ -60,19 +60,23 @@ The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant
 
 ## Known Operatives: The Twenty-First Vigil
 
-The most recent graduating cohort, known internally as the Twenty-First Vigil, is the twenty-first batch of seven operatives raised in Restov. Of the seven, two remain in active service to the Chancellery under public cover. The rest have transferred to another Chancellery, taken up public roles outside the covert service, or fallen in battle.
+The most recent graduating cohort. Of the seven, two remain in active service to the Chancellery under public cover; the rest have transferred to another Chancellery, taken up public roles outside the covert service, or fallen in battle.
 
 ### Current Members
 
-- [[Vespera]] (Investigator / The Serious Strategist) — The analytical mind of the cohort. She handles forensic intelligence, tactical planning, and threat assessment, and serves under the public cover of a Grade 8 Legal Scribe and Archival Assistant.
-- [[Lyra]] (Alchemist / The Chaotic Genius) — A brilliant scientific prodigy. She provides technical support, specialized explosives, and alchemical research, and serves under the public cover of an Apothecary and Sacristan (Grade 8).
+| Member | Path | Public Cover |
+| :----- | :--- | :----------- |
+| [[Vespera]] | Investigator | Grade 8 Legal Scribe and Archival Assistant |
+| [[Lyra]] | Alchemist | Grade 8 Apothecary and Sacristan |
 
 ### Former Members
 
-- [[Aurelius]] (Animist / Covert Operative) — A gifted field operative trained in spirit-binding and wilderness deployment. He formally transferred to [[The Chancellery of the Outer Horizon]] to serve as an official missionary on the Stolen Lands charter.
-- [[Gideon]] (Warpriest / The Emotional Anchor) — The physical powerhouse and moral core of the cohort, he keeps the group grounded through intense trials. After commando training he chose the path of a healer and protector, and serves publicly as a Grade 8 Hospitaler and Chaplain.
-- [[Julian]] (Swashbuckler / The Charismatic Vanguard) — The unit's frontline duelist and infiltration expert, skilled in social disguise and high-mobility combat. He now serves as a Cantor and Choir Lead (Grade 8), and gathers local gossip and intelligence through his public position.
-- [[Tristan]] (Champion (Redeemer) / Presumed Deceased) — Lost holding back a monstrous horde so his siblings could escape; whether he died is not known.
-- [[Valerius]] (Fighter / Deceased) — Fell defending city walls during an invasion, a few years after Tristan.
+| Member | Path | Now |
+| :----- | :--- | :-- |
+| [[Aurelius]] | Animist | Missionary on the Stolen Lands charter, [[The Chancellery of the Outer Horizon]] |
+| [[Gideon]] | Warpriest | Grade 8 Hospitaler and Chaplain |
+| [[Julian]] | Swashbuckler | Cantor and Choir Lead (Grade 8) |
+| [[Tristan]] | Champion (Redeemer) | Presumed deceased |
+| [[Valerius]] | Fighter | Deceased |
 
-The Vigil keeps a shrine to its fallen in the church graveyard garden of Restov, tended by [[Lucian|Father Lucian Soler]]. Every member visits it from time to time.
+The Vigil keeps a shrine to its fallen in the church graveyard garden of Restov, tended by [[Lucian|Father Lucian Soler]].

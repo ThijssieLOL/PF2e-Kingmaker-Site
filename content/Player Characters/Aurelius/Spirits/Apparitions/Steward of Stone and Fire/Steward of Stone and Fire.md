@@ -30,7 +30,3 @@ Spirits of the Steward of Stone and Fire are slow-burning spirits of mountains, 
 - **Vessel Spell:** *Earth's Bile*
 - **Avatar:** *Blood of Planets*
 - **Source:** *War of Immortals* pg. 20
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*

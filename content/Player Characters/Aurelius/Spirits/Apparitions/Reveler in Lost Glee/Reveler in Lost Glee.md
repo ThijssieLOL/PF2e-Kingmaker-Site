@@ -30,7 +30,3 @@ Spirits of the Reveler in Lost Glee are twisted spirits of joy that once was, an
 - **Vessel Spell:** *Trickster's Mirrors*
 - **Avatar:** *Ringmaster of the Dark Celebration*
 - **Source:** *War of Immortals* pg. 19
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*

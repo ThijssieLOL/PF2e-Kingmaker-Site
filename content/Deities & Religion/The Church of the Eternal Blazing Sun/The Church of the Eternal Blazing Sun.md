@@ -49,11 +49,7 @@ The church does not seek to rule nations directly. It acts instead as a moral gu
 
 ## [[The Grade System]]
 
-The hierarchy of the church runs on a strict, fire-themed grade system. As a member rises in grade, their title names a larger and more powerful flame. Higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics and magical items.
-
-- **The Ladder:** From Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself.
-- **Chancellery Requirements:** Every grade from Cinder upward requires active service across an increasing number of Chancelleries.
-- **Ascension Trials:** Advancement requires a mandatory theological examination, a combat examination, and a review board.
+The hierarchy of the church runs on a strict, fire-themed grade system, from Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself. As a member rises, their title names a larger and more powerful flame, and higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics and magical items. Advancement is earned through a theological examination, a combat examination, and a review board, and every grade from Cinder upward requires active service across a growing number of Chancelleries.
 
 ---
 
@@ -75,41 +71,17 @@ The Church's houses are tiered by the population they serve, from the humble Tie
 
 The Church runs its affairs with the scale and discipline of a sovereign empire. Rather than rely on informal orders, it divides executive authority among nine supreme ministries, the High Chancelleries. Each Chancellery is led by high-ranking clergy and governs a distinct pillar of statecraft, divine law, and civil service.
 
-### 1. [[The Chancellery of Silent Illumination]] (Intelligence & Covert Operations)
-- **Primary Function:** State security, espionage, counter-intelligence, and internal oversight.
-- **Operations:** Monitors internal clerical corruption and tracks external existential threats. It commands the Church's covert military branch, a disciplined order of orphan-warriors trained in lethal martial arts and spirit-binding to run surgical, unseen missions in defense of the faith.
-
-### 2. [[The Chancellery of the Shared Hearth]] (Finance & Public Welfare)
-- **Primary Function:** Treasury management, tithing, economic regulation, and public relief.
-- **Operations:** Oversees all church coffers and enforces strict anti-wealth-hoarding doctrines. It funds and runs social safety networks, including state-run soup kitchens, orphanages, public housing, and community aid programs.
-
-### 3. [[The Chancellery of Prismatic Inquiry]] (Science & Arcane Optics)
-- **Primary Function:** Scientific research, technological innovation, and arcane studies.
-- **Operations:** Conducts research into solar-prism technology, alchemical advancements, medical breakthroughs, and the physical properties of divine energy.
-
-### 4. [[The Chancellery of Sacred Canon]] (Education, Dogma & Examinations)
-- **Primary Function:** Public education, higher learning, doctrinal purity, and clerical advancement.
-- **Operations:** Manages public literacy programs, higher academies, and seminaries. It maintains the central theological archives and designs and administers the mandatory written Theological Examinations for clergy advancing through the Grade system.
-
-### 5. [[The Chancellery of the Purifying Flame]] (Judiciary & Anti-Corruption)
-- **Primary Function:** Legal administration, internal purges, and inquisitorial justice.
-- **Operations:** Serves as the supreme judicial branch, prosecuting internal clerical corruption, enforcing moral standards, and trying ecclesiastical offenses. It formally issues and approves the Moral Veto against corrupt secular rulers.
-
-### 6. [[The Chancellery of the Outer Horizon]] (Foreign Affairs & External Missions)
-- **Primary Function:** Diplomacy, foreign policy, and international proselytization.
-- **Operations:** Directs diplomatic treaties and alliances with benevolent sovereign nations. It coordinates covert missionary deployments and humanitarian aid into foreign lands where the Church is outlawed or suppressed.
-
-### 7. [[The Chancellery of Celestial Aegis]] (Defense & Holy Military)
-- **Primary Function:** High military command and territorial defense.
-- **Operations:** Commands the standing armed forces of the Church, including temple guardians, heavily armored paladin orders, and military fleets dedicated to large-scale warfare against undead incursions and demonic threats.
-
-### 8. [[The Chancellery of Consecrated Solace]] (Public Health & Sacred Rites)
-- **Primary Function:** Healthcare, disaster response, and sacred cremation protocols.
-- **Operations:** Operates hospitals, sanatoriums, and emergency disaster relief networks. It manages public sanitation and strictly enforces mandatory cremation rites using holy fire across all parishes to prevent the threat of necromancy.
-
-### 9. [[The Chancellery of the Meridian Cadastre]] (Civil Administration & Archives)
-- **Primary Function:** Bureaucracy, civil registry, land administration, and historical record-keeping.
-- **Operations:** Is the administrative backbone of the Church, keeping population censuses, civil registries (births, deaths, marriages), land ownership deeds across all archdioceses, and historical vaults.
+| Chancellery | Pillar | Mandate |
+| :---------- | :----- | :------ |
+| [[The Chancellery of Silent Illumination]] | Intelligence & Covert Operations | State security, espionage, counter-intelligence, and internal oversight. |
+| [[The Chancellery of the Shared Hearth]] | Finance & Public Welfare | Treasury, tithing, and public relief. |
+| [[The Chancellery of Prismatic Inquiry]] | Science & Arcane Optics | Research into solar-prism technology, alchemy, medicine, and divine energy. |
+| [[The Chancellery of Sacred Canon]] | Education, Dogma & Examinations | Schools, archives, doctrinal purity, and clerical advancement. |
+| [[The Chancellery of the Purifying Flame]] | Judiciary & Anti-Corruption | Ecclesiastical courts, internal purges, and the Moral Veto. |
+| [[The Chancellery of the Outer Horizon]] | Foreign Affairs & External Missions | Diplomacy and covert missions abroad. |
+| [[The Chancellery of Celestial Aegis]] | Defense & Holy Military | Command of the Church's armed forces and its holy wars. |
+| [[The Chancellery of Consecrated Solace]] | Public Health & Sacred Rites | Hospitals, disaster relief, and the cremation rites. |
+| [[The Chancellery of the Meridian Cadastre]] | Civil Administration & Archives | Registries, archives, and the Ember Post. |
 
 ### Judicial System & Anti-Corruption
 - **Internal Purges:** The church investigates internal corruption aggressively, with the discipline of a state apparatus. It treats exploiting the weak, or hoarding wealth at the expense of others, as an existential threat to its moral authority.
@@ -120,7 +92,7 @@ The Church runs its affairs with the scale and discipline of a sovereign empire.
 
 ## [[The Ember Post]]
 
-The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. No messenger rides and no raven flies. A letter written in the right ink and committed to flame crosses any distance as a swirl of embers, then condenses once more out of the fire of the one it was meant for.
+The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road. A letter written in the right ink and committed to flame crosses any distance as a swirl of embers, then condenses again out of the fire of the one it was meant for.
 
 ---
 
@@ -159,12 +131,13 @@ The Church binds its far-flung parishes and its agents in the field with a divin
   - *"From dawn to dusk, she watches."* (Solemn response)
 
 ### [[The Vestments of the Clergy|Clergy Attire]]
-- **Ceremonial Vestments:** An ankle-length black cassock featuring high collars and gold engravings, often paired with a long white stole embroidered with gold floral and solar patterns.
-- **Traveller's Attire:** A comfortable dark tunic and trousers, paired with a white traveller's poncho-capelet adorned with gold engravings.
-- **No Armor:** The vestments carry no armor; a cleric who expects combat wears armor as a separate kit.
+
+Clergy dress by grade for ceremony and by chancellery for duty. Ceremonial vestments are an ankle-length black cassock with a high collar and gold engraving, paired with a long white stole worked in gold floral and solar patterns; in the field, a dark tunic and trousers under a white traveller's poncho-capelet. The vestments carry no armor, so a cleric who expects combat wears armor as a separate kit.
 
 ### [[Tattoos of Penance]]
-- **The Tradition of Humility:** The church does not treat its clergy as flawless moral figures, but as redeemed sinners. To embody this, newly initiated clergy receive the [[Tattoos of Penance]], a sacred, permanent record of their past transgressions, the goddess's divine mercy, and their lifelong vow of public humility. The full rite of application, divine design, and re-consecration is set out in [[Tattoos of Penance]].
+
+The church does not treat its clergy as flawless moral figures, but as redeemed sinners. To embody this, newly initiated clergy receive the [[Tattoos of Penance]], a sacred and permanent record of their past transgressions, the goddess's divine mercy, and their lifelong vow of public humility.
+
 ---
 
 ## Relations with Other Faiths
@@ -174,7 +147,7 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 
 ### [[The Grand Order of the Phoenix]]
 
-A smaller denomination that split from the church on good terms and remains in its good graces. It venerates the same sun goddess and upholds the same core creed, departing from orthodoxy in practice rather than doctrine. Its most distinctive departure is the blood-blessed tradition of thrall-binding, a holy necromancy that never touches the dead.
+A smaller denomination that split from the church on good terms and remains in its good graces, venerating the same sun goddess and departing from orthodoxy in practice rather than doctrine. Its most distinctive departure is the blood-blessed tradition of thrall-binding, a holy necromancy that never touches the dead.
 
 ### Cults & Heresies
 - **Cults of False Gods:** Cults dedicated to demon lords, evil deities, or entities that practice sacrifice and necromancy are absolute threats. The church deploys its intelligence and military arms to dismantle them.

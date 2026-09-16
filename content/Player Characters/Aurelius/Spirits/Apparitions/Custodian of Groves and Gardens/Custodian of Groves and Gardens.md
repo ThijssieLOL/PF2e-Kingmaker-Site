@@ -30,7 +30,3 @@ Spirits of the Custodian of Groves and Gardens are quiet spirits of tended land,
 - **Vessel Spell:** *Garden of Healing*
 - **Avatar:** *Peaceful Reaches*
 - **Source:** *War of Immortals* pg. 18
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*

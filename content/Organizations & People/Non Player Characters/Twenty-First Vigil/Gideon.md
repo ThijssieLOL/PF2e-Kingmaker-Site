@@ -11,8 +11,6 @@ status: Alive
 
 ![[Gideon finale.png|375]]
 
-> ""
-
 ## Overview
 Gideon is the emotional anchor and self-appointed "big brother" of the surviving orphans. He went through the same lethal commando training in [[The Chancellery of Silent Illumination]], but he does not see himself as an executioner. He is a living shield, there to preserve his siblings and guide them through their trauma.
 
@@ -27,19 +25,19 @@ Gideon is the emotional anchor and self-appointed "big brother" of the surviving
 
 ## Appearance
 - **Description:** Broad-shouldered and stocky, with a calm, reassuring presence. He has a warm complexion, short-cropped brown hair, and kind, tired brown eyes. He wears a polished steel breastplate over his dark cassock and carries a heavy steel shield marked with the sun goddess' sunburst.
-- **The [[Tattoos of Penance]] ("The Heavy Yoke"):** Fluid, dripping lines drape heavily over his shoulders and collarbones, pooling in thick, organic shapes on his chest and upper back. The patterns resemble a heavy, liquid collar that has melted onto his skin, with long, tear-like droplets trailing down his spine and arms. At rest they are a warm, reddish-brown color, the rust-like shade of traditional criminal brands.
+- **The [[Tattoos of Penance]] ("The Heavy Yoke"):** Fluid, dripping lines pool heavily over his shoulders, chest, and upper back like a liquid collar that has melted onto his skin, with tear-like droplets trailing down his spine and arms.
 
 ---
 
 ## Personality
-- **Demeanor:** Calm and reassuring, grounded in pastoral care. As the self-appointed "big brother" of the surviving orphans, he works to preserve his siblings and guide them through their lingering trauma.
-- **[[The Liturgical Cadence]]:** Gideon speaks with a formal, rhythmic, "Shakespearean-lite" dialect common among the Church's high clergy. His cadence is warm, patient, and pastoral, and he avoids modern contractions to sound comforting and grounded, like a reassuring sanctuary priest.
+- **Demeanor:** Calm and reassuring, grounded in pastoral care. He does not push and he does not leave; when one of his siblings is struggling, he stays nearby until they are ready to talk.
+- **[[The Liturgical Cadence]]:** Gideon speaks the Cadence warm, patient, and pastoral, the register of a reassuring sanctuary priest rather than a commander.
 
 ---
 
 ## Abilities
 - **Skills & Magic:** He went through the same lethal commando training but focuses on defensive martial arts, using his shield and body to redirect attacks away from his allies.
-- **Casting Visuals:** When he channels magic, his tattoos ("The Heavy Yoke") glow with a gentle, pulsing, amber-like warmth. The brand looks less like a punishment and more like a glowing mantle of responsibility. He has turned his past complicity into a source of comfort, life, and protection.
+- **Casting Visuals:** When he channels magic, his tattoos ("The Heavy Yoke") glow with a gentle, pulsing, amber-like warmth. The brand looks less like a punishment and more like a glowing mantle of responsibility.
 
 ---
 

@@ -34,4 +34,4 @@ If the government ignores the Moral Veto, the Church uses a tiered system of non
 When political allies deadlock, Aurelius favors writing scholarly essays to find a middle-ground compromise. He firmly believes that members of the clergy (including himself) must never accept the crown; their place is to guide and judge from within the Church.
 
 ## A Theory, Not a Doctrine
-Aurelius treats the Trias Politicas as a hypothesis to be tested, not a blueprint to impose. He advocates it where a fledgling realm's circumstances allow. His true ambition is not any single constitution. It is to help shape whatever political system rises in the Stolen Lands so that it furthers the Church's political and spiritual ambitions.
+Aurelius treats the Trias Politicas as one hypothesis among the many he holds, to be tested against circumstance rather than imposed. He advocates it where a fledgling realm's circumstances allow, and adapts where they do not.

@@ -30,7 +30,3 @@ Spirits of the Crafter in the Vault are born of forges, workshops, and places wh
 - **Vessel Spell:** *Traveling Workshop*
 - **Avatar:** *Incarnate Dungeon*
 - **Source:** *War of Immortals* pg. 17
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*

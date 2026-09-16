@@ -30,7 +30,3 @@ Spirits of the Shepherd of Errant Winds are spirits of movement and freedom, bor
 - **Vessel Spell:** *Gift of the Anemos*
 - **Avatar:** *Will of the Winds*
 - **Source:** *Pathfinder #216: The Acropolis Pyre* pg. 83
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*

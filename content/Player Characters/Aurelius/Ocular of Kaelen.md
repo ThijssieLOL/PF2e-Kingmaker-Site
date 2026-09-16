@@ -23,7 +23,7 @@ The **Ocular of Kaelen** is one of a kind, an ancient ocular trait spoken of onl
 
 ---
 
-## Appearance & Visual Visuals
+## Appearance
 
 ### Passive State
 In its resting state, the bearer's irises carry a dull, muted geometric pattern so intricate that it is only noticeable on close inspection.
@@ -77,18 +77,13 @@ Who or what Kaelen was is likewise unknown. His body parts are said to lie scatt
 An unnamed organization nonetheless tracks the bearer and hunts the Ocular through its line.
 
 ### The Murder of Aurelius's Parents
-The prophecy of the Ocular led directly to the tragedy of [[Aurelius]]'s childhood:
-- **The Ambush:** When Aurelius was six years old, agents from this secret organization tracked down his family in Restov.
-- **The Sacrifice:** His parents only learned of the ancient prophecy at the moment of the attack. They gave their lives to hold off the assassins so that six-year-old Aurelius could escape into the streets of Restov.
+The prophecy of the Ocular led directly to the tragedy of [[Aurelius]]'s childhood. When he was six, agents of the secret organization tracked his family to Restov. His parents learned of the ancient prophecy at the moment of the attack, and gave their lives to hold off the assassins so that he could escape into the streets of Restov.
 
-### Street Survival & Vigilante Trauma
-Following his escape, Aurelius survived as a homeless beggar and thief on the streets of Restov from ages six to eight. 
-- **Navigating the Streets:** He relied heavily on his spiritual sight to find food, navigate Restov's streets, and evade his parents' killers.
-- **Mental Fracture:** Forced to constantly witness the horrific, parasitic spirits attached to corrupt individuals, he lost much of his early mental stability.
-- **Vigilante Justice:** This forced vision eventually drove him to assassinate a profoundly evil man. To keep his deed secret and protect himself, he felt forced to kill the man's innocent family to eliminate all witnesses. That trauma still weighs on him.
+### The Years on the Streets
+He survived as a beggar and a thief in Restov from six to eight, using the sight to find food, to navigate the streets, and to stay ahead of his parents' killers. The corruption the Ocular would not let him look away from cost him much of his early stability.
 
 ---
 
 ## Known Bearers
 
-- **[[Aurelius]]:** A Grade 8 clergy member, formerly a covert operative of [[The Chancellery of Silent Illumination]] and now serving under [[The Chancellery of the Outer Horizon]]. He believes he has carried the trait since birth and uses it to perform spirit-binding and divine animism, though he remains unaware of its ancient prophecy.
+- **[[Aurelius]]:** The current bearer.

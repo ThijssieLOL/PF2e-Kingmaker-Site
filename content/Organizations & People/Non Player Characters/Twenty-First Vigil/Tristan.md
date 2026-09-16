@@ -33,7 +33,7 @@ Tristan was the shield of [[Aurelius]]'s training cohort in [[The Chancellery of
 Tristan stood tallest and heaviest in the cohort, broad and solid enough to fill a doorway. He kept his black hair short and spiky, and his eyes were green. His face carried more scars than any of his siblings': a streak across one eye, one across his lip, a horizontal line over the bridge of his nose, and several on his cheeks and beneath his eye. Those came from his parents. The scars had faded enough that he could walk through a crowd without drawing a second look. The scars on his hands came later, from his years in the Chancellery. Size and stillness did the rest of the work. Of the seven, strangers found him the most frightening.
 
 ### The [[Tattoos of Penance]]
-Tristan bore the sacred brands, as every member of his cohort did. The goddess marked him with a koi driving upstream through a river of ash and cinders, a burned grove behind it and clean water and a rising sun ahead. The pattern spreads across his forearms and his back. Like every tattoo of penance, it never resolves into a clear picture; it reads as a vague collection of streaks and shapes, and the meaning sits somewhere underneath. At rest the ink is the muted rust-brown of a criminal brand. When he channeled divine magic it glowed a brilliant Aureolin White, the same searing light as [[Aurelius]]'s.
+Tristan bore the sacred brands, as every member of his cohort did. The goddess marked him with a koi driving upstream through a river of ash and cinders, a burned grove behind it and clean water and a rising sun ahead, spread across his forearms and his back.
 
 ### Attire & Armor
 In the field he wore dark plate with a sunburst device on the chest, over a black high-collared tunic, in the same heavy style as [[Gideon]]. The Church's grade vestments carry no armor, so the plate was his own combat kit.
@@ -84,7 +84,7 @@ Tristan was raised in the isolated seven-member cohort, which lived, trained, an
 When a monstrous horde bore down on the cohort, Tristan held the line so the others could escape. The Church and his siblings count him dead. Whether he died is not known.
 
 ### The Shrine
-The Vigil marks his memory with a shrine in the church graveyard garden of Restov. [[Lucian|Father Lucian Soler]] tends it. Every member of the cohort visits it from time to time, and [[Valerius]]'s grave sits beside it.
+The Vigil marks his memory with a shrine in the church graveyard garden of Restov, and [[Valerius]]'s grave sits beside it.
 
 ---
 

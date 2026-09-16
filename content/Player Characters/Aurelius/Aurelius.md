@@ -39,7 +39,7 @@ Aurelius is a religious warrior-philosopher living a delicate double life. By da
 Aurelius is tall and lean, with an athletic build, broad in the shoulder and narrow at the waist. He looks like an agile martial artist, built for speed, precision, and relentless movement. His features are youthful and refined: high cheekbones, a straight nose, expressive, gentle lips. Thick, dark hair falls in loose, windswept layers around his face.
 
 ### The "Eyes of God" ([[Ocular of Kaelen]])
-Aurelius carries the [[Ocular of Kaelen]]: an extraordinarily rare, prophetic eye condition known in ancient texts by that name and called the "Eyes of God" informally within the Church. It sees directly into the spiritual layer of reality. When he works covertly, or when the shadowy cabal that hunts the trait is near, he pulls a thick traveler's hood low over his brow and keeps a humble, downcast gaze to blend into scholarly crowds.[1](#ref-1)
+Aurelius carries the [[Ocular of Kaelen]]: an extraordinarily rare, prophetic eye condition known in ancient texts by that name and called the "Eyes of God" informally within the Church. It sees directly into the spiritual layer of reality, and it is why he keeps a traveler's hood low over his brow and his gaze down when he works covertly, or when the shadowy cabal that hunts the trait is near.[1](#ref-1)
 
 ### The [[Tattoos of Penance]]
 Dark, intricate tattoos in the style of traditional criminal brands run across his forearms and shins, marking his past transgressions: theft, assault, and the murder of an innocent family.[2](#ref-2) The sacred alchemical ink etched into them rests in a muted, rust-colored reddish-brown until he channels divine magic, when it ignites into a blinding **Aureolin White**: a searing, pure light haloed by faint golden-yellow radiance.
@@ -66,7 +66,7 @@ He shows the marks openly in public as proof of the sun goddess' infinite capaci
 - **Physical Honesty:** Aurelius never hides physical injuries or fatigue from his companions. Commando training taught him that masked wounds endanger the team, so he reports his physical status with absolute, practical candor.
 - **Subconscious Somatic Gestures:** At rest, his fingers trace the [[The Star Seals|Star Seals]] or twitch as if holding a scribe's feather.
 - **Inaudible Speech:** When he speaks with spirits, his lips move in rapid, silent patterns on a spatial frequency inaudible to human ears.
-- **Spirit Overload:** Fresh battlefields and sites of mass tragedy flood the [[Ocular of Kaelen]] with chaotic spiritual echoes, bringing severe sensory overload, migraines, and physical disorientation that force him into quiet meditation.
+- **Spirit Overload:** Fresh battlefields and sites of mass tragedy flood the [[Ocular of Kaelen]] with spiritual echoes, and he retreats into quiet meditation until they pass.
 
 ### Trauma Response: "The Eclipse"
 - **The Executioner Persona:** When he meets unsalvageable cruelty, severe blasphemy, or deep personal trauma, Aurelius enters a total psychological shutdown known as **The Eclipse**. His gentle warmth vanishes, replaced by a terrifying, cold, emotionless executioner state.
@@ -74,7 +74,7 @@ He shows the marks openly in public as proof of the sun goddess' infinite capaci
 - **The Recovery:** As the state fades, he needs absolute isolation to pray, cool his spirit, and realign with the sun goddess' light. If his cold demeanor frightens his allies, he offers them sincere, humble apologies once restored.
 
 ### Dialect & Boundaries
-- **[[The Liturgical Cadence]]:** Aurelius speaks only in a rhythmic, elevated dialect reminiscent of high classical scripture. He naturally avoids modern contractions and informal phrasing, a habit formed by years of translating ancient texts.
+- **[[The Liturgical Cadence]]:** Aurelius speaks only in the Cadence, the rhythmic, elevated dialect of high classical scripture, a habit formed by years of translating ancient texts.
 - **Guarded Vulnerability:** He offers comfort to others readily, but letting down his own guard to trust someone with his personal trauma is immensely difficult.
 - **Vow of Celibacy:** He is strictly celibate, channeling his bodily and spiritual energy entirely into his sacred duties.
 - **The Condescending Missionary:** His boundless patience with non-believers can occasionally turn into a quiet, patronizing pity that treats their skepticism as gentle ignorance, something time and divine grace will inevitably heal.
@@ -86,9 +86,7 @@ He shows the marks openly in public as proof of the sun goddess' infinite capaci
 Aurelius reads power the way other scholars read scripture. His exceptional Wisdom gives him an almost intuitive grasp of game theory and political theory: he sees incentives, alliances, and the long arcs of institutions before they take shape in practice, and reasons about them with the same fluency he brings to theology. He has no desire for a crown. His aim is to shape the political system of the Stolen Lands so that its very structure serves the Church's political and spiritual ambitions, weaving the sun goddess's light into the foundations of the new realm. He holds theories readily but treats them as hypotheses to be tested against circumstance, not blueprints to impose.
 
 ### The [[Trias Politicas]]
-The *Trias Politicas* is one of his more elaborate theories: a tri-fold governance model he authored to prevent tyranny and keep a kingdom stable, and the framework he advocates where conditions allow. It is not the master plan of his life. Power divides into three equal, self-balancing pillars, the **Crown** (executive law and civil administration), the **Military** (external defense and order), and the **Church** (moral judgment and spiritual guidance). Aurelius firmly believes that clergy must never sit on a throne or hold direct secular office; their sacred duty is to advise, balance, and judge rulers from within the Church, keeping power uncorrupted.
-
-His deeper loyalty lies with the sun goddess's ambitions, not with any particular constitution. Where the Trias proves impractical, he adapts quickly. The goal is a kingdom whose governance serves the Church, whatever form that takes.
+The *Trias Politicas* is a tri-fold governance model Aurelius authored to prevent tyranny and keep a kingdom stable, and the framework he advocates where conditions allow. Power divides into three equal, self-balancing pillars: the Crown, the Military, and the Church. Aurelius firmly believes that clergy must never sit on a throne or hold direct secular office; their sacred duty is to advise, balance, and judge rulers from within the Church.
 
 ### The [[Holy Ground Project]]
 With Church researchers, Aurelius aims to establish consecrated holy zones across the frontier, zones that can purify lingering corruption, pacify hostile spirits, and harbor safe havens for civilization.
@@ -98,22 +96,22 @@ With Church researchers, Aurelius aims to establish consecrated holy zones acros
 ## Combat & Divine Abilities
 
 ### [[Aurelius' Combat Style]]
-Aurelius fights without weapons, in the kinetic, unarmed discipline of [[The Chancellery of Silent Illumination]], adapted to his own body and built for close range, high speed, and open space. He does not stand and trade blows: he steps inside a guard before it closes, pivots through the space where a blade was, and answers from an angle the opponent has not covered. Every strike lands wrapped in divine force, and the same force hardens ahead of him into panes of light that catch a weapon and turn it aside. Underneath the style sits absolute emotional detachment, and that control has a floor: pushed to the brink of death, it breaks down into a brutal, desperate survival technique.[3](#ref-3)
+Aurelius fights without weapons, in the kinetic, unarmed discipline of [[The Chancellery of Silent Illumination]], adapted to his own body and built for close range, high speed, and open space. He steps inside a guard before it closes and answers from an angle the opponent has not covered, every strike wrapped in divine force, until the control underneath it breaks down at the brink of death into a brutal, desperate survival technique.
 
 ### Spellcasting
-Aurelius casts holy light magic, **Aureolin White**, through the [[The Star Seals|Star Seals]], twelve base configurations of the hands from which every spell is built. Casting is a physical act: as his hands move through a sequence, the [[Tattoos of Penance]] on his forearms and shins ignite, and a surge of heat floods through his body. Directing that heat takes absolute mental focus; if his concentration breaks, the magic recoils inside him and leaves him with severe fatigue and pain. Every spell and spirit phenomenon he produces manifests as Aureolin White flame, either physical fire that ignites what it touches or pure spiritual light that cleanses a soul without harming the body around it.[4](#ref-4)
+Aurelius casts holy light magic, **Aureolin White**, through the [[The Star Seals|Star Seals]], twelve base configurations of the hands from which every spell is built. Casting is a physical act: as his hands move through a sequence, the [[Tattoos of Penance]] on his forearms and shins ignite, and a surge of heat floods through his body. Directing that heat takes absolute mental focus; if his concentration breaks, the magic recoils inside him and leaves him with severe fatigue and pain. Every spell and spirit phenomenon he produces manifests as Aureolin White flame, either physical fire that ignites what it touches or pure spiritual light that cleanses a soul without harming the body around it.[3](#ref-3)
 
 ### Spirit Interaction
-As an Animist, Aurelius bridges the physical realm and the spirit dimension. He fights with both his own divine casting and the spirit magic of the apparitions he has bound, and he casts both through the same hands. His [[Ocular of Kaelen]] lets him see spirits plainly where others see nothing, and everything he has met, bound, or released is recorded in his [[Spirits Ledger]].[5](#ref-5)
+As an Animist, Aurelius bridges the physical realm and the spirit dimension. He fights with both his own divine casting and the spirit magic of the apparitions he has bound, and he casts both through the same hands. His [[Ocular of Kaelen]] lets him see spirits plainly where others see nothing, and everything he has met, bound, or released is recorded in his [[Spirits Ledger]].[4](#ref-4)
 
-Spirits meet him according to their nature, from weak spirits that submit to his authority to evil spirits he treats as unnatural parasites, binding them in holy chains of pure white-gold light, bending them to serve divine justice, and cleansing them. Binding is a naming: a spirit is bound when he gives it a name, and the names he gives follow one form, **The** something, as his [[Spirits Ledger]] sets down in full.
+Spirits meet him according to their nature, from weak spirits that submit to his authority to evil ones he treats as unnatural parasites, and the [[Spirits Ledger]] sets down how he binds, names, and attunes to each.
 
 ---
 
 ## History
 
 ### Childhood & The Tragic Origin
-Born in the city of Restov with the rare [[Ocular of Kaelen]], young Leo could see the spirits of the dead floating through the world. A dark cabal learned of his eyes and raided his family's home to harvest him. Orphaned, he fled into the streets of Restov, where survival drove him to theft and assault, and finally to the assassination of a profoundly evil man and the murder of the man's innocent family to eliminate all witnesses, acts that permanently scarred his soul.
+Born in the city of Restov with the rare [[Ocular of Kaelen]], young Leo could see the spirits of the dead floating through the world. When he was six, a dark cabal learned of his eyes and raided his family's home to harvest him; his parents died holding the assassins off so he could escape. Orphaned, he survived on the streets of Restov from six to eight, where hunger drove him to theft and assault, and finally to the assassination of a profoundly evil man and the murder of the man's innocent family to eliminate all witnesses, acts that permanently scarred his soul.
 
 ### Adoption & Alchemical Redemption
 Rescued from absolute ruin by the local church of Restov, the regional training hub of [[The Chancellery of Silent Illumination]], he sought total atonement. He voluntarily submitted to the alchemical ritual of the [[Tattoos of Penance]], which etched his crimes permanently onto his body. Under the guidance of [[Lucian|Father Lucian Soler]], who mentored him in controlling his Animist powers despite having no spiritual sight himself, Aurelius embraced the faith of the sun goddess and found salvation in structure, divine order, and holy service.
@@ -143,9 +141,9 @@ Aurelius was raised alongside six other orphans in the Twenty-First Vigil, his t
 
 ### The Fallen Siblings
 - **[[Tristan]] — The Shield (Champion):** The protective older-brother figure of the class and Aurelius's closest listener, the one he could speak to about ordinary things when he could speak to no one else. Tristan was lost holding back a monstrous horde so his siblings could escape; whether he died is not known. Aurelius holds his memory as the highest standard of holy sacrifice, and he often blames himself for the loss.
-- **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius lived for the clash of blades. He often bickered with Aurelius over discipline versus instinct, then died defending city walls during an invasion a few years after Tristan. His death reminds Aurelius of the brutal cost of war.
+- **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius bickered with Aurelius over discipline versus instinct, and his death at the city walls reminds Aurelius of the brutal cost of war.
 
-The Vigil keeps a shrine to the fallen in the church graveyard garden of Restov, tended by [[Lucian|Father Lucian Soler]]. Every member visits it from time to time.
+The Vigil keeps a shrine to the fallen in the church graveyard garden of Restov, and Aurelius visits it when he can.
 
 ### The Living Siblings
 - **[[Gideon]] — The Anchor (Warpriest):** The emotional heart of the group, he embodies the sun goddess' healing grace. Gideon keeps a close eye on Aurelius's mental health, gently pulling him back to humanity whenever he slips into "The Eclipse."
@@ -159,7 +157,6 @@ The Vigil keeps a shrine to the fallen in the church graveyard garden of Restov,
 
 1. <a id="ref-1"></a>[Saint's Corpse](https://jojowiki.com/Saint's_Corpse) (*JoJo's Bizarre Adventure*): the [[Ocular of Kaelen]] ("Eyes of God").
 2. <a id="ref-2"></a>[Ryomen Sukuna](https://jujutsu-kaisen.fandom.com/wiki/Ryomen_Sukuna) (*Jujutsu Kaisen*): the [[Tattoos of Penance]].
-3. <a id="ref-3"></a>[Naruto](https://youtu.be/RzClCJFpSoM?si=vRJE6fSOgOU461Dp) (video): the choreography of Aurelius's combat style.
-4. <a id="ref-4"></a>[Hand Seal](https://naruto.fandom.com/wiki/Hand_Seal) (*Naruto*): the [[The Star Seals]].
-5. <a id="ref-5"></a>[Cursed Spirit](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Spirit) (*Jujutsu Kaisen*): his bound spirits and apparitions.
+3. <a id="ref-3"></a>[Hand Seal](https://naruto.fandom.com/wiki/Hand_Seal) (*Naruto*): the [[The Star Seals]].
+4. <a id="ref-4"></a>[Cursed Spirit](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Spirit) (*Jujutsu Kaisen*): his bound spirits and apparitions.
 

@@ -30,7 +30,3 @@ Spirits of the Speaker in Sibilance are hissing spirits of forbidden knowledge, 
 - **Vessel Spell:** *Crown of Prophets*
 - **Avatar:** *Medusa of Merciless Mysteries*
 - **Source:** *Pathfinder #216: The Acropolis Pyre* pg. 83
-
----
-
-*See [[Spirits Ledger]] for the Binding Ledger and the [[Spirit Template]] for documenting individual spirits.*
