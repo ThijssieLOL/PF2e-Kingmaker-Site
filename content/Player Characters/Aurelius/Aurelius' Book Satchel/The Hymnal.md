@@ -16,12 +16,12 @@ status: Active
 
 ## Overview
 
-The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, written down the way a singer writes down a song, with its sight, its word, and its gesture, so that he can sing it true again after long weeks without use. The book holds his magic in two parts. At the front sits the day's office, the prayers he says each morning to have his divine spells bestowed and to call the spirits he has bound to his side. Behind it lies the record, every verse he has ever learned, kept in order of rank and never struck out. The pages he will need seem to warm against his palm. When he casts, the verses burn Aureolin White: his tattoos ignite along his forearms and shins, and the magic rises as pure white-gold flame.
+The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, written down the way a singer writes down a song, with its sight, its verbal component, and its somatic component, so that he can sing it true again after long weeks without use. The book holds his magic in two parts. At the front sits the day's office, the prayers he says each morning to have his divine spells bestowed and to call the spirits he has bound to his side. Behind it lies the record, every verse he has ever learned, kept in order of rank and never struck out. The pages he will need seem to warm against his palm. When he casts, the verses burn Aureolin White: his tattoos ignite along his forearms and shins, and the magic rises as pure white-gold flame.
 
 ### Quick Facts
 - **Kind of Book:** Prayer book of divine hymns
 - **What It Holds:** Every verse Aurelius has learned, divine and apparition alike
-- **How It Records:** Each verse is entered in full, with its sight, its word, and its gesture, per the [[Spell Template]]
+- **How It Records:** Each verse is entered in full, with its sight and its components, per the [[Spell Template]]
 - **Kept In:** Aurelius's book satchel
 - **Current Verses:** Cantrips and 1st-rank spells
 
@@ -78,8 +78,9 @@ The first verse he ever set down, learned in his first year of training in the c
 #### Stabilize, the First Verse
 **Rank & Traits:** Cantrip 1; Necromancy, healing, vitality; two actions, somatic and verbal
 **The Sight of It:** A thin Aureolin White thread, cool rather than hot, unspools from his fingertip and wraps the dying one's wrist like a bandage of light. It does not burn; it banks like embers deciding to sleep.
-**The Word:** "As the sun does not abandon the horizon, neither do I abandon you."
-**The Gesture:** He lays index and middle finger together, traces a slow circle over the wound, then draws one downward stroke like the close of a prayer.
+**Verbal Component:** "As the sun does not abandon the horizon, neither do I abandon you."
+**Somatic Component:** He lays index and middle finger together, traces a slow circle over the wound, then draws one downward stroke like the close of a prayer.
+**Material Component:** None. The verse is carried on word and gesture alone.
 **The Echo:** The internal heat barely rises. This is the gentlest verse he knows; his tattoos answer with a soft glow and no more.
 **The Afterglow:** The thread thins to nothing and the air smells briefly of warm stone. The dying one's breath steadies.
 **Notes:** The first verse in the book, copied in Restov before his first mission. He keeps it at the front, where the pages are softest.
