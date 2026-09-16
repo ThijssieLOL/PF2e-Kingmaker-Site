@@ -88,7 +88,7 @@ The first verse he ever set down, learned in his first year of training in the c
 
 ### 1st Rank
 
-*(No verses recorded yet. The first will be entered when his first bound spirit is named, in full, with sight, word, and gesture.)*
+*(No verses recorded yet. The first will be entered when his first bound spirit is named, in full, with its manifestation and its components.)*
 
 ### 2nd Rank and Higher
 
