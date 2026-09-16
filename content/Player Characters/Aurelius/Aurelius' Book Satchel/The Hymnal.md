@@ -111,7 +111,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Needle Darts
 *Cantrip 1 · Attack, Concentrate, Manipulate, Metal · two actions · range 60 feet*
 
-- **Manifestation:**
+- **Manifestation:** The metal lifts from his hand wrapped in Aureolin White and reforms into three thin needles, a tight group spaced apart. They rise to one height, then fire, punching clean through the target with an afterimage of light trailing each needle.
 - **Verbal Component:**
 - **Somatic Component:**
 - **Sensation:**
