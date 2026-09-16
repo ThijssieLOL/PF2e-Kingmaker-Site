@@ -7,4 +7,4 @@ tags:
 > — Alexander Hebble, former linguistics professor.
 
 ## Overview
-Hallid is the primary language spoken by the Kellid tribes of the hillands and [[Jaragorn]]. 
+Hallit is the primary language spoken by the Kellid tribes of the hillands and [[Jaragorn]]. 
