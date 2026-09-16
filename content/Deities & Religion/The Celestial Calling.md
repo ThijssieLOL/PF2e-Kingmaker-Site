@@ -67,4 +67,4 @@ Spirits and their ascension are greatly important to this religion.
 ---
 
 ## Relations
-- **[[Zephan]]:** The cult is extremely interested in Zephan, because a private check for the noble family Ásteri revealed that not only
+- **[[Zephan]]:** The cult is extremely interested in Zephan, because a private check for the noble family Ásteri revealed that Zephan had a calling in many different concepts. Zep
