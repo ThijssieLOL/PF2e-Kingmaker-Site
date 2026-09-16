@@ -9,7 +9,7 @@ headquarters: Astra Peak Observatory
 alignment: Neutral Good
 status: Active
 ---
-
+![[The Celestial Calling.png]]
 ![[Faction Emblem.jpg|300]]
 
 > "May your spark burn clear, your Muse walk near, and your name find its star''. -Common prayer
