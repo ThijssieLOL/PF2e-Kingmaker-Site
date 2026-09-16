@@ -16,7 +16,7 @@ The Chancellery of Silent Illumination is the intelligence service, internal sec
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Intelligence, Internal Security & Covert Strike Force
-- **Operative Force:** Orphan-warrior cohorts, including the Twenty-First Vigil
+- **Operative Force:** Orphan cohorts, including the Twenty-First Vigil
 - **Status:** Active
 
 ## Mandate & Responsibilities
@@ -36,24 +36,34 @@ The Chancellery of Silent Illumination is the intelligence service, internal sec
 
 ## Recruitment & The Orphan Cohorts
 
-The Chancellery recruits its operatives from an elite program of orphan-warriors trained from early childhood.
+Silent Illumination is the one chancellery that accepts orphans alone. Its recruits come out of the Church's schooling program, where children are educated and trained from a young age and kept off the field until they are grown. Entry rests on consent, and a recruit keeps both the right to refuse and the right to leave.
+
+### The Merciful Path
+- **Trial:** The [[The Chancellery of the Purifying Flame|Purifying Flame]] tries an underage orphan for their crime. The Chancellery that will later train the child takes no part in judging them.
+- **The Choice:** After sentencing, the child chooses between serving the prison sentence and entering a chancellery schooling program that leads to a career in the Church.
+- **Free Election:** A child who chooses the Church may enter any chancellery. Silent Illumination is one of the most prestigious and popular of them, and the only one open to orphans alone, so many choose it.
+- **Family Consent:** A living family may refuse the placement on the child's behalf. Families usually prefer the merciful path to a prison sentence.
 
 ### Selection of the Gifted
-- **Orphanage Sourcing:** Candidates are identified at a very young age from delinquents trialled and found guilty of crime by [[The Church of the Eternal Blazing Sun]]. 
-- **Innate Potential:** Recruitment targets children who exhibit exceptional physical resilience, tactical instincts, or rare spiritual and magical gifts.
+- **Innate Potential:** Among the children who choose the Chancellery, recruitment looks for exceptional physical resilience, tactical instincts, or rare spiritual and magical gifts.
 
 ### The Seven-Member Cohorts
-- **Isolated Upbringing:** Upon recruitment, children are placed into small, highly isolated cohorts of exactly seven individuals.
-- **Unbreakable Bonds:** Cohorts live, train, study, and endure hardships together in absolute isolation from external society. They come to trust one another like siblings, and their loyalty to the cohort and to the Church is complete.
+- **Upbringing:** Recruits are placed into small, tight-knit cohorts of exactly seven. They live, train, and study together, and they come to trust one another like siblings.
+- **Confidentiality:** Cohorts are not cut off from the outside world. They keep their own names and their ties to family and community, and are bound to keep only the Chancellery's sensitive information secret.
 - **The Vigil:** The Chancellery calls each cohort a Vigil, a watch kept through the night until first light. Each Vigil is numbered in sequence, so the most recent cohort raised in Restov is the Twenty-First Vigil.
+
+### Rights of the Cohorts
+- **Refusal:** No child is bound to the Chancellery against their will. A child who declines serves the sentence instead.
+- **Departure:** A recruit may leave at majority. Where the work is information-sensitive, a senior officer first removes the classified material from their memory with the Rewrite Memory spell, so that nothing they carry out of the order can endanger it.
+- **Field Service:** Training is schooling first. No child of the Church takes the field before the age of sixteen, in any chancellery.
 
 ---
 
 ## Training Curriculum & Education
 
-The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant to produce versatile, self-reliant operatives:
+The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant to produce versatile, self-reliant operatives. Its graduates work as spies and investigators rather than assassins, and instruction is fitted to each recruit, pushing their limits without going beyond them.
 
-- **Martial & Covert Mastery:** Unarmed martial arts, marksmanship, assassination tactics, stealth, wilderness survival, and escape techniques.
+- **Martial & Covert Mastery:** Unarmed martial arts, marksmanship, endurance conditioning, stealth, wilderness survival, and escape techniques.
 - **Esoteric & Divine Casting:** Specialized instruction in spirit-binding, divine martial magic, animism, and anti-magic countermeasures.
 - **Theological & Civil Law:** Deep study of Church law, canonical ethics, and international statecraft, so agents know precisely when and how to enforce moral justice.
 - **Intellectual Precision:** Rigorous training in espionage, investigative methods, alchemy, and forensic analysis.

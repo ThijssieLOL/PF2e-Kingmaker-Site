@@ -61,7 +61,7 @@ The record of Aurelius's character-building interview, kept in its original orde
 - **17. How does your character typically fight?**
   A kinetic, weaponless martial art built on footwork, shields of divine force, and bound spirits ([[Aurelius' Combat Style]]).
 - **18. How has your character adopted this fighting style?**
-  Through the orphan-warrior training of [[The Chancellery of Silent Illumination]] ([[Aurelius#Upbringing in The Chancellery of Silent Illumination]]).
+  Through the schooling and martial training of [[The Chancellery of Silent Illumination]] ([[Aurelius#Upbringing in The Chancellery of Silent Illumination]]).
 - **19. How often has your character actually fought?**
   Through commando conditioning and high-risk covert missions ([[Aurelius#History]]).
 - **20. Does your character have a code of honour in combat?**
@@ -91,7 +91,7 @@ The record of Aurelius's character-building interview, kept in its original orde
 ## Backstory and Upbringing
 
 - **30. Where did your character grow up?**
-  The streets of Restov, then the orphan-warrior program ([[Aurelius#History]]).
+  The streets of Restov, then the Chancellery's schooling program ([[Aurelius#History]]).
 - **31. Who raised them?**
   [[The Church of the Eternal Blazing Sun]], through [[The Chancellery of Silent Illumination]] ([[Aurelius#Childhood & The Tragic Origin]]).
 - **32. Did your character have any form of education?**
