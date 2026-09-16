@@ -13,7 +13,7 @@ status: Active
 > "As the stars foretold - Founder Dorotheus Ásteri."
 
 ## Overview
-The House Ásteri is a noble house 
+The House Ásteri is a noble house known for their oracles, crystal mines and of course, Zephan
 
 ### Quick Facts
 - **Current Leader:** Lyra Ásteri and Castor Ásteri
