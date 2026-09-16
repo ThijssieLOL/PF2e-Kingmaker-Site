@@ -64,7 +64,7 @@ Dark, intricate tattoos in the style of traditional criminal brands run across h
 ### Daily Habits & Quirks
 - **Scribe's Routine:** Aurelius keeps a strict, military-precise morning routine inherited from his commando training. Every act, from folding his bedcloths to preparing inkwells, is done with silent efficiency and primed with prayer.
 - **Physical Honesty:** Aurelius never hides physical injuries or fatigue from his companions. Commando training taught him that masked wounds endanger the team, so he reports his physical status with absolute, practical candor.
-- **Subconscious Somatic Gestures:** At rest, his fingers trace holy spellcasting gestures or twitch as if holding a scribe's feather.
+- **Subconscious Somatic Gestures:** At rest, his fingers trace the [[The Star Seals|Star Seals]] or twitch as if holding a scribe's feather.
 - **Inaudible Speech:** When he speaks with spirits, his lips move in rapid, silent patterns on a spatial frequency inaudible to human ears.
 - **Spirit Overload:** Fresh battlefields or sites of mass tragedy flood his [[Ocular of Kaelen]] with chaotic spiritual echoes. The echoes bring severe sensory overload, migraines, and physical disorientation that force him into quiet meditation.
 
@@ -112,6 +112,7 @@ As an Animist, Aurelius bridges the physical realm and the spirit dimension.
 - **Evil Spirits:** He treats them as unnatural parasites. Aurelius binds them with holy chains of pure white-gold light, bends them to serve divine justice, and cleanses them. Managing evil spirits demands intense mental focus and causes physical strain.
 
 ### Visual Effects & Casting Sensations
+- **Seal Sequences:** His somatic components are the [[The Star Seals|Star Seals]]: a sequence of hand configurations, and the order of the sequence shapes the spell.
 - **Internal Heat:** Casting divine magic fills Aurelius with an overwhelming surge of internal heat. He must keep absolute mental focus to direct it; if his concentration breaks, the magic recoils inside him and causes severe fatigue and pain.
 - **Divine White Flames:** All spellwork and spirit phenomena manifest as pure **Aureolin White** flames. These holy flames appear either as physical fire that ignites objects or as purely spiritual light that cleanses the target's soul without harming physical matter.
 

@@ -21,7 +21,7 @@ The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound 
 ### Quick Facts
 - **Kind of Book:** Prayer book of divine hymns
 - **What It Holds:** Every verse Aurelius has learned, divine, apparition, or focus
-- **How It Records:** Each verse is entered in full, with its manifestation and its components, per the [[Spell Template]]
+- **How It Records:** Each verse is entered in full, with its manifestation, its components, and its [[The Star Seals|seal sequence]], per the [[Spell Template]]
 - **Morning Office:** Said at dawn: the divine verses are prayed for and bestowed, then the spirits in the [[Spirits Ledger]] are called, their chief lending its vessel spell
 - **Kept In:** Aurelius's book satchel
 - **Current Verses:** Cantrips and 1st-rank spells

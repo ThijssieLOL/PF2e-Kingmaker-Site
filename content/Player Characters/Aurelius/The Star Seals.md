@@ -21,17 +21,60 @@ Every seal is named for a constellation, and every constellation is held by a St
 - **What They Are:** The somatic component of Aurelius's spellcasting
 - **How Many:** One for each constellation
 - **Named After:** The constellations, and the Star Saints who hold them
+- **Built From:** Twelve base configurations of the hands
 - **Recorded In:** [[The Hymnal]]
 
 ## The Twelve Base Shapes
 
-The seals are built from twelve configurations of the hands. Five constellations are not yet covered by any of them.
+Every seal is one of these twelve configurations. Five constellations are not yet covered by any of them.
 
-![[The Star Seals - Bird.png|200]] ![[The Star Seals - Boar.png|200]] ![[The Star Seals - Dog.png|200]] ![[The Star Seals - Dragon.png|200]]
+**Bird**
 
-![[The Star Seals - Ox.png|200]] ![[The Star Seals - Tiger.png|200]] ![[The Star Seals - Serpent.png|200]] ![[The Star Seals - Rat.png|200]]
+![[The Star Seals - Bird.png|170]]
 
-![[The Star Seals - Horse.png|200]] ![[The Star Seals - Monkey.png|200]] ![[The Star Seals - Hare.png|200]] ![[The Star Seals - Ram.png|200]]
+**Boar**
+
+![[The Star Seals - Boar.png|170]]
+
+**Dog**
+
+![[The Star Seals - Dog.png|170]]
+
+**Dragon**
+
+![[The Star Seals - Dragon.png|170]]
+
+**Ox**
+
+![[The Star Seals - Ox.png|170]]
+
+**Tiger**
+
+![[The Star Seals - Tiger.png|170]]
+
+**Serpent**
+
+![[The Star Seals - Serpent.png|170]]
+
+**Rat**
+
+![[The Star Seals - Rat.png|170]]
+
+**Horse**
+
+![[The Star Seals - Horse.png|170]]
+
+**Monkey**
+
+![[The Star Seals - Monkey.png|170]]
+
+**Hare**
+
+![[The Star Seals - Hare.png|170]]
+
+**Ram**
+
+![[The Star Seals - Ram.png|170]]
 
 ## The Seals
 
