@@ -9,7 +9,7 @@ status: Active
 
 ![[Faction Emblem.jpg|300]]
 
-> "A faction motto or creed."
+> "May your spark burn clear, your Muse walk near, and your name find its star. - "
 
 ## Overview
 A brief 1-2 sentence summary of what this faction is and its main role.
