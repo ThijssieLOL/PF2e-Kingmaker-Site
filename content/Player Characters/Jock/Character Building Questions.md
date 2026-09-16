@@ -38,7 +38,7 @@ Skip this section if your character has no magic/can't cast spells.
 15. **What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
     - It depends on the song he's playing. There are symbols flowing out of the strings based on the theme.
 16. **Is there a cost to the magic?
-    - 
+    - He needs 
 #### Combat style
 17. **How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?
 
