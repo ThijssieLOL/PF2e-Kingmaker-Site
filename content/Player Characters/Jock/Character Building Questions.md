@@ -55,57 +55,57 @@ Skip this section if your character has no magic/can't cast spells.
     - As far as he knows no.
 23. **Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?**
     - His family is from the noble house of Larmelli, who are known for knowledge and culture. They harbor ancient books, maps and music. Who founded the house is unknown, only that they've met a tragic fate and are lain to rest somewhere beneath the land of Eryndale.
-24. **What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?
+24. **What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?**
     - They've got absolutely no clue where he is and he'd like to keep it that way before his mother tracks and retrieves him by the ear. They do not approve his 'leaving'.
-25. **Is your character part of any organization? If so, is this organization known? (COME BACK TO THIS QUESTION DUMBASS)
+25. **Is your character part of any organization? If so, is this organization known? (COME BACK TO THIS QUESTION DUMBASS)**
      - !
-26. **Does your character have many friends? 
+26. **Does your character have many friends? **
     - He knows a lot of people and can easily make some friends. But he doesn't really have any since he's constantly moving and travelling around. 
-27. **Did your character have a mentor? Are they still in contact? What did this mentor teach? 
+27. **Did your character have a mentor? Are they still in contact? What did this mentor teach?** 
     - No.
-28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization. (COME BACK TO THIS QUESTION DUMBASS)
+28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization. (COME BACK TO THIS QUESTION DUMBASS)**
     - !
-29. **Is your character or has your character been in a romantic relationship?
+29. **Is your character or has your character been in a romantic relationship?**
      - He likes to act like a womanizer. In reality he can't get past a talking stage or he gets all flustered. 
 ### Backstory and Upbringing
-30. **Where did your character grow up?
+30. **Where did your character grow up?**
     - Eryndale, the town of his family with his parents Zaleria and Esrin, and pet DAVE, WILLEM, BOB FRANKENSTEIN THE FIRST.
-31. **Who raised them? If not their parents, why?
+31. **Who raised them? If not their parents, why?**
     - His parents, but when his parents were too busy his butlers would take care of him.
-32. **Did your character have any form of education? Did they go to school? Were they home schooled? 
+32. **Did your character have any form of education? Did they go to school? Were they home schooled?**
     - He had a very good education. At first they went to the local school with the other people (AND PEASANTS) in town. After some time they began homeschooling him to keep an eye on him. He learned (and is curious) for a wide variety of subjects and is always eager to learn more, even if he isn't always that smart. 
-33. **How has your upbringing shaped your worldview?
+33. **How has your upbringing shaped your worldview?**
     - He's learned that the world is far too interesting to stay in one place and too many rules are constricting. Life is too short and you gotta live it to the fullest (with some caution). Deep down he is grateful for his parents and butlers for raising him. 
-34. **Is your character's family well-off or are they fucking peasants?
+34. **Is your character's family well-off or are they fucking peasants?**
     - We ain't raise no **PEASANTS** in this house. His family is loaded but he's kinda broke. 
-35. **What is your (tragic) backstory?
+35. **What is your (tragic) backstory?**
     - Jovian Larmelli (futurely known as Jock Finch) was and still is a pretty carefree spirit. Ever since he was a child he was interested in everything the world had to offer him, most of all pirates and things called 'seas' that were far from here. He easily made friends at the local town and school, dutifully (but with complaining) did his lessons and training he got from his mother (music, history, math, fighting etc.) He would order his butlers and friends to make treasure maps, and when they were too safe or boring he would make his very own. He had a best friend named Mercius who he would always play and talk to during his breaks from lessons and training. One day he had a big fight with his parents and the butlers were busy organizing an event. So Mercius and him went to the library and found an old treasure map which had the red X somewhere just outside of town. After some convincing of Mercius they both snuck off during the night and went to follow the treasure map. What they didn't know is that this night would meet a tragic end, as the map led to Mercius' death by making a wrong step and him ultimately falling to his demise. Jovian has and always will feel responsible for his death as he feels he could've avoided this great tragedy by not trying to convince him to go along with his plan. His parents and the town got word of this incident and while the town was in shock, his parents took action by isolating and homeschooling him. After some years Jovian had enough of the expectations (mostly his mother) set on him and decided to flee from home when he was 18. Since then he has been chasing his dream of being a pirate (in a land with no sea lmao) and is/has been making a living by performing, stealing and bargaining. 
 ### Motivations and morality
 
-36. **Why is your character out adventuring?
+36. **Why is your character out adventuring?**
     - To fulfill his dream of being a pirate and searching for the sea.
-37. **Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?
+37. **Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?**
     - Great question, he thought this would bring him some much needed money and a new adventure to venture. Also great for avoiding his parents.
-38. **What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?
+38. **What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?**
     - I think treasurer. He has common sense when it comes to money and knows how to keep the citizen's confidence with his charms. Or emissary since he has knowledge of the criminal world and knows how it works. 
-39. **How does your character think a country should be run?
+39. **How does your character think a country should be run?**
     - He thinks it should be ruled as a democracy with good money income.
-40. **What are, in your opinion, the fundamental rights a citizen of your country should have?
+40. **What are, in your opinion, the fundamental rights a citizen of your country should have?**
     - Nourishment, roof over the head, education, voting, religion, etc.
-41. **Would you sacrifice yourself for your friends, allies or future citizens?
+41. **Would you sacrifice yourself for your friends, allies or future citizens?**
     - Depends how close he is with them and the circumstances, he wouldn't normally sacrifice himself for people he didn't know.
-42. **How would you describe your character's moral compass?
+42. **How would you describe your character's moral compass?**
     - Chaotic neutral
-43. **Where does your character draw the line? When do the ends stop justifying the means?
+43. **Where does your character draw the line? When do the ends stop justifying the means?**
      - He draws the line when people he cares about are in danger and when the meaning of the journey gets lost.
 ### Religion
-44. **Is your character religious? If so, what religion do they follow?
+44. **Is your character religious? If so, what religion do they follow?**
     - No
-45. **Do they follow a particular god within their religion?
+45. **Do they follow a particular god within their religion?**
      - N.v.t.
-46. **What is their opinion on people of other religions?
+46. **What is their opinion on people of other religions?**
     - He likes learning about them, but doesn't like it when they go all 'preachy' on him.
-47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?
+47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?**
     - Fascinating.
 48. **Do you believe in an afterlife (heaven) and do you think you are going to end up there?
     - He's unsure, but if there is one he definitely won't be up there.
