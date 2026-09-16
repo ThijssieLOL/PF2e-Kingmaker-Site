@@ -25,7 +25,7 @@ The Celestial Calling is a religion centered on spirits and finding peoples call
 ## Theology & Cosmology
 ### The Spirits
 Spirits are greatly important to this religion. 
-- **Lesser Spirits**: According to this faith, there are millions of lesser spirits. These are seen as invisible, instinctual beings deeply tied and drawn to one specific concept, whose only goal is to be near this concept. There are spirits for basically everything one can imagine. There are spirits of broad concepts such as art or science, but these tend to stay weak for much longer. Spirits that represent more specific concepts such as painting, weaponsmithing or even dueling tend to hold more potential within them.
+- **Lesser Spirits**: According to this faith, there are millions of lesser spirits. These are seen as invisible, instinctual beings deeply tied and drawn to one specific concept, whose only goal is to be near this concept. There are spirits for basically everything one can imagine. There are spirits of broad concepts such as art or science, but these tend to stay weak for much longer. Spirits that represent more specific concepts such as painting, weaponsmithing or even dueling tend to hold more potential within them. If they find someone practicing their craft, such as 
 
 ---
 
