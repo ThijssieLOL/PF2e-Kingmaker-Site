@@ -115,11 +115,11 @@ Skip this section if your character has no magic/can't cast spells.
 50. **What is your character's favourite drink?
      - Mead
 51. **Does your character have a favourite colour or colour group?
-    - 
+    - He likes a dark red or green.
 52. **What is your character's favourite animal?
-
+     - Whale
 53. **What would be your character's spirit animal and why?
-
+    - 
 54. **What type of art speaks to your character the most? Music, poetry, painting, sculpting or something else?
 
 55. **What does your character like to spend their free time on if they have a break from adventuring?
