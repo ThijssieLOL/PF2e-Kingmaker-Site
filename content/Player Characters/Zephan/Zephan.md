@@ -37,7 +37,7 @@ Zephan is slightly above average length (1.75m) and has a slender but toned body
 ### Attire and Outfits
 Zephan must always looks his best for his adoring fans, so he has a plethora of outfits for many different occasions.
 - **The Dashing Rogue:** His go to outfit is a classic for a reason. He wears a white undershirt underneath his signature blueberry blue trench coat with golden lining. He also wears a pristine white cravat pinned with a golden brooch, fitted midnight-black riding breaches and high polished leather boots. 
-  ![[Casual Drip.png|241]]![[Casual Drip 2.png|230]]![[Casual drip 3.png|168]]
+  ![[Zephan_Casual_drip`1.png|241]]![[Zephan_Casual drip 2.png|230]]![[Zephan_Casual drip 3.png|168]]
 - **The Resting Hero**: When he is recovering from another high stakes adventure, he wears more comfortable but still fashionable outfits. He often wears a crisp untucked white linen shirt with the top few buttons open (for the audiences enjoyment), loose fitting charcoal trousers and soft and comfortable indoor boots. 
   ![[Comfy Drip.png|232]]![[Comfy drip 2.png|192]]![[Comfy drip 3.png|229]]
 - **Diamond in the Rough**: When he is traveling terrains that would put him in danger of being dirtied, he wears more simple looking garments. He often wears a incredibly dark blue cloak, lined with a silver star pattern on the inside, over a dark grey double-breasted doublet with silver buttons. The outfit is finished with flexible dark blue leather pants and well worn travelers boots.
@@ -166,5 +166,5 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 35   | Ew. If you fell in a vat of horse feces, i'm pretty sure the vat would have to take a bath.                                                                                                                                                                  |
 | 36   | You are so easily forgotten you wouldn't even make it on a missing persons case.                                                                                                                                                                             |
 ### Personality Quizes
-![[Big five 1.png]]
+![[Zephan_Big five 1.png]]
 ![[Bigfive2.png]]![[Bigfive3.png]]![[Bigfive4.png]]![[Bigfive5.png]]![[Bigfive6.png]]
