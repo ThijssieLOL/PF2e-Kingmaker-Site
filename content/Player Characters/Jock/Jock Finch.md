@@ -8,7 +8,7 @@ faction:
 status: Alive
 ---
 
-![[content/Attachments/Jock.png|300]]
+![[content/Attachments/Jock.png|375]]
 
 > "A memorable quote."
 
