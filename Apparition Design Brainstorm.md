@@ -92,10 +92,10 @@ A person standing in a room, and there is nothing in the room. It is only ever t
 
 ### The Court of One, Monarch of the Fey Courts, Level 8 (Uncontrollable Dance)
 
-A line of dancers holding hands, one behind the other, in court gowns that were fine once and are grey with dust now. None of them has a head. The line bends and snakes and can be as long as it needs to be, and it has no fixed shape. Every dancer wears a mask, and every mask is the same face: smooth, smiling, painted, with the paint cracked across the cheek. Under the masks there is nothing. The hands they hold do not match the sleeves, so a duchess's gown ends in a soldier's grip and a soldier's cuff ends in a child's. They dance in perfect step, faster than a court dance should go.
+A line of dancers holding hands, one behind the other, in court gowns that were fine once and are grey with dust now. The line bends and snakes and can be as long as it needs to be, and it has no fixed shape. Every dancer wears a mask, and every mask is the same face: smooth, smiling, painted, with the paint cracked across the cheek. Behind the masks the faces are burned, and the burn runs the length of the line, black and split and shiny where the gowns leave it bare. The hands they hold do not match the sleeves, so a duchess's gown ends in a soldier's grip and a soldier's cuff ends in a child's. They dance in perfect step, faster than a court dance should go.
 
 - **Body plan:** Swarm, humanoid.
-- **Signature wrongness:** Every mask is the same face, and they are hollow, and the hands they hold do not match the sleeves.
+- **Signature wrongness:** Every mask is the same smiling face and every face under it is burned, and the hands they hold do not match the sleeves.
 - **Behaviour:** It cannot stop; the dance is its heartbeat. Anyone who watches must dance too, and they dance until they fall, and then they join the line. When it takes a target, the line draws in and rings them, and the ring dances around them until they fall in with it. It is vain. Being ignored offends it more than being interrupted.
 - **Origin:** A court that danced while its kingdom burned, and kept dancing when the fire reached the hall.
 
