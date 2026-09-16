@@ -20,7 +20,7 @@ The Celestial Calling is a religion centered on spirits and finding peoples call
 ### Quick Facts
 - **Leader:** The Sovereign Muse - A greater spirit who seeks to help people find their calling
 - **Headquarters:** Astra Peak Observatory - An observatory on one of the highest peaks, where the stars shine clear and true.
-- **Hierarchy**: Guides (priests) - Wayfinders (Bischops) - Polars (Archbischop/cardinals) - Sovereign Muse (Pope and also g)
+- **Hierarchy**: Guides (priests) - Wayfinders (Bishops, ik was so close ze pathfinders noemen) - Polaris (Archbishop/cardinals) - Sovereign Muse (Pope)
 - **Alignment:** Neutral good leaning lawful
 ---
 ## Theology & Cosmology
@@ -31,7 +31,7 @@ Spirits and their ascension are greatly important to this religion.
 - **Constellations**: There can only be one constellation per concept, for if there were more, the previous would not be the absolute pinnacle of their domain. They may help a smith create the greatest possible sword, they could help an artist make a masterpiece beyond masterpieces or help make a duelist reach the pinnacle of skill in their weapon. It is unknown when the last constellation was created, but still people try to create something that may help a muse reach the stars. It is said that those born under a constellation have a greater chance of having a calling related to the domain of that constellation
 ### Calling
 - **The Spark**: According to The Celestial Calling, every person is born with one specific spark. These can also be called a calling, purpose or talent, and represent the thing that a person is uniquely better at than others. It is not necessarily something someone enjoys, just something that they are good at.
-- **Discovering a Calling**: Callings are often discovered in childhood during education, but if someone has not yet discovered it by their 18th birthday, there is a ritual that Guides 
+- **Discovering a Calling**: Callings are often discovered in childhood during education, but if someone has not yet discovered it by their 18th birthday, there is a ritual that Guides may perform to help det
 - **Social Expectations:** 
 
 ---
