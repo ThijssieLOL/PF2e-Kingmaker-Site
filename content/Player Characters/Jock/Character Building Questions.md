@@ -131,7 +131,7 @@ Skip this section if your character has no magic/can't cast spells.
 58. **What is your character's biggest pet peeve? 
     - People who chew with their mouth open. 
 59. **Do you have any bad or annoying habits?
-     - 
+     - Procrasination 
 60. **Sweet, sour, salty or bitter?
 
 61. **Soldier, Poet or King?
