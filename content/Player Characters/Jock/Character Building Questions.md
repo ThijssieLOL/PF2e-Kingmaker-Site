@@ -95,14 +95,14 @@ Skip this section if your character has no magic/can't cast spells.
 41. **Would you sacrifice yourself for your friends, allies or future citizens?
     - Depends how close he is with them and the circumstances, he wouldn't normally sacrifice himself for people he didn't know.
 42. **How would you describe your character's moral compass?
-    - Chaotic ne
+    - Chaotic neutral
 43. **Where does your character draw the line? When do the ends stop justifying the means?
-
+     - He draws the line when people he cares about are in danger.
 ### Religion
 44. **Is your character religious? If so, what religion do they follow?
-
+    - No
 45. **Do they follow a particular god within their religion?
-
+     - N.v.t.
 46. **What is their opinion on people of other religions?
 
 47. **What is their opinion on people of different sects within their religion or those who follow a different main god within their same religion?
