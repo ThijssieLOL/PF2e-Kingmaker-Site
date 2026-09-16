@@ -33,7 +33,8 @@ status: Active
 ## Level 8 Spirits
 *Carries the 8th-rank apparition spell: Uncontrollable Dance.*
 
-**Spirit:** [[The Court of One]]
+### [[The Court of One]]
+A line of masked dancers in gowns grey with dust, holding hands in a line with no fixed length. Anyone who watches must dance too, until they fall and join it.
 
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Unfathomable Song.*

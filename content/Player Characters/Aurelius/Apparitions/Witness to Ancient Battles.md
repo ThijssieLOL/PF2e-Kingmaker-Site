@@ -33,7 +33,8 @@ status: Active
 ## Level 8 Spirits
 *Carries the 8th-rank apparition spell: Canticle of Everlasting Grief.*
 
-**Spirit:** [[The Piper]]
+### [[The Piper]]
+A man-sized spirit with three faces on one head and a coat over a body that is only wounds. It plays before a battle, and only the men who will die in the coming attack can hear the tune.
 
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Weapon of Judgment.*

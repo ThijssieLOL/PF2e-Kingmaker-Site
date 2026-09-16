@@ -18,7 +18,8 @@ status: Active
 ## Level 3 Spirits
 *Carries the 3rd-rank apparition spell: Wall of Thorns.*
 
-**Spirit:** [[The Hedge]]
+### [[The Hedge]]
+A blackthorn hedge grown into the shape of an animal, and the animal keeps changing. One pair of real eyes moves from shape to shape, and it never stops watching.
 
 ## Level 4 Spirits
 *Carries the 4th-rank apparition spell: Bestial Curse.*
@@ -35,7 +36,8 @@ status: Active
 ## Level 8 Spirits
 *Carries the 8th-rank apparition spell: Monstrosity Form.*
 
-**Spirit:** [[The Grazer]]
+### [[The Grazer]]
+A stag the height of a barn, its antlers grown into a grove of real trees and its open ribcage packed with eyes. It grazes, and you are in the pasture.
 
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Wrathful Storm.*

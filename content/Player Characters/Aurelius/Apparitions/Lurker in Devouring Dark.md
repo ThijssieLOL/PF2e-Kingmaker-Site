@@ -15,7 +15,8 @@ status: Active
 ## Level 2 Spirits
 *Carries the 2nd-rank apparition spell: Acid Grip.*
 
-**Spirit:** [[The Reacher]]
+### [[The Reacher]]
+A drowned sailor hanging upright in the air, reaching at nothing. What answers him waits below in the dark and is never seen.
 
 ## Level 3 Spirits
 *Carries the 3rd-rank apparition spell: Aqueous Orb.*
@@ -38,7 +39,8 @@ status: Active
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Implosion.*
 
-**Spirit:** [[The Swallower]]
+### [[The Swallower]]
+A whale-sized thing with no head, its spine opening into a mouth from shoulder to tail. It swims through earth and air, and everything it passes over collapses into it.
 
 ## Mechanical Reference
 - **Apparition Skills:** Ocean Lore, Sailing Lore
