@@ -33,6 +33,8 @@ status: Active
 ## Level 8 Spirits
 *Carries the 8th-rank apparition spell: Canticle of Everlasting Grief.*
 
+**Spirit:** [[The Piper]]
+
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Weapon of Judgment.*
 

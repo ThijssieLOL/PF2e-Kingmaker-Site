@@ -33,6 +33,8 @@ status: Active
 ## Level 8 Spirits
 *Carries the 8th-rank apparition spell: Uncontrollable Dance.*
 
+**Spirit:** [[The Court of One]]
+
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Unfathomable Song.*
 

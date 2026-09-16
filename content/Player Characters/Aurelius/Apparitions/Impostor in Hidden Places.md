@@ -15,6 +15,8 @@ status: Active
 ## Level 2 Spirits
 *Carries the 2nd-rank apparition spell: Invisibility.*
 
+**Spirit:** [[The Reflection]]
+
 ## Level 3 Spirits
 *Carries the 3rd-rank apparition spell: Veil of Privacy.*
 
