@@ -187,18 +187,25 @@ not edits. Flag contradictions with existing canon instead of overwriting it (se
 ### 7.2 Every edit
 
 1. **Read first** — the target note(s) and the notes linked from them. Absorb canon before writing.
-2. **Plan** — outline your changes. If the scope is ambiguous, ask the user before writing.
-3. **Edit** — minimal, focused changes. Never reformat or "clean up" files beyond your task.
-4. **Self-review** — run every prose change through the `humanizer` skill (see §6) before
+2. **Check for duplicates, cheaply** — before writing anything new, search the vault for the
+   concept's key terms (names, nouns, numbers) with a targeted `rg`/grep, not by reading every
+   candidate note. The editable notes are already de-duplicated, so a fact almost always has a
+   home: when it does, do not write it again — link to the note that owns it and keep only the
+   short summary the reader needs (§6). If the section you are extending has outgrown its page,
+   give the material a note of its own in the parent's folder, leave a summary and a wikilink
+   behind, and move the detail to the subnote.
+3. **Plan** — outline your changes. If the scope is ambiguous, ask the user before writing.
+4. **Edit** — minimal, focused changes. Never reformat or "clean up" files beyond your task.
+5. **Self-review** — run every prose change through the `humanizer` skill (see §6) before
    finishing, then re-read your edits for tone, canon, markdown, and frontmatter validity.
-5. **Run the guard** — before finishing (and especially before any commit), run:
+6. **Run the guard** — before finishing (and especially before any commit), run:
 
    ```powershell
    powershell -NoProfile -ExecutionPolicy Bypass -File scripts/check-agent-edits.ps1
    ```
 
    It must exit 0 and report no violations. If it flags anything, fix it.
-6. **Commit** — always commit with the agent identity and an `agent:` message prefix:
+7. **Commit** — always commit with the agent identity and an `agent:` message prefix:
 
    ```powershell
    git -c user.name="Vault Agent" -c user.email="agent@vault.local" commit -m "agent: <clear summary>"
@@ -210,7 +217,7 @@ not edits. Flag contradictions with existing canon instead of overwriting it (se
    skip them. Include ONLY allowed files (`git add <files>` explicitly, never `git add -A`
    blindly). Never `git push --force`. Never rewrite shared history. Never revert or amend
    anyone else's commits.
-7. Leave changes uncommitted if the user prefers to review first — that is the default in this vault.
+8. Leave changes uncommitted if the user prefers to review first — that is the default in this vault.
 
 ### 7.3 Propagate every answer across the vault
 
