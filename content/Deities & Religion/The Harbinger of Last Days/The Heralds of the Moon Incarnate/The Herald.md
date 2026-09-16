@@ -33,7 +33,19 @@ The **Herald of the Moon Incarnate** is the name [[Oliver Strong Bison]] has giv
 ---
 
 ## Personality
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+Very little of the man's personality can be confidently remembered.
+
+Oliver remembers him as calm, that is perhaps what frightens him most.
+
+While the village burned and people screamed around him, the man did not appear frightened, angry, or even particularly excited. He simply moved through the chaos with a disturbing sense of purpose.
+
+He did not need to shout, he did not need to threaten anyone.
+
+He simply acted.
+
+Oliver has spent years wondering what kind of person could look upon such destruction and remain so calm.
+
+Whether that memory reflects the man's true personality or the perspective of a terrified eight-year-old is something Oliver cannot know.
 
 ---
 
