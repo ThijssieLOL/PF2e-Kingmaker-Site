@@ -168,7 +168,8 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 39   | I admire your courage to speak in the absense of knowlegde                                                                                                                                                                                                   |
 | 40   | Your food for thought leaves even an ant hungry                                                                                                                                                                                                              |
 | 41   | Nothing lights up a room like your absense                                                                                                                                                                                                                   |
-| 42   |                                                                                                                                                                                                                                                              |
+| 42   | Sometimes I wish i didn't have common sense. You and your ilk always seem so... happy                                                                                                                                                                        |
+| 43   | I am absolutely resoundingly sure that it is impossible to underestimate you                                                                                                                                                                                 |
 ### Personality Quizes
 ![[Zephan_Big five 1.png]]
 ![[Zephan_Bigfive2.png]]![[Zephan_Bigfive3.png]]![[Zephan_Bigfive4.png]]![[Zephan_Bigfive5.png]]![[Zephan_Bigfive6.png]]
