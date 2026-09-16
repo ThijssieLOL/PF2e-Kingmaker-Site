@@ -34,11 +34,11 @@ Skip this section if your character has no magic/can't cast spells.
 13. **Where does your character actually get their magic?
     - He learned to navigate by the stars and quickly memorized the constellations. During his nights beneath the open sky, he began to notice patterns that no one else seemed to see. One night, he discovered a constellation among the familiar stars that appeared on no map. As he gazed at it, he heard music—not as though it were coming from the heavens, but as if the space between the stars itself were singing. Without really thinking about it, he sang back. And the world answered. From that moment on, he began to realize that there was an underlying language woven into everything that exists.
 14. **Does this origin affect the magic's working and visuals?
-    - 
+    - Not really.
 15. **What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
     - It depends on the song he's playing. There are symbols flowing out of the strings based on the theme.
 16. **Is there a cost to the magic?
-    - He needs 
+    - He needs a few drinks after but otherwise no.
 #### Combat style
 17. **How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?
 
