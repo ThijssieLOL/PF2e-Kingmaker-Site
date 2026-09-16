@@ -52,7 +52,7 @@ A stag the height of a barn. Its antlers are a grove: real trees, bark and leaf 
 - **Behaviour:** It does not hunt you. It grazes, and you are in the pasture.
 - **Origin:** TBD.
 
-![[Pasted image 20260916155725.png]]
+![[concept art spirit 1.png]]
 
 ### The Swallower, Lurker in Devouring Dark, Level 9 (Implosion)
 
@@ -63,7 +63,7 @@ A whale-sized thing, and there is no head. The front of it tapers to a blunt clo
 - **Behaviour:** It swims through earth and air as if they were water, and everything it passes over collapses into it.
 - **Origin:** TBD.
 
-![[Pasted image 20260916155749.png]]
+![[concept art spirit 2.png]]
 
 ### The Hedge, Stalker in Darkened Boughs, Level 3 (Wall of Thorns)
 
