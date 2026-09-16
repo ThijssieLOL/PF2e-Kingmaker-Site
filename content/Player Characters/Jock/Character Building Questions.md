@@ -45,12 +45,12 @@ Skip this section if your character has no magic/can't cast spells.
 18. **How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?
     - Part of it has been from his old master teachings and dueling with a certain butler boy, the other part is completely improvised over the years.
 19. **How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
-    - He has fought a few times in training, and duels b
+    - He has fought a few times in training, and duels because he either got drunk, cocky or both.
 20. **Does your character have rules or a code of honour for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?
-
+    - They do have some kind of honor (not a lot). They would accept a surrender depending on the circumstances but they do like playing dirty.
 ### Family and Relationships
 21. **Describe your character's parents. Are they still alive? What are they doing now? 
-
+    
 22. **Does your character have any siblings? What is your character's relationship with them? 
 
 23. **Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
