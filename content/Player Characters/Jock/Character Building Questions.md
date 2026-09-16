@@ -47,10 +47,10 @@ Skip this section if your character has no magic/can't cast spells.
 19. **How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
     - He has fought a few times in training, and duels because he either got drunk, cocky or both.
 20. **Does your character have rules or a code of honour for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?
-    - They do have some kind of honor (not a lot). They would accept a surrender depending on the circumstances but they do like playing dirty.
+    - He does have some kind of honor (not a lot). He would accept a surrender depending on the circumstances but they do like playing dirty.
 ### Family and Relationships
 21. **Describe your character's parents. Are they still alive? What are they doing now? 
-    - Zaleria _(elf)_ and Esrin _(human)_ Larmelli have always been a bit negligent with their son Jock Finch _(formerly known as *Jovian Larmelli)_ while still keeping him on a leash with lessons and training. 
+    - Zaleria _(elf)_ and Esrin _(human)_ Larmelli have always been a bit negligent with their son Jock Finch _(formerly known as Jovian Larmelli)_ while still keeping him on a leash with lessons and training. 
 22. **Does your character have any siblings? What is your character's relationship with them? 
 
 23. **Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
