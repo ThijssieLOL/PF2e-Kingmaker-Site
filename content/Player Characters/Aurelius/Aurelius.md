@@ -100,9 +100,13 @@ With Church researchers, Aurelius aims to establish consecrated holy zones acros
 ## Combat & Divine Abilities
 
 ### Combat Style
-Aurelius fights without weapons. His discipline is the kinetic, unarmed style of [[The Chancellery of Silent Illumination]], and he runs it on speed and economy: agile footwork, precise positioning, and as little energy spent as the fight allows. He keeps his distance as readily as he closes it, raising shields of divine energy and sending spirits against his enemies rather than trading blows. Unarmed strikes are an emergency measure, held for the moment nothing else will do.
+Aurelius fights without weapons. The style is the kinetic, unarmed discipline of [[The Chancellery of Silent Illumination]], adapted by him and built for close range, high speed, and open space. He does not stand and trade blows. He steps inside a guard before it closes, pivots through the space where a blade was, and answers from an angle the opponent has not covered. Walls, rafters, and air carry him as well as the ground; he leaps, rolls, and lands back in the fight without stopping to reset his feet.
 
-Through all of it he keeps absolute emotional detachment, tracking space, footing, and threat with the same calm he brings to a page of scripture. That composure has a floor. Pushed to the brink of death, it breaks down into a brutal, desperate survival technique, and he does not look back on that state with pride.
+His hands and feet do the work, but rarely bare. Every strike lands wrapped in divine force, and the same force hardens ahead of him into panes and plates of light that catch a weapon, break its line, and turn it aside. He blocks on a forearm of light, spins the deflection into a counter, and keeps moving. When he needs reach, the spirits answer: a bound apparition strikes from an angle he cannot take, or holds an enemy in place for the half-second he needs to close.
+
+Nothing in the style is wasted. He spends the least motion that solves the problem, because the Chancellery trained its operatives to walk out of a fight as well as win it. Seen from the outside it looks effortless: a lean figure who slips between blows and is suddenly behind the blade, unhurried even at full speed.
+
+Underneath it sits absolute emotional detachment. He tracks space, footing, and threat with the same calm he brings to a page of scripture, and gives nothing away. That control has a floor. Pushed to the brink of death, it breaks down into a brutal, desperate survival technique, and he does not look back on that state with pride.
 
 ### Spellcasting
 Aurelius casts holy light magic, **Aureolin White**, through hand seals. The seals are the [[The Star Seals|Star Seals]], twelve base configurations of the hands from which every spell is built. One seal alone casts nothing; it is the order of the sequence that shapes the spell.
