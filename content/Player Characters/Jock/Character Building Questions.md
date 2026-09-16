@@ -147,8 +147,8 @@ Skip this section if your character has no magic/can't cast spells.
 66. **Do you enjoy grand parties and festivities? How do you tend to act in large gatherings?
     - If it requires etiquette, hell no, he would be moping. Otherwise he would be a party beast.
 67. **What is your character's least funny joke that they think is great?
-    - A beach saw another beach, they both waved at each other 
+    - I want to buy a parrot, should I put it on this shoulder (putting hand on left shoulder) or on this shoulder? (putting his entire arm over the person).
 68. **If your character was a celestial body(sun, star, moon, black hole) what one would they be?
-
+     - 
 
 ### Any additional information you want to share that i didn't ask about or that you think is important:
