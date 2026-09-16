@@ -36,10 +36,9 @@ Spirits and their ascension are greatly important to this religion.
 - **Evil callings**: If a person is found to hold an evil calling such as murder, arson or theft, they are seen as exceptions and allowed to practice something else. These people still tend to be shamed, but to a lesser degree than other groups, because most people wouldn't actually want these people to follow their calling. However, there are fundamentalists who belief that even these people should follow their calling, but these people are seen as heretics, and often start their own cults to spread this belief.
 
 ---
-
 ## Structure & Ranks
 - **Followers**: Followers are people who simply belief in The Celestial Calling. They practice their calling, do their best to appease the spirits related to their calling and go on with their life.
-- **Guides**: Guides are the lowest rank in the lead3
+- **Guides**: Guides are the lowest rank in the leadership of The Celestial Calling. There is often a single guide per town, if there is any
 
 
 ---
