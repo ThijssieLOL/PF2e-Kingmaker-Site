@@ -11,12 +11,14 @@ status: Active
 ![[Mandala Eyes on White.png|515]]
 
 ## Overview
-The **Ocular of Kaelen** is an exceedingly rare and ancient ocular trait spoken of only in forgotten prophecies. Within [[The Church of the Eternal Blazing Sun]], it is colloquially referred to as the **"Eyes of God."** The trait grants its bearer complete perception of the spiritual world. They can see spirits, souls, and ethereal entities, and it marks them for a mysterious, ruthless organization dedicated to hunting its possessors.
+The **Ocular of Kaelen** is one of a kind, an ancient ocular trait spoken of only in forgotten prophecies. Only one exists at any time, passing from bearer to bearer. Within [[The Church of the Eternal Blazing Sun]], it is colloquially referred to as the **"Eyes of God."** It grants its bearer complete perception of the spiritual world: they can see spirits, souls, and ethereal entities. It also marks the bearer for a mysterious, ruthless organization that hunts it through its line.
 
 ### Quick Facts
 - **Colloquial Name:** Eyes of God
+- **Nature:** One of a kind; passes from bearer to bearer
 - **Primary Function:** Absolute Spiritual Perception & Ethereal Sight
 - **Associated Class/Magic:** Animism / Divine & Spiritual Magic
+- **Greater Whole:** Said to be one part of an unknown whole
 - **Current Known Bearer:** [[Aurelius]]
 
 ---
@@ -58,14 +60,21 @@ Because the Ocular makes the bearer a target for dangerous pursuers, the bearer 
 - **Downcast Gaze:** A humble, downcast gaze hides the eyes and keeps a quiet, unassuming profile in public.
 
 ### Bearer Misconception
-Despite possessing the trait, a bearer may remain entirely ignorant of its true name, history, or cosmic implications. [[Aurelius]], for example, remains unaware of the name "Ocular of Kaelen." He takes his unique sight for a direct divine blessing from the sun goddess.
+Despite possessing the trait, a bearer may remain entirely ignorant of its true name, history, or cosmic implications. [[Aurelius]], for example, remains unaware of the name "Ocular of Kaelen." He believes he was born with it and takes his unique sight for a direct divine blessing from the sun goddess; how the Ocular came to him is not known.
 
 ---
 
 ## The Prophecy & History
 
+The true origin and ultimate cosmic purpose of the Ocular remain a mystery.
+
+### The Greater Whole
+The Ocular seems to be one part of a larger whole, though both it and that whole are unknown to most people. No surviving record says whether the Ocular is one fragment among many or the last surviving piece.
+
+Who or what Kaelen was is likewise unknown. His body parts are said to lie scattered across the world, and those who wield them seem drawn toward the Stolen Lands.
+
 ### The Enigmatic Hunters
-The true origin and ultimate cosmic purpose of the Ocular remain a mystery. An unnamed organization nonetheless tracks and hunts down individuals who manifest this rare trait.
+An unnamed organization nonetheless tracks the bearer and hunts the Ocular through its line.
 
 ### The Murder of Aurelius's Parents
 The prophecy of the Ocular led directly to the tragedy of [[Aurelius]]'s childhood:
@@ -82,4 +91,4 @@ Following his escape, Aurelius survived as a homeless beggar and thief on the st
 
 ## Known Bearers
 
-- **[[Aurelius]]:** A Grade 8 clergy member, formerly a covert operative of [[The Chancellery of Silent Illumination]] and now serving under [[The Chancellery of the Outer Horizon]]. Possesses the trait from birth and uses it to perform spirit-binding and divine animism, though he remains unaware of its ancient prophecy.
+- **[[Aurelius]]:** A Grade 8 clergy member, formerly a covert operative of [[The Chancellery of Silent Illumination]] and now serving under [[The Chancellery of the Outer Horizon]]. He believes he has carried the trait since birth and uses it to perform spirit-binding and divine animism, though he remains unaware of its ancient prophecy.
