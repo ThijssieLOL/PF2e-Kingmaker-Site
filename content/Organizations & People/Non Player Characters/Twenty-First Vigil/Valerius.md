@@ -6,13 +6,13 @@ tags:
 ancestry: 
 class: Fighter
 faction: The Church of the Eternal Blazing Sun
-status: Deceased
+status: Presumed Deceased
 ---
 
 > "A memorable quote."
 
 ## Overview
-Valerius was the impulsive, fiery vanguard of the Twenty-First Vigil, a Fighter who lived for the clash of blades. He was competitive with everyone around him, always trying to prove himself, though he never meant it as cruelty. [[Tristan]]'s loss hit him hardest of all, and he died himself a few years later defending the city walls during an invasion.
+Valerius was the impulsive, fiery vanguard of the Twenty-First Vigil, a Fighter who lived for the clash of blades. He was competitive with everyone around him, always trying to prove himself, though he never meant it as cruelty. [[Tristan]]'s loss hit him hardest of all, and he is presumed to have died a few years later defending the city walls during an invasion.
 
 ### Quick Facts
 - **Full Name:** Valerius

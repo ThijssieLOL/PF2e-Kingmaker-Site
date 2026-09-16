@@ -19,7 +19,7 @@ Julian is the class's resident morale booster. Beneath his jokes he hides a high
 ### Quick Facts
 - **Full Name:** Julian
 - **Ancestry/Species:** Human
-- **Class/Profession:** Swashbuckler (Braggart) / Cantor and Choir Lead (Grade 8)
+- **Class/Profession:** Swashbuckler (Braggart) / Grade 8 Cantor and Choir Lead
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
 - **Role/Rank:** Infiltrator, Distraction Specialist, and Light Skirmisher
 
@@ -40,7 +40,7 @@ Julian is the class's resident morale booster. Beneath his jokes he hides a high
 ---
 
 ## History
-- **Background:** His childhood sins were malicious deceit, rumor-mongering, and the betrayal of street allies. He went through brutal training in [[The Chancellery of Silent Illumination]] and now serves as a Cantor and Choir Lead (Grade 8) for [[The Church of the Eternal Blazing Sun]], a position that lets him gather local gossip and intelligence easily.
+- **Background:** His childhood sins were malicious deceit, rumor-mongering, and the betrayal of street allies. He went through brutal training in [[The Chancellery of Silent Illumination]] and now serves as a Grade 8 Cantor and Choir Lead for [[The Church of the Eternal Blazing Sun]], a position that lets him gather local gossip and intelligence easily.
 
 ---
 

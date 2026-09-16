@@ -21,7 +21,7 @@ Gideon is the emotional anchor and self-appointed "big brother" of the surviving
 - **Ancestry/Species:** Human
 - **Class/Profession:** Cleric (Warpriest) / Hospitaler and Chaplain
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
-- **Role/Rank:** Mission Commander, Spiritual Counselor, Heavy Vanguard (Grade 8)
+- **Role/Rank:** Grade 8 Mission Commander, Spiritual Counselor, and Heavy Vanguard
 
 ---
 
