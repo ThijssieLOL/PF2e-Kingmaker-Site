@@ -24,7 +24,7 @@ The Celestial Calling is a religion centered on spirits and finding peoples call
 ---
 ## Theology & Cosmology
 ### The Spirits
-
+Spirits are greatly important to this religion. According to this faith, there are milions of lesser spirits
 
 ---
 
