@@ -2,11 +2,12 @@
 tags:
   - character
   - npc
+aliases:
+  - Jovian Lamerri
 ancestry: Human/Aiuvarin
 class: Bard
 faction:
 status: Alive
-aliases:
 ---
 
 ![[content/Attachments/Jock.png|375]]
@@ -17,10 +18,10 @@ aliases:
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** Jock Finch
+- **Full Name:** Jock Finch (formerely known as Jovian Lamerri)
 - **Ancestry/Species:** Human/Aiuvarin
 - **Class/Profession:** Bard
-- **Affiliation:** 
+- **Affiliation:** -
 - **Role/Rank:** 
 
 ## Appearance
