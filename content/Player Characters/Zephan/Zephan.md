@@ -14,7 +14,7 @@ status: Alive
 
 # Zephan
 
-
+![[content/Attachments/Zephan.png]]
 
 > "If all the worlds a stage, then I shall play my part." - Zephan
 
