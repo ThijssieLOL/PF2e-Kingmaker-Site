@@ -11,8 +11,6 @@ status: Alive
 
 ![[Vespera.png|375]]
 
-> ""
-
 ## Overview
 Vespera is the quiet, analytical mind of the cohort, an Intelligence Officer, Forensic Scribe, and Tactician. She views chaos and corruption as logical problems to be solved with discipline and structure.
 
@@ -29,8 +27,8 @@ Vespera is the quiet, analytical mind of the cohort, an Intelligence Officer, Fo
 ---
 
 ## Personality
-- **Demeanor:** Quiet and analytical. She shows her deep love for her siblings through detailed tactical planning rather than words, making sure they are never placed in unnecessary danger. Her tattoo of penance marks her past sin of pride. In one event, her cold, detached calculation led her to ignore a plea for help, and the avoidable tragedy that followed still reminds her to balance logic with mercy.
-- **[[The Liturgical Cadence]]:** Vespera speaks in a highly structured, precise, "Shakespearean-lite" dialect. Her cadence is measured and academic, without modern contractions. It comes from her background as a legal scribe and suits her cold, analytical logic.
+- **Demeanor:** She shows her deep love for her siblings through detailed tactical planning rather than words, making sure they are never placed in unnecessary danger. Her sin of pride is the one that still instructs her: a cold, detached calculation once led her to ignore a plea for help, and the avoidable tragedy that followed reminds her to balance logic with mercy.
+- **[[The Liturgical Cadence]]:** Vespera speaks the Cadence measured and academic, a habit of her training as a legal scribe. It suits her cold, analytical logic.
 
 ---
 

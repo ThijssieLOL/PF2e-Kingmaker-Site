@@ -56,11 +56,11 @@ Beneath his clergy robes, Lucian's body is covered in scars from decades of mili
 Lucian never shouts or barks orders. His authority rests on clear, steady calm and hard self-discipline. He speaks plainly and quietly, and recruits and senior clergy alike respect him at once. Though stern in training, he holds deep warmth and fatherly love for the orphans in his charge, and he treats them as his true family.
 
 ### Dialect: [[The Liturgical Cadence]]
-Much like Aurelius, Lucian speaks exclusively in [[The Liturgical Cadence]], a rhythmic, elevated scriptural dialect. He naturally avoids modern contractions and informal slang, and delivers tactical commands and spiritual advice with measured, classic precision.
+Much like Aurelius, Lucian speaks only in [[The Liturgical Cadence]], and delivers tactical commands and spiritual advice with measured, classic precision.
 
 ### Daily Habits & Routine
-- **Military Precision:** Lucian keeps the same military-precise routine he passed on to Aurelius. Every morning task, from folding bedcloths to prepping inkwells, is done with silent efficiency and primed with prayer.
-- **Physical Honesty:** He practices total physical candor, never masking wounds or fatigue, and teaches his students that unaddressed injuries compromise the entire unit.
+- **Military Precision:** Lucian keeps the military-precise morning routine he passed on to Aurelius, every task primed with prayer.
+- **Physical Honesty:** He teaches his students that unaddressed injuries compromise the entire unit.
 - **Tactical Vigilance:** Lucian continuously evaluates exits, lines of sight, and tactical bottlenecks wherever he stands.
 
 ---

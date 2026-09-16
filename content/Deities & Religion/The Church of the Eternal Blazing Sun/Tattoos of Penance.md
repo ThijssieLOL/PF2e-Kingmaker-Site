@@ -30,10 +30,15 @@ The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[Th
 - If a member of the clergy commits a new, grave sin, they can have new tattoos applied. This only happens in rare cases, when they seek forgiveness and wish to rejoin the clergy.
 
 ## Known Bearers & Designs
-- **[[Aurelius]]:** Located on his forearms and shins, depicting past sins of theft, assault, and the murder of an innocent family. They glow a brilliant **Aureolin White** (a searing, pure white light with a faint golden-yellow halo) when he channels divine magic.
-- **[[Gideon]]:** Draped over his shoulders and collarbones, pooling across his chest and upper back like a heavy, liquid collar dubbed "The Heavy Yoke", with long, tear-like droplets trailing down his spine and arms. The design reflects his past complicity as "The Wall" for a street syndicate. They glow with a gentle, amber-like warmth when he channels magic.
-- **[[Julian]]:** Wrapped tightly around his throat and collarbones, depicting a stylized, split-tongued serpent for his childhood sins of malicious deceit, rumor-mongering, and betrayal of street allies. They glow a brilliant, blinding white when channeling.
-- **[[Lyra]]:** Scorched, blackened handprints covering her palms and running up her wrists, representing her past sins of reckless arson and the accidental destruction of a civilian shelter. They glow like molten gold when she channels her alchemy or divine power.
-- **[[Vespera]]:** Etched across her collarbones as a broken, unbalanced scale, representing her past sin of pride: cold, detached calculation once led her to ignore a plea for help, and the tragedy that followed was avoidable. When she channels magic, the cracks in the scale mend with gold light.
-- **[[Tristan]]:** Across his forearms and back, a koi driving upstream through a river of ash and cinders, a burned grove behind it and a rising sun ahead, marking the killing of his parents. At rest it is the muted rust-brown of a criminal brand. When he channeled magic it glowed a brilliant **Aureolin White**.
-- [[Selion]]: Located on his forearms and torso, are black lines of tattoo's. Representing that he once had unholy powers coursing through his veins. Whenever he uses his magic the tattoos don't glow but instead become more darker and darker.
+
+The goddess chooses each design, so no two are alike. What the cohort carries is recorded here; the bearers' own pages describe how the marks sit on them and how they read in daily life.
+
+| Bearer | Placement | Marking | Glow |
+| :----- | :-------- | :------ | :--- |
+| [[Aurelius]] | Forearms and shins | Theft, assault, and the murder of an innocent family | Aureolin White: searing white, haloed gold |
+| [[Gideon]] | Shoulders and collarbones, pooling across the chest and upper back, with tear-like droplets down the spine and arms | "The Heavy Yoke", for his past as "The Wall" for a street syndicate | Gentle amber warmth |
+| [[Julian]] | Throat and collarbones | A stylized, split-tongued serpent, for malicious deceit, rumor-mongering, and the betrayal of street allies | Blinding white |
+| [[Lyra]] | Palms and wrists | Scorched black handprints, for reckless arson and the accidental destruction of a civilian shelter | Molten gold |
+| [[Vespera]] | Collarbones | A broken, unbalanced scale, for pride: a cold calculation that ignored a plea for help | The cracks mend with gold light |
+| [[Tristan]] | Forearms and back | A koi driving upstream through a river of ash and cinders, marking the killing of his parents | Aureolin White |
+| [[Selion]] | Forearms and torso | Black lines, for the unholy powers that once ran in his veins | Darkens rather than glows |
