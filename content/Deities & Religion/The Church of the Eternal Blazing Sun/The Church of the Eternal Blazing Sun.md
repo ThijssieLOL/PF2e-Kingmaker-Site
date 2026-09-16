@@ -112,6 +112,7 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 - **Anti-Poverty & Charity:** The church views poverty as a systemic failure of society, not of the individual. It teaches that the state carries the moral responsibility to ensure the welfare of its citizens.
 - **Condemnation of Wealth Hoarding:** The church does not treat a high income as a sin, but it fiercely condemns the hoarding of wealth. It teaches that the strong and wealthy have a divine obligation to carry and support the weak.
 - **Social Programs:** The church runs one of the largest charitable operations in the world, funding soup kitchens, orphanages, and aid programs and often partnering with secular governments to manage these public works.
+- **Schools:** The church educates its children through [[The Church Schooling Program]], a path open to any family and to orphaned children offered a chancellery in place of a sentence.
 
 ---
 

@@ -14,7 +14,7 @@ status: Alive
 > "A memorable quote."
 
 ## Overview
-Gideon is the emotional anchor and self-appointed "big brother" of the surviving orphans. He went through the same lethal commando training in [[The Chancellery of Silent Illumination]], but he does not see himself as an executioner. He is a living shield, there to preserve his siblings and guide them through their trauma.
+Gideon is the emotional anchor and self-appointed "big brother" of the surviving orphans. He went through the same commando training in [[The Chancellery of Silent Illumination]], but he does not see himself as an executioner. He is a living shield, there to preserve his siblings and guide them through their trauma.
 
 ### Quick Facts
 - **Full Name:** Gideon
@@ -38,14 +38,14 @@ Gideon is the emotional anchor and self-appointed "big brother" of the surviving
 ---
 
 ## Abilities
-- **Skills & Magic:** He went through the same lethal commando training but focuses on defensive martial arts, using his shield and body to redirect attacks away from his allies.
+- **Skills & Magic:** He went through the same commando training but focuses on defensive martial arts, using his shield and body to redirect attacks away from his allies.
 - **Casting Visuals:** When he channels magic, his tattoos ("The Heavy Yoke") glow with a gentle, pulsing, amber-like warmth. The brand looks less like a punishment and more like a glowing mantle of responsibility.
 
 ---
 
 ## History
 - **Background:** Gideon grew up in a chaotic, neglectful home and ended up on the streets at a young age. He hit his growth spurt early, and his stocky, broad-shouldered frame caught the eye of a local street syndicate, which recruited him as "The Wall." He never committed direct violence himself. His role was to stand silently in doorways, block exits, and project a physical promise of violence during shakedowns. He accepted the complicity in exchange for a sense of belonging and safety.
-- **Current Role:** After the lethal commando training in [[The Chancellery of Silent Illumination]] alongside the other orphans, he chose the path of healer and protector. In public he is a Grade 8 Hospitaler and Chaplain, tending to sick travelers and offering spiritual guidance to the soldiers in the local garrison.
+- **Current Role:** After the commando training in [[The Chancellery of Silent Illumination]] alongside the other orphans, he chose the path of healer and protector. In public he is a Grade 8 Hospitaler and Chaplain, tending to sick travelers and offering spiritual guidance to the soldiers in the local garrison.
 
 ---
 

@@ -27,6 +27,9 @@ Guards the Church's doctrine.
 ### The Examinations
 Designs and administers the mandatory written Theological Examinations by which clergy advance through the [[The Grade System|Grade system]].
 
+### Inspection
+Inspects [[The Church Schooling Program|the Church's schooling programs]] and answers for the children in them.
+
 ---
 
 ## Structure & Ranks
