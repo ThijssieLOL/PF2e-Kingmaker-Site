@@ -7,13 +7,13 @@ alignment: Lawful Good
 status: Active
 ---
 
-
+![[Asteri Family Crest.png]]
 
 
 > "As the stars foretold - Founder Dorotheus Ásteri."
 
 ## Overview
-A brief 1-2 sentence summary of what this faction is and its main role.
+The House Ásteri is a noble house 
 
 ### Quick Facts
 - **Current Leader:** Lyra Ásteri and Castor Ásteri
