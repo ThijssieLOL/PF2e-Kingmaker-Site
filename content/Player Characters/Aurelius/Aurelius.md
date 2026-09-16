@@ -99,22 +99,26 @@ With Church researchers, Aurelius aims to establish consecrated holy zones acros
 
 ## Combat & Divine Abilities
 
-### Martial Combat Style
-Aurelius practices the kinetic, unarmed martial style of [[The Chancellery of Silent Illumination]].
-- **Weaponless Engagement:** He fights entirely without weapons, using agile footwork, divine energy shields, and spirit manipulation. Physical unarmed strikes are strictly an emergency last resort.
-- **Disciplined Precision:** In combat he keeps absolute emotional detachment and spatial awareness. Pushed to the brink of death, however, his structured discipline breaks down into a brutal, desperate survival technique.
+### Combat Style
+Aurelius fights without weapons. His discipline is the kinetic, unarmed style of [[The Chancellery of Silent Illumination]], and he runs it on speed and economy: agile footwork, precise positioning, and as little energy spent as the fight allows. He keeps his distance as readily as he closes it, raising shields of divine energy and sending spirits against his enemies rather than trading blows. Unarmed strikes are an emergency measure, held for the moment nothing else will do.
 
-### Spirit Interaction & Binding
-As an Animist, Aurelius bridges the physical realm and the spirit dimension.
-- **Weak Spirits:** They instinctively recognize his spiritual authority and submit to his presence without contest.
-- **Good Spirits:** They work with him in mutual respect and willing partnership.
-- **Neutral Spirits:** He guides them gently toward order and the sun goddess' light through patient negotiation.
-- **Evil Spirits:** He treats them as unnatural parasites. Aurelius binds them with holy chains of pure white-gold light, bends them to serve divine justice, and cleanses them. Managing evil spirits demands intense mental focus and causes physical strain.
+Through all of it he keeps absolute emotional detachment, tracking space, footing, and threat with the same calm he brings to a page of scripture. That composure has a floor. Pushed to the brink of death, it breaks down into a brutal, desperate survival technique, and he does not look back on that state with pride.
 
-### Visual Effects & Casting Sensations
-- **Seal Sequences:** His somatic components are the [[The Star Seals|Star Seals]]: a sequence of hand configurations, and the order of the sequence shapes the spell.
-- **Internal Heat:** Casting divine magic fills Aurelius with an overwhelming surge of internal heat. He must keep absolute mental focus to direct it; if his concentration breaks, the magic recoils inside him and causes severe fatigue and pain.
-- **Divine White Flames:** All spellwork and spirit phenomena manifest as pure **Aureolin White** flames. These holy flames appear either as physical fire that ignites objects or as purely spiritual light that cleanses the target's soul without harming physical matter.
+### Spellcasting
+Aurelius casts holy light magic, **Aureolin White**, through hand seals. The seals are the [[The Star Seals|Star Seals]], twelve base configurations of the hands from which every spell is built. One seal alone casts nothing; it is the order of the sequence that shapes the spell.
+
+Casting is a physical act. As his hands move through a sequence, the [[Tattoos of Penance]] on his forearms and shins ignite into Aureolin White, and a surge of heat floods through his body. Directing that heat takes absolute mental focus. If his concentration breaks, the magic recoils inside him and leaves him with severe fatigue and pain.
+
+Every spell and spirit phenomenon he produces manifests as Aureolin White flame: either physical fire that ignites what it touches, or pure spiritual light that cleanses a soul without harming the body around it.
+
+### Spirit Interaction
+As an Animist, Aurelius bridges the physical realm and the spirit dimension. He fights with both his own divine casting and the spirit magic of the apparitions he has bound, and he casts both through the same hands. His [[Ocular of Kaelen]] lets him see spirits plainly where others see nothing, and everything he has met, bound, or released is recorded in his [[Spirits Ledger]].
+
+Spirits meet him according to their nature.
+- **Weak spirits** recognize his spiritual authority and submit to his presence without contest.
+- **Good spirits** work with him as willing partners, in mutual respect.
+- **Neutral spirits** he guides gently toward order and the sun goddess' light, through patient negotiation.
+- **Evil spirits** he treats as unnatural parasites. He binds them in holy chains of pure white-gold light, bends them to serve divine justice, and cleanses them. Managing them demands intense mental focus and takes a physical toll on him.
 
 ---
 
