@@ -21,7 +21,3 @@ aliases:
 - **Sensation:**
 - **Residue:**
 - **Provenance:**
-
----
-
-The *Stabilize* entry in [[The Hymnal#The Recorded Library]] is written out in full as a model of a filled block.
