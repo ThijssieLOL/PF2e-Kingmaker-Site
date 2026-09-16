@@ -83,9 +83,9 @@ Skip this section if your character has no magic/can't cast spells.
 ### Motivations and morality
 
 36. **Why is your character out adventuring?
-    - To fulfill his dream of being a pirate and searching for the sea
+    - To fulfill his dream of being a pirate and searching for the sea.
 37. **Why are they at Lady Aldori's mansion for the kingmaker expedition? What is their goal in this expedition?
-
+    - Great question, 
 38. **What role in kingdom management (from the player guide) would your character prefer to fill? What would they hope to achieve in this role?
 
 39. **How does your character think a country should be run?
