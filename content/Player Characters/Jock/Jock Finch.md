@@ -3,7 +3,7 @@ tags:
   - character
   - npc
 ancestry:
-class:
+class: Bard
 faction:
 status: Alive
 ---
