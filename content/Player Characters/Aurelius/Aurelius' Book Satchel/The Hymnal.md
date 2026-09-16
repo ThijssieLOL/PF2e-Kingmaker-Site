@@ -21,7 +21,7 @@ The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound 
 ### Quick Facts
 - **Kind of Book:** Prayer book of divine hymns
 - **What It Holds:** Every verse Aurelius has learned, divine, apparition, or focus
-- **How It Records:** Each verse is entered in full, in short phrases, per the [[Spell Template]]. The record leaves material components out, keeps the seal sequence inside the somatic line, and lets provenance carry the source
+- **How It Records:** Each verse is entered in full, in short phrases, per the [[Spell Template]]. The record leaves material components out and keeps the seal sequence inside the somatic line
 - **Morning Office:** Said at dawn: the divine verses are prayed for and bestowed, then the spirits in the [[Spirits Ledger]] are called, their chief lending its vessel spell
 - **Kept In:** Aurelius's book satchel
 - **Current Verses:** Cantrips and 1st-rank spells
@@ -52,7 +52,6 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
-- **Provenance:**
 
 #### Tangle Vine
 *Cantrip 1 · Attack, Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet*
@@ -62,7 +61,6 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
-- **Provenance:**
 
 **1st Rank**
 
@@ -74,7 +72,6 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
-- **Provenance:**
 
 #### Protector Tree
 *Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
@@ -84,7 +81,6 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
-- **Provenance:**
 
 ### Focus Spells
 
@@ -98,7 +94,6 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
-- **Provenance:**
 
 ### Divine Spell List
 
@@ -111,8 +106,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Verbal Component:** "O Blazing Sun, light Thou his path, that he stumble not."
 - **Somatic Component:** -
 - **Sensation:** His usual heat, milder than a combat verse. The target feels a touch of warmth on the brow, matching the flare.
-- **Residue:** nothing
-- **Provenance:**
+- **Residue:** -
 
 #### Needle Darts
 *Cantrip 1 · Attack, Concentrate, Manipulate, Metal · two actions · range 60 feet*
@@ -122,7 +116,6 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
-- **Provenance:**
 
 **1st Rank**
 
@@ -134,7 +127,6 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
-- **Provenance:**
 
 ## House Notes
 
