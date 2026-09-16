@@ -54,11 +54,13 @@ Spirits and their ascension are greatly important to this religion.
 - **Offerings**: People often leave offerings on shrines depending on the type of spirit they seek. Gold might be wanted by a trade spirit, but would not entice a dueling spirit who would enjoy a well worn blade as offering, while a medicine spirit would much rather see drugs. 
 - **The Empty Stool at the Forge/Workshop:** Workplaces keep an empty seat or workspace open for local lesser spirits, leaving small offerings matched to their craft (metal filings for smiths, leftover ink for scribes) to keep spirits pleased.
 - **Guiding Hospitality:** Traveling Guides are given free room and board in any religious town they visit. Refusing a Guide hospitality is believed to cause local lesser spirits to abandon the town's workshops and fields.
+- **The Shame of the Tethered Muse:** There are old stories about Muses who did not ascend to constellation due to love for mortals.  Believers view Muses who abandon ascension out of love for a mortal as tragic backsliders. High clergy condemn them for wasting cosmic potential, while common folk tell romantic ballads about them.
 ### Rituals
 - **Rite of Illumination**: The Rite of Illumination  involves a guide summoning or gathering a large collection of spirits to surround a person. This can be done in public or private, but more influential followers often make it a point to do it in public. The spirits that glows or resonates with the person is a spirit that represents a concept in line with that persons calling.
 - **Ceremony of First Crucible**: If a calling is determined in a field the follower has no experience in, the first partaking in this calling is often a ceremonious affair. This is akin to a childs first day at school in importance.
 - **The Offering of Broken Tools:** When a master craftsman or warrior retires due to age or injury, they ritually break or lay down their primary tool at a local concept shrine, surrendering their active spark back to the local spirits.
 - **Burial of the First Craft:** The deceased is burned or buried wearing or holding the very first object they ever created under their calling. It symbolizes carrying the original, pure form of their spark back to the cosmic cycle.
+###
 
 ---
 
