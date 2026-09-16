@@ -16,44 +16,44 @@
     - Tall (1,80m) and athletic but quite slender. Isn't hairy but does have luscious hair on top of his head.
 6. **What notable physical features does your character have? Impressive scars, unusual hair colour or glamorous tattoos and piercings, what makes your character's look distinct.**
     - Has a pirate hat he thinks look cool (it doesn't) and jewelry that varies between gold and silver. Most noticeable is probably the heterochromia and pointy ears.
-7. **Is your character well groomed? Do they bathe often? Do they brush their teeth? 
+7. **Is your character well groomed? Do they bathe often? Do they brush their teeth?** 
     - He's pretty well groomed even if he doesn't look the type to be. He's horrible with cleaning his shoes though.
-8. **Does your character have a condition or other distinction that makes them different from others of their race/species.
+8. **Does your character have a condition or other distinction that makes them different from others of their race/species.**
     - Has heterochromia (or homophobia like some of you like to call it).
-9. **What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?
+9. **What is your character's clothing style? Do they wear typical clothing of their place of origin? Is their clothing traditional or modern? Do they always wear similar clothes or do they enjoy the  of wearing something new every day?**
     - He wears pirate-esque clothing. Back in his family home he was forced to be 'proper' like his noble parents but he didn't care much for it. 
-10. **Does your character have a particular set of nice clothes? If so, what does it look like?
+10. **Does your character have a particular set of nice clothes? If so, what does it look like?**
     - No, he has a few nice shirts with embroidery on them but he refuses to put on a suit.
-11. **What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?
+11. **What does your character smell like? Is there a difference in how they smell when they are out adventuring vs when they are at home?**
     - He smells like sea salt (how you may ask, power of delusion). Sometimes he has a perfume he likes to spray on himself for special occasions that's WAY too strong.
 #### Magic
 Skip this section if your character has no magic/can't cast spells.
 
-12. **Where does your character tell people their magic came from?
+12. **Where does your character tell people their magic came from?**
     -  Godly powers no one else but he can wield. His magical lute gifted by his grandfather contains all the magic and knowledge he needs for the journey ahead as he proudly tells anyone who's willing to listen. 
-13. **Where does your character actually get their magic?
+13. **Where does your character actually get their magic?**
     - He learned to navigate by the stars and quickly memorized the constellations. During his nights beneath the open sky, he began to notice patterns that no one else seemed to see. One night, he discovered a constellation among the familiar stars that appeared on no map. As he gazed at it, he heard music—not as though it were coming from the heavens, but as if the space between the stars itself were singing. Without really thinking about it, he sang back. And the world answered. From that moment on, he began to realize that there was an underlying language woven into everything that exists.
-14. **Does this origin affect the magic's working and visuals?
+14. **Does this origin affect the magic's working and visuals?**
     - Not really.
-15. **What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?
+15. **What does your character's magic look like? What does your character look like when using magic? Do you sprout flowers whenever you cast a spell or have glowing red eyes whenever your magic sparks?**
     - It depends on the song he's playing. There are symbols flowing out of the strings based on the theme.
-16. **Is there a cost to the magic?
+16. **Is there a cost to the magic?**
     - He needs a few drinks after but otherwise no.
 #### Combat style
-17. **How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?
+17. **How does your character typically fight? Are they calculated in their attacks? Do they prefer to stay in the back or get into the fray?**
     - He's between 'going gun's blazing' and being all tactical. He's kinda in de middle with going with the flow and being laidback (except when there's a big boss, then it's a 'o fuck' moment).
-18. **How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?
+18. **How has your character adopted this fighting style? Have they lost a loved one and now seek to defend? Were they trained to fight like this? Did they just make it up themselves?**
     - Part of it has been from his old master teachings and dueling with a certain butler boy, the other part is completely improvised over the years.
-19. **How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?
+19. **How often has your character actually fought? Do they win often or not? Was their fighting in training, on battlefields or in duels?**
     - He has fought a few times in training, and duels because he either got drunk, cocky or both.
-20. **Does your character have rules or a code of honour for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?
+20. **Does your character have rules or a code of honour for combat? Will they accept a surrender or kill with brutal efficiency? Would they give their opponent a fair chance or would they do anything it takes to win?**
     - He does have some kind of honor (not a lot). He would accept a surrender depending on the circumstances but they do like playing dirty.
 ### Family and Relationships
-21. **Describe your character's parents. Are they still alive? What are they doing now? (still have to finish this)
+21. **Describe your character's parents. Are they still alive? What are they doing now? (still have to finish this)**
     - **Zaleria** _(elf)_ and **Esrin** _(human)_ **Larmelli** have always been a bit negligent with their son Jock Finch _(formerly known as **Jovian Larmelli**)_ while still keeping him on a leash with lessons and training. Zaleria Larmelli has always been the stricter and most absent between Jock's father and herself, while still showing tough love while being around. Esrin Larmelli on the other hand was more involved in Jock's upbringing and generally softer. He could potentially be seen as 'weak' or 'lesser' by elf standards by being a human. They're both alive as far as he knows with his mother managing the town of **Eryndale** and his father being a teacher at the local school.
-22. **Does your character have any siblings? What is your character's relationship with them? 
+22. **Does your character have any siblings? What is your character's relationship with them? **
     - As far as he knows no.
-23. **Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
+23. **Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?**
     - His family is from the noble house of Larmelli, who are known for knowledge and culture. They harbor ancient books, maps and music. Who founded the house is unknown, only that they've met a tragic fate and are lain to rest somewhere beneath the land of Eryndale.
 24. **What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?
     - They've got absolutely no clue where he is and he'd like to keep it that way before his mother tracks and retrieves him by the ear. They do not approve his 'leaving'.
