@@ -50,7 +50,9 @@ Whether that memory reflects **the Herald**'s true personality or the perspectiv
 ---
 
 ## Abilities
-- **Skills & Magic:** (How they fight, what magic they use, or their main talents)
+[[Oliver Strong Bison|Oliver]] remembers seeing him fight during the destruction of the village, and he appeared to be far more capable than an ordinary warrior. He moved confidently through the chaos and was able to kill members of Oliver's family with frightening ease.
+
+The Heralds themselves are known to employ strange magic, rituals, and occasionally demonic forces, but Oliver does not know which of these abilities, if any, belonged to the man personally.
 
 ---
 
