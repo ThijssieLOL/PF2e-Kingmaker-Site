@@ -15,7 +15,7 @@ status: Active
 > "May your spark burn clear, your Muse walk near, and your name find its star. -Common prayer"
 
 ## Overview
-The Celestial Calling is a religion centered on spirits and finding peoples calling. It is deeply tied with ideas of creation and innovation, and thus is mostly practiced by artists and craftsmen, but even tacticians, duelists
+The Celestial Calling is a religion centered on spirits and finding peoples calling. It is deeply tied with ideas of creation and innovation, and thus is mostly practiced by artists and craftsmen, but there are
 
 ### Quick Facts
 - **Leader:** 
