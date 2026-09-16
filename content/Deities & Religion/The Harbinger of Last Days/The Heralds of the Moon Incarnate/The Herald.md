@@ -50,14 +50,28 @@ Whether that memory reflects **the Herald**'s true personality or the perspectiv
 ---
 
 ## Abilities
-[[Oliver Strong Bison|Oliver]] remembers seeing him fight during the destruction of the village, and he appeared to be far more capable than an ordinary warrior. He moved confidently through the chaos and was able to kill members of Oliver's family with frightening ease.
+[[Oliver Strong Bison|Oliver]] remembers seeing him fight during the destruction of the village, and he appeared to be far more capable than an ordinary warrior. He moved confidently through the chaos and was able to kill members of [[Oliver Strong Bison|Oliver]]'s family with frightening ease.
 
-The Heralds themselves are known to employ strange magic, rituals, and occasionally demonic forces, but Oliver does not know which of these abilities, if any, belonged to the man personally.
+The Cultists themselves are known to employ strange magic, rituals, and occasionally demonic forces, but [[Oliver Strong Bison|Oliver]] does not know which of these abilities, if any, belonged to the man personally.
 
 ---
 
 ## History
-- **Background:** (Their past, how they got here, and what they want to achieve)
+Oliver has spent years asking questions about the **Heralds of the Moon Incarnate**, hoping that someone might recognize the description of the bald man with the scar.
+
+Most of what he has learned is about the cult rather than the individual.
+
+The Heralds believe the current world is corrupt and that its destruction is necessary for the creation of the next reality. They believe Groetus will preserve the souls and essences of those worthy enough to pass into the next existence.
+
+Whether the man who destroyed Oliver's village genuinely believed these things, or whether he simply used the cult as a means to his own ends, Oliver does not know.
+
+He doesn't even know why the village was targeted.
+
+The Heralds were **looking for something** when they came.
+
+Something important enough to justify unleashing demons upon an entire settlement.
+
+Oliver has never learned what it was.
 
 ---
 
