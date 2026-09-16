@@ -118,6 +118,16 @@ A masquerade that never ended. It is one creature made of dancers, joined at the
 - **Signature wrongness:** Every mask is the same face, and they are hollow, and the dancers wear each other's hands.
 - **Origin:** A court that danced while its kingdom burned, and kept dancing when the fire reached the hall.
 
+### The Piper Who Was Never Relieved, Level 5 (Invoke Spirits)
+
+It wears the uniform of an army that no longer exists, and it plays. The pipes are bone: three thighbones for the drones, and the drones do not end. They rise into the smoke above it, and the smoke is what comes out of them, so the pipes and the sky are one instrument and the whole field hears it. It has three faces. One blows the chanter, one sings, one screams. All three share the one breath. Every company it has marched off a field gives it another face, always a face that was following it, and the new face always screams.
+
+It does not fight. It does not eat or sleep either, and this is how the dead know it is theirs. It marches, and they climb out of the ground and fall in behind it, already in ranks and already in step. It never looks back, because a piper does not turn around, so it has no idea how long the column is. It was told to play until the last man was off the field, and the count never came out right, and nobody ever relieved it. It walks the same ground in one long circle, and every army that died there walks with it, and they all step to the same tune. Any living thing that hears the tune must keep time. Keeping time is walking. The walking does not end.
+
+- **Body plan:** Humanoid, giant.
+- **Signature wrongness:** Three faces share one breath, and the pipes end in nothing: the drones are the smoke.
+- **Origin:** A piper ordered to play the retreat until the last man was clear of the field. The count never came out right, so he is still playing.
+
 ---
 
 *Related: [[Spirits Ledger]], [[Spirit Template]], [[Stalker in Darkened Boughs]], [[Lurker in Devouring Dark]].*
