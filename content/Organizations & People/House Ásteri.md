@@ -7,7 +7,8 @@ alignment: Lawful Good
 status: Active
 ---
 
-![[CoaMaker 1.png]]
+![[House Ásteri]]
+
 
 > "As the stars foretold - Founder Dorotheus Ásteri."
 
