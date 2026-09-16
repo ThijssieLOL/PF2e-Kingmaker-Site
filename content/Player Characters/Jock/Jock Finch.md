@@ -6,6 +6,7 @@ ancestry: Human/Aiuvarin
 class: Bard
 faction:
 status: Alive
+aliases:
 ---
 
 ![[content/Attachments/Jock.png|375]]
