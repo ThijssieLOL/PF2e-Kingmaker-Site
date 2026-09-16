@@ -91,9 +91,9 @@ Skip this section if your character has no magic/can't cast spells.
 39. **How does your character think a country should be run?
     - He thinks it should be ruled as a democracy with good money income.
 40. **What are, in your opinion, the fundamental rights a citizen of your country should have?
-    - 
+    - Nourishment, roof over the head, education, voting, religion, etc.
 41. **Would you sacrifice yourself for your friends, allies or future citizens?
-
+    - 
 42. **How would you describe your character's moral compass?
 
 43. **Where does your character draw the line? When do the ends stop justifying the means?
