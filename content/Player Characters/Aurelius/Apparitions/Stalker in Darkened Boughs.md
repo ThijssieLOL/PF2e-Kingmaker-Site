@@ -18,6 +18,8 @@ status: Active
 ## Level 3 Spirits
 *Carries the 3rd-rank apparition spell: Wall of Thorns.*
 
+**Spirit:** [[The Hedge]]
+
 ## Level 4 Spirits
 *Carries the 4th-rank apparition spell: Bestial Curse.*
 
@@ -32,6 +34,8 @@ status: Active
 
 ## Level 8 Spirits
 *Carries the 8th-rank apparition spell: Monstrosity Form.*
+
+**Spirit:** [[The Grazer]]
 
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Wrathful Storm.*

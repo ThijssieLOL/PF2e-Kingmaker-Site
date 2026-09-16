@@ -15,6 +15,8 @@ status: Active
 ## Level 2 Spirits
 *Carries the 2nd-rank apparition spell: Acid Grip.*
 
+**Spirit:** [[The Reacher]]
+
 ## Level 3 Spirits
 *Carries the 3rd-rank apparition spell: Aqueous Orb.*
 
@@ -35,6 +37,8 @@ status: Active
 
 ## Level 9 Spirits
 *Carries the 9th-rank apparition spell: Implosion.*
+
+**Spirit:** [[The Swallower]]
 
 ## Mechanical Reference
 - **Apparition Skills:** Ocean Lore, Sailing Lore
