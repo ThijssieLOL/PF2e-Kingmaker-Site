@@ -38,7 +38,7 @@ Spirits and their ascension are greatly important to this religion.
 ---
 ## Structure & Ranks
 - **Followers**: Followers are people who simply belief in The Celestial Calling. They practice their calling, do their best to appease the spirits related to their calling and go on with their life.
-- **Guides**: Guides are the lowest rank in the leadership of The Celestial Calling. There is often a single guide per town, if there is any, who helps people within that town with matters related to spirits or calling. They could
+- **Guides**: Guides are the lowest rank in the leadership of The Celestial Calling. There is often a single guide per town, if there is any, who helps people within that town with matters related to spirits or sparks. They could subdue a rowdy spirit, 
 
 
 ---
