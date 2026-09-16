@@ -174,6 +174,8 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 45   | Normally I would offer you a clever insult to think about, but i refuse to partake in a battle of wits with an unarmed man                                                                                                                                   |
 | 46   | As an outsider, what are your views on intelligence, competence and charisma?                                                                                                                                                                                |
 | 47   | I neither have the time nor the crayons to explain the depths of your faults                                                                                                                                                                                 |
+| 48   | A penny for your thoughts would be a rip-off of the highest degree                                                                                                                                                                                           |
+| 49   | Thank you peasant, for you                                                                                                                                                                                                                                   |
 ### Personality Quizes
 ![[Zephan_Big five 1.png]]
 ![[Zephan_Bigfive2.png]]![[Zephan_Bigfive3.png]]![[Zephan_Bigfive4.png]]![[Zephan_Bigfive5.png]]![[Zephan_Bigfive6.png]]
