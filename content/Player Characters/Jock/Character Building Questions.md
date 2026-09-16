@@ -54,9 +54,9 @@ Skip this section if your character has no magic/can't cast spells.
 22. **Does your character have any siblings? What is your character's relationship with them? 
     - As far as he knows no.
 23. **Does your character have any notable ancestors? Maybe your family has been in the same trade for generations? Are you part of a noble house? Was a great hero or maybe villain one of your ancestors?
-    - His family is from the noble house of Larmelli, who are known for knowledge and culture. They harbor ancient books, maps and music. 
+    - His family is from the noble house of Larmelli, who are known for knowledge and culture. They harbor ancient books, maps and music. Who founded the house is unknown, only that they've met a tragic fate and are lain to rest somewhere beneath the land of Eryndale.
 24. **What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?
-
+    - They've got absolutely no clue where he is and he'd like to keep it that way before his mother tracks and retrieves him by the ear. They do not approve his 'leaving'.
 25. **Is your character part of any organization? If so, is this organization known?
 
 26. **Does your character have many friends? 

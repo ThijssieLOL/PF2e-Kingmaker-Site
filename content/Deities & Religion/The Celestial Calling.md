@@ -44,7 +44,7 @@ Spirits and their ascension are greatly important to this religion.
 - **Polars**: Polars are the highest ranked human members of The Celestial Calling. They are a council, where every member governs over the guides and Wayfinders of one specific country. They reside in the Astra Peak Observatory, and are the only people who are regularly in contact with The Sovereign Muse. 
 - **The Sovereign Muse**: The Sovereign muse is a Greater Spirit with the concept of guiding. It seeks to aid the Polars in helping as many people as possible, because it suspects it will become a constellation if it helps create the ultimate guide it will ascend to the level of constellation. It is an extremely old and thus powerful spirit and has no solid form. If often chooses to appear as a dense, murmuration-like flock of hundreds of starlight-colored songbirds or moths. When speaking to the people other than the Polars, the flock condenses into a shimmering, humanoid silhouette wearing robes made of moving night sky, to appear more human. No matter what form it takes, it always has a hole somewhere in its body where no lights seem to glow. 
 ### Buildings
-- **Shrines**: The majority of worship buildings for The Celestial Calling are small shrines. They are comprised of two kinds: more general sh
+- **Shrines**: The majority of worship buildings for The Celestial Calling are small shrines. They are comprised of two kinds: more general shrines used for any matter of spirit calling or more specialized shrines, designed with a specific 
 ---
 
 ## Customs and Rituals
