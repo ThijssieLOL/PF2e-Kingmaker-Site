@@ -73,7 +73,7 @@ Skip this section if your character has no magic/can't cast spells.
 31. **Who raised them? If not their parents, why?
     - His parents, but when his parents were too busy his butlers would take care of him.
 32. **Did your character have any form of education? Did they go to school? Were they home schooled? 
-    - They had a very good education. At first they went to the local school with the other people (AND PEASANTS) in town. After some time they began homeschooling him to keep an eye on him.
+    - He had a very good education. At first they went to the local school with the other people (AND PEASANTS) in town. After some time they began homeschooling him to keep an eye on him. He learned (and was cur)
 33. **How has your upbringing shaped your worldview?
     - 
 34. **Is your character's family well-off or are they fucking peasants?
