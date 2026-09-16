@@ -28,7 +28,7 @@ The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound 
 
 ## How a Verse Is Cast
 
-A verse is chanted or spoken, never sung, and Aurelius speaks it aloud. It holds no rhyme and no meter: the words are plain liturgical prose. Every verse is a petition to the sun goddess, spoken to her in thou and thee, the old pronouns the [[The Liturgical Cadence|Cadence]] keeps for casting.
+A verse is chanted or spoken, never sung, and Aurelius speaks it aloud. It holds no rhyme and no meter: the words are plain liturgical prose. Every verse is a petition to the sun goddess, spoken to her in thou and thee, the old pronouns the [[The Liturgical Cadence|Cadence]] keeps for casting. She is addressed by her titles, never by name.
 
 The words are fixed. He recalls each verse exactly as it was set down, though the telling can shift with the moment. A verse belongs to the spell, not to the spirit that lends it.
 
@@ -108,7 +108,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 *Cantrip 1 · Concentrate · one action · range 30 feet*
 
 - **Manifestation:**
-- **Verbal Component:**
+- **Verbal Component:** "O Blazing Sun, light Thou his path, that he stumble not."
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
