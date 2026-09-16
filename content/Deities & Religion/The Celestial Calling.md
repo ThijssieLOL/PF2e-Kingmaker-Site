@@ -55,7 +55,9 @@ Spirits and their ascension are greatly important to this religion.
 - 
 ### Rituals
 - **Rite of Illumination**: The Rite of Illumination  involves a guide summoning or gathering a large collection of spirits to surround a person. This can be done in public or private, but more influential followers often make it a point to do it in public. The spirits that glows or resonates with the person is a spirit that represents a concept in line with that persons calling.
-- **Ceremony of First Crucible**: If a calling is determined in a field the follower has no experience in, the first partaking in this calling
+- **Ceremony of First Crucible**: If a calling is determined in a field the follower has no experience in, the first partaking in this calling is often a ceremonious affair. This is akin to a childs first day at school in importance.
+- **The Offering of Broken Tools:** When a master craftsman or warrior retires due to age or injury, they ritually break or lay down their primary tool at a local concept shrine, surrendering their active spark back to the local spirits.
+- **Burial of the First Craft (Deep Dive):** The deceased is burned or buried wearing or holding the very first object they ever created under their calling. It symbolizes carrying the original, pure form of their spark back to the cosmic cycle.
 
 ---
 
