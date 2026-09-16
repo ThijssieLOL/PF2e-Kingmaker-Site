@@ -37,6 +37,10 @@ Every heading carries three things, in this order: the spirit's own name, the ap
 
 The name belongs to the spirit, not to the family. Two spirits of the same family at different levels are different creatures, with different faces, and each one gets its own name. The level and the spell must match the family page, because the spell at each level is fixed by the family.
 
+### Vary the body plans
+
+The set should not drift into humanoids. Humanoids are wanted, and so are beasts, swarms, plants, colossi, and things with no animal shape at all: buildings, cloth, weather, tools. A run of humanoid designs should be answered with a round that is anything but.
+
 ## Liked spirit designs
 
 ### The Grazer, Stalker in Darkened Boughs, Level 8 (Monstrosity Form)
@@ -61,6 +65,7 @@ A whale-sized thing, and there is no head. The front of it tapers to a blunt clo
 
 A blackthorn hedge grown into the shape of an animal, and the animal keeps changing. It walks the game trails on the legs of whatever it currently is, and the shape slides from a boar to a wolf to a man to something with no name, the way a cloud changes. Thorns stand out of every surface of it, long and straight and grey at the point. The change is not clean: an old shape hangs in it for a breath after it is gone, so a deer's head will come out of a wolf's shoulder before the hedge takes it back. One pair of eyes is real, brown and wet, and they move from shape to shape as the shape changes.
 
+- **Body plan:** Plant, thorn.
 - **Signature wrongness:** One pair of real eyes passes between the shapes, and it never stops watching.
 - **Behaviour:** Whatever tries to pass, it becomes and lets through.
 - **Origin:** A wall of thorns grown over a killing ground.
@@ -69,17 +74,18 @@ A blackthorn hedge grown into the shape of an animal, and the animal keeps chang
 
 A man hanging upright in the air at the height a drowned man hangs in water, and the air holds him the way the water would. His clothes are a sailor's, gone soft and green, and they move as if the water were still there. Below the elbow his arms come apart into long black tendrils, dozens of them, each one the width of a finger and the length of a mast, and they drift and curl on a current that is not there. Kelp trails from his ankles and out of his hair. His face is whole. His eyes are open and his mouth is open, and he is looking up.
 
+- **Body plan:** Humanoid.
 - **Behaviour:** It reaches up, always, at nothing.
 - **Origin:** A sailor who went under in the dark and never stopped reaching.
 
-### The Glass Serpent of the Upper Air, Shepherd of Errant Winds, Level 7 (Vacuum)
+### The Reflection, Impostor in Hidden Places, Level 2 (Invisibility)
 
-A serpent longer than a river, and it has no wings. It swims the high cold in slow curves that keep the whole length of it moving at once. The scales are clear, and light bends through them the way it bends through a prism, so from the ground the thing reads as a rainbow coming apart across the sky. Four small hands sit along the belly, evenly spaced and perfect, with knuckles and nails. It grooms itself with them while it drifts. The body is hollow and clear, and what it has swallowed turns inside it where anyone looking up can see it. The head is narrow and smooth, and when the mouth opens there is nothing inside to see.
+A person standing in a room, and there is nothing in the room. It is only ever there in glass. In a mirror, in a dark window, in a still bucket of water, it is a tall figure in a good coat, standing behind whoever is looking, close enough to touch. It has a face. The face is the face of the person looking, older, wearing the expression they make when they are alone. It is always smiling. The smile does not match the rest of the face, and it does not move. It does not move while it is being watched, and it does not appear in glass that nobody is looking into. Paintings of a room it has stood in show a shoulder that no one painted.
 
-- **Body plan:** Dragon, serpentine.
-- **Signature wrongness:** Its body is hollow and clear; the swallowed air and the birds and the breath all turn inside it, visible.
-- **Behaviour:** It feeds on breath. It does not bite; it opens its mouth and the air leaves yours to fill the space inside it. It leaves vacuums behind it like footprints, and birds that cross its wake drop without a mark. It is vain. It will hold still to be admired, and that is the best time to run.
-- **Origin:** What a rainbow becomes when enough people pray to it.
+- **Body plan:** Humanoid, glass-bound.
+- **Signature wrongness:** It wears the face of whoever is looking at it, aged, with the expression they wear when nobody can see them, and it is always smiling.
+- **Behaviour:** It lives in reflections and cannot leave them. It follows a person from mirror to mirror and stands behind them in the glass. Outside a reflection it cannot be seen, heard, or touched, and it cannot act while it is being watched. The smile is the same smile on every face it borrows. What it does when a mirror is left alone long enough is not known to anyone who has seen it.
+- **Origin:** Someone who spent a life being overlooked, and got very good at it.
 
 ### The Court of One, Monarch of the Fey Courts, Level 8 (Uncontrollable Dance)
 
@@ -110,6 +116,8 @@ Kept as names only, so the same idea does not come back around. The full text of
 - **The Listener, Speaker in Sibilance, Level 6 (Petrify).** Rejected: the Petrify slot should be a weeping-angel-inspired creature instead.
 - **The Joiner, Crafter in the Vault, Level 5 (Impaling Spike).** Disliked.
 - **The Husbandman of the Last Orchard, Custodian of Groves and Gardens, Level 9 (Nature's Enmity).** Disliked.
+- **The Glass Serpent of the Upper Air, Shepherd of Errant Winds, Level 7 (Vacuum).** Disliked. Approved by mistake earlier, corrected.
+- **The Cinder Sow, Steward of Stone and Fire, Level 7 (Volcanic Eruption).** Disliked.
 
 ---
 
@@ -117,14 +125,41 @@ Kept as names only, so the same idea does not come back around. The full text of
 
 Drafts for review, built on the same rule as above: the creature first, the spell last. Move any that stick up into Liked spirit designs.
 
-### The Reflection, Impostor in Hidden Places, Level 2 (Invisibility)
+### The Cradle, Custodian of Groves and Gardens, Level 1 (Protector Tree)
 
-A person standing in a room, and there is nothing in the room. It is only ever there in glass. In a mirror, in a dark window, in a still bucket of water, it is a tall figure in a good coat, standing behind whoever is looking, close enough to touch. It has a face. The face is the face of the person looking, older, wearing the expression they make when they are alone. It does not move while it is being watched, and it does not appear in glass that nobody is looking into. Paintings of a room it has stood in show a shoulder that no one painted.
+An oak the height of four men, and it is walking. The roots come up out of the ground and swing forward one at a time, and the trunk leans as it goes, and the whole tree moves at the pace of someone carrying a full cup. Halfway up the trunk there is a hollow the size of a person, and a person is in it. He is grown into the wood at the shoulders and the hips, and his arms are inside the tree, and his head is free. He is awake, and his eyes follow you. Thin roots have gone into his scalp and under his jaw, and they move when he swallows. The bark around the hollow is worn smooth and pale, the way a doorframe wears where a hand has rested on it for years.
 
-- **Body plan:** Humanoid, glass-bound.
-- **Signature wrongness:** It wears the face of whoever is looking at it, aged, with the expression they wear when nobody can see them.
-- **Behaviour:** It lives in reflections and cannot leave them. It follows a person from mirror to mirror and stands behind them in the glass. Outside a reflection it cannot be seen, heard, or touched, and it cannot act while it is being watched. What it does when a mirror is left alone long enough is not known to anyone who has seen it.
-- **Origin:** Someone who spent a life being overlooked, and got very good at it.
+- **Body plan:** Plant, tree.
+- **Signature wrongness:** The hollow in the trunk is a person, still alive, and the roots have gone into him.
+- **Behaviour:** It walks the edge of its grove and puts itself between the hollow and anything that comes near. It does not speak for itself; the man in the trunk does the talking, and he asks for very little. It has kept him for a long time. It believes he is happy, and he stopped correcting it years ago.
+- **Origin:** A child who hid inside a hollow tree during a raid, and the tree closed over him and kept him.
+
+### The Fading, Reveler in Lost Glee, Level 1 (Dizzying Colors)
+
+A cloud of moths, each one the size of a hand, and every wing is a different colour, so the whole swarm reads as stained glass that keeps breaking and reforming. They fly in a slow spiral, and the spiral turns, and the turning is the thing that catches the eye. Wherever they have been, the colour has gone out of things: grass stays green but goes flat, cloth fades to dishwater, a red door ends up pink. The moths are the brightest thing for a mile. They eat nothing anyone can see.
+
+- **Body plan:** Swarm, insect.
+- **Signature wrongness:** They leave everything they pass grey, and they are the only colour left.
+- **Behaviour:** They spiral. Watching the spiral takes the balance out of a person's legs, and the ones who fall stay down and watch. The moths settle on whoever falls and take the colour out of them too, a little at a time, and the person does not mind, because the spiral is very beautiful. They move on when the colour is gone.
+- **Origin:** The last of the colours at a festival that ended badly, and the joy that would not stop.
+
+### The Sail, Shepherd of Errant Winds, Level 3 (Wall of Wind)
+
+A sail standing upright in the open air, with no ship and no mast, and it is full. It is old canvas, patched in places with oilcloth and sailmaker's thread, and it stands as tall as a house, curved the way a sail curves when the wind is behind it. It moves across the land on its lower edge, and the grass bends in front of it and lies flat behind it. There is no wind anywhere else. The sail's wind is its own, and it is always inside the sail and never outside it. A frayed rope trails from one corner, and the rope is wet.
+
+- **Body plan:** Object, cloth.
+- **Signature wrongness:** There is no wind anywhere else, and the sail is always full.
+- **Behaviour:** It travels. It crosses plains and moor and shallow water at walking pace and does not stop, and the wind inside it never drops. Anything it passes over is scoured to the bone: crops cut flat, paint stripped, a man's clothes gone to rags in a minute if he stands in the way. It steers toward nothing. It has no destination, and it has been going since it was cut loose.
+- **Origin:** A sail cut from its ship in a storm, that kept the wind that filled it.
+
+### The Works, Crafter in the Vault, Level 4 (Creation)
+
+A beast the size of a barn, low to the ground, with a hide like a slag heap and a face that is mostly mouth. Its chest is a furnace: the ribs are iron, the seams between them glow, and there is a sound in there like a bellows working, because it is a bellows working. It has four short legs and no neck, and the mouth opens the whole width of the front. What comes out of the mouth is finished work: a chair, a hinge, a horseshoe, a knife, still warm. It eats anything it is given, ore and bone and broken carts and whole trees. On its back there is a rack of the things it has made, and the rack is always full, and it is arranged by size.
+
+- **Body plan:** Beast, colossal.
+- **Signature wrongness:** Its chest is a working furnace, and what it eats comes back out finished.
+- **Behaviour:** It does not hunt and it does not fight. It eats what is put in front of it and makes things out of it, and it keeps making them whether or not anyone wants them, so the ground behind it fills with furniture. It has no opinion about any of it. It walks in a slow line and it does not stop.
+- **Origin:** A workshop that was left running when the smith died, and a fire that kept its own schedule.
 
 ### The Deathwatch, Echo of Lost Moments, Level 4 (Vision of Death)
 
@@ -162,6 +197,15 @@ A tall, thin man in a nightshirt, folded. His knees are up beside his ears and h
 - **Behaviour:** He walks in the spaces inside a house: the gap behind the plaster, the cavity above the ceiling, the shaft beside the chimney. Where he walks the house stretches, and a house he lives in takes longer to cross every week. He whispers through the walls, and the whisper always stops one word short, so the people inside finish the sentence themselves and get it wrong. He never comes out. He keeps to his part of the house, and he is a quiet lodger.
 - **Origin:** A lodger who was never asked to leave.
 
+### The Furrow, Speaker in Sibilance, Level 5 (Slither)
+
+You do not see it. You see what it is under. Under a carpet it is a ridge that crosses the room and lifts the weave and goes quiet when you look at it. Under sand it is a seam that opens and closes. Under ice it is a line of white cracks that run ahead of a sound like a rope being dragged. Under skin it is a movement that crosses a man's back and comes out on the other side, and the man does not know it is there. The only part of it anyone has seen is a wet black scale, and only for a moment, and only where the surface has worn thin.
+
+- **Body plan:** Beast, serpentine, never seen whole.
+- **Signature wrongness:** It is never visible, only the surface over it moving, and the surface is not always the ground.
+- **Behaviour:** It swims. Any surface will do: floors, sand, water, cloth, flesh. It comes up through the surface it is under only to take something, and it takes from below, so the wound is on the underside. It is quiet, and the only warning is the dragging sound, and by then it is already past. Nobody has seen the whole of it, and the descriptions do not match each other.
+- **Origin:** A thing that was buried alive and learned to move through what it was buried in.
+
 ### The Mourner, Steward of Stone and Fire, Level 6 (Petrify)
 
 A woman in a widow's dress, life-sized, carved out of grey stone, standing in a shallow pool of hot water. The dress and the veil are stone like the rest of her, and both hands are over her face. Wings are folded against her back, and they are carved stone, so the feathers have no joints and nothing about them can move. Water runs out from under her hands and down her wrists. It is warm, and the stone where it has fallen has gone dark. There is no face behind the hands, only a smooth blank, and the blank is wet too. She stands on a plinth of pale stone that has grown up around her feet, and the plinth comes with her when she moves.
@@ -180,16 +224,14 @@ A hermit crab the size of a cathedral, walking the seabed with a piece of coastl
 - **Behaviour:** It carries the sea and keeps it level, the way a man keeps soup in a bowl. It walks the seabed and the drowned roads and it does not hunt. It is territorial about the shell and nothing else. When something threatens the water, it tips, and the whole sea comes out at once in one wave with everything in it, and then it gathers what it can and walks on. Fish fall out of the air when it does this, and they flap on the ground.
 - **Origin:** A piece of shore torn loose in a storm that kept the water it was holding.
 
-### The Cinder Sow, Steward of Stone and Fire, Level 7 (Volcanic Eruption)
+### The Host, Lamentation of Sinister Deals, Level 9 (Resplendent Mansion)
 
-*Not yet reviewed.*
+A manor house standing in a valley, four floors, with a slate roof and forty windows, and it is alive. It has legs: at night, when the lamps are lit, the ground under the east wing shifts and the whole building takes a step, slowly, and settles, and the glasses in the dining room ring. The windows are its eyes, and they are all lit at once, and the light in them follows anyone crossing the lawn. Inside, the rooms do not agree with the outside: the corridor from the front door is longer than the building, and the stairs go up further than the roof. The front door is open. It is always open. The doormat is worn through in the middle, the way a doormat wears when a great many people have come in and none have gone out.
 
-A boar the size of a barn, and it is made of cooled lava. The hide is black and rough and cracked along seams that follow the grain of the animal, and the seams glow when it breathes, so the whole flank goes from dark to red and back. The belly is split open into a caldera ringed with teeth, and inside it a clutch of glowing stones turns slowly, each one a lesser fire spirit not yet hatched. It has one eye, and the eye is a pool of lava; when it wakes, a stone sinks through the pool, and that is the pupil. Its tusks are the length of a man and blunt at the ends. Curled asleep it reads as a hill, and snow will not settle near it, because it is warm.
-
-- **Body plan:** Beast, colossal.
-- **Signature wrongness:** The caldera in its belly is both mouth and womb, and its young are stones that hatch into fire.
-- **Behaviour:** It eats stone. It chews a mountain down a mouthful at a time, and what it cannot digest comes up again as fire. Travelers camp on its back while it sleeps. It is a mother, and its children are always hungry.
-- **Origin:** A sow that sheltered in a caldera during an eruption and woke as the mountain's animal.
+- **Body plan:** Colossus, structure.
+- **Signature wrongness:** The rooms are bigger than the house, and the doormat is worn through in one direction only.
+- **Behaviour:** It keeps guests. It gives you a room, a fire, a meal, and clothes that fit, and it wants nothing from you except that you stay, and it will not say for how long. A guest who tries to leave finds that the house has grown a corridor where the door was, and the corridor is warm and well lit and very long. It is a good host. It is patient. The ones who have been here longest have stopped being guests and started being rooms.
+- **Origin:** A house that was promised to a family forever, and took the promise literally.
 
 ---
 
