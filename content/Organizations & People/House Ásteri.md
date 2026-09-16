@@ -29,7 +29,7 @@ The House Ásteri is a noble house known for their oracles, crystal mines and of
 
 ## Geography, Economy and Demographics
 - **Geography:** The town that House Ásteri care for is called Lowell. It is a rather wel secured town, surrounded by mountains and forests on all sides except one. Visitors often describe it as an extremely beautiful location, with special attention given to the wonderful mountain ranges and the magical crystal caverns that reside within them. But the most majestic location that the territory of House Ásteri has to offer is the Crystal lake. The bottom of this lake is lined with many multicolored magical crystals, that make the water of this lake shine many different colors under the light of the sun or even moon.
-- **Economy**: The people under House Ásteri mostly earn their living by mining and selling the growing magical crystals in the surrounding caverns, procuring lumber or hunting in the bountiful forest or by working as
+- **Economy**: The people under House Ásteri mostly earn their living by mining and selling the growing magical crystals in the surrounding caverns, procuring lumber or hunting in the bountiful forest or by working as a fortune teller, historically under one of the
 - **Demographics:** (What kinds of species live in and under this noble house)
 
 ---
