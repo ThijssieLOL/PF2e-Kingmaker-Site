@@ -177,7 +177,7 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 48   | A penny for your thoughts would be a rip-off of the highest degree                                                                                                                                                                                           |
 | 49   | Thank you peasant, for you give me a great service. Meeting you has shown me that the worst isn't yet to come                                                                                                                                                |
 | 50   | I admire that you show your whole potential even for the simplest of tasks                                                                                                                                                                                   |
-|      |                                                                                                                                                                                                                                                              |
+| 51   | You have a way of speaking that makes people admire the silence more, so at least you have purpose in that.                                                                                                                                                  |
 ### Personality Quizes
 ![[Zephan_Big five 1.png]]
 ![[Zephan_Bigfive2.png]]![[Zephan_Bigfive3.png]]![[Zephan_Bigfive4.png]]![[Zephan_Bigfive5.png]]![[Zephan_Bigfive6.png]]
