@@ -42,7 +42,7 @@ Aurelius is tall and lean, with an athletic build, broad in the shoulder and nar
 Aurelius has an extraordinarily rare, prophetic eye condition called the [[Ocular of Kaelen]] in ancient texts, and informally the "Eyes of God" within the Church. His eyes see directly into the spiritual layer of reality. When he works covertly or needs to avoid the shadowy cabal that hunts his ocular trait, he pulls a thick traveler's hood low over his brow and keeps a humble, downcast gaze to blend into scholarly crowds. [1]
 
 ### The [[Tattoos of Penance]]
-Dark, intricate tattoos in the style of traditional criminal brands run across his forearms and shins, marking his past transgressions: theft, assault, and the murder of an innocent family.
+Dark, intricate tattoos in the style of traditional criminal brands run across his forearms and shins, marking his past transgressions: theft, assault, and the murder of an innocent family. [2]
 - **Alchemical Reaction:** The brands are etched with sacred alchemical ink. Normally they rest in a muted, rust-colored reddish-brown. When Aurelius channels divine magic, the ink ignites into a blinding **Aureolin White**: a searing, pure light haloed by faint golden-yellow radiance.
 - **Public & Personal Perception:** Aurelius shows these marks openly in public as proof of the sun goddess' infinite capacity for redemption and as a daily lesson in humility. He covers them only when he wears formal ceremonial gloves or long traveling sleeves. He treats the brands with clinical, detached acceptance, a physical contract of his eternal debt to divine grace.
 
@@ -100,7 +100,7 @@ With Church researchers, Aurelius aims to establish consecrated holy zones acros
 ## Combat & Divine Abilities
 
 ### Combat Style
-Aurelius fights without weapons. The style is the kinetic, unarmed discipline of [[The Chancellery of Silent Illumination]], adapted by him and built for close range, high speed, and open space. He does not stand and trade blows. He steps inside a guard before it closes, pivots through the space where a blade was, and answers from an angle the opponent has not covered. Walls, rafters, and air carry him as well as the ground; he leaps, rolls, and lands back in the fight without stopping to reset his feet.
+Aurelius fights without weapons. The style is the kinetic, unarmed discipline of [[The Chancellery of Silent Illumination]], adapted by him and built for close range, high speed, and open space. He does not stand and trade blows. He steps inside a guard before it closes, pivots through the space where a blade was, and answers from an angle the opponent has not covered. Walls, rafters, and air carry him as well as the ground; he leaps, rolls, and lands back in the fight without stopping to reset his feet. [3]
 
 His hands and feet do the work, but rarely bare. Every strike lands wrapped in divine force, and the same force hardens ahead of him into panes and plates of light that catch a weapon, break its line, and turn it aside. He blocks on a forearm of light, spins the deflection into a counter, and keeps moving. When he needs reach, the spirits answer: a bound apparition strikes from an angle he cannot take, or holds an enemy in place for the half-second he needs to close.
 
@@ -109,14 +109,14 @@ Nothing in the style is wasted. He spends the least motion that solves the probl
 Underneath it sits absolute emotional detachment. He tracks space, footing, and threat with the same calm he brings to a page of scripture, and gives nothing away. That control has a floor. Pushed to the brink of death, it breaks down into a brutal, desperate survival technique, and he does not look back on that state with pride.
 
 ### Spellcasting
-Aurelius casts holy light magic, **Aureolin White**, through hand seals. The seals are the [[The Star Seals|Star Seals]], twelve base configurations of the hands from which every spell is built. One seal alone casts nothing; it is the order of the sequence that shapes the spell.
+Aurelius casts holy light magic, **Aureolin White**, through hand seals. The seals are the [[The Star Seals|Star Seals]], twelve base configurations of the hands from which every spell is built. One seal alone casts nothing; it is the order of the sequence that shapes the spell. [4]
 
 Casting is a physical act. As his hands move through a sequence, the [[Tattoos of Penance]] on his forearms and shins ignite into Aureolin White, and a surge of heat floods through his body. Directing that heat takes absolute mental focus. If his concentration breaks, the magic recoils inside him and leaves him with severe fatigue and pain.
 
 Every spell and spirit phenomenon he produces manifests as Aureolin White flame: either physical fire that ignites what it touches, or pure spiritual light that cleanses a soul without harming the body around it.
 
 ### Spirit Interaction
-As an Animist, Aurelius bridges the physical realm and the spirit dimension. He fights with both his own divine casting and the spirit magic of the apparitions he has bound, and he casts both through the same hands. His [[Ocular of Kaelen]] lets him see spirits plainly where others see nothing, and everything he has met, bound, or released is recorded in his [[Spirits Ledger]].
+As an Animist, Aurelius bridges the physical realm and the spirit dimension. He fights with both his own divine casting and the spirit magic of the apparitions he has bound, and he casts both through the same hands. His [[Ocular of Kaelen]] lets him see spirits plainly where others see nothing, and everything he has met, bound, or released is recorded in his [[Spirits Ledger]]. [5]
 
 Spirits meet him according to their nature.
 - **Weak spirits** recognize his spiritual authority and submit to his presence without contest.
@@ -173,11 +173,11 @@ The Vigil keeps a shrine to the fallen in the church graveyard garden of Restov,
 
 ## Inspiration & References
 
-| Ref | Source | Inspired |
-| :-- | :-- | :-- |
-| [1] | [Saint's Corpse](https://jojowiki.com/Saint's_Corpse) (*JoJo's Bizarre Adventure*) | The [[Ocular of Kaelen]] ("Eyes of God") |
-| [2] | [Ryomen Sukuna](https://jujutsu-kaisen.fandom.com/wiki/Ryomen_Sukuna) (*Jujutsu Kaisen*) | The [[Tattoos of Penance]] |
-| [3] | [Naruto](https://youtu.be/RzClCJFpSoM?si=vRJE6fSOgOU461Dp) (video) | The choreography of Aurelius's combat style |
-| [4] | [Hand Seal](https://naruto.fandom.com/wiki/Hand_Seal) (*Naruto*) | The [[The Star Seals]] |
-| [5] | [Cursed Spirit](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Spirit) (*Jujutsu Kaisen*) | His bound spirits and apparitions |
+| Ref | Source                                                                                   | Inspired                                    |
+| :-- | :--------------------------------------------------------------------------------------- | :------------------------------------------ |
+| [1] | [Saint's Corpse](https://jojowiki.com/Saint's_Corpse) (*JoJo's Bizarre Adventure*)       | The [[Ocular of Kaelen]] ("Eyes of God")    |
+| [2] | [Ryomen Sukuna](https://jujutsu-kaisen.fandom.com/wiki/Ryomen_Sukuna) (*Jujutsu Kaisen*) | The [[Tattoos of Penance]]                  |
+| [3] | [Naruto](https://youtu.be/RzClCJFpSoM?si=vRJE6fSOgOU461Dp) (video)                       | The choreography of Aurelius's combat style |
+| [4] | [Hand Seal](https://naruto.fandom.com/wiki/Hand_Seal) (*Naruto*)                         | The [[The Star Seals]]                      |
+| [5] | [Cursed Spirit](https://jujutsu-kaisen.fandom.com/wiki/Cursed_Spirit) (*Jujutsu Kaisen*) | His bound spirits and apparitions           |
 
