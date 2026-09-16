@@ -86,14 +86,6 @@ A boar the size of a barn, built out of cooled lava, its hide cracked along seam
 - **Signature wrongness:** The caldera in its belly is both mouth and womb, and its young are stones that hatch into fire.
 - **Origin:** A sow that sheltered in a caldera during an eruption and woke as the mountain's animal.
 
-### The Last Choir, Level 8 (Canticle of Everlasting Grief)
-
-Every soldier who died on one battlefield, fused at the moment of death into a single body the size of a siege tower. It is a mound of faces and open mouths, hundreds of them, and it has no ears. It cannot hear. It sings. It stands where the battle was and sings the last song the dead were singing when they died, and the song does not end. It attacks no one. It mourns, and its mourning falls on the living like weight, and the living weep and cannot stand. It walks with all its legs in step, and it always faces the same direction, toward the enemy line that no longer exists.
-
-- **Body plan:** Colossus.
-- **Signature wrongness:** No eyes, only mouths, all singing to soldiers who are not there.
-- **Origin:** A field that drank too much blood and could not let the last song finish.
-
 ### The Joiner, Level 5 (Impaling Spike)
 
 It was a cabinetmaker. It has too many arms, and each ends in a different tool: a hammer, an awl, a chisel, a clamp. It has no palms. Its face is a plane, smooth and blank, and it sees by touch, so it lays its face against a thing before it knows what the thing is. It cannot bear anything broken. A wounded animal, a limping man, a cracked beam: it fixes them, and it fixes them by pinning the parts together with iron spikes, and it hums a work song the whole time. Its nest is a collapsed workshop, and the things it has mended stand on the shelves arranged by type, still moving, still grateful.
@@ -118,7 +110,9 @@ A masquerade that never ended. It is one creature made of dancers, joined at the
 - **Signature wrongness:** Every mask is the same face, and they are hollow, and the dancers wear each other's hands.
 - **Origin:** A court that danced while its kingdom burned, and kept dancing when the fire reached the hall.
 
-### The Piper Who Was Never Relieved, Level 5 (Invoke Spirits)
+### The Piper Who Was Never Relieved, Level TBD (spell TBD)
+
+*Level left open. He belongs high in the family; the exact level and the spell that matches it are still to be settled.*
 
 It wears the uniform of an army that no longer exists, and it plays. The pipes are bone: three thighbones for the drones, and the drones do not end. They rise into the smoke above it, and the smoke is what comes out of them, so the pipes and the sky are one instrument and the whole field hears it. It has three faces. One blows the chanter, one sings, one screams. All three share the one breath. Every company it has marched off a field gives it another face, always a face that was following it, and the new face always screams.
 
