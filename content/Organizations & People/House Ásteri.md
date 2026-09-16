@@ -7,7 +7,7 @@ alignment: Lawful Good
 status: Active
 ---
 
-[[Asteri Family Crest.png]]
+
 
 
 > "As the stars foretold - Founder Dorotheus Ásteri."
