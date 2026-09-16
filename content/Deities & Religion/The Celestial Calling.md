@@ -55,7 +55,7 @@ Spirits and their ascension are greatly important to this religion.
 - 
 ### Rituals
 - **Rite of Illumination**: The Rite of Illumination  involves a guide summoning or gathering a large collection of spirits to surround a person. This can be done in public or private, but more influential followers often make it a point to do it in public. The spirits that glows or resonates with the person is a spirit that represents a concept in line with that persons calling.
-- ****
+- **Ceremony of First Crucible**: If a calling is determined in a field the follower has no experience in, the first partaking in this calling
 
 ---
 
