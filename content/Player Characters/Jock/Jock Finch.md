@@ -1,7 +1,7 @@
 ---
 tags:
   - character
-  - npc
+  - pc
 aliases:
   - Jovian Lamerri
 ancestry: Human/Aiuvarin
