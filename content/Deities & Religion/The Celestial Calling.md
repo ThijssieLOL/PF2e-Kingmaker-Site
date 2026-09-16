@@ -54,7 +54,8 @@ Spirits and their ascension are greatly important to this religion.
 - **Offerings**: People often leave offerings on shrines depending on the type of spirit they seek. Gold might be wanted by a trade spirit, but would not entice a dueling spirit who would enjoy a well worn blade as offering, while a medicine spirit would much rather see drugs. 
 - 
 ### Rituals
-- 
+- **Rite of Illumination**: The Rite of Illumination  involves a guide summoning or gathering a large collection of spirits to surround a person. This can be done in public or private, but more influential followers often make it a point to do it in public. The spirits that glows or resonates with the person is a spirit that represents a concept in line with that persons calling.
+- ****
 
 ---
 
