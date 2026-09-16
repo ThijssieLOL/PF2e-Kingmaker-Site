@@ -18,9 +18,9 @@ status: Active
 The Celestial Calling is a religion centered on spirits and finding peoples calling. It is deeply tied with ideas of creation and innovation, and thus is mostly practiced by artists and craftsmen, but there are many other callings not directly involved with creation that lead people to this faith.
 
 ### Quick Facts
-- **Leader:** The Sovereign Muse - A greater spirit who
-- **Headquarters:** Astra Peak Observatory
-- **Alignment:** 
+- **Leader:** The Sovereign Muse - A greater spirit who seeks to help people find their calling
+- **Headquarters:** Astra Peak Observatory - An observatory on one of the highest peaks, where the stars shine clear and true.
+- **Alignment:** Neutral good leaning lawful
 - **Affiliation / Alliances:** 
 
 ## Philosophy & Goals
