@@ -58,15 +58,15 @@ Skip this section if your character has no magic/can't cast spells.
 24. **What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?
     - They've got absolutely no clue where he is and he'd like to keep it that way before his mother tracks and retrieves him by the ear. They do not approve his 'leaving'.
 25. **Is your character part of any organization? If so, is this organization known?
-
+     
 26. **Does your character have many friends? 
-    - He knows a lot of people and can easily make some friends. But 
+    - He knows a lot of people and can easily make some friends. But he doesn't really have any since he's constantly moving and travelling around. 
 27. **Did your character have a mentor? Are they still in contact? What did this mentor teach? 
-
+    - No.
 28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.
 
 29. **Is your character or has your character been in a romantic relationship?
-
+     - He likes to act like a womanizer. In reality he can't get p
 ### Backstory and Upbringing
 30. **Where did your character grow up?
 
