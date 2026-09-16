@@ -38,8 +38,9 @@ Spirits and their ascension are greatly important to this religion.
 ---
 
 ## Structure & Ranks
-### Hierarchy
-- **Hierarchy:** (How the leadership and organization are structured)
+- **Followers**: Followers are people who simply belief in The Celestial Calling. They practice their calling, 
+- **Guides**: Guides are 
+
 
 ---
 
