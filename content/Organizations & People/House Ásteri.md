@@ -28,7 +28,7 @@ The House Ásteri is a noble house known for their oracles, crystal mines and of
 ---
 
 ## Geography, Economy and Demographics
-- **Geography:** (In what city or town does this noble house lie and what terrain surrounds it)
+- **Geography:** The town that House Ásteri care for is called Lowell. It is a rather wel secured town, surrounded by mountains and forests on all sides except one. 
 - **Economy**: (How do the people under this house earn a living.)
 - **Demographics:** (What kinds of species live in and under this noble house)
 
