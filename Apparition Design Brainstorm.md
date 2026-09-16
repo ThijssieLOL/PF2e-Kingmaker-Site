@@ -70,12 +70,15 @@ A blackthorn hedge grown into the shape of an animal, and the animal keeps chang
 - **Behaviour:** Whatever tries to pass, it becomes and lets through.
 - **Origin:** A wall of thorns grown over a killing ground.
 
-### The Reacher, Lurker in Devouring Dark, Level 1 (Grim Tendrils)
+### The Reacher, Lurker in Devouring Dark, Level 2 (Acid Grip)
 
-A man hanging upright in the air at the height a drowned man hangs in water, and the air holds him the way the water would. His clothes are a sailor's, gone soft and green, and they move as if the water were still there. Below the elbow his arms come apart into long black tendrils, dozens of them, each one the width of a finger and the length of a mast, and they drift and curl on a current that is not there. Kelp trails from his ankles and out of his hair. His face is whole. His eyes are open and his mouth is open, and he is looking up.
+A drowned man hangs upright in the air at the height he hung in the water, and the air holds him the way the water did. His clothes are a sailor's, gone soft and green, and they move as if the water were still there. Kelp trails from his ankles and out of his hair. His face is whole, his eyes are open and his mouth is open, and he is looking up. He is the only part of it that is ever seen. Under him the water, or the mud, or the dark between the roots, is darker than it should be, and it does not move the way water moves.
 
-- **Body plan:** Humanoid.
-- **Behaviour:** It reaches up, always, at nothing.
+Nothing that comes for the drowned man sees what answers. A tendril comes up out of the ground, black and wet, the width of a finger and the length of a mast, and it closes on the target and drags it under. The surface closes over both of them. It is a kraken's trick worked small, in water too shallow to hold anything that size, and it works because the dark is the only part of it nobody can look into.
+
+- **Body plan:** Humanoid lure; the creature itself is never seen.
+- **Signature wrongness:** The drowned man is bait, and the thing he is bait for never shows itself.
+- **Behaviour:** It drifts the lure where the dark is deepest, waits below, and takes from underneath. The drowned man reaches up the whole time, at nothing.
 - **Origin:** A sailor who went under in the dark and never stopped reaching.
 
 ### The Reflection, Impostor in Hidden Places, Level 2 (Invisibility)
