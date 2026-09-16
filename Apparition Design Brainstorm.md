@@ -52,6 +52,8 @@ A stag the height of a barn. Its antlers are a grove: real trees, bark and leaf 
 - **Behaviour:** It does not hunt you. It grazes, and you are in the pasture.
 - **Origin:** TBD.
 
+![[Pasted image 20260916155725.png]]
+
 ### The Swallower, Lurker in Devouring Dark, Level 9 (Implosion)
 
 A whale-sized thing, and there is no head. The front of it tapers to a blunt closed seam. Along the whole length of the spine the hide splits and folds back into a mouth, lip after lip, from the shoulders to the tail, and inside the mouth there is nothing to see. It has no eyes anywhere on it. The hide is the grey of deep water and smooth, and it carries a slow wake of whatever it is swimming through: dust, cloud, loose earth. Light bends around the shape of it the way light bends around cold air.
