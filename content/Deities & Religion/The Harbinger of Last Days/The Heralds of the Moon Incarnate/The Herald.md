@@ -10,14 +10,14 @@ status: Alive
 
 ![[TheHerald.png|300]]
 
-> "Hear me and rejoice! you have had the privilege of being saved by the Great Herald. You may think this is suffering. No... it is salvation. The universal scales tip toward balance because of your sacrifice. Smile... for even in death, you have become children of Thanos."_"
+> "Hear me and rejoice! you have had the privilege of being saved by the Great Herald. You may think this is suffering. No... it is salvation. The universal scales tip toward balance because of your sacrifice. Smile... for even in death, you have become [[Heralds of the Moon Incarnate]]" - The Herald
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** 
-- **Ancestry/Species:** 
+- **Full Name:** The Herald?
+- **Ancestry/Species:** Human?
 - **Class/Profession:** 
 - **Affiliation:** 
 - **Role/Rank:** 
