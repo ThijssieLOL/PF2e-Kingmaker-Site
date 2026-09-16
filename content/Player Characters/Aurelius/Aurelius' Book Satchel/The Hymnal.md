@@ -110,8 +110,8 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Manifestation:** A quick flare of Aureolin White on the target's brow, gone before anyone notes it.
 - **Verbal Component:** "O Blazing Sun, light Thou his path, that he stumble not."
 - **Somatic Component:** -
-- **Sensation:**
-- **Residue:**
+- **Sensation:** His usual heat, milder than a combat verse. The target feels a touch of warmth on the brow, matching the flare.
+- **Residue:** nothing
 - **Provenance:**
 
 #### Needle Darts
