@@ -10,7 +10,7 @@ status: Alive
 
 ![[TheHerald.png|300]]
 
-> "A memorable quote."
+> "Hear me and rejoice! you have had the privilege of being saved by the Great Herald. You may think this is suffering. No... it is salvation. The universal scales tip toward balance because of your sacrifice. Smile... for even in death, you have become children of Thanos."_"
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
