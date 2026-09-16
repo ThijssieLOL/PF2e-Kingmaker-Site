@@ -46,11 +46,11 @@ Spirits and their ascension are greatly important to this religion.
 ### Buildings
 - **Shrines**: The majority of worship buildings for The Celestial Calling are small shrines. They are comprised of two kinds: more general shrines used for any matter of spirit calling or more specialized shrines, designed with a specific spirit kind in mind.
 - **Temples**: Temples for The Celestial Calling are rare, and often only found in major cities. They are building, where within their is a single general shrine and a collection of more specialist shrines surrounding it. These depend on the most used shrines in the city, and it is believed that the larger amount of offerings that are left here attract more spirits.
-- **Astra Peak Observatory**: This large monastery is build on a central snowy mountain where the stars are especially clear. It holds both the seat of the Polars, many buildings dedicated to teaching promising guides about spirits and magic, and of course a large temple that serves as an obser
+- **Astra Peak Observatory**: This large monastery is build on a central snowy mountain where the stars are especially clear. It holds both the seat of the Polars, many buildings dedicated to teaching promising guides about spirits and magic, and of course a large temple that serves as an observatory.
 ---
 
 ## Customs and Rituals
-- **[[Character Link]]:** Brief description of their role within the faction.
+- **Offerings**: People often leave offerings on shrines depending on the type of spirit they seek. Gold might be wanted by a tra
 
 ---
 
