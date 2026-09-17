@@ -104,7 +104,7 @@ and offer what you CAN do instead.
 - Write like the existing wiki: in-world, evocative, precise prose; lore that feels lived-in and
   consistent. Match the register of notes like Aurelius.md and The Church of the Eternal Blazing Sun.md.
 - **Humanizer by default:** every note you write or rewrite is passed through the `humanizer` skill
-  (resolved by name; lives at `C:\Users\Thijs\.agents\skills\humanizer\SKILL.md`) before it is
+  (resolved by name; lives at `.agents/skills/humanizer/SKILL.md` in the vault) before it is
   saved. This applies to new notes, edits, and rewrites alike. No AI tells (inflated claims, sales
   language, forced triads, shallow -ing analysis, "not only X but Y", name cycling, vague sources),
   plain active verbs, and never add, drop, or alter a fact, name, number, date, or quote. The em
@@ -252,3 +252,7 @@ summary and its wikilink (§6).
 - The `scripts/` folder (edit guard, hooks) remains gitignored and local-only, so the guard only
   exists on machines that have it locally. You may update `AGENTS.md` or `scripts/` if the user
   asks, but never commit `scripts/` unless the user explicitly says so.
+- The `.agents/` folder holds your skills (`brainstorm`, `vault-cleanup`, `humanizer`,
+  `find-skills`). It is local-only as well, and it is the one path Claudian's settings panel reads.
+  Load a skill by name and follow it; if a skill is missing from that folder, say so rather than
+  improvising what it would have said.
