@@ -182,6 +182,42 @@ A gold chain running between the two shoulder medallions across the chest. It ad
 
 ---
 
+## Reference 3: the asymmetric rayed shoulder
+
+The user likes the left shoulder of the third reference: a large asymmetric ornament of long gold rays fanning outward and down from one shoulder only, with no sun disc at its centre. It is the one piece in the line that breaks symmetry, and that is what makes it feel unique.
+
+- **Placement:** the left shoulder only, so it never reads as a pair of pauldrons.
+- **Form:** long gold rays and blades of different lengths, fanning outward and downward, mounted on a low gold base that follows the shoulder line.
+- **No sun disc.** The rays are the whole ornament. A disc would turn it into a sunburst, and sunbursts already belong to the shoulder medallions.
+- **Assigned to Grade 3,** where it joins the rayed collar and the blindfold as the Zenith's three marks.
+- **Optional at Grade 2,** kept asymmetric as a personal mark of the office or mirrored to both shoulders for the fullest form.
+- **Regalia, not armour.** It stops nothing.
+
+## The gold flame motif
+
+The third reference works large gold flame tongues across both the black robe and the cream mantle, and the user wants that kept. It is the best unifying motif the line has, because fire is the Church's primary element and every grade is already named after a flame.
+
+**The rule:** gold flames are worked on **both** the black and the white cloth at every grade. Gold on black reads as fire in the dark, gold on cream reads as fire in daylight. Neither cloth is left plain.
+
+**The escalation:**
+
+| Grade | Flame work |
+| :---- | :---- |
+| **9** | None. The Spark is plain, and the plainness is the point. |
+| **8** | Gold vine and floral scrollwork on the cream stole (canon). No flames yet. |
+| **7** | The first flame tongues, small and few, at the cuffs and the hem of the shoulder capelet. |
+| **6** | Flames rise along the stole, replacing the vine, and along the hem of the mantle. |
+| **5** | Flames climb the front edges of the mantle and the stole panel, and the skirt of the black robe is worked with them. |
+| **4** | Flames fill the lower half of the mantle, rising from the hem, and run along the black under-robe. |
+| **3** | Flames cover the mantle from hem to shoulder, and the black robe is worked to match. |
+| **2** | Flames over both garments edge to edge, with the nine-flame device at the chest. |
+
+**Where the flames point:** always upward, from the hem toward the shoulders, so the figure reads as a flame itself. At the top grades the whole garment is a fire climbing the body.
+
+**Why this is the leading candidate for the signature element:** it appears at every grade from 7 up, it grows in a straight line, it belongs to both colours, and it comes straight from the reference the user liked.
+
+---
+
 ## Grade 7 — Blaze
 
 **Direction:** the robe stops being a uniform and starts being an office. The first thing the line adds is at the shoulders.
@@ -414,18 +450,58 @@ One element that appears at Grade 9 and climbs all the way to 2, so the line rea
 
 1. Does the robe give way to a coat over trousers at the top of the line, or does every grade stay a robe?
 2. Do the gold shoulder plates appear, and from which grade?
-3. Which elements of the reference image are keepers, and which are dropped?
+3. Which elements of the reference images are keepers, and which are dropped?
 4. Do the white hanging panels arrive at Grade 5 as two panels, or as one flat tabard?
 5. Does the gold chest chain appear, and at which grade?
 6. Does the emblem go dark or vanish if the goddess withdraws her blessing, and what does that look like?
-2. Do the unfaithful see the emblem, or does it read as plain metal to anyone outside the faith?
-3. Is the Grade 2 vestment one-of-a-kind or a fixed design?
-4. Which signature element carries the whole line?
-5. Who makes the vestments, and are they made new or inherited?
-6. Does the document end as a ceiling or leave a hook toward Grade 1?
-7. Do the top grades get a ceremonial set and a field set, or one rule for all?
-8. How long is each grade's entry?
-9. Which grade options above are keepers, and which go in the rejected pile?
+7. Do the unfaithful see the emblem, or does it read as plain metal to anyone outside the faith?
+8. Is the Grade 2 vestment one-of-a-kind or a fixed design?
+9. Is the gold flame the signature element, or does something else carry the line?
+10. Who makes the vestments, and are they made new or inherited?
+11. Does the document end as a ceiling or leave a hook toward Grade 1?
+12. Do the top grades get a ceremonial set and a field set, or one rule for all?
+13. How long is each grade's entry?
+14. Which grade options above are keepers, and which go in the rejected pile?
+
+---
+
+## Design prompts by rank
+
+Art prompts for generating the line, built from everything settled above. Where a choice is still open, the prompt takes the recommended build, so swap any line that does not match what you want. The blindfold prompt uses the black band with gold rays.
+
+**Shared rules, in every prompt:** black, cream white, and gold only. Gold flames worked on both the black and the white cloth. No armour, no hood, no mitre, no train, no weapon, no cross or fleur-de-lis symbols. Sun, ray, and flame motifs only. Standing straight with arms relaxed at the sides, plain pale background, full body, painterly high-detail fantasy concept art.
+
+### Grade 9 — Spark
+
+Full-body fantasy character design of a young clergy initiate, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a plain matte black robe falling to the ankle, closed down the front on a covered placket, with a high collar carrying a single thin band of gold at the top edge, and full gathered sleeves tied below the elbow with black ribbon, leaving the forearm bare above black gloves. A cream cord is knotted at the waist and falls down the front through two further knots to frayed tassels. Black polished shoes. No embroidery, no jewellery, no flame work. Austere and humble. Colours: matte black, cream, one thin line of gold.
+
+### Grade 8 — Cinder
+
+Full-body fantasy character design of a standard clergyman, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a black robe falling to the ankle, fastened down the front with a row of gold knotted buttons and a high collar trimmed in gold, the full gathered sleeves tied below the elbow so a white cuff shows at each wrist. A cream stole crosses both shoulders and hangs the full length of the robe, its bands worked in gold vine and floral scrollwork and finished with gold fringe. A brown leather belt with a round brass buckle stamped with a sun. Black gloves, black shoes. Colours: black, cream, gold.
+
+### Grade 7 — Blaze
+
+Full-body fantasy character design of a parish priest, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a black ankle-length robe with gold knotted buttons and a gold-trimmed high collar, and a cream stole crossing both shoulders worked in gold vine with a few small gold flame tongues. Over it, a short black shoulder capelet that rests on the shoulders and stops at the upper arm, its hem edged in gold and lined in cream so the lining flashes when he moves, with small gold flames rising from the hem. A cream band runs down the front placket, gold-worked at the edges, and the sleeve ties are gold cord. A thin plain gold band at the brow. Brown leather belt with a brass sun buckle. Colours: black, cream, gold.
+
+### Grade 6 — Ignis
+
+Full-body fantasy character design of a bishop, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a black ankle-length robe under a black elbow-length mantle lined in cream and edged in gold, with gold flame tongues rising along its hem. Behind his neck rises a stiff fan-shaped collar, black outside and white inside, with fine gold rays stitched on the inner face. A cream stole has widened into a full band crossing both shoulders and falling to the knee, worked in rising gold flames instead of vine. A gold chain crosses his chest. A gold band sits at his brow with a single ray rising at the front. Colours: black, cream, gold.
+
+### Grade 5 — Pyre
+
+Full-body fantasy character design of an archbishop, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a broad cape resting on the shoulders, black outside and cream inside, edged in gold at the hem and front edges, falling open at the front so the arms stay free, hem above the ankle, with gold flame tongues climbing the front edges. Two plain gold discs sit on the shoulders where the cape rests, joined by a plain gold chain across the chest. Beneath, a black ankle-length robe worked with gold flames along the skirt, and a broad cream stole panel embroidered with a sunburst and rising gold flames, finished with gold fringe. Brown leather belt with a large circular gold sun buckle. A gold circlet of nine small flame points at the brow. Colours: black, cream, gold.
+
+### Grade 4 — Vesta
+
+Full-body fantasy character design of a senior inquisitor-administrator, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. His broad shoulder mantle is white outside with a black lining and gold edges, its lower half filled with gold flame tongues rising from the hem, with a small rayed gold sun disc on each front edge. The two shoulder discs are rayed gold, joined by a gold chain carrying small sun discs. Beneath, a black ankle-length robe worked with gold flames, gold ray and star embroidery at the ankles, and a gold bracer on one forearm. A taller gold circlet with a small sun disc at the front. Colours: black, cream, gold.
+
+### Grade 3 — Zenith
+
+Full-body fantasy character design of a legendary high cleric, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a black high-collared robe and black under-robe, over which a white mantle rests on the shoulders, white outside with a black lining, covered from hem to shoulder in rising gold flame tongues. On his left shoulder only, a large asymmetric ornament of long gold rays and blades fans outward and downward, with no sun disc at its centre. On his right shoulder sits a gold sunburst disc wider than the shoulder. Between the two shoulders rises a stiff gold-rayed back collar, its rays fanning wider than his body. His eyes are covered by a wide black blindfold banded with gold rays radiating from the centre, and a rayed gold circlet sits above it. A gold rayed band crosses his chest. Sunstone accents at the collar and cuffs. Colours: black, white, gold.
+
+### Grade 2 — Solstice
+
+Full-body fantasy character design of the supreme leader of a sun church, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears the widest mantle in the order: white outside with a black lining, edged in gold with the hem cut into ray points, so broad that it reads as a solar disc when spread, resting on the shoulders with the arms free and the hem above the ankle. Gold flame tongues cover it edge to edge, rising from the hem. Two large gold sunbursts sit on the shoulders with sunstone at their centres. Beneath, a white ankle-length robe with a black under-robe showing only at the hem, collar, and cuffs, gold at every edge, a sunstone at the chest, and a nine-flame device. His head is bare. Behind him floats a hollow gold sun emblem: an open arc of gold roughly three-quarters of a circle with a tapered point curling off one end, and nine detached flame-shaped rays radiating from it, with nothing at the centre. Colours: black, white, gold.
 
 ---
 
