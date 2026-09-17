@@ -1,9 +1,9 @@
 ---
 tags:
   - session
-session_num: 
-date: 
-in_game_date: 
+session_num: "1"
+date: 27/09/26
+in_game_date:
 ---
 
 > "The funniest / most notable quote of the session."
@@ -12,8 +12,8 @@ in_game_date:
 A brief 1-2 sentence summary of the key events of the session.
 
 ### Quick Facts
-- **Session Number:** 
-- **Date Played:** 
+- **Session Number:** 1
+- **Date Played:** 27/09/26
 - **In-Game Date:** 
 - **Location:** 
 
