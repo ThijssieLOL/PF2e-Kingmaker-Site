@@ -13,7 +13,7 @@
 	Elvish (Aiuvarin)
 	Sylvan (geleerd door adoptie mama)
 	Darrowain (adopted by giants)
-	Hallit (born into barbarian clan, raised till 8yo)
+	Hallid (born into barbarian clan, raised till 8yo)
 
 ### Visual Design and Aesthetics
 5. **What kind of build does your character have? Are they athletic, fat, tall, hairy or broad-shouldered?**

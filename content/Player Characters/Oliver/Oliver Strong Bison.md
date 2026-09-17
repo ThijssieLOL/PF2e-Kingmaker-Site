@@ -2,7 +2,8 @@
 tags:
   - character
   - pc
-  - Jotnar5
+  - JotnarFive
+  - Kellid
 ancestry: Aiuvarin
 class: Commander
 faction: "[[Jotnar Five]]"
@@ -15,7 +16,7 @@ aliases:
 ---
 
 
-![[Character Image.jpg|300]]
+![[Oliverheroforgetorso.png|300]]
 
 > "A memorable quote." - Oliver Strong Bison
 
@@ -23,7 +24,7 @@ aliases:
 **Oliver** is the adopted son of the [[Jotnar Five|Jotnar Four]], raised by four giants who each taught him a different way to understand the world. Though shaped by hardship and trained as a formidable warrior, Oliver's greatest strength lies in the balance between Zagaakwaa's wisdom, Bapakine's discipline, Daga's joy, and Niigani's compassion.
 ### Quick Facts
 - **Full Name:** Oliver Strong Bison / Sa’be Beshwaji’ // *Close friend of the giants*
-- **Ancestry/Species:** Aiuvarin
+- **Ancestry/Species:** Human (Kellid) /  Aiuvarin
 - **Class/Profession:** Commander
 - **Affiliation:** [[Jotnar Five]]
 - **Role/Rank:** General

@@ -2,7 +2,7 @@
 tags:
   - character
   - npc
-  - Jotnar5
+  - JotnarFive
 ancestry: Jotun
 class: Bardbarian
 faction: "[[Jotnar Five]]"
