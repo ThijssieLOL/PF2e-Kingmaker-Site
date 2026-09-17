@@ -72,7 +72,8 @@ of truth for "this file may be edited by the agent". Currently that means:
 
 ### 3.4 Everything else is OFF-LIMITS. Never touch, even if asked:
 - Other players' characters: `content/Player Characters/Selion/`, `content/Player Characters/Zephan/`
-- `content/Deities & Religion/The Eternal Blazing Sun/Star Saints/` and any other unmarked lore
+- `content/Deities & Religion/The Church of the Eternal Blazing Sun/Star Saints/` — none of those
+  notes carry the marker — and any other unmarked lore anywhere in the vault
 - **Any note without the marker** — the marker is the rule, not the folder it sits in
 - Wiki pages such as `Languages.md`, `Setup Guide.md`, `Obsidian tutorial.md`
 - Quartz code/config: `quartz/`, `docs/`, `package.json`, `*.yaml`, `.github/`, `.obsidian/`,
@@ -124,7 +125,9 @@ and offer what you CAN do instead.
   spells, tiers, rosters). Keep each section to what its heading promises, and leave a blank line
   around every heading, table, and list. Pages written without a template get the same treatment:
   `## Overview` and `### Quick Facts` first, then the body in grouped sections, and `## House
-  Notes` last where the page carries meta notes.
+  Notes` last where the page carries meta notes. A page you create is never a braindump: someone
+  opening it for the first time should see the structure at a glance and read it top to bottom
+  without hunting for the point.
 - **Headings name their topic.** A heading is an index label the reader scans, so keep it a plain
   noun phrase that says what the section holds: `Appearance`, `The Star Seals`, `Concealment &
   Bearer Awareness`, `Funding & Resource Allocation`. Never write one as a question or a sentence
@@ -135,12 +138,6 @@ and offer what you CAN do instead.
   summary a page leaves behind when a section moves to a subnote are each one short phrase or one
   plain sentence. A Quick Facts line that runs into a second sentence or a trailing clause has
   grown too long: cut it back to the fact, and put the rest in the body of the section that owns it.
-- **A new note is never a braindump.** Every page you create must be organized, easy to read, and
-  clean to look at. Match the shape of the notes around it: a clear title, `## Overview` with
-  `### Quick Facts`, grouped `##` sections whose headings say what is inside, `###` subsections
-  for the pieces within a group, tables where the material compares, and a blank line around every
-  heading, table, and list. Someone opening the page for the first time should see the structure
-  at a glance and read it top to bottom without hunting for the point.
 - **Keep a page lean, and split it when it fills up.** A page should stay short enough to scan in
   one sitting. When a section outgrows the page's subject, give it a note of its own in the parent
   page's folder (the pattern already used by `Spirits/Apparitions/`), leave a short summary and a
