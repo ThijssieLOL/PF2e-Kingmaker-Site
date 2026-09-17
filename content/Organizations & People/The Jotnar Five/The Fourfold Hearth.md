@@ -20,8 +20,8 @@ The Fourfold Hearth is a large secluded lodge hidden deep within the wilderness 
 ### Quick Facts
 - **Terrain Type:** 
 - **Region:** 
-- **Controlled By:** 
-- **Status:** 
+- **Controlled By:** [[Niigani Wewidun]]
+- **Status:** Permanent
 
 ## Description
 - **Environment:** (What the area looks like, climate, and notable geographical features)
@@ -29,14 +29,12 @@ The Fourfold Hearth is a large secluded lodge hidden deep within the wilderness 
 ---
 
 ## Points of Interest
-- **Landmarks:** (Key structures, ruins, or specific sites within the location)
+- The Fourfold Hearth
 
 ---
 
 ## Encounters & Hazards
-- **Threats:** (Creatures, traps, or hazards present here)
+- **Threats:** [[Bapakine Iwe Ishkode|Bapakine]]'s cooking
 
 ---
 
-## Quests & Secrets
-- **Associated Quests:** (Quests, rumors, or hidden features tied to this area)
