@@ -93,16 +93,16 @@ One dominant signal per grade, each strictly stronger than the one below. A grad
 | **8** | Cinder | Standard clergy, field agent | Bare | Black robe, gold buttons, cream stole, sun-buckled belt |
 | **7** | Blaze | Parish priest | Gold band | The robe gains shoulders |
 | **6** | Ignis | Bishop over a diocese | Band with one ray | Authority reads from behind |
-| **5** | Pyre | Archbishop | Nine-point circlet | A body panel and a sun at the chest |
+| **5** | Pyre | Archbishop | Nine-point circlet | The broad shoulder mantle, and the first metal |
 | **4** | Vesta | Senior administrator, inquisitor | Circlet with sun-disc | White turns outward |
 | **3** | Zenith | Legendary figure | Blindfold under a rayed circlet | Architecture at the shoulders, and the blindfold |
 | **2** | Solstice | Supreme leader | Bare, the emblem is the crown | White and gold over a black core |
 
 ---
 
-## Reference image: borrowed elements
+## Reference 1: the coat and shoulder plates
 
-A reference the user supplied, described here so the parts can be picked up grade by grade. The figure wears a black high-collared gambeson and black trousers under gold shoulder plates, with white stole-panels hanging from the shoulders to the hip, a gold chain across the chest, an ornate belt plate, a gold forearm bracer, and rayed gold embroidery at the ankle. He carries a gold cross-headed staff.
+The first reference the user supplied, described here so the parts can be picked up grade by grade. The figure wears a black high-collared gambeson and black trousers under gold shoulder plates, with white stole-panels hanging from the shoulders to the hip, a gold chain across the chest, an ornate belt plate, a gold forearm bracer, and rayed gold embroidery at the ankle. He carries a gold cross-headed staff.
 
 **What makes it work for this line:** the base is black, the mass is white, and the gold is all trim and worked metal. It is palette A already. And the silhouette is a coat, not a robe, which is the single biggest fix to the generic-priest read.
 
@@ -124,6 +124,61 @@ A reference the user supplied, described here so the parts can be picked up grad
 
 - **The motifs get swapped.** The reference uses crosses and fleur-de-lis. This Church uses the sun, its rays, flames, and vine scroll. Any ornament borrowed from the image is reworked as a solar device.
 - **The shoulder plates are regalia, not armour.** Canon holds that the vestments carry no armour, so any shoulder piece in this line is ceremonial and stops nothing. If a Grade 5 cleric wants protection, he wears armour as a separate kit, the same as everyone else.
+
+---
+
+## Reference 2: the broad shoulder mantle
+
+The second reference the user supplied, and the element to develop further: a **very broad cape that rests on the shoulders** instead of hanging from a clasp at the throat. It sits on the shoulder line and sweeps wide, black outside and cream inside, gold-edged along the hem and the front edges.
+
+The rest of the figure: a black high-collared robe with gold buttons down the front, a broad cream stole embroidered with a sunburst and finished with gold fringe, a gold chain crossing the chest between two large gold sun medallions set on the shoulders, a smaller sun medallion on each front edge of the cape, a brown leather belt with a large circular gold sun buckle, black gloves, gold cuff trim, and black shoes with gold.
+
+**Why the mantle works:** it answers the cape problem. It has a shape, it has no hood, it has no throat clasp, and it occupies space. It reads as a yoke of light rather than a cloak, and it never trails.
+
+### The mantle rules
+
+- **It rests on the shoulders.** No clasp at the throat and no chain holding it shut at the neck. The weight sits on the shoulder line, anchored at the shoulder medallions. Nothing wraps the neck, which keeps the head clear for the collar, the circlet, and the blindfold.
+- **It is broader than the wearer.** The mantle extends past the shoulder point and falls in a wide sweep, so the figure occupies more space than a robe allows.
+- **Black outside, cream inside.** Movement flashes the light interior. This is palette A in motion.
+- **Gold at the hem and the front edges only.** The cloth carries no all-over gold.
+- **The front stays open.** The arms are free and the mantle cannot be closed across the chest, so it never restricts the hands.
+- **Hem above the ankle.** It flares, it does not trail.
+- **The colours flip at Grade 4.** The mantle is black outside and cream inside at Grade 5. From Grade 4 it inverts to white outside with a black lining, which carries that grade's inversion signal on the shoulders where it reads best.
+
+### Shoulder sun medallions
+
+The anchor points, and the strongest single detail in the reference. Two large gold sun discs sit on the shoulders where the mantle rests, and a smaller disc is set on each front edge of the cape.
+
+- **Grade 5:** plain gold discs, unrayed, on the shoulders only.
+- **Grade 4:** rayed discs, with the smaller discs appearing on the cape edges.
+- **Grade 3:** full sunbursts, wider than the shoulder, with the rayed collar rising between them.
+- **Grade 2:** the same sunbursts with sunstone at their centres, the only sunstone in the line.
+
+They are regalia, not armour. They stop nothing.
+
+### The chest chain
+
+A gold chain running between the two shoulder medallions across the chest. It adds gold presence without gold cloth, and it explains how the mantle sits so well: the chain ties the two anchors together.
+
+- **Grade 5:** a plain linked chain.
+- **Grade 4:** the chain carries small sun discs at intervals.
+- **Grade 3:** the chain becomes a rayed band linking the two sunbursts.
+- **Grade 2:** the chain is set with sunstone, or replaced by a band of gold rays.
+
+### Escalation options
+
+- **Widen, do not lengthen.** The mantle keeps the same length at every grade and grows *broader*, so it occupies more space each time. At Grade 2 it is wide enough to read as a solar disc when spread. This avoids a trailing hem entirely and makes breadth the rank signal, which is what stood out in the reference.
+- **Widen and lengthen.** The mantle grows both ways, from a shoulder capelet at Grade 5 to a calf-length sweep at Grade 2, with the hem still above the ankle.
+- **Layer the mantle.** The mantle arrives at Grade 5 as a single layer, and each grade above adds another mantle beneath it, so the shoulder line stacks. The top grade wears several.
+
+### Variations to pick from
+
+- **Panelled mantle.** The mantle is cut into separate panels like sun rays, so movement opens dark gaps between the cream panels.
+- **Rayed hem.** The hem is cut or worked into ray points instead of a straight edge, so the bottom of the mantle is itself a sun.
+- **Detachable.** The mantle is a separate piece worn over the vestment and removed for combat, so the fighting kit stays clean.
+- **Fixed.** The mantle is part of the vestment and never comes off, which makes it a stronger statement.
+
+**Caution:** at Grade 3 the rayed back-collar and the mantle compete for the same space. With the mantle resting on the shoulders, the collar should rise *between* the two shoulder medallions, so the collar and the mantle share the shoulder line instead of fighting over it.
 
 ---
 
@@ -169,15 +224,16 @@ A reference the user supplied, described here so the parts can be picked up grad
 
 **Options to pick from:**
 
-- **White tabard.** A white panel from the chest to the knee, worn over the black robe, gold-bordered, with a gold sun worked at the chest. The clearest "this one outranks the last one" signal in the whole line.
+- **The shoulder-set mantle.** The broad cape from Reference 2 arrives here: black outside, cream inside, gold-edged, resting on the shoulders and anchored at two plain gold sun discs. It is the first metal in the line, and the first piece that makes the figure occupy more space than his own body. Front open, hem above the ankle.
+- **White tabard.** A white panel from the chest to the knee, worn under the mantle over the black robe, gold-bordered, with a gold sun worked at the chest. Pairs with the mantle or replaces it.
 - **Solar breastpiece.** A flat gold-worked plate over the sternum on a white band, rayed outward. Regalia, not armour, and it does not stop a blade.
-- **White-lined mantle.** The mantle turns white at the hem and inner face, so the archbishop's outline is white from any angle.
+- **Cream-lined hem.** The robe's hem turns cream inside, so the lower edge of the archbishop's robe is white from any angle.
 - **Rayed back.** Gold rays spread from the shoulders down the back of the mantle, widening as they fall.
 - **Nine-fold cuff.** Nine small gold flame points worked along each cuff, one per chancellery.
 
 **Headwear:** a circlet of nine small flame points.
 
-**Combat note:** the tabard splits at the hips or buttons to the sides so it cannot trip him.
+**Combat note:** the mantle rests on the shoulders with the front open, so the arms stay free. The tabard splits at the hips or buttons to the sides so it cannot trip him.
 
 ---
 
@@ -187,6 +243,7 @@ A reference the user supplied, described here so the parts can be picked up grad
 
 **Options to pick from:**
 
+- **The mantle inverts.** The shoulder-set mantle turns white outside with a black lining, so the white mass now sits on the shoulders and the black shows only when it moves. This carries the grade's inversion signal on the shoulders, where it reads best.
 - **White mantle, black robe.** The mantle turns white outside over the black robe, gold-edged at every seam. Simple and strong.
 - **Layered panels.** Black robe, white mantle, gold corona at the chest. Three readable layers, the first grade that reads as a *set* rather than a garment.
 - **White over-robe.** A long white over-robe open at the front, gold at every edge, black showing in the opening. The white moves as a single mass.
@@ -205,6 +262,7 @@ A reference the user supplied, described here so the parts can be picked up grad
 
 **Options to pick from:**
 
+- **The mantle and the collar share the shoulder line.** The mantle reaches its widest, the shoulder sunbursts grow past the shoulder point, and the rayed collar rises between them. The three pieces read as one construction rather than three pieces.
 - **Rayed back-collar.** A stiff gold-rayed collar rising behind the shoulders, black outside and white inside, the rays fanning wider than the shoulders. Presence without a cape, and nothing trails.
 - **Corona mantle.** A white mantle with a full gold corona worked across the back, rays radiating from a central disc.
 - **All white, gold seams.** White robe and white mantle over a black under-robe, gold at every edge. The simplest and most radiant read.
@@ -280,7 +338,7 @@ Settled: every Zenith wears one, and it is part of the grade's design. What it l
 
 ### Cape forms
 
-Capes are in, provided they are built like this Church's and not like a generic cloak. Five rules:
+Capes are in, provided they are built like this Church's and not like a generic cloak. The flagship form is **the shoulder-set mantle** from Reference 2: broad, resting on the shoulders, no throat clasp, black outside and cream inside. Five rules:
 
 - **No hood.** The head stays bare for the circlet, the blindfold, or the emblem. A hood is the fastest way back to generic priest.
 - **No round clasp on a chain at the throat.** The cape hangs from the gold collar, the shoulder plates, or the sun buckle, so it reads as part of a built garment rather than a cloak thrown on.
@@ -293,6 +351,7 @@ Capes are in, provided they are built like this Church's and not like a generic 
 - **Gradual.** Capelet at the upper arm (7), mantle to the elbow (6), half-cape to the hip (5), half-cape to the knee (4), full mantle to the calf (3), white mantle at the calf (2).
 - **Late arrival.** Nothing at 7 and 6. The half-cape arrives at 5 and everything above it is a cape grade, which makes the cape itself a rank signal.
 - **Layered.** The cape arrives at 5 and never lengthens. Each grade above adds a layer beneath it instead, so the silhouette deepens rather than grows.
+- **Broadening.** The mantle keeps one length and grows wider at each grade, so breadth becomes the rank signal. This is the variant that matches the reference best and it is spelled out under Reference 2.
 
 **Caution:** at Grade 3 the rayed back-collar and a cape compete for the same space. Either the collar sits over the cape, or the cape is cut away at the shoulders to leave the collar clear.
 
