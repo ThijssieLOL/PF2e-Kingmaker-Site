@@ -64,12 +64,12 @@ Skip this section if your character has no magic/can't cast spells.
 27. **Did your character have a mentor? Are they still in contact? What did this mentor teach?** 
     - No.
 28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.
-    - He has a very big debt that he lent from The Hooded Rats (he didn't know it was the mob, just a measly gang). He is unaware though that this isn't a 'let bygones be bygones' situation and the next time they see him they might genuinely kill him. It might also not help that when he played farkle 
+    - He has a very big debt that he lent from The Hooded Rats (he didn't know it was the mob, just a measly gang). He is unaware though that this isn't a 'let bygones be bygones' situation and the next time they see him they might genuinely kill him. It might also not help that when he played farkle and lost, he didn't pay the winner their money and ran into horizon. 
 29. **Is your character or has your character been in a romantic relationship?**
      - He likes to act like a womanizer. In reality he can't get past a talking stage or he gets all flustered. 
 ### Backstory and Upbringing
 30. **Where did your character grow up?**
-    - Eryndale, the town of his family with his parents Zaleria and Esrin, and pet DAVE, WILLEM, BOB FRANKENSTEIN THE FIRST.
+    - Eryndale, the town of his family with his parents Zaleria and Esrin, and pet DAVE, WILLEM, BOB FRANKENSTEIN THE FIRST .
 31. **Who raised them? If not their parents, why?**
     - His parents, but when his parents were too busy his butlers would take care of him.
 32. **Did your character have any form of education? Did they go to school? Were they home schooled?**
