@@ -57,8 +57,8 @@ Skip this section if your character has no magic/can't cast spells.
     - His family is from the noble house of Larmelli, who are known for knowledge and culture. They harbor ancient books, maps and music. Who founded the house is unknown, only that they've met a tragic fate and are lain to rest somewhere beneath the land of Eryndale.
 24. **What does your family think of your adventuring? Do they support your quest or do they disapprove? Do they even know what you're doing?**
     - They've got absolutely no clue where he is and he'd like to keep it that way before his mother tracks and retrieves him by the ear. They do not approve his 'leaving'.
-25. **Is your character part of any organization? If so, is this organization known? (COME BACK TO THIS QUESTION DUMBASS)**
-     - !
+25. **Is your character part of any organization? If so, is this organization known? 
+     - No, he has been kicked out of all possib
 26. **Does your character have many friends? **
     - He knows a lot of people and can easily make some friends. But he doesn't really have any since he's constantly moving and travelling around. 
 27. **Did your character have a mentor? Are they still in contact? What did this mentor teach?** 
@@ -69,7 +69,7 @@ Skip this section if your character has no magic/can't cast spells.
      - He likes to act like a womanizer. In reality he can't get past a talking stage or he gets all flustered. 
 ### Backstory and Upbringing
 30. **Where did your character grow up?**
-    - Eryndale, the town of his family with his parents Zaleria and Esrin, and pet DAVE, WILLEM, BOB FRANKENSTEIN THE FIRST .
+    - Eryndale, the town of his family with his parents Zaleria and Esrin, and pet DAVE, WILLEM, BOB FRANKENSTEIN THE FIRST (cat with a bowtie).
 31. **Who raised them? If not their parents, why?**
     - His parents, but when his parents were too busy his butlers would take care of him.
 32. **Did your character have any form of education? Did they go to school? Were they home schooled?**
