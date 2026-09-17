@@ -1,7 +1,9 @@
 ---
 tags:
   - character
-  - npc
+  - pc
+aliases:
+  - Jovian Larmelli
 ancestry: Human/Aiuvarin
 class: Bard
 faction:
@@ -16,19 +18,21 @@ status: Alive
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** Jock Finch
+- **Full Name:** Jock Finch (formerely known as Jovian Larmelli)
 - **Ancestry/Species:** Human/Aiuvarin
 - **Class/Profession:** Bard
-- **Affiliation:** 
-- **Role/Rank:** 
+- **Affiliation:** -
+- **Role/Rank:** Missing
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
+     
 
 ---
 
 ## Personality
 - **Demeanor:** (How they act, their general attitude, and core beliefs)
+    
 
 ---
 

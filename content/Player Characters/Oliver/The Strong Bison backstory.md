@@ -175,7 +175,7 @@ This time, he will not be the frightened eight year old boy watching from the sh
 
 So when an opportunity arises to join an expedition into the **Stolen Lands**, [[Oliver Strong Bison|Oliver]] takes it.
 
-Officially, he is travelling there to help establish a new settlement and explore the dangerous wilderness.
+Officially, he is travelling there to explore the dangerous wilderness.
 
 Unofficially, he has another purpose.
 
@@ -189,6 +189,14 @@ The man he was too afraid to kill.
 
 Now, thirty years old and armed with everything the [[Jotnar Five]] have taught him, [[Oliver Strong Bison|Oliver]] finally has a chance to find him.
 
-And perhaps this time, he will be ready.
+For more than two decades, Oliver has carried the memory of that moment. Not simply the grief of losing his family, but the shame of knowing that when it mattered most, he was too afraid to act.
+
+The Herald may not even remember Oliver.
+
+Oliver has never forgotten him.
+
+Everything Oliver has learned about the Heralds since that day has carried the same question with it:
+
+**Why did he let me live?**
 
 ---

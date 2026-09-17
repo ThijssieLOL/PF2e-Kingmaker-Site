@@ -11,7 +11,7 @@
 4. **What [[Languages|languages]] does your character speak and why?**
 	Common (anders kan ik niet met de party praten, also geforceerd had geen keuze)
 	Elvish (Aiuvarin)
-	Ymir (geleerd door adoptie mama)
+	Sylvan (geleerd door adoptie mama)
 	Darrowain (adopted by giants)
 	Hallit (born into barbarian clan, raised till 8yo)
 
