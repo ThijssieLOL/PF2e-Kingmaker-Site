@@ -27,7 +27,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
-    They 
+     
 
 ---
 
