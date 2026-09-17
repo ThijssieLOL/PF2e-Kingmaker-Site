@@ -111,6 +111,10 @@ and offer what you CAN do instead.
   dash survives only in the vault's structured spots: rank labels (`Grade 8 — Cinder`), blockquote
   attributions (`> "..." — Name`), and heading-style list labels (`**[[Name]] — Role:**`,
   `Tier 1 — Parish`). Remove em/en dashes from running prose, and never introduce new ones there.
+  Humanizer governs running prose only; its structure patterns do not apply here. Headings keep the
+  vault's capitalisation, `### Quick Facts` entries and template labels keep their bold labels, and
+  the em-dash spots above stay — this vault's house style wins wherever humanizer points the other
+  way. The full heading rules are in the `vault-cleanup` skill.
 - **Quotes are the user's to write.** Never invent a quote, motto, or creed for a page, and never
   delete a quote line that is already there. When a page has a quote slot and the user has not
   given you the words, leave the placeholder in place: `> "A memorable quote."`. Templates carry
@@ -167,51 +171,28 @@ and offer what you CAN do instead.
 
 ### 7.1 New concepts: braindump → questionnaire → answers
 
-The user opens a new idea with a **braindump**: rough, incomplete notes about a concept such as
-an NPC, location, faction, spell, or spirit. Treat it as a starting point, not a finished brief.
+The user opens a new idea with a **braindump**: rough, incomplete notes about a concept such as an
+NPC, location, faction, spell, or spirit. It is a starting point, not a brief.
 
-When you receive a braindump:
+**Run the `brainstorm` skill (`/brainstorm`) whenever a braindump arrives**, new concept or one
+already written. The skill carries the procedure: read the matching note in `content/Templates/`
+first, reply with a questionnaire written for this concept (grounded questions on what the user
+said, baseline questions on the template fields they did not mention), never invent canon, wait for
+the answers, then write the page and run §7.2. Suggestions only when the user asks for them; a
+barebone stub only when the user asks for one.
 
-1. **Read the matching template first.** Pick the closest note in `content/Templates/` (Character,
-   Faction, Location, Chancellery, God, Noble house, Spirit, Spell, Session Note) and read it to
-   see which fields the finished page expects. If none fits, say so and propose what a new
-   template would need before you write anything.
-2. **Reply with a questionnaire, not a draft.** Write the questions yourself, in your own words.
-   Do not use [[Character building questions]] or any other existing list as a model. Organise the
-   questionnaire into subsections that fit this concept and this braindump, for example a section
-   on a specific relationship the braindump raises ("Relation to [[Vespera]]"), then History,
-   Appearance, Personality, Abilities, Motivations, and so on. The matching template is only a
-   checklist of fields the finished page expects; it is not a question bank. Cover two kinds of
-   ground:
-   - **Grounded questions** on what the user already told you: names, dates, relationships, and
-     mechanics that are still vague.
-   - **Baseline questions** for the concept type, covering the template fields the user did not
-     mention.
-3. **Never invent canon.** Do not fill a gap with a plausible guess or a detail borrowed from
-   another note. Unanswered stays unanswered. Never add, drop, or alter a fact, name, number,
-   date, or quote the user gave you. A quote slot is a gap like any other: leave the placeholder
-   in it and let the user write the words (see §6).
-4. **Wait for the answers.** Only the user's replies authorize new canon. Write the page from
-   those replies, then run the edit steps in §7.2.
-5. **Barebone stubs.** When the user asks for a page on a concept they will work out later, create
-   the skeleton only: frontmatter with `agent-editable: true`, the template headings, and any
-   facts they already gave. Leave unanswered fields empty. Do not pre-fill them, and do not treat
-   the gaps as a licence to guess later.
-
-**Existing concepts follow the same rule.** Extend a note only through the user's answers to a
-questionnaire built the same way. A braindump about something already written produces questions,
-not edits. Flag contradictions with existing canon instead of overwriting it (see §6).
+Only the user's answers authorize new canon, and a braindump about something already written
+produces questions rather than edits (§6).
 
 ### 7.2 Every edit
 
 1. **Read first** — the target note(s) and the notes linked from them. Absorb canon before writing.
 2. **Check for duplicates, cheaply** — before writing anything new, search the vault for the
    concept's key terms (names, nouns, numbers) with a targeted `rg`/grep, not by reading every
-   candidate note. The editable notes are already de-duplicated, so a fact almost always has a
-   home: when it does, do not write it again — link to the note that owns it and keep only the
-   short summary the reader needs (§6). If the section you are extending has outgrown its page,
-   give the material a note of its own in the parent's folder, leave a summary and a wikilink
-   behind, and move the detail to the subnote.
+   candidate note. A fact almost always has a home: when it does, do not write it again — link to
+   the note that owns it and keep only the short summary the reader needs (§6). When a page or a
+   section has outgrown its subject, run the `vault-cleanup` skill (`/cleanup`) rather than
+   improvising a split.
 3. **Plan** — outline your changes. If the scope is ambiguous, ask the user before writing.
 4. **Edit** — minimal, focused changes. Never reformat or "clean up" files beyond your task.
 5. **Self-review** — run every prose change through the `humanizer` skill (see §6) before
@@ -245,9 +226,9 @@ tattoos, the relationships — and update them together. Never stop at the note 
 asked about. A fact that lives in one note but not its neighbours is an unfinished edit. If a note
 it touches is off-limits, flag it instead of editing.
 
-Propagating an answer means correcting what each affected note says about it, not copying the same
-paragraph into each one. The full account stays on the note that owns the fact; every other page
-keeps its short description and its wikilink (see §6).
+Propagating an answer means correcting what each affected note says, not copying the same paragraph
+into each one: the full account stays on the note that owns the fact, every other page keeps its
+summary and its wikilink (§6).
 
 ## 8. Failsafes & reversibility
 
