@@ -104,7 +104,7 @@ Aurelius casts holy light magic, **Aureolin White**, through the [[The Star Seal
 ### Spirit Interaction
 As an Animist, Aurelius bridges the physical realm and the spirit dimension. He fights with both his own divine casting and the spirit magic of the apparitions he has bound, and he casts both through the same hands. His [[Ocular of Kaelen]] lets him see spirits plainly where others see nothing, and everything he has met, bound, or released is recorded in his [[Spirits Ledger]].[4](#ref-4)
 
-Spirits meet him according to their nature, from weak spirits that submit to his authority to evil ones he treats as unnatural parasites, and the [[Spirits Ledger]] sets down how he binds, names, and attunes to each.
+Spirits meet him according to their nature, from weak spirits that submit to his authority to evil ones he treats as unnatural parasites. [[Spirit Sealing]] sets down the rite that binds them, and the [[Spirits Ledger]] records each one.
 
 ---
 

@@ -17,7 +17,7 @@ Most scholars of the spirit world teach that an apparition is a single, fixed en
 
 His **Binding Ledger** is the personal catalogue he keeps of these families and of the individual spirits he has met, bound, released, or only heard rumored. What spirits are, and how their world works, he sets down separately in [[Spirits]]; the [[Spirit Template]] is used to document individual spirits; each family has its own page under `Spirits/Apparitions/`. The ledger rides in his book satchel, always within reach.
 
-## Binding
+## [[Spirit Sealing|Binding]]
 
 ### The Naming
 
@@ -40,7 +40,7 @@ As Aurelius's power deepens, each time he gains a new spell rank, his vessel can
 - **Weak spirits** recognize his spiritual authority and submit to his presence without contest.
 - **Good spirits** work with him as willing partners, in mutual respect.
 - **Neutral spirits** he guides gently toward order and the sun goddess' light, through patient negotiation.
-- **Evil spirits** he treats as unnatural parasites. He binds them in holy chains of pure white-gold light, bends them to serve divine justice, and cleanses them. Managing them demands intense mental focus and takes a physical toll on him.
+- **Evil spirits** he treats as unnatural parasites. He seals them into obedience, bound to obey their binder alone. He pictures that bond as holy chains of white-gold light, an image of the seal rather than a chain that exists. Managing them demands intense mental focus and takes a physical toll on him.
 
 ## The Apparition Families
 
