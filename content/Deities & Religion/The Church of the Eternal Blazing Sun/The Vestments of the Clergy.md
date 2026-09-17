@@ -28,7 +28,9 @@ The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Eac
 *(To be filled in.)*
 
 ### Grade 9 — Spark
-*(To be filled in.)*
+![[Grade 9 Spark Vestment.png|300]]
+
+The Spark vestment is a plain black robe that falls to the ankle. It closes down the front on a covered placket, and its high collar carries a single thin band of gold at the top edge. The sleeves are full and gathered, tied below the elbow with black ribbon whose ends hang loose, leaving the forearm bare above the glove. A cream cord is knotted at the waist, its ends falling down the front through two further knots to frayed tassels. Black gloves and polished black shoes complete the dress.
 
 ### Grade 8 — Cinder
 ![[Grade 8 Cinder Vestment.png|300]]

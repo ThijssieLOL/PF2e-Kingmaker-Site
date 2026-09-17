@@ -133,7 +133,7 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 
 ### [[The Vestments of the Clergy|Clergy Attire]]
 
-Clergy dress by grade for ceremony and by chancellery for duty. Ceremonial vestments are an ankle-length black cassock with a high collar and gold engraving, paired with a long white stole worked in gold floral and solar patterns; in the field, a dark tunic and trousers under a white traveller's poncho-capelet. The vestments carry no armor, so a cleric who expects combat wears armor as a separate kit.
+Clergy dress by grade for ceremony and by chancellery for duty. Ceremonial vestments are an ankle-length black cassock with a high collar and gold engraving; a Grade 8 Cinder adds a long white stole worked in gold floral and solar patterns. In the field, a dark tunic and trousers under a white traveller's poncho-capelet. The vestments carry no armor, so a cleric who expects combat wears armor as a separate kit.
 
 ### [[Tattoos of Penance]]
 
