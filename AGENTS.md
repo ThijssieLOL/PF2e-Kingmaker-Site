@@ -46,13 +46,13 @@ You may **create or modify ONLY** files that fall into one of these categories:
 Any `.md` file whose frontmatter contains `agent-editable: true`. This marker is the single source
 of truth for "this file may be edited by the agent". Currently that means:
 
-- Everything under `content/Player Characters/Aurelius/`
-- Everything under `content/Deities & Religion/The Church of the Eternal Blazing Sun/`, including
-  the chancelleries under `The Chancelleries/`
+- The marked notes under `content/Player Characters/Aurelius/`
+- The marked notes under `content/Deities & Religion/The Church of the Eternal Blazing Sun/`,
+  including the chancelleries under `The Chancelleries/`. `Star Saints/` sits inside that folder
+  and carries no marker, so it stays off-limits (§3.4) — the folder is never the rule.
 - The NPC notes under `content/Organizations & People/Non Player Characters/` **that carry the
-  marker** (Vespera, Lyra, Lucian, Julian, Gideon, Tristan, Valerius). The folder is NOT the rule —
-  the marker is. If a friend adds a new NPC there later, that note will have no marker and is
-  off-limits.
+  marker** (Vespera, Lyra, Lucian, Julian, Gideon, Tristan, Valerius). If a friend adds a new NPC
+  there later, that note will have no marker and is off-limits.
 
 ### 3.2 Shared locations (group-owned)
 - `content/index.md` — group hub page.
