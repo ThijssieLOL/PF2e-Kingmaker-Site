@@ -36,7 +36,7 @@ aliases:
 The failure state is a high-tier cleric who reads as a generic fantasy priest: a mitre, a floor-length cloak, and gold everywhere. This line avoids all three.
 
 - **No mitre anywhere in the line.** Headwear is a circlet, a band, or a sun-disc, never the tall split hat.
-- **No floor-length cape and no train.** Capes stop at the elbow or the hip. Where a piece needs presence, it goes *up and out from the shoulders* instead of *down toward the floor*. That also keeps every grade combat-safe.
+- **Capes and half-capes are welcome, generic ones are not.** A cape is one of the best ways to give a high grade presence, so the line uses them. What is out is the standard fantasy cloak: hooded, floor-length, round-clasped at the throat, and billowing. The rules for a cape that belongs to this Church are under Cape forms below.
 - **Gold is trim, not the whole cloth.** Gold marks edges, rays, and clasps. White carries the mass.
 - **The top of the line reads as regalia, not fabric.** Rigid pieces, inlay, and worked metal appear at Grades 3 and 2 so the highest ranks stop looking like robes with more embroidery.
 
@@ -66,6 +66,32 @@ Someone who has never seen the Church should be able to line six clerics up and 
 | **4** | Vesta | Senior administrator, inquisitor | Circlet with sun-disc | White turns outward |
 | **3** | Zenith | Legendary figure | Blindfold under a rayed circlet | Architecture at the shoulders, and the blindfold |
 | **2** | Solstice | Supreme leader | Bare, the emblem is the crown | White and gold over a black core |
+
+---
+
+## Reference image: borrowed elements
+
+A reference the user supplied, described here so the parts can be picked up grade by grade. The figure wears a black high-collared gambeson and black trousers under gold shoulder plates, with white stole-panels hanging from the shoulders to the hip, a gold chain across the chest, an ornate belt plate, a gold forearm bracer, and rayed gold embroidery at the ankle. He carries a gold cross-headed staff.
+
+**What makes it work for this line:** the base is black, the mass is white, and the gold is all trim and worked metal. It is palette A already. And the silhouette is a coat, not a robe, which is the single biggest fix to the generic-priest read.
+
+| Element in the reference | Where it could land in the line |
+| :---- | :---- |
+| **Black high-collared gambeson or long coat over trousers** instead of a robe | Grade 5 upward. The silhouette shifts from robe to coat, which is martial rather than clerical and matches the Church's commando arm and its existing field kit of tunic and trousers under a white capelet. |
+| **Rigid gold standing collar** framing the head | Grade 6. This is the fan collar, made metal rather than cloth. |
+| **Gold shoulder plates** | Grade 5 or 4. The strongest "this one is powerful" signal available, and it reads at a distance. |
+| **White stole-panels hanging from the shoulders to the hip**, gold-trimmed and tasselled | Grade 5. The white tabard becomes two hanging panels instead of one flat panel. At Grade 4 the panels widen into the mantle. |
+| **Gold chain draped across the chest** | Grade 6 or 5. Adds gold presence without adding gold cloth. |
+| **Ornate belt plate with a large buckle** | Grade 5. The Grade 8 sun buckle grows into a full belt plate. |
+| **Gold ray and star embroidery at the ankle** | Grade 4 upward. A low detail that grows upward as the grades climb. |
+| **Gold forearm bracer** | Grade 4. Regalia at the forearm. |
+| **White at the throat over black** | Grade 2. An inversion worth keeping: white at the throat, black core at collar and cuffs. |
+| **The hand-held staff** | Excluded. Hand-held items are not part of the outfit. |
+
+**Two rules apply to anything borrowed from it:**
+
+- **The motifs get swapped.** The reference uses crosses and fleur-de-lis. This Church uses the sun, its rays, flames, and vine scroll. Any ornament borrowed from the image is reworked as a solar device.
+- **The shoulder plates are regalia, not armour.** Canon holds that the vestments carry no armour, so any shoulder piece in this line is ceremonial and stops nothing. If a Grade 5 cleric wants protection, he wears armour as a separate kit, the same as everyone else.
 
 ---
 
@@ -277,7 +303,12 @@ One element that appears at Grade 9 and climbs all the way to 2, so the line rea
 
 ### Everything else
 
-1. Does the emblem go dark or vanish if the goddess withdraws her blessing, and what does that look like?
+1. Does the robe give way to a coat over trousers at the top of the line, or does every grade stay a robe?
+2. Do the gold shoulder plates appear, and from which grade?
+3. Which elements of the reference image are keepers, and which are dropped?
+4. Do the white hanging panels arrive at Grade 5 as two panels, or as one flat tabard?
+5. Does the gold chest chain appear, and at which grade?
+6. Does the emblem go dark or vanish if the goddess withdraws her blessing, and what does that look like?
 2. Do the unfaithful see the emblem, or does it read as plain metal to anyone outside the faith?
 3. Is the Grade 2 vestment one-of-a-kind or a fixed design?
 4. Which signature element carries the whole line?
