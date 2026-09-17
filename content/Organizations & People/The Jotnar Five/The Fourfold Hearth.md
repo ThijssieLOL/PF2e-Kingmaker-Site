@@ -15,7 +15,7 @@ explored: false
 > "A brief atmospheric description or quote."
 
 ## Overview
-A brief 1-2 sentence summary of the location and its significance.
+The Fourfold Hearth is a large secluded lodge hidden deep within the wilderness of [[Niigani Wewidun|Niigani]]'s demiplane. The building & the plane itself reflects the personalities of its inhabitants
 
 ### Quick Facts
 - **Terrain Type:** 
