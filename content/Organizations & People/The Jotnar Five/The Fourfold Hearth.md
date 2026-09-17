@@ -30,7 +30,7 @@ The Fourfold Hearth is a circular demi plane with four distinct biomes that meet
 
 ## Points of Interest
 The Lodge:
-The lodge is a giant building build to house giants of different vir
+The lodge is a giant building build to house giants of different varieties and a human. It has four giant halls made to fit each giant and their personal
 
 ---
 
