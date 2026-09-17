@@ -10,7 +10,7 @@ cleared: false
 explored: false
 ---
 
-![[Location Map.jpg|300]]
+![[floating island.png|300]]
 
 > "A brief atmospheric description or quote."
 
