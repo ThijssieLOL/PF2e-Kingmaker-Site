@@ -64,7 +64,7 @@ Skip this section if your character has no magic/can't cast spells.
 27. **Did your character have a mentor? Are they still in contact? What did this mentor teach?** 
     - No.
 28. **Does your character have any enemies? If so, what happened to make them enemies? Is it a two-sided thing or is one party unaware they are enemies? This doesn't have to be an individual person, it could also be a group of people or an organization.
-    - The 
+    - He has a very big debt that he lent from The Hooded Rats. He is unaware though that this isn't a 'let bygones be bygones' situation and the next time they see him they will genuinly kill him. 
 29. **Is your character or has your character been in a romantic relationship?**
      - He likes to act like a womanizer. In reality he can't get past a talking stage or he gets all flustered. 
 ### Backstory and Upbringing
