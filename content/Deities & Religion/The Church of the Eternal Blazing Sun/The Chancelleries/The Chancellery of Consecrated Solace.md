@@ -18,11 +18,8 @@ The Chancellery of Consecrated Solace tends the bodies and the final rites of th
 
 ## Mandate & Responsibilities
 
-### Health & Relief
-Operates hospitals, sanatoriums, and emergency disaster relief networks, and manages public sanitation.
-
-### Sacred Cremation
-Enforces the mandatory cremation rites of holy fire across all parishes, so that no corpse can be desecrated or raised.
+- **Health & Relief:** Operates hospitals, sanatoriums, and emergency disaster relief networks, and manages public sanitation.
+- **Sacred Cremation:** Enforces the mandatory cremation rites of holy fire across all parishes, so that no corpse can be desecrated or raised.
 
 ---
 

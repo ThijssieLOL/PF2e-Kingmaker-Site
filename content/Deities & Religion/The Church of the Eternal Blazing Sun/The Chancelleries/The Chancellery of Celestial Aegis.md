@@ -18,11 +18,8 @@ The Chancellery of Celestial Aegis is the shield of [[The Church of the Eternal 
 
 ## Mandate & Responsibilities
 
-### The Standing Forces
-Commands the Church's armed forces: temple guardians, heavily armored paladin orders, and military fleets.
-
-### Holy War
-Wages large-scale warfare against undead incursions and demonic threats.
+- **The Standing Forces:** Commands the Church's armed forces: temple guardians, heavily armored paladin orders, and military fleets.
+- **Holy War:** Wages large-scale warfare against undead incursions and demonic threats.
 
 ---
 

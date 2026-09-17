@@ -23,22 +23,18 @@ Spirits are the beings that live in the spirit realm, the plane that lies alongs
 ## Nature of Spirits
 Strictly speaking, a spirit is a thing that lives in the spirit realm. It is not alive, and it does not die: it can be sealed, dispersed, scattered, or re-formed, and none of that destroys the being itself.
 
-### Kinds of Spirits
 The word covers a wide range: concept spirits, undead spirits, fear spirits, and every other kind that makes its home in the spirit realm. Spirit-sight reaches past them. The [[Ocular of Kaelen]] also sees unreleased souls and ethereal entities, and it shows the parasitic spirits that cling to corrupt, evil people.
 
 ## The Spirit Realm
 The spirit realm is a single plane, parallel to the material world and always beside it. Like the material realm, it divides into regions, each with its own character and its own inhabitants. A living mortal can enter it.
 
-### Life in the Realm
 On its own side of the divide, a spirit is a real creature with a life of its own. It hunts and hoards, and it keeps its own ground.
 
-### Crossing Between
 A spirit's hold on the material world follows its strength. A strong spirit can reach across and act in the material world, but travel between the two realms takes a spirit of high Rank. The weak ones cannot make the crossing, so they stay in their own country.
 
 ## Perception
 A spirit is invisible and intangible to the living unless the observer has a way to see into the spirit realm. To every other eye the spirit is not there: no shadow and no sound betray it. Speech is no different, and a spirit's [[The Hymnal|verse]] is spoken in the spirit realm without carrying to mortal ears.
 
-### Spirit-Sight
 In practice, seeing spirits means spirit-sight: the [[Ocular of Kaelen]], or whatever other method opens the same door. The sight is not free. Channeling it strains the bearer's body and mind, and places thick with the newly dead, such as fresh battlefields, overload it. The strain eases as the bearer's spiritual power grows.
 
 ## Rank

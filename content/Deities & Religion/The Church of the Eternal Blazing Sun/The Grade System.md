@@ -13,33 +13,18 @@ The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fir
 
 ## Grade & Level Progression
 
-- **Grade 9: Spark** (Level 1)
-  - **Role:** The entry-level grade for newly initiated clergy, serving as novitiates, acolytes, and junior initiates across local parishes.
-- **Grade 8: Cinder** (Levels 1–4)
-  - **Role:** Standard clergymen, scribes, and active field agents (such as [[Aurelius]]).
-  - **Chancellery Requirement:** Active assignment to **1 Chancellery**.
-- **Grade 7: Blaze** (Levels 5–7)
-  - **Role:** Priests responsible for managing their own local churches and parish operations.
-  - **Chancellery Requirement:** Active service and operational experience across **2 Chancelleries**.
-- **Grade 6: Ignis** (Levels 8–10)
-  - **Role:** Bishops overseeing regional dioceses containing multiple churches.
-  - **Chancellery Requirement:** Proven administrative involvement across **2 Chancelleries**.
-- **Grade 5: Pyre** (Levels 11–13)
-  - **Role:** Archbishops managing vast territories, major metropolitan cathedrals, and strategic initiatives.
-  - **Chancellery Requirement:** Leadership experience and oversight across **3 Chancelleries**.
-- **Grade 4: Vesta** (Levels 14–16)
-  - **Role:** High-ranking administrators, senior inquisitors, and regional executive directors.
-  - **Chancellery Requirement:** High administrative authority spanning **3 Chancelleries**.
-- **Grade 3: Zenith** (Levels 17–18)
-  - **Role:** Legendary figures of immense spiritual and political influence within the church hierarchy.
-  - **Chancellery Requirement:** Executive oversight and governance across **4 Chancelleries**.
-- **Grade 2: Solstice** (Levels 19–20)
-  - **Role:** The supreme leader of the church (pope-equivalent), chosen directly by the sun goddess to lead the faith on earth.
-  - **Chancellery Requirement:** Supreme command and complete oversight over **all 9 Chancelleries**.
-- **Grade 1: Star**
-  - **Role:** Ascended mortals and revered saints, minor divine entities in the Church's mythology, each represented by a sacred star or constellation.
-- **Grade 0: The Eternal Blazing Sun**
-  - **Role:** The Goddess herself, the absolute cosmic apex of divinity and divine authority.
+| Grade | Title | Levels | Role | Chancellery Requirement |
+| :---- | :---- | :----- | :--- | :---------------------- |
+| **9** | Spark | 1 | Entry-level clergy, serving as novitiates, acolytes, and junior initiates across local parishes. | |
+| **8** | Cinder | 1–4 | Standard clergymen, scribes, and active field agents (such as [[Aurelius]]). | Active assignment to **1 Chancellery**. |
+| **7** | Blaze | 5–7 | Priests responsible for managing their own local churches and parish operations. | Active service and operational experience across **2 Chancelleries**. |
+| **6** | Ignis | 8–10 | Bishops overseeing regional dioceses containing multiple churches. | Proven administrative involvement across **2 Chancelleries**. |
+| **5** | Pyre | 11–13 | Archbishops managing vast territories, major metropolitan cathedrals, and strategic initiatives. | Leadership experience and oversight across **3 Chancelleries**. |
+| **4** | Vesta | 14–16 | High-ranking administrators, senior inquisitors, and regional executive directors. | High administrative authority spanning **3 Chancelleries**. |
+| **3** | Zenith | 17–18 | Legendary figures of immense spiritual and political influence within the church hierarchy. | Executive oversight and governance across **4 Chancelleries**. |
+| **2** | Solstice | 19–20 | The supreme leader of the church (pope-equivalent), chosen directly by the sun goddess to lead the faith on earth. | Supreme command and complete oversight over **all 9 Chancelleries**. |
+| **1** | Star | | Ascended mortals and revered saints, minor divine entities in the Church's mythology, each represented by a sacred star or constellation. | |
+| **0** | The Eternal Blazing Sun | | The Goddess herself, the absolute cosmic apex of divinity and divine authority. | |
 
 ## Ascension Trials
 

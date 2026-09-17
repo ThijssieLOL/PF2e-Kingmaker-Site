@@ -18,11 +18,8 @@ The Chancellery of the Outer Horizon carries [[The Church of the Eternal Blazing
 
 ## Mandate & Responsibilities
 
-### Diplomacy
-Directs treaties and alliances with benevolent sovereign nations.
-
-### Missions Abroad
-Coordinates covert missionary deployments and humanitarian aid into foreign lands where the Church is outlawed or suppressed.
+- **Diplomacy:** Directs treaties and alliances with benevolent sovereign nations.
+- **Missions Abroad:** Coordinates covert missionary deployments and humanitarian aid into foreign lands where the Church is outlawed or suppressed.
 
 ---
 

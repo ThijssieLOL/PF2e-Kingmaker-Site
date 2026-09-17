@@ -18,11 +18,8 @@ The Chancellery of the Purifying Flame is the supreme judicial branch of [[The C
 
 ## Mandate & Responsibilities
 
-### The Courts
-Prosecutes internal clerical corruption, enforces moral standards, and tries ecclesiastical offences.
-
-### The Moral Veto
-Issues and approves the Moral Veto against corrupt secular rulers.
+- **The Courts:** Prosecutes internal clerical corruption, enforces moral standards, and tries ecclesiastical offences.
+- **The Moral Veto:** Issues and approves the Moral Veto against corrupt secular rulers.
 
 ---
 

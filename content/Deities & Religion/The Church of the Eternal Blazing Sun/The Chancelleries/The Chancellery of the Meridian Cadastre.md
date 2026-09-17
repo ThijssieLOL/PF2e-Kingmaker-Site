@@ -18,11 +18,8 @@ The Chancellery of the Meridian Cadastre is the administrative backbone of [[The
 
 ## Mandate & Responsibilities
 
-### Registries & Archives
-Maintains population censuses, civil registries (births, deaths, marriages), land ownership deeds across all archdioceses, and the historical vaults in which every parish's correspondence is eventually filed.
-
-### The [[The Ember Post|Ember Post]]
-Every local church's [[The Ember Post|message hearth]] falls under the Cadastre's authority. The Chancellery issues the consecrated ember ink and appoints each parish's hearth keeper. It sets the protocols by which inbound correspondence is received, sorted, and archived, and maintains the central message registry that lets the Church coordinate across all archdioceses at the speed of flame.
+- **Registries & Archives:** Maintains population censuses, civil registries (births, deaths, marriages), land ownership deeds across all archdioceses, and the historical vaults in which every parish's correspondence is eventually filed.
+- **The Ember Post:** Every local church's [[The Ember Post|message hearth]] falls under the Cadastre's authority. The Chancellery issues the consecrated ember ink and appoints each parish's hearth keeper. It sets the protocols by which inbound correspondence is received, sorted, and archived, and maintains the central message registry that lets the Church coordinate across all archdioceses at the speed of flame.
 
 ---
 

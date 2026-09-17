@@ -18,11 +18,8 @@ The Chancellery of the Shared Hearth is the financial and charitable arm of [[Th
 
 ## Mandate & Responsibilities
 
-### Treasury & Tithing
-Oversees all church coffers and enforces the strict doctrine against hoarding wealth.
-
-### Public Relief
-Funds and manages the Church's social safety networks: state-run soup kitchens, orphanages, public housing, and community aid programs.
+- **Treasury & Tithing:** Oversees all church coffers and enforces the strict doctrine against hoarding wealth.
+- **Public Relief:** Funds and manages the Church's social safety networks: state-run soup kitchens, orphanages, public housing, and community aid programs.
 
 ---
 

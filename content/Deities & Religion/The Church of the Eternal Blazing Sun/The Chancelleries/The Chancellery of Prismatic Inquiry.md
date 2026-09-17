@@ -18,14 +18,9 @@ The Chancellery of Prismatic Inquiry is the scientific and arcane research arm o
 
 ## Mandate & Responsibilities
 
-### Solar-Prism Technology
-Light-capturing crystal arrays, lenses, and the optical research the Church's instruments are built from.
-
-### Alchemy & Medicine
-Alchemical advancement and medical breakthroughs.
-
-### Divine Energy
-The physical properties of divine energy itself.
+- **Solar-Prism Technology:** Light-capturing crystal arrays, lenses, and the optical research the Church's instruments are built from.
+- **Alchemy & Medicine:** Alchemical advancement and medical breakthroughs.
+- **Divine Energy:** The physical properties of divine energy itself.
 
 ---
 
