@@ -1,6 +1,9 @@
 ---
 tags:
   - npc
+  - Darrowfell
+  - Giant
+  - JotnarFive
 ancestry:
 class:
 faction:

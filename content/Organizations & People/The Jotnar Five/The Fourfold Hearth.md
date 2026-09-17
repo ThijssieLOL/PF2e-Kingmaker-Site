@@ -1,7 +1,6 @@
 ---
 tags:
   - location
-  - Jotnar5
   - demiplane
   - Giant
   - Plane
