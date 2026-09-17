@@ -1,4 +1,5 @@
 ---
+agent-editable: true
 tags:
   - character
   - pc
@@ -10,7 +11,7 @@ faction:
 status: Alive
 ---
 
-![[content/Attachments/Jock.png|375]]
+![[Jock.png|375]]
 
 > "A memorable quote."
 
