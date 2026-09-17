@@ -1,6 +1,5 @@
 ---
 tags:
-  - character
   - npc
 ancestry:
 class:
