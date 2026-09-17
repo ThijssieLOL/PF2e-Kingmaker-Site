@@ -8,7 +8,7 @@ class: Champion (Redeemer)
 faction: The Church of the Eternal Blazing Sun
 status: Presumed Deceased
 ---
-![[content/Attachments/Tristan.png|375]]
+![[Tristan.png|375]]
 
 > "A memorable quote."
 
