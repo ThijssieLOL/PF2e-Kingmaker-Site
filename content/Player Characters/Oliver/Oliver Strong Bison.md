@@ -15,7 +15,7 @@ aliases:
 ---
 
 
-![[Character Image.jpg|300]]
+![[Oliverheroforgetorso.png|300]]
 
 > "A memorable quote." - Oliver Strong Bison
 
