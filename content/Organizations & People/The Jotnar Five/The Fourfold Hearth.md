@@ -24,7 +24,7 @@ The Fourfold Hearth is a large secluded lodge hidden deep within the wilderness 
 - **Status:** Permanent
 
 ## Description
-The Fourfold Hearth is a circular demi plane
+The Fourfold Hearth is a circular demi plane with four distinct biomes that meet together in the middle to form the lodge.
 
 ---
 
