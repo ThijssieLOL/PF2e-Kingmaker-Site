@@ -13,7 +13,7 @@ status: Active
 
 ## Overview
 
-The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Each [[The Grade System|grade]] of the Church has its own **primary outfit**; the **secondary outfit** follows the chancellery a cleric belongs to. The vestments carry no armor; a cleric who expects combat wears their own armor as a separate kit.
+The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Each [[The Grade System|grade]] from Spark (9) to Solstice (2) has its own **primary outfit**; the **secondary outfit** follows the chancellery a cleric belongs to. The vestments carry no armor; a cleric who expects combat wears their own armor as a separate kit. Grade 1 and Grade 0 wear no vestment at all.
 
 *(To be filled in.)*
 
@@ -53,12 +53,6 @@ The Cinder vestment is a black robe that falls to the ankle. It fastens down the
 *(To be filled in.)*
 
 ### Grade 2 — Solstice
-*(To be filled in.)*
-
-### Grade 1 — Star
-*(To be filled in.)*
-
-### Grade 0 — The Eternal Blazing Sun
 *(To be filled in.)*
 
 ---
