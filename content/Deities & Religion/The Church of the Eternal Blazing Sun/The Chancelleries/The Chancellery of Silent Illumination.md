@@ -11,22 +11,23 @@ status: Active
 > "A memorable quote."
 
 ## Overview
-The Chancellery of Silent Illumination is the intelligence service and internal security agency of [[The Church of the Eternal Blazing Sun]], and its members are trained for the whole of that work: investigation, counterintelligence, forensics, and the tactical operations that end a case when it turns violent. The Chancellery works quietly behind the faith's public ministry. Its agents monitor internal clerical corruption, gather foreign intelligence, track existential threats, and run field operations where open force is too loud and standard clergy are too vulnerable.
+The Chancellery of Silent Illumination is the intelligence service of [[The Church of the Eternal Blazing Sun]], and it works on both sides of the Church's borders. At home it is the internal security agency, watching the clergy for corruption and betrayal. Abroad it runs the Church's own field missions: agents placed under cover in hostile lands and cases pursued across borders until they close. Its members are trained for the whole of that work, from investigation and counterintelligence to forensics and the tactical operations that end a case when it turns violent. The Chancellery works quietly behind the faith's public ministry, gathering foreign intelligence, tracking existential threats, and running operations where open force is too loud and standard clergy are too vulnerable.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
-- **Primary Function:** Intelligence, Internal Security & Covert Operations
+- **Primary Function:** Intelligence, Espionage & Covert Operations
 - **Operative Force:** Orphan cohorts, including the Twenty-First Vigil
 - **Status:** Active
 
 ## Mandate & Responsibilities
 
-### Internal Oversight & Anti-Corruption
+### Internal Investigation & Anti-Corruption
 - **The Internal Purge:** Agents of Silent Illumination quietly monitor priests, bishops, and secular officials, acting on the Church's zero-tolerance policy for corruption and wealth hoarding.
 - **Ecclesiastical Audits:** Agents may investigate high-ranking clergy suspected of betraying holy tenets, embezzling tithes, or misusing relics.
 
-### Foreign Espionage & Counter-Intelligence
+### Foreign Investigation & Field Operations
 - **Hostile Surveillance:** Operatives are placed in foreign lands (especially regions where the Church is banned or heavily suppressed) to gather intelligence on hostile regimes, cult activity, and necromantic threats.
+- **Field Investigation Abroad:** The investigative method the Chancellery turns on its own clergy is turned on targets beyond the border. Agents work under cover for months or years, trace a network to the people who run it, and build the case before the Chancellery acts.
 - **Counter-Espionage:** The Chancellery neutralizes foreign spies, protects the sacred archives, and keeps solar technology out of enemy hands.
 
 ### Covert Operations
