@@ -7,10 +7,10 @@
 > ever see this file appear in a `git status` diff touching `content/`, that is an error — restore
 > it with `git checkout -- AGENTS.md`. The `scripts/` folder remains local-only and gitignored.
 
-> **READ THIS FILE IN FULL AT THE START OF EVERY CHAT.** The rules here are cumulative: §6 house
-> style and §7 workflow carry the corrections the user has added over time, and every one of them
-> applies from the first message of a new session. Read the whole file before replying, and treat
-> additions you have not seen before as binding.
+> **READ THIS FILE IN FULL BEFORE YOU EDIT.** The rules here are cumulative: §3 ownership, §6 house
+> style, and §7 editing etiquette carry the corrections the user has added over time. Before you
+> create or change a note, read the whole file, and treat additions you have not seen before as
+> binding. A chat that only discusses or plans does not need the full pass.
 
 ## 1. Role
 
@@ -46,13 +46,13 @@ You may **create or modify ONLY** files that fall into one of these categories:
 Any `.md` file whose frontmatter contains `agent-editable: true`. This marker is the single source
 of truth for "this file may be edited by the agent". Currently that means:
 
-- Everything under `content/Player Characters/Aurelius/`
-- Everything under `content/Deities & Religion/The Church of the Eternal Blazing Sun/`, including
-  the chancelleries under `The Chancelleries/`
+- The marked notes under `content/Player Characters/Aurelius/`
+- The marked notes under `content/Deities & Religion/The Church of the Eternal Blazing Sun/`,
+  including the chancelleries under `The Chancelleries/`. `Star Saints/` sits inside that folder
+  and carries no marker, so it stays off-limits (§3.4) — the folder is never the rule.
 - The NPC notes under `content/Organizations & People/Non Player Characters/` **that carry the
-  marker** (Vespera, Lyra, Lucian, Julian, Gideon, Tristan, Valerius). The folder is NOT the rule —
-  the marker is. If a friend adds a new NPC there later, that note will have no marker and is
-  off-limits.
+  marker** (Vespera, Lyra, Lucian, Julian, Gideon, Tristan, Valerius). If a friend adds a new NPC
+  there later, that note will have no marker and is off-limits.
 
 ### 3.2 Shared locations (group-owned)
 - `content/index.md` — group hub page.
@@ -72,7 +72,8 @@ of truth for "this file may be edited by the agent". Currently that means:
 
 ### 3.4 Everything else is OFF-LIMITS. Never touch, even if asked:
 - Other players' characters: `content/Player Characters/Selion/`, `content/Player Characters/Zephan/`
-- `content/Deities & Religion/The Eternal Blazing Sun/Star Saints/` and any other unmarked lore
+- `content/Deities & Religion/The Church of the Eternal Blazing Sun/Star Saints/` — none of those
+  notes carry the marker — and any other unmarked lore anywhere in the vault
 - **Any note without the marker** — the marker is the rule, not the folder it sits in
 - Wiki pages such as `Languages.md`, `Setup Guide.md`, `Obsidian tutorial.md`
 - Quartz code/config: `quartz/`, `docs/`, `package.json`, `*.yaml`, `.github/`, `.obsidian/`,
@@ -103,13 +104,17 @@ and offer what you CAN do instead.
 - Write like the existing wiki: in-world, evocative, precise prose; lore that feels lived-in and
   consistent. Match the register of notes like Aurelius.md and The Church of the Eternal Blazing Sun.md.
 - **Humanizer by default:** every note you write or rewrite is passed through the `humanizer` skill
-  (resolved by name; lives at `C:\Users\Thijs\.agents\skills\humanizer\SKILL.md`) before it is
+  (resolved by name; lives at `.agents/skills/humanizer/SKILL.md` in the vault) before it is
   saved. This applies to new notes, edits, and rewrites alike. No AI tells (inflated claims, sales
   language, forced triads, shallow -ing analysis, "not only X but Y", name cycling, vague sources),
   plain active verbs, and never add, drop, or alter a fact, name, number, date, or quote. The em
   dash survives only in the vault's structured spots: rank labels (`Grade 8 — Cinder`), blockquote
   attributions (`> "..." — Name`), and heading-style list labels (`**[[Name]] — Role:**`,
   `Tier 1 — Parish`). Remove em/en dashes from running prose, and never introduce new ones there.
+  Humanizer governs running prose only; its structure patterns do not apply here. Headings keep the
+  vault's capitalisation, `### Quick Facts` entries and template labels keep their bold labels, and
+  the em-dash spots above stay — this vault's house style wins wherever humanizer points the other
+  way. The full heading rules are in the `vault-cleanup` skill.
 - **Quotes are the user's to write.** Never invent a quote, motto, or creed for a page, and never
   delete a quote line that is already there. When a page has a quote slot and the user has not
   given you the words, leave the placeholder in place: `> "A memorable quote."`. Templates carry
@@ -124,7 +129,9 @@ and offer what you CAN do instead.
   spells, tiers, rosters). Keep each section to what its heading promises, and leave a blank line
   around every heading, table, and list. Pages written without a template get the same treatment:
   `## Overview` and `### Quick Facts` first, then the body in grouped sections, and `## House
-  Notes` last where the page carries meta notes.
+  Notes` last where the page carries meta notes. A page you create is never a braindump: someone
+  opening it for the first time should see the structure at a glance and read it top to bottom
+  without hunting for the point.
 - **Headings name their topic.** A heading is an index label the reader scans, so keep it a plain
   noun phrase that says what the section holds: `Appearance`, `The Star Seals`, `Concealment &
   Bearer Awareness`, `Funding & Resource Allocation`. Never write one as a question or a sentence
@@ -135,12 +142,6 @@ and offer what you CAN do instead.
   summary a page leaves behind when a section moves to a subnote are each one short phrase or one
   plain sentence. A Quick Facts line that runs into a second sentence or a trailing clause has
   grown too long: cut it back to the fact, and put the rest in the body of the section that owns it.
-- **A new note is never a braindump.** Every page you create must be organized, easy to read, and
-  clean to look at. Match the shape of the notes around it: a clear title, `## Overview` with
-  `### Quick Facts`, grouped `##` sections whose headings say what is inside, `###` subsections
-  for the pieces within a group, tables where the material compares, and a blank line around every
-  heading, table, and list. Someone opening the page for the first time should see the structure
-  at a glance and read it top to bottom without hunting for the point.
 - **Keep a page lean, and split it when it fills up.** A page should stay short enough to scan in
   one sitting. When a section outgrows the page's subject, give it a note of its own in the parent
   page's folder (the pattern already used by `Spirits/Apparitions/`), leave a short summary and a
@@ -170,51 +171,28 @@ and offer what you CAN do instead.
 
 ### 7.1 New concepts: braindump → questionnaire → answers
 
-The user opens a new idea with a **braindump**: rough, incomplete notes about a concept such as
-an NPC, location, faction, spell, or spirit. Treat it as a starting point, not a finished brief.
+The user opens a new idea with a **braindump**: rough, incomplete notes about a concept such as an
+NPC, location, faction, spell, or spirit. It is a starting point, not a brief.
 
-When you receive a braindump:
+**Run the `brainstorm` skill (`/brainstorm`) whenever a braindump arrives**, new concept or one
+already written. The skill carries the procedure: read the matching note in `content/Templates/`
+first, reply with a questionnaire written for this concept (grounded questions on what the user
+said, baseline questions on the template fields they did not mention), never invent canon, wait for
+the answers, then write the page and run §7.2. Suggestions only when the user asks for them; a
+barebone stub only when the user asks for one.
 
-1. **Read the matching template first.** Pick the closest note in `content/Templates/` (Character,
-   Faction, Location, Chancellery, God, Noble house, Spirit, Spell, Session Note) and read it to
-   see which fields the finished page expects. If none fits, say so and propose what a new
-   template would need before you write anything.
-2. **Reply with a questionnaire, not a draft.** Write the questions yourself, in your own words.
-   Do not use [[Character building questions]] or any other existing list as a model. Organise the
-   questionnaire into subsections that fit this concept and this braindump, for example a section
-   on a specific relationship the braindump raises ("Relation to [[Vespera]]"), then History,
-   Appearance, Personality, Abilities, Motivations, and so on. The matching template is only a
-   checklist of fields the finished page expects; it is not a question bank. Cover two kinds of
-   ground:
-   - **Grounded questions** on what the user already told you: names, dates, relationships, and
-     mechanics that are still vague.
-   - **Baseline questions** for the concept type, covering the template fields the user did not
-     mention.
-3. **Never invent canon.** Do not fill a gap with a plausible guess or a detail borrowed from
-   another note. Unanswered stays unanswered. Never add, drop, or alter a fact, name, number,
-   date, or quote the user gave you. A quote slot is a gap like any other: leave the placeholder
-   in it and let the user write the words (see §6).
-4. **Wait for the answers.** Only the user's replies authorize new canon. Write the page from
-   those replies, then run the edit steps in §7.2.
-5. **Barebone stubs.** When the user asks for a page on a concept they will work out later, create
-   the skeleton only: frontmatter with `agent-editable: true`, the template headings, and any
-   facts they already gave. Leave unanswered fields empty. Do not pre-fill them, and do not treat
-   the gaps as a licence to guess later.
-
-**Existing concepts follow the same rule.** Extend a note only through the user's answers to a
-questionnaire built the same way. A braindump about something already written produces questions,
-not edits. Flag contradictions with existing canon instead of overwriting it (see §6).
+Only the user's answers authorize new canon, and a braindump about something already written
+produces questions rather than edits (§6).
 
 ### 7.2 Every edit
 
 1. **Read first** — the target note(s) and the notes linked from them. Absorb canon before writing.
 2. **Check for duplicates, cheaply** — before writing anything new, search the vault for the
    concept's key terms (names, nouns, numbers) with a targeted `rg`/grep, not by reading every
-   candidate note. The editable notes are already de-duplicated, so a fact almost always has a
-   home: when it does, do not write it again — link to the note that owns it and keep only the
-   short summary the reader needs (§6). If the section you are extending has outgrown its page,
-   give the material a note of its own in the parent's folder, leave a summary and a wikilink
-   behind, and move the detail to the subnote.
+   candidate note. A fact almost always has a home: when it does, do not write it again — link to
+   the note that owns it and keep only the short summary the reader needs (§6). When a page or a
+   section has outgrown its subject, run the `vault-cleanup` skill (`/cleanup`) rather than
+   improvising a split.
 3. **Plan** — outline your changes. If the scope is ambiguous, ask the user before writing.
 4. **Edit** — minimal, focused changes. Never reformat or "clean up" files beyond your task.
 5. **Self-review** — run every prose change through the `humanizer` skill (see §6) before
@@ -248,9 +226,9 @@ tattoos, the relationships — and update them together. Never stop at the note 
 asked about. A fact that lives in one note but not its neighbours is an unfinished edit. If a note
 it touches is off-limits, flag it instead of editing.
 
-Propagating an answer means correcting what each affected note says about it, not copying the same
-paragraph into each one. The full account stays on the note that owns the fact; every other page
-keeps its short description and its wikilink (see §6).
+Propagating an answer means correcting what each affected note says, not copying the same paragraph
+into each one: the full account stays on the note that owns the fact, every other page keeps its
+summary and its wikilink (§6).
 
 ## 8. Failsafes & reversibility
 
@@ -274,3 +252,7 @@ keeps its short description and its wikilink (see §6).
 - The `scripts/` folder (edit guard, hooks) remains gitignored and local-only, so the guard only
   exists on machines that have it locally. You may update `AGENTS.md` or `scripts/` if the user
   asks, but never commit `scripts/` unless the user explicitly says so.
+- The `.agents/` folder holds your skills (`brainstorm`, `vault-cleanup`, `humanizer`,
+  `find-skills`). It is local-only as well, and it is the one path Claudian's settings panel reads.
+  Load a skill by name and follow it; if a skill is missing from that folder, say so rather than
+  improvising what it would have said.
