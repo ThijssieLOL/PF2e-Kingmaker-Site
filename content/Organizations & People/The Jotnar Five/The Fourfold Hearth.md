@@ -19,7 +19,7 @@ The Fourfold Hearth is a large secluded lodge hidden deep within the wilderness 
 
 ### Quick Facts
 - **Terrain Type:** 
-- **Region:** 
+- **Region:** Astral space
 - **Controlled By:** [[Niigani Wewidun]]
 - **Status:** Permanent
 
