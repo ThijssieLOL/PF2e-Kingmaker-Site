@@ -218,6 +218,31 @@ The third reference works large gold flame tongues across both the black robe an
 
 ---
 
+## Layering and extravagance
+
+The first lineup came back too plain at the top: the highest rank read as a single cone of cloth with a hem pattern, while the middle ranks looked richer. The cause is the wording. A prompt that names one robe gets one robe drawn, no matter how much embroidery is listed on it. So the layers get stated outright, and the count climbs with the grade.
+
+**The layer ladder.** Every grade above 5 adds at least one distinct layer, and the top of the line shows four or more hems at different heights.
+
+| Grade | Distinct layers | What is visible |
+| :---- | :---- | :---- |
+| **7** | 2 | Robe, capelet |
+| **6** | 3 | Robe, mantle, fan collar |
+| **5** | 4 | Robe, stole panel, mantle, shoulder discs and chain |
+| **4** | 5 | Under-robe, robe, mantle, chain, bracer |
+| **3** | 6 | Under-robe, robe, mantle, rayed back collar, asymmetric shoulder ornament, blindfold and circlet |
+| **2** | 7 or more | Under-robe, robe, over-robe, mantle, hanging panels, shoulder sunbursts, chest band and chain, plus the emblem |
+
+**Rules that make a figure read as extravagant:**
+
+- **Break the outline.** From Grade 5 up, something must stick out past the body: shoulder discs, rays, a fan collar, hanging panels. A smooth A-line silhouette reads as simple no matter how much embroidery sits on it.
+- **Stack the hems.** Two or three hems at different heights, each in a different colour, so the bottom of the garment reads as layers instead of one skirt.
+- **Layer the sleeves.** From Grade 4 up, a wide outer sleeve over a fitted inner sleeve, with a gold cuff on each.
+- **Add one more piece of worked metal per grade.** Discs, chains, bracers, collars, crowns. The top grade carries the most metal in the line.
+- **The mantle must visibly widen.** Each mantle is wider than the one on the figure to its left, and Grade 2's is the widest of all. In the first lineup the mantles stayed the same width and the top rank lost its mass.
+
+---
+
 ## Grade 7 — Blaze
 
 **Direction:** the robe stops being a uniform and starts being an office. The first thing the line adds is at the shoulders.
@@ -507,15 +532,15 @@ Add one of these under the base prompt and change nothing else. The blindfold li
 
 ### Grade 4 — Vesta
 
-**Outfit:** a broad shoulder mantle, white outside with a black lining and gold edges, its lower half filled with gold flame tongues rising from the hem, with a small rayed gold sun disc on each front edge. The two shoulder discs are rayed gold, joined by a gold chain carrying small sun discs. Beneath, a black ankle-length robe worked with gold flames, gold ray and star embroidery at the ankles, and a gold bracer on one forearm. A taller gold circlet with a small sun disc at the front.
+**Outfit:** five distinct layers. A black under-robe and a black ankle-length robe worked with gold flames. Over it a broad shoulder mantle, white outside with a black lining and gold edges, its lower half filled with gold flame tongues rising from the hem, with a small rayed gold sun disc on each front edge, and wide layered sleeves over fitted inner sleeves. The two shoulder discs are rayed gold, joined by a gold chain carrying small sun discs. A gold bracer on one forearm, gold ray and star embroidery at the ankles, and a taller gold circlet with a small sun disc at the front.
 
 ### Grade 3 — Zenith
 
-**Outfit:** a black high-collared robe and black under-robe, over which a white mantle rests on the shoulders, white outside with a black lining, covered from hem to shoulder in rising gold flame tongues. On his left shoulder only, a large asymmetric ornament of long gold rays and blades fans outward and downward, with no sun disc at its centre. On his right shoulder sits a gold sunburst disc wider than the shoulder. Between the two shoulders rises a stiff gold-rayed back collar, its rays fanning wider than his body. His eyes are covered by a wide black blindfold banded with gold rays radiating from the centre, and a rayed gold circlet sits above it. A gold rayed band crosses his chest. Sunstone accents at the collar and cuffs.
+**Outfit:** six distinct layers. A black under-robe and a black high-collared robe. Over it a white mantle resting on the shoulders, white outside with a black lining, covered from hem to shoulder in rising gold flame tongues, with wide layered sleeves over fitted inner sleeves. On the left shoulder only, a large asymmetric ornament of long gold rays and blades fans outward and downward, with no sun disc at its centre, and a gold sunburst disc wider than the shoulder sits on the right shoulder. Between the two shoulders rises a stiff gold-rayed back collar, its rays fanning wider than the body. The eyes are covered by a wide black blindfold banded with gold rays radiating from the centre, with a rayed gold circlet above it. A gold rayed band crosses the chest, and sunstone accents sit at the collar and cuffs.
 
 ### Grade 2 — Solstice
 
-**Outfit:** the widest mantle in the order, white outside with a black lining, edged in gold with the hem cut into ray points, so broad that it reads as a solar disc when spread, resting on the shoulders with the arms free and the hem above the ankle. Gold flame tongues cover it edge to edge, rising from the hem. Two large gold sunbursts sit on the shoulders with sunstone at their centres. Beneath, a white ankle-length robe with a black under-robe showing only at the hem, collar, and cuffs, gold at every edge, a sunstone at the chest, and a nine-flame device. His head is bare. Behind him floats a hollow gold sun emblem: an open arc of gold roughly three-quarters of a circle with a tapered point curling off one end, and nine detached flame-shaped rays radiating from it, with nothing at the centre.
+**Outfit:** seven distinct layers, the most in the line. A black under-robe showing at the hem, the collar, and the cuffs. Over it a white ankle-length robe with a gold-edged hem. Over that a white over-robe with wide layered sleeves, each finished with a gold flame cuff. Over that the broadest mantle in the order, white outside with a black lining, gold-edged, its hem cut into ray points, wide enough to read as a solar disc when spread, resting on the shoulders with the arms free and the hem above the ankle, covered edge to edge in gold flame tongues rising from the hem. Two large gold sunbursts sit on the shoulders with sunstone at their centres, joined by a gold rayed band and a chain across the chest. Gold-edged hanging panels at the front carry the nine-flame device and a sunstone. The head is bare, and behind him floats a large hollow gold sun emblem, the biggest piece of metal in the line: an open arc of gold roughly three-quarters of a circle with a tapered point curling off one end, and nine detached flame-shaped rays radiating from it, with nothing at the centre.
 
 ---
 
@@ -535,13 +560,15 @@ Note that this breaks one line of the base prompt: a single figure is 1:2.44 por
 >
 > Position 5, Grade 5 Pyre: a broad cape resting on the shoulders, black outside and cream inside, edged in gold and falling open at the front so the arms stay free, hem above the ankle, with gold flame tongues climbing the front edges. Two plain gold discs sit on the shoulders, joined by a plain gold chain across the chest. Beneath, a black robe with gold flames along the skirt and a broad cream stole panel embroidered with a sunburst and rising gold flames, finished with gold fringe. A brown leather belt with a large circular gold sun buckle, and a gold circlet of nine small flame points at the brow.
 >
-> Position 6, Grade 4 Vesta: a broad shoulder mantle, white outside with a black lining and gold edges, its lower half filled with gold flame tongues rising from the hem, with a small rayed gold sun disc on each front edge. The two shoulder discs are rayed gold, joined by a gold chain carrying small sun discs. Beneath, a black robe worked with gold flames, gold ray and star embroidery at the ankles, and a gold bracer on one forearm. A taller gold circlet with a small sun disc at the front.
+> Position 6, Grade 4 Vesta, five distinct layers: a black under-robe and a black robe worked with gold flames, under a broad shoulder mantle, white outside with a black lining and gold edges, its lower half filled with gold flame tongues rising from the hem, with a small rayed gold sun disc on each front edge and wide layered sleeves over fitted inner sleeves. The two shoulder discs are rayed gold, joined by a gold chain carrying small sun discs. A gold bracer on one forearm, gold ray and star embroidery at the ankles, and a taller gold circlet with a small sun disc at the front.
 >
-> Position 7, Grade 3 Zenith: a black high-collared robe and black under-robe under a white mantle resting on the shoulders, white outside with a black lining, covered from hem to shoulder in rising gold flame tongues. On the left shoulder only, a large asymmetric ornament of long gold rays and blades fans outward and downward, with no sun disc at its centre, and a gold sunburst disc wider than the shoulder sits on the right shoulder. A stiff gold-rayed back collar rises between the two shoulders, its rays fanning wider than the body. The eyes are covered by a wide black blindfold banded with gold rays radiating from the centre, with a rayed gold circlet above it. A gold rayed band crosses the chest, and sunstone accents sit at the collar and cuffs.
+> Position 7, Grade 3 Zenith, six distinct layers: a black under-robe and a black high-collared robe under a white mantle resting on the shoulders, white outside with a black lining, covered from hem to shoulder in rising gold flame tongues, with wide layered sleeves. On the left shoulder only, a large asymmetric ornament of long gold rays and blades fans outward and downward, with no sun disc at its centre, and a gold sunburst disc wider than the shoulder sits on the right shoulder. A stiff gold-rayed back collar rises between the two shoulders, its rays fanning wider than the body. The eyes are covered by a wide black blindfold banded with gold rays radiating from the centre, with a rayed gold circlet above it. A gold rayed band crosses the chest, and sunstone accents sit at the collar and cuffs.
 >
-> Position 8, Grade 2 Solstice: the widest mantle in the order, white outside with a black lining, edged in gold with the hem cut into ray points, broad enough to read as a solar disc when spread, resting on the shoulders with the arms free and the hem above the ankle, covered edge to edge in gold flame tongues rising from the hem. Two large gold sunbursts sit on the shoulders with sunstone at their centres. Beneath, a white robe with a black under-robe showing only at the hem, collar, and cuffs, gold at every edge, a sunstone at the chest, and a nine-flame device. The head is bare, and behind him floats a hollow gold sun emblem: an open arc of gold roughly three-quarters of a circle with a tapered point curling off one end, and nine detached flame-shaped rays radiating from it, with nothing at the centre.
+> Position 8, Grade 2 Solstice, seven distinct layers, the most in the line: a black under-robe showing at the hem, the collar, and the cuffs; over it a white ankle-length robe with a gold-edged hem; over that a white over-robe with wide layered sleeves, each finished with a gold flame cuff; over that the broadest mantle in the order, white outside with a black lining, gold-edged, its hem cut into ray points, wide enough to read as a solar disc when spread, resting on the shoulders with the arms free and the hem above the ankle, covered edge to edge in gold flame tongues rising from the hem. Two large gold sunbursts sit on the shoulders with sunstone at their centres, joined by a gold rayed band and a chain across the chest. Gold-edged hanging panels at the front carry the nine-flame device and a sunstone. The head is bare, and behind him floats a large hollow gold sun emblem, the biggest piece of metal in the line: an open arc of gold roughly three-quarters of a circle with a tapered point curling off one end, and nine detached flame-shaped rays radiating from it, with nothing at the centre.
 >
-> The progression must read left to right: the black recedes, the cream and gold grow, the gold flame embroidery rises higher up the cloth, the mantle broadens, and the figures grow more structured and more radiant toward the right.
+> Every figure above position 4 carries at least one more distinct layer than the figure to its left, and the layer count must be visible: count the hems at the bottom of each garment, because the higher ranks show two, three, or four hems at different heights in different colours. Every figure above position 4 also has something breaking its outline past the body, shoulder discs, rays, a fan collar, or hanging panels, so no figure reads as a smooth cone of cloth.
+>
+> The progression must read left to right: the black recedes, the cream and gold grow, the gold flame embroidery rises higher up the cloth, the mantle broadens until it is visibly the widest on the last figure, the layers stack, and the figures grow more structured and more radiant toward the right. The rightmost figure must be the most layered, the most extravagant, and the most heavily worked in the entire row.
 >
 > Background: one seamless studio backdrop running the full width behind all eight, split by a single straight horizon line low near the ankles, plain off-white above and flat mid-grey below. No props, no floor reflections, no text, no watermark, no border.
 >
@@ -551,7 +578,7 @@ Note that this breaks one line of the base prompt: a single figure is 1:2.44 por
 >
 > Aspect ratio: 3.28:1 landscape (4544 × 1384), eight portrait panels of 568 × 1384 side by side.
 >
-> Negative prompt: face, facial features, eyes, hair, skin texture, human head, hands with fingernails, side view, back view, cropped limbs, busy background, props, staff, weapon, text, watermark, signature, armor plating, photorealistic photograph, 3D render, anime face, extra fingers, duplicated figures, merged figures, overlapping figures, figures standing at different heights, mirrored outfits, repeated outfits, inconsistent mannequin build, inconsistent lighting, blank panels, gaps between figures.
+> Negative prompt: face, facial features, eyes, hair, skin texture, human head, hands with fingernails, side view, back view, cropped limbs, busy background, props, staff, weapon, text, watermark, signature, armor plating, photorealistic photograph, 3D render, anime face, extra fingers, duplicated figures, merged figures, overlapping figures, figures standing at different heights, mirrored outfits, repeated outfits, inconsistent mannequin build, inconsistent lighting, blank panels, gaps between figures, plain single-layer robe, simple unlayered silhouette, smooth cone of cloth, flat unlayered garment, minimal detail, plain undecorated cloth, the last figure plainer than the figures to its left.
 
 ---
 
