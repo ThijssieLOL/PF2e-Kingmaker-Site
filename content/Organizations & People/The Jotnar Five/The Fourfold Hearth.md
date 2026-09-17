@@ -1,8 +1,11 @@
 ---
 tags:
   - location
-  - hex
-terrain: 
+  - Jotnar5
+  - demiplane
+  - Giant
+  - Plane
+terrain:
 cleared: false
 explored: false
 ---
