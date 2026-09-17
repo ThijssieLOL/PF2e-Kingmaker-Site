@@ -24,7 +24,7 @@ The Fourfold Hearth is a large secluded lodge hidden deep within the wilderness 
 - **Status:** Permanent
 
 ## Description
-- **Environment:** (What the area looks like, climate, and notable geographical features)
+The Fourfold Hearth is a circular demi plane
 
 ---
 
