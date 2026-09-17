@@ -471,13 +471,27 @@ Grades 9 and 8 are finished, so no prompts are generated for them. For every oth
 
 ### Base prompt
 
-Paste this alongside the mannequin reference image, then add the rank's outfit text below it.
+The user's own base prompt, reproduced exactly. Pair it with the mannequin reference image, then add the rank's outfit line below it. Change only the garments.
 
-Full-body character design of a faceless mannequin figure wearing a ceremonial outfit, standing straight and facing forward, arms relaxed at the sides, feet together, plain flat pale grey background, painterly high-detail fantasy concept art, soft even studio lighting. The mannequin has a smooth featureless pale head with no face and no hair, and a plain neutral body. No scenery, no props, no weapon. Colours limited to matte black, cream white, and gold. Gold flame motifs worked on both the black and the white cloth. Sun, ray, and flame motifs only. No armour, no hood, no mitre, no train, no trailing fabric, no cross or fleur-de-lis symbols, no text.
+> Reproduce the mannequin, pose, framing, background, and rendering style exactly. Change only the garments.
+>
+> A single full-body front view of a faceless tailoring mannequin: smooth matte pale-ivory body, featureless egg-shaped bald head with no eyes, nose, mouth, or ears, slender androgynous build, tall and narrow. Standing centered and upright, feet slightly apart and angled outward, arms relaxed and bent at the elbow, hands resting near the hips. Cropped head to toe with a small margin above the head and below the shoes.
+>
+> Background: seamless studio backdrop split by a straight horizon line low near the ankles, plain off-white above and flat mid-grey below, no props, no floor reflections, no text, no watermark, no border.
+>
+> Lighting: soft even frontal studio light, gentle ambient occlusion in the fabric folds, no harsh cast shadows.
+>
+> Style: semi-realistic digital illustration, crisp clean linework, soft cel shading blended into gradients, high detail on fabric drape and metal fittings, fantasy religious vestment concept sheet, painterly but precise. Muted palette of black, cream, antique gold, and brown leather, with brass hardware.
+>
+> Aspect ratio: 1:2.44 (portrait, 568 × 1384).
+>
+> Negative prompt: face, facial features, eyes, hair, skin texture, human head, hands with fingernails, multiple figures, side view, back view, cropped limbs, busy background, props, staff, weapon, text, watermark, signature, armor plating, photorealistic photograph, 3D render, anime face, extra fingers.
 
 ### Outfit lines
 
-Add one of these under the base prompt. The blindfold line at Grade 3 uses the black band with gold rays, since that design is still open.
+Add one of these under the base prompt and change nothing else. The blindfold line at Grade 3 uses the black band with gold rays, since that design is still open.
+
+**Two things to settle against the base prompt:** the base fixes the palette at black, cream, antique gold, brown leather, and brass, while the Grades 4 to 2 lines below use white. Decide whether cream holds all the way up and only Grade 2 is true white, or whether the palette line changes for the top grades. Also, the base negatives cover armour, weapons, and props but not hoods or mitres, so either add them to the negative list or keep them stated in the outfit lines.
 
 ### Grade 7 — Blaze
 
@@ -502,6 +516,42 @@ Add one of these under the base prompt. The blindfold line at Grade 3 uses the b
 ### Grade 2 — Solstice
 
 **Outfit:** the widest mantle in the order, white outside with a black lining, edged in gold with the hem cut into ray points, so broad that it reads as a solar disc when spread, resting on the shoulders with the arms free and the hem above the ankle. Gold flame tongues cover it edge to edge, rising from the hem. Two large gold sunbursts sit on the shoulders with sunstone at their centres. Beneath, a white ankle-length robe with a black under-robe showing only at the hem, collar, and cuffs, gold at every edge, a sunstone at the chest, and a nine-flame device. His head is bare. Behind him floats a hollow gold sun emblem: an open arc of gold roughly three-quarters of a circle with a tapered point curling off one end, and nine detached flame-shaped rays radiating from it, with nothing at the centre.
+
+---
+
+## Lineup prompt (all ranks in one row)
+
+One image, all eight mortal grades in a single straight row, left to right from lowest to highest. Attach the finished Grade 9 and Grade 8 mannequin images as references so the two leftmost figures copy them exactly.
+
+Note that this breaks one line of the base prompt: a single figure is 1:2.44 portrait, so eight in a row is 3.28:1 landscape. Everything else, the mannequin, the pose, the background, the lighting, and the style, stays the same.
+
+> One single wide image showing eight faceless tailoring mannequins standing in a straight row, evenly spaced, all facing forward. The same mannequin repeated eight times: smooth matte pale-ivory body, featureless egg-shaped bald head with no eyes, nose, mouth, or ears, slender androgynous build, tall and narrow. Every figure stands centered and upright in the identical pose: feet slightly apart and angled outward, arms relaxed and bent at the elbow, hands resting near the hips. All eight are cropped head to toe with a small margin above the heads and below the shoes, at equal scale, none overlapping another and none hidden behind another.
+>
+> Left to right, the figures wear the vestments of the eight mortal grades of a sun church in descending order of rank, so the leftmost is the lowest rank and the rightmost is the supreme leader. The two leftmost figures must match the attached reference images exactly, copying the garment, colours, cut, and trim from the reference: position 1 is the Grade 9 Spark, position 2 is the Grade 8 Cinder.
+>
+> Position 3, Grade 7 Blaze: a black ankle-length robe with gold knotted buttons and a gold-trimmed high collar, a cream stole crossing both shoulders worked in gold vine with a few small gold flame tongues, and a short black shoulder capelet resting on the shoulders and stopping at the upper arm, its hem edged in gold and lined in cream, with small gold flames rising from the hem. A cream band down the front placket, gold cord sleeve ties, a thin plain gold band at the brow, and a brown leather belt with a brass sun buckle.
+>
+> Position 4, Grade 6 Ignis: the black robe under a black elbow-length mantle lined in cream and edged in gold, with gold flame tongues rising along its hem. A stiff fan-shaped collar rises behind the neck, black outside and white inside, with fine gold rays stitched on the inner face. The cream stole has widened into a full band crossing both shoulders and falling to the knee, worked in rising gold flames. A gold chain crosses the chest, and a gold band sits at the brow with a single ray rising at the front.
+>
+> Position 5, Grade 5 Pyre: a broad cape resting on the shoulders, black outside and cream inside, edged in gold and falling open at the front so the arms stay free, hem above the ankle, with gold flame tongues climbing the front edges. Two plain gold discs sit on the shoulders, joined by a plain gold chain across the chest. Beneath, a black robe with gold flames along the skirt and a broad cream stole panel embroidered with a sunburst and rising gold flames, finished with gold fringe. A brown leather belt with a large circular gold sun buckle, and a gold circlet of nine small flame points at the brow.
+>
+> Position 6, Grade 4 Vesta: a broad shoulder mantle, white outside with a black lining and gold edges, its lower half filled with gold flame tongues rising from the hem, with a small rayed gold sun disc on each front edge. The two shoulder discs are rayed gold, joined by a gold chain carrying small sun discs. Beneath, a black robe worked with gold flames, gold ray and star embroidery at the ankles, and a gold bracer on one forearm. A taller gold circlet with a small sun disc at the front.
+>
+> Position 7, Grade 3 Zenith: a black high-collared robe and black under-robe under a white mantle resting on the shoulders, white outside with a black lining, covered from hem to shoulder in rising gold flame tongues. On the left shoulder only, a large asymmetric ornament of long gold rays and blades fans outward and downward, with no sun disc at its centre, and a gold sunburst disc wider than the shoulder sits on the right shoulder. A stiff gold-rayed back collar rises between the two shoulders, its rays fanning wider than the body. The eyes are covered by a wide black blindfold banded with gold rays radiating from the centre, with a rayed gold circlet above it. A gold rayed band crosses the chest, and sunstone accents sit at the collar and cuffs.
+>
+> Position 8, Grade 2 Solstice: the widest mantle in the order, white outside with a black lining, edged in gold with the hem cut into ray points, broad enough to read as a solar disc when spread, resting on the shoulders with the arms free and the hem above the ankle, covered edge to edge in gold flame tongues rising from the hem. Two large gold sunbursts sit on the shoulders with sunstone at their centres. Beneath, a white robe with a black under-robe showing only at the hem, collar, and cuffs, gold at every edge, a sunstone at the chest, and a nine-flame device. The head is bare, and behind him floats a hollow gold sun emblem: an open arc of gold roughly three-quarters of a circle with a tapered point curling off one end, and nine detached flame-shaped rays radiating from it, with nothing at the centre.
+>
+> The progression must read left to right: the black recedes, the cream and gold grow, the gold flame embroidery rises higher up the cloth, the mantle broadens, and the figures grow more structured and more radiant toward the right.
+>
+> Background: one seamless studio backdrop running the full width behind all eight, split by a single straight horizon line low near the ankles, plain off-white above and flat mid-grey below. No props, no floor reflections, no text, no watermark, no border.
+>
+> Lighting: soft even frontal studio light, gentle ambient occlusion in the fabric folds, no harsh cast shadows, identical lighting on every figure.
+>
+> Style: semi-realistic digital illustration, crisp clean linework, soft cel shading blended into gradients, high detail on fabric drape and metal fittings, fantasy religious vestment concept sheet, painterly but precise. Muted palette of black, cream, antique gold, and brown leather, with brass hardware.
+>
+> Aspect ratio: 3.28:1 landscape (4544 × 1384), eight portrait panels of 568 × 1384 side by side.
+>
+> Negative prompt: face, facial features, eyes, hair, skin texture, human head, hands with fingernails, side view, back view, cropped limbs, busy background, props, staff, weapon, text, watermark, signature, armor plating, photorealistic photograph, 3D render, anime face, extra fingers, duplicated figures, merged figures, overlapping figures, figures standing at different heights, mirrored outfits, repeated outfits, inconsistent mannequin build, inconsistent lighting, blank panels, gaps between figures.
 
 ---
 
