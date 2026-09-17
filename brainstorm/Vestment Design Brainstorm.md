@@ -467,29 +467,29 @@ One element that appears at Grade 9 and climbs all the way to 2, so the line rea
 
 ## Design prompts by rank
 
-Art prompts for generating the line, built from everything settled above. Where a choice is still open, the prompt takes the recommended build, so swap any line that does not match what you want. The blindfold prompt uses the black band with gold rays.
+Grades 9 and 8 are finished, so no prompts are generated for them. For every other rank, paste the base prompt first and add that rank's outfit text underneath. The base holds the mannequin, the pose, the framing, and the style, so every rank comes out on the same figure.
 
-**Shared rules, in every prompt:** black, cream white, and gold only. Gold flames worked on both the black and the white cloth. No armour, no hood, no mitre, no train, no weapon, no cross or fleur-de-lis symbols. Sun, ray, and flame motifs only. Standing straight with arms relaxed at the sides, plain pale background, full body, painterly high-detail fantasy concept art.
+### Base prompt
 
-### Grade 9 — Spark
+Paste this alongside the mannequin reference image, then add the rank's outfit text below it.
 
-Full-body fantasy character design of a young clergy initiate, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a plain matte black robe falling to the ankle, closed down the front on a covered placket, with a high collar carrying a single thin band of gold at the top edge, and full gathered sleeves tied below the elbow with black ribbon, leaving the forearm bare above black gloves. A cream cord is knotted at the waist and falls down the front through two further knots to frayed tassels. Black polished shoes. No embroidery, no jewellery, no flame work. Austere and humble. Colours: matte black, cream, one thin line of gold.
+Full-body character design of a faceless mannequin figure wearing a ceremonial outfit, standing straight and facing forward, arms relaxed at the sides, feet together, plain flat pale grey background, painterly high-detail fantasy concept art, soft even studio lighting. The mannequin has a smooth featureless pale head with no face and no hair, and a plain neutral body. No scenery, no props, no weapon. Colours limited to matte black, cream white, and gold. Gold flame motifs worked on both the black and the white cloth. Sun, ray, and flame motifs only. No armour, no hood, no mitre, no train, no trailing fabric, no cross or fleur-de-lis symbols, no text.
 
-### Grade 8 — Cinder
+### Outfit lines
 
-Full-body fantasy character design of a standard clergyman, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a black robe falling to the ankle, fastened down the front with a row of gold knotted buttons and a high collar trimmed in gold, the full gathered sleeves tied below the elbow so a white cuff shows at each wrist. A cream stole crosses both shoulders and hangs the full length of the robe, its bands worked in gold vine and floral scrollwork and finished with gold fringe. A brown leather belt with a round brass buckle stamped with a sun. Black gloves, black shoes. Colours: black, cream, gold.
+Add one of these under the base prompt. The blindfold line at Grade 3 uses the black band with gold rays, since that design is still open.
 
 ### Grade 7 — Blaze
 
-Full-body fantasy character design of a parish priest, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a black ankle-length robe with gold knotted buttons and a gold-trimmed high collar, and a cream stole crossing both shoulders worked in gold vine with a few small gold flame tongues. Over it, a short black shoulder capelet that rests on the shoulders and stops at the upper arm, its hem edged in gold and lined in cream so the lining flashes when he moves, with small gold flames rising from the hem. A cream band runs down the front placket, gold-worked at the edges, and the sleeve ties are gold cord. A thin plain gold band at the brow. Brown leather belt with a brass sun buckle. Colours: black, cream, gold.
+**Outfit:** a black ankle-length robe with gold knotted buttons and a gold-trimmed high collar, and a cream stole crossing both shoulders worked in gold vine with a few small gold flame tongues. Over it, a short black shoulder capelet resting on the shoulders and stopping at the upper arm, its hem edged in gold and lined in cream so the lining flashes when he moves, with small gold flames rising from the hem. A cream band down the front placket, gold-worked at the edges, and gold cord sleeve ties. A thin plain gold band at the brow. Brown leather belt with a brass sun buckle.
 
 ### Grade 6 — Ignis
 
-Full-body fantasy character design of a bishop, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a black ankle-length robe under a black elbow-length mantle lined in cream and edged in gold, with gold flame tongues rising along its hem. Behind his neck rises a stiff fan-shaped collar, black outside and white inside, with fine gold rays stitched on the inner face. A cream stole has widened into a full band crossing both shoulders and falling to the knee, worked in rising gold flames instead of vine. A gold chain crosses his chest. A gold band sits at his brow with a single ray rising at the front. Colours: black, cream, gold.
+**Outfit:** a black ankle-length robe under a black elbow-length mantle lined in cream and edged in gold, with gold flame tongues rising along its hem. Behind the neck rises a stiff fan-shaped collar, black outside and white inside, with fine gold rays stitched on the inner face. The cream stole has widened into a full band crossing both shoulders and falling to the knee, worked in rising gold flames instead of vine. A gold chain crosses the chest. A gold band at the brow with a single ray rising at the front.
 
 ### Grade 5 — Pyre
 
-Full-body fantasy character design of an archbishop, standing straight with arms relaxed at his sides, plain pale grey background, painterly high-detail concept art. He wears a broad cape resting on the shoulders, black outside and cream inside, edged in gold at the hem and front edges, falling open at the front so the arms stay free, hem above the ankle, with gold flame tongues climbing the front edges. Two plain gold discs sit on the shoulders where the cape rests, joined by a plain gold chain across the chest. Beneath, a black ankle-length robe worked with gold flames along the skirt, and a broad cream stole panel embroidered with a sunburst and rising gold flames, finished with gold fringe. Brown leather belt with a large circular gold sun buckle. A gold circlet of nine small flame points at the brow. Colours: black, cream, gold.
+**Outfit:** a broad cape resting on the shoulders, black outside and cream inside, edged in gold at the hem and front edges, falling open at the front so the arms stay free, hem above the ankle, with gold flame tongues climbing the front edges. Two plain gold discs sit on the shoulders where the cape rests, joined by a plain gold chain across the chest. Beneath, a black ankle-length robe worked with gold flames along the skirt, and a broad cream stole panel embroidered with a sunburst and rising gold flames, finished with gold fringe. Brown leather belt with a large circular gold sun buckle. A gold circlet of nine small flame points at the brow.
 
 ### Grade 4 — Vesta
 
