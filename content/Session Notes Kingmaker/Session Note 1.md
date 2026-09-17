@@ -16,6 +16,7 @@ A brief 1-2 sentence summary of the key events of the session.
 - **Date Played:** 27/09/26
 - **In-Game Date:** 
 - **Location:** 
+- **Players at the table:**
 
 ## Recap
 - **Events:** (Chronological summary of what took place during the session)
