@@ -29,7 +29,8 @@ The Fourfold Hearth is a circular demi plane with four distinct biomes that meet
 ---
 
 ## Points of Interest
-- The Fourfold Hearth
+The Lodge:
+The lodge is a giant building build to house giants of different vir
 
 ---
 
