@@ -238,7 +238,7 @@ The first lineup came back too plain at the top: the highest rank read as a sing
 - **Break the outline.** From Grade 5 up, something must stick out past the body: shoulder discs, rays, a fan collar, hanging panels. A smooth A-line silhouette reads as simple no matter how much embroidery sits on it.
 - **Stack the hems.** Two or three hems at different heights, each in a different colour, so the bottom of the garment reads as layers instead of one skirt.
 - **Layer the sleeves.** From Grade 4 up, a wide outer sleeve over a fitted inner sleeve, with a gold cuff on each.
-- **Add one more piece of worked metal per grade.** Discs, chains, bracers, collars, crowns. The top grade carries the most metal in the line.
+- **Add one more piece of worked metal per grade.** Discs, chains, bracers, collars, shoulder pieces. The top grade carries the most metal in the line.
 - **The mantle must visibly widen.** Each mantle is wider than the one on the figure to its left, and Grade 2's is the widest of all. In the first lineup the mantles stayed the same width and the top rank lost its mass.
 
 ---
