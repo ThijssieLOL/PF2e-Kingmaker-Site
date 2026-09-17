@@ -50,9 +50,40 @@ Three things grow at once as the grades climb, so the ladder never depends on on
 | **White grows** | A band | A lining | A panel | The outer layer | The whole outer robe | Everything but the core |
 | **Black retreats** | Full robe | Robe and mantle | Robe and mantle | Under-robe | Under-robe and collar | Hem, collar, cuffs |
 
-### The reading rule
+### The power rule
 
-Someone who has never seen the Church should be able to line six clerics up and put them in order without being told which is which. If two neighbouring grades need a caption to tell apart, one of them is wrong.
+Every grade has to look **stronger** than the grade below it. Not richer, not busier, stronger. Someone who has never seen the Church should be able to line the clerics up and put them in order without being told which is which. If two neighbouring grades need a caption to tell apart, one of them is wrong.
+
+The power comes from the aesthetic, not from armour. The vestments carry none, and the shoulder plates are regalia, so a high grade must read as dangerous and elevated while wearing cloth and worked metal. Five levers do that work:
+
+- **Structure.** Soft cloth reads as humility. Rigid pieces, stiffened collars, and built garments read as authority. Each grade adds structure the one below it does not have.
+- **Height.** A collar that rises, a circlet that stands taller, a rayed back piece that climbs above the shoulders. Anything that grows upward past the head reads as rank.
+- **Material.** Wool, then heavy linen, then silk, then cloth of gold, then worked metal, then sunstone. Metal outranks cloth every time.
+- **Radiance.** Matte at the bottom, sheen in the middle, polish and gleam at the top. The lower grades absorb light; the higher grades catch it.
+- **Retreat of black.** Black is the humble colour. As it shrinks from the full robe down to the collar, cuffs, and hem, the figure grows more radiant.
+
+### The power ladder
+
+One dominant signal per grade, each strictly stronger than the one below. A grade may not borrow the signal of the grade above it.
+
+| Grade | Dominant signal | Why it reads stronger |
+| :---- | :---- | :---- |
+| **9** | Plainness | Deliberate austerity. Nothing has been earned yet. |
+| **8** | The first ornament | Gold buttons and a stole. The first grade that is decorated at all. |
+| **7** | The first added layer | The silhouette gains shoulders. The body gets bigger. |
+| **6** | The first rigid piece | The collar stands up behind the neck. Structure arrives. |
+| **5** | The first metal | A worked plate and a belt plate. Metal outranks cloth. |
+| **4** | The inversion | White turns outward. The figure becomes the light instead of wearing it. |
+| **3** | Architecture and the mark | A rigid rayed collar wider than the shoulders, and the face is taken away. |
+| **2** | The emblem | A sun floating at his back, and the only sunstone in the line. |
+
+**Guard rails:**
+
+- Metal does not appear before Grade 5.
+- Rigidity does not appear before Grade 6.
+- White does not become the outer layer before Grade 4.
+- Sunstone appears at Grade 2 only.
+- No grade may be stronger than the grade above it by accident. If a lower grade picks up a higher grade's signal, the higher grade needs a new one.
 
 ## The line at a glance
 
@@ -81,6 +112,7 @@ A reference the user supplied, described here so the parts can be picked up grad
 | **Rigid gold standing collar** framing the head | Grade 6. This is the fan collar, made metal rather than cloth. |
 | **Gold shoulder plates** | Grade 5 or 4. The strongest "this one is powerful" signal available, and it reads at a distance. |
 | **White stole-panels hanging from the shoulders to the hip**, gold-trimmed and tasselled | Grade 5. The white tabard becomes two hanging panels instead of one flat panel. At Grade 4 the panels widen into the mantle. |
+| **White half-cape hanging behind the shoulders**, gold-trimmed | Grade 4 or 3. The white mass at the back, built to the cape rules below. |
 | **Gold chain draped across the chest** | Grade 6 or 5. Adds gold presence without adding gold cloth. |
 | **Ornate belt plate with a large buckle** | Grade 5. The Grade 8 sun buckle grows into a full belt plate. |
 | **Gold ray and star embroidery at the ankle** | Grade 4 upward. A low detail that grows upward as the grades climb. |
@@ -158,7 +190,7 @@ A reference the user supplied, described here so the parts can be picked up grad
 - **White mantle, black robe.** The mantle turns white outside over the black robe, gold-edged at every seam. Simple and strong.
 - **Layered panels.** Black robe, white mantle, gold corona at the chest. Three readable layers, the first grade that reads as a *set* rather than a garment.
 - **White over-robe.** A long white over-robe open at the front, gold at every edge, black showing in the opening. The white moves as a single mass.
-- **Rayed back-collar, first form.** A stiff black collar rising behind the shoulders with gold rays fanning out from it, white inside. The first rigid piece in the line.
+- **Tall rayed collar.** The Grade 6 fan collar grows taller and gains gold rays on the inner face, white inside. Keeps the collar as the line's structure signal without taking Grade 3's architecture.
 - **Asymmetric split.** One shoulder white, one black, divided down the centre. Theatrical, but it weakens the sense of one order. Included only so it can be rejected.
 
 **Headwear:** a taller gold circlet with a small sun-disc at the front.
@@ -245,6 +277,24 @@ Settled: every Zenith wears one, and it is part of the grade's design. What it l
 ---
 
 ## Line-wide choices
+
+### Cape forms
+
+Capes are in, provided they are built like this Church's and not like a generic cloak. Five rules:
+
+- **No hood.** The head stays bare for the circlet, the blindfold, or the emblem. A hood is the fastest way back to generic priest.
+- **No round clasp on a chain at the throat.** The cape hangs from the gold collar, the shoulder plates, or the sun buckle, so it reads as part of a built garment rather than a cloak thrown on.
+- **Give it a shape.** A cape of separate panels, a cape with a stiffened rayed hem, or a cape cut asymmetric (long at the back, short at the front) reads as solar. A plain circle of cloth does not.
+- **Rayed panels.** Split the cape into panels like sun rays, so movement opens dark gaps between white panels. This is the strongest solar read available on a cape.
+- **No billow and no train.** The hem stays above the ankle. Heavy structured cloth that moves like a curtain, not a hero cloak in the wind.
+
+**Length ladder options:**
+
+- **Gradual.** Capelet at the upper arm (7), mantle to the elbow (6), half-cape to the hip (5), half-cape to the knee (4), full mantle to the calf (3), white mantle at the calf (2).
+- **Late arrival.** Nothing at 7 and 6. The half-cape arrives at 5 and everything above it is a cape grade, which makes the cape itself a rank signal.
+- **Layered.** The cape arrives at 5 and never lengthens. Each grade above adds a layer beneath it instead, so the silhouette deepens rather than grows.
+
+**Caution:** at Grade 3 the rayed back-collar and a cape compete for the same space. Either the collar sits over the cape, or the cape is cut away at the shoulders to leave the collar clear.
 
 ### Signature element
 
