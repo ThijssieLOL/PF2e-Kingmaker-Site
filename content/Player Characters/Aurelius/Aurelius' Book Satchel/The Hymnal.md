@@ -67,7 +67,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Interposing Earth
 *Spell 1 · Earth, Manipulate · reaction · duration 3 rounds*
 
-- **Manifestation:** A slab of packed earth tears up from the ground and stands before the target, lit Aureolin White from within, the Steward's silhouette pressed into its face like a figure cut in stone.
+- **Manifestation:** A slab of packed earth tears up from the ground and stands before the target, surrounded by Aureolin White light
 - **Verbal Component:** "By Thy light let the earth stand, and let it bear what I cannot."
 - **Somatic Component:** The Wagon
 - **Sensation:** The heat spikes at his hands and drops into his heels as the slab takes the weight. The air carries hot stone and dry ash, and the target feels the floor jump underfoot.
