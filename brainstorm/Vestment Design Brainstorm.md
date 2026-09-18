@@ -205,6 +205,8 @@ A black under-robe showing at the hem, the collar, and the cuffs. Over it a whit
 
 The mantle is the line's signature cape form, and it arrived from a reference the user liked: a very broad cape that **rests on the shoulders** instead of hanging from a clasp at the throat. It runs from Grade 5 up.
 
+![[Vestment concept - broad shoulder mantle.png]]
+
 - **It rests on the shoulders.** No clasp at the throat and no chain holding it shut at the neck. The weight sits on the shoulder line, anchored at the shoulder medallions, which keeps the head clear for the collar and the blindfold.
 - **It is widest across the shoulders, then falls straight.** No bell shape and no flare at the hem, so it adds sweep without adding bulk.
 - **Black outside, cream inside** at Grade 5. From Grade 4 it inverts to white outside with a black lining, which carries that grade's inversion signal on the shoulders where it reads best.
@@ -219,6 +221,8 @@ The mantle is the line's signature cape form, and it arrived from a reference th
 ## The asymmetric rayed shoulder
 
 The one piece in the line that breaks symmetry, and the reason it feels unique.
+
+![[Vestment concept - asymmetric rayed shoulder.png]]
 
 - **Left shoulder only,** so it never reads as a pair of pauldrons.
 - **Long gold rays and blades of uneven length,** fanning outward and downward from a low gold base that follows the shoulder line.
