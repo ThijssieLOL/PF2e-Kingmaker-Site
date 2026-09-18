@@ -47,11 +47,11 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Ignition
 *Cantrip 1 · Attack, Concentrate, Fire, Manipulate · two actions · range 30 feet*
 
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
+- **Manifestation:** A tongue of Aureolin White flame leaps from his open palm at the target, the Steward's silhouette standing in the heart of the fire.
+- **Verbal Component:** "O Blazing Sun, kindle Thou the flame, that it find him and burn."
+- **Somatic Component:** The Dragon -> The Archer
+- **Sensation:** A dry heat rolls up his arm and the smell of hot stone follows the flame; the target feels the air go tight an instant before it lands.
+- **Residue:** The flame dies into a scatter of white sparks that fall and go out on the ground.
 
 #### Tangle Vine
 *Cantrip 1 · Attack, Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet*
@@ -67,20 +67,20 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Interposing Earth
 *Spell 1 · Earth, Manipulate · reaction · duration 3 rounds*
 
-- **Manifestation:** A slab of packed earth tears up from the ground and stands before the target, surrounded by Aureolin White light
+- **Manifestation:** A slab of packed earth tears up from the ground and stands before the target, ringed in Aureolin White light, a wall thrown up against the blast.[1](#ref-1)
 - **Verbal Component:** "By Thy light let the earth stand, and let it bear what I cannot."
 - **Somatic Component:** The Wagon
-- **Sensation:** The heat spikes at his hands and drops into his heels as the slab takes the weight. The air carries hot stone and dry ash, and the target feels the floor jump underfoot.
+- **Sensation:** The heat spikes at his hands and drops into his heels as the slab takes the blow. The air carries hot stone and dry ash, and the target feels the floor jump underfoot.
 - **Residue:** The slab breaks into dry clods that hold a faint white edge for a breath, then go dark.
 
 #### Protector Tree
 *Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
 
-- **Manifestation:**
+- **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, almost made from ethereal light, its leaves pale and glowing, the Custodian's shape moving in the branches.
 - **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
+- **Somatic Component:** The Mother -> The Lantern Bearer
+- **Sensation:** A cool pull in the wrist and the smell of turned soil and cut stems, the same smell the Tangle Vine casting carries.
+- **Residue:** When the tree falls it withers into white ash and a ring of fresh-turned soil.
 
 ### Focus Spells
 
@@ -90,10 +90,10 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 *Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
 
 - **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
+- **Verbal Component:** "O Blazing Sun, open Thou the earth, and let its bile rise."
+- **Somatic Component:** The Dragon -> The Wagon
+- **Sensation:** A heavy heat rises through his feet and out of his hands; hot stone and ash sit on the air, and the ground hums underfoot.
+- **Residue:** A shallow crater of cracked, still-warm stone, with white light fading in the seams.
 
 ### Divine Spell List
 
@@ -122,11 +122,15 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Heal
 *Spell 1 · Healing, Manipulate, Vitality · one to three actions · range varies*
 
-- **Manifestation:**
+- **Manifestation:** Aureolin White light gathers at his hands and pours into the wound, closing it from within.
 - **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
+- **Somatic Component:** The Chalice
+- **Sensation:** A steady warmth in the hands, gentler than a combat verse; the target feels it spread from the point of contact and cool like a sunburn easing.
+- **Residue:** A last gold-white glimmer at the healed skin, then nothing.
+
+## References
+
+1. <a id="ref-1"></a>[Kakashi vs. Obito](https://youtu.be/OnLVIUPFZQ4?si=4kfdPplzyjt5o3m6&t=175) (video, 2:55): the earth wall Kakashi raises against Obito's fireball, the model for *Interposing Earth*.
 
 ## House Notes
 
