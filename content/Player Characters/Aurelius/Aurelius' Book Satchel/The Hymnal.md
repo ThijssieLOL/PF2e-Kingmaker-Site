@@ -76,7 +76,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Protector Tree
 *Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
 
-- **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, almost made from ethereal light, its leaves pale and glowing, the Custodian's shape moving in the branches.
+- **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, almost made from ethereal light, its leaves pale and glowing.
 - **Verbal Component:** "Thou who keepest every growing thing, set the tree over them and let it hold."
 - **Somatic Component:** The Mother -> The Lantern Bearer
 - **Sensation:** A cool pull in the wrist and the smell of turned soil and cut stems, the same smell the Tangle Vine casting carries.
@@ -131,7 +131,3 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 ## References
 
 1. <a id="ref-1"></a>[Kakashi vs. Obito](https://youtu.be/OnLVIUPFZQ4?si=4kfdPplzyjt5o3m6&t=175) (video, 2:55): the earth wall Kakashi raises against Obito's fireball, the model for *Interposing Earth*.
-
-## House Notes
-
-- **Open items:** the three-action *Heal* is still open. Does it lengthen the verse, or is it the same words spoken with more force?

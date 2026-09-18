@@ -214,7 +214,7 @@ Each answer is verbatim. My processing note follows the arrow.
 
 ### D. Appearance and bearing
 15. Hair, eyes, and coloring. Human, or another ancestry?
-    **Answer:** "See image" ([[public/attachments/tristan.png]])
+    **Answer:** "See image" ([[Tristan.png]])
     → Human. Black, short, spiky hair; green eyes; warm tan skin; plate with a sunburst chest device.
 16. Facial scars from the parents, hand scars from the Chancellery, or mixed?
     **Answer:** (blank)
