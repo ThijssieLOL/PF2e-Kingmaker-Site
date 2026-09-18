@@ -33,12 +33,12 @@ The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Eac
 The Spark vestment is a plain black robe that falls to the ankle. It closes down the front on a covered placket, and its high collar carries a single thin band of gold at the top edge. The sleeves are full and gathered, tied below the elbow with black ribbon whose ends hang loose, leaving the forearm bare above the glove. A cream cord is knotted at the waist, its ends falling down the front through two further knots to frayed tassels. Black gloves and polished black shoes complete the dress.
 
 ### Grade 8 — Cinder
-![[Grade 8 Cinder Vestment.png|300]]
-
-The Cinder vestment is a black robe that falls to the ankle. It fastens down the front with a row of gold knotted buttons and carries a high collar trimmed in gold. A cream stole crosses both shoulders and hangs the full length of the robe, its bands worked in gold vine and floral scrollwork and finished with gold fringe. The sleeves are full and gathered, tied below the elbow so a white cuff shows at each wrist. A brown leather belt sits at the waist, fastened with a round brass buckle stamped with a sun. Black gloves and black shoes complete the dress.
+*(Work in progress.)*
 
 ### Grade 7 — Blaze
-*(To be filled in.)*
+![[Grade 7 Blaze Vestment.png|300]]
+
+The Blaze vestment is a black robe that falls to the ankle. It fastens down the front with a row of gold knotted buttons and carries a high collar trimmed in gold. A cream stole crosses both shoulders and hangs the full length of the robe, its bands worked in gold vine and floral scrollwork and finished with gold fringe. The sleeves are full and gathered, tied below the elbow so a white cuff shows at each wrist. A brown leather belt sits at the waist, fastened with a round brass buckle stamped with a sun. Black gloves and black shoes complete the dress.
 
 ### Grade 6 — Ignis
 *(To be filled in.)*
