@@ -47,7 +47,9 @@ The Cinder vestment is a black robe that falls to the ankle. It fastens down the
 *(To be filled in.)*
 
 ### Grade 4 — Vesta
-*(To be filled in.)*
+![[Grade 4 Vesta Vestment.png|300]]
+
+The Vesta vestment is a black robe that falls to the ankle. It closes down the front with a row of gold cross-shaped buttons and carries a high collar. A white under-robe shows at the chest and the cuffs, its sleeves carrying gold scrollwork. Over the robe rests a shoulder mantle, black outside and lined in cream, edged in gold and worked with gold scrollwork on the lining, falling open at the front. Two rayed gold sun discs sit on the shoulders, joined by a gold chain across the chest. A brown leather belt closes the robe, fastened with a large gold sunburst buckle, and gold rays run down the skirt to ray and star embroidery at the ankles. Black gloves and black shoes complete the dress.
 
 ### Grade 3 — Zenith
 *(To be filled in.)*
