@@ -47,7 +47,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Ignition
 *Cantrip 1 · Attack, Concentrate, Fire, Manipulate · two actions · range 30 feet*
 
-- **Manifestation:** A tongue of Aureolin White flame leaps from his open palm at the target, the Steward's silhouette standing in the heart of the fire.
+- **Manifestation:** A tongue of Aureolin White flame leaps from his open palm at the target.
 - **Verbal Component:** "O Blazing Sun, kindle Thou the flame, that it find him and burn."
 - **Somatic Component:** The Dragon -> The Archer
 - **Sensation:** A dry heat rolls up his arm and the smell of hot stone follows the flame; the target feels the air go tight an instant before it lands.
@@ -56,7 +56,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Tangle Vine
 *Cantrip 1 · Attack, Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet*
 
-- **Manifestation:** A white-lit vine lances from his palm and coils around the target's legs, the Custodian's stooped silhouette riding in the light that trails it.
+- **Manifestation:** A white-lit vine lances from his palm and coils around the target's legs, trailing light.
 - **Verbal Component:** "Let the bough rise at Thy word and bind the step of my enemy."
 - **Somatic Component:** The Mother -> The Archer
 - **Sensation:** A cool pull at the wrist as the vine leaves his hand, and the smell of turned soil and cut stems.
