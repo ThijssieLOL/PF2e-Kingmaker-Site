@@ -115,12 +115,15 @@ and offer what you CAN do instead.
   vault's capitalisation, `### Quick Facts` entries and template labels keep their bold labels, and
   the em-dash spots above stay — this vault's house style wins wherever humanizer points the other
   way. The full heading rules are in the `vault-cleanup` skill.
-- **Quotes are the user's to write.** Never invent a quote, motto, or creed for a page, and never
-  delete a quote line that is already there. When a page has a quote slot and the user has not
-  given you the words, leave the placeholder in place: `> "A memorable quote."`. Templates carry
-  their own variants (`> "A faction motto or creed."`, `> "A House motto or creed."`, and the
-  like); keep whichever variant the page or template already uses. Hold the slot open, do not
-  fill it, and never strip it out during a rewrite.
+- **Quotes in the page-top slot are the user's to write.** Never invent the quote, motto, or creed
+  that sits at the top of a page, and never delete a quote line that is already there. When a page
+  has a quote slot and the user has not given you the words, leave the placeholder in place:
+  `> "A memorable quote."`. Templates carry their own variants (`> "A faction motto or creed."`,
+  `> "A House motto or creed."`, and the like); keep whichever variant the page or template already
+  uses. Hold the slot open, do not fill it, and never strip it out during a rewrite. This rule
+  covers that one slot and nothing else: an in-body line such as a spell's **Verbal Component**, a
+  chant inside a section, or a character's spoken example is prose you write, and you may generate
+  it.
 - Note structure convention: `# Title` → `## Overview` → `### Quick Facts` → the body, then
   abilities, history, and relationships as relevant.
 - **Page layout (every page, template or not):** a page has to read cleanly from top to bottom.

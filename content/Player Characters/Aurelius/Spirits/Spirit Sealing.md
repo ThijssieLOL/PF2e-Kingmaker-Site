@@ -41,7 +41,9 @@ An attuned spirit stands beside Aurelius, not inside him. It grants him its magi
 
 Spirit verses and divine verses come out the same white. The color holds; the shape changes. A fireball borrowed from a spirit becomes a white-gold sunburst, and an implosion becomes a point of white light folding inward.
 
+The mark tells the two apart. A divine verse shows plain Aureolin White, shaped by the verse alone. An apparition verse carries the lending spirit's silhouette inside the light, with the spirit's own sound and smell.
+
 ## House Notes
-- **Open items:** how sealing looks, both to a bystander and to spirit-sight; how the look of his divine magic differs from that of his spirit magic.
+- **Open items:** how sealing looks, both to a bystander and to spirit-sight.
 - **Rules:** Aurelius can speak to any spirit, but only some spirits can answer him. The Consult the Spirits skill feat, which he gains at 7th level, opens the exchange with any spirit.
 - **Related pages:** [[Spirits]] for what spirits are, [[Spirits Ledger]] for the naming rule and the apparition families, and [[The Hymnal]] for the verses and their seal sequences.
