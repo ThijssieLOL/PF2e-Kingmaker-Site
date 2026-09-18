@@ -57,8 +57,8 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 *Cantrip 1 · Attack, Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet*
 
 - **Manifestation:** A white-lit vine lances from his palm and coils around the target's legs, the Custodian's stooped silhouette riding in the light that trails it.
-- **Verbal Component:**
-- **Somatic Component:** [[The Mother]] -> [[The Archer]]
+- **Verbal Component:** "Let the bough rise at Thy word and bind the step of my enemy."
+- **Somatic Component:** The Mother -> The Archer
 - **Sensation:** A cool pull at the wrist as the vine leaves his hand, and the smell of turned soil and cut stems.
 - **Residue:** The vine withers where it lies into a white ash the wind takes.
 
@@ -68,8 +68,8 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 *Spell 1 · Earth, Manipulate · reaction · duration 3 rounds*
 
 - **Manifestation:** A slab of packed earth tears up from the ground and stands before the target, lit Aureolin White from within, the Steward's silhouette pressed into its face like a figure cut in stone.
-- **Verbal Component:**
-- **Somatic Component:** [[The Wagon]] (held, not run; the reaction leaves no time for more)
+- **Verbal Component:** "By Thy light let the earth stand, and let it bear what I cannot."
+- **Somatic Component:** The Wagon
 - **Sensation:** The heat spikes at his hands and drops into his heels as the slab takes the weight. The air carries hot stone and dry ash, and the target feels the floor jump underfoot.
 - **Residue:** The slab breaks into dry clods that hold a faint white edge for a breath, then go dark.
 
