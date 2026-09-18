@@ -77,7 +77,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 *Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
 
 - **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, almost made from ethereal light, its leaves pale and glowing, the Custodian's shape moving in the branches.
-- **Verbal Component:**
+- **Verbal Component:** "Thou who keepest every growing thing, set the tree over them and let it hold."
 - **Somatic Component:** The Mother -> The Lantern Bearer
 - **Sensation:** A cool pull in the wrist and the smell of turned soil and cut stems, the same smell the Tangle Vine casting carries.
 - **Residue:** When the tree falls it withers into white ash and a ring of fresh-turned soil.
@@ -89,7 +89,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 #### Earth's Bile
 *Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
 
-- **Manifestation:**
+- **Manifestation:** White fire and broken stone boil up from the ground in a ten-foot burst, and the earth breaks and burns.
 - **Verbal Component:** "O Blazing Sun, open Thou the earth, and let its bile rise."
 - **Somatic Component:** The Dragon -> The Wagon
 - **Sensation:** A heavy heat rises through his feet and out of his hands; hot stone and ash sit on the air, and the ground hums underfoot.
@@ -123,7 +123,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 *Spell 1 · Healing, Manipulate, Vitality · one to three actions · range varies*
 
 - **Manifestation:** Aureolin White light gathers at his hands and pours into the wound, closing it from within.
-- **Verbal Component:**
+- **Verbal Component:** "By Thy light let what is torn be mended, and let no hurt remain."
 - **Somatic Component:** The Chalice
 - **Sensation:** A steady warmth in the hands, gentler than a combat verse; the target feels it spread from the point of contact and cool like a sunburn easing.
 - **Residue:** A last gold-white glimmer at the healed skin, then nothing.
