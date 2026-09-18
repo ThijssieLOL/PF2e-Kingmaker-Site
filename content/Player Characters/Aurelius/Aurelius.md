@@ -50,8 +50,6 @@ He shows the marks openly in public as proof of the sun goddess' infinite capaci
 - **Clergy Vestments (Civilian & Ceremonial):** The Grade 8 Cinder vestment of [[The Vestments of the Clergy]]: an ankle-length black cassock with a crisp, high collar secured by gold frog-closures, with a long white stole embroidered in solar patterns and golden floral filigree draping across his shoulders to his shins. A sturdy brown leather belt with a circular golden buckle fastens his waist, with polished black boots and thin leather gloves.
 - **Travel & Frontier Gear:** Cut for the rugged terrain of the Stolen Lands, his kit is durable black trousers and a fitted dark tunic under a loose, flowing, hooded white poncho-capelet, carrying the same gold-embroidered solar trim as his formal stole and balancing practical movement with holy symbolism.
 
-![[Aurelius in outfits.png|362]]
-
 ---
 
 ## Personality & Psychology
