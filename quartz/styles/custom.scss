@@ -1,3 +1,14 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// PageList renders every row as its own grid:
+//   li.section-li > .section { grid-template-columns: fit-content(8em) 3fr 1fr }
+// Subfolder rows carry an empty <p class="meta"></p>, so the date track has no
+// content to size against and collapses to zero. Their title then sits about
+// 1em from the left edge while note titles sit about 8em in, which is what made
+// the tag-less folder rows look out of place. Reserve the track's width so every
+// row lines up; max-content keeps a longer date from being clipped.
+li.section-li > .section {
+  grid-template-columns: minmax(8em, max-content) 3fr 1fr;
+}
