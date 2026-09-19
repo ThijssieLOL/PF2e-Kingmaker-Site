@@ -80,6 +80,8 @@ plugins:
   - source: "@quartz-community/table-of-contents"
     enabled: true
     order: 50
+    options:
+      minEntries: 0
     layout:
       position: right
       priority: 30
@@ -285,12 +287,8 @@ layout:
     folder:
       exclude:
         - reader-mode
-      positions:
-        right: []
     tag:
       exclude:
         - reader-mode
-      positions:
-        right: []
     canvas: {}
     bases: {}
