@@ -314,3 +314,5 @@ This breaks one line of the base prompt: a single figure is 1:2.44 portrait, so 
 4. **How the document ends,** as a hard ceiling at Grade 2 or with a hook toward Grade 1.
 5. **Whether the top grades get a ceremonial set and a field set,** or one rule for all.
 6. **Why the Zeniths are blindfolded,** and whether the blindness is literal.
+
+![[Pasted image 20260920173311.png]]
