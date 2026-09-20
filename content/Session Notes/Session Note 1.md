@@ -34,8 +34,17 @@ A brief 1-2 sentence summary of the key events of the session.
 
 ---
 
-## Active NPCs
-- **[[NPC Link]]:** Notable actions or character beats from the session.
+## Active Characters
+
+### Player Characters
+| Character | Present | Notable Actions |
+| --- | :---: | --- |
+| [[Character Link]] | [ ] | |
+
+### NPCs
+| NPC | Present | Notable Actions |
+| --- | :---: | --- |
+| [[NPC Link]] | [ ] | |
 
 ---
 
