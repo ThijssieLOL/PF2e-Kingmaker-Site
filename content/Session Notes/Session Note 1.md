@@ -13,7 +13,7 @@ A brief 1-2 sentence summary of the key events of the session.
 
 ### Quick Facts
 - **Session Number:** 1
-- **Date Played:** 27/09/26
+- **Date Played:** 04/10/26
 - **In-Game Date:** 
 - **Location:** 
 - **Players at the table:**
