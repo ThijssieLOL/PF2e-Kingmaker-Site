@@ -1,5 +1,5 @@
 ---
-agent-editable: false
+agent-editable: true
 tags:
   - character
   - pc
