@@ -35,6 +35,7 @@ The Fourfold Hearth is a permanent demi plane that resembles a floating island i
 	- **[[Daga Manoo|Daga]]'s** section contains maps, nautical charts, strange souvenirs, musical instruments, and objects he insists are valuable.
 	- **[[Niigani Wewidun|Niigani]]'s** section contains a small shrine, meditation chamber, library, and open balcony where she can observe the sky.
 	- **[[Oliver Strong Bison|Oliver]]** has a room situated between all four sections, deliberately chosen so that he can reach any of them easily.
+- [oodena](https://ojibwe.lib.umn.edu/main-entry/oodena-ni)
 
 ---
 
