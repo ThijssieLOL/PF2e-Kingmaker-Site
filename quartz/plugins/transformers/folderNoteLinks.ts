@@ -36,7 +36,10 @@ export const FolderNoteLinks: QuartzTransformerPlugin = () => {
         ctx.allSlugs.length,
         "folderNotes=",
         folderNotes.size,
-        [...folderNotes.entries()].slice(0, 5),
+        "bareAurelius=",
+        ctx.allSlugs.includes("aurelius" as any),
+        "aureliusMatches=",
+        ctx.allSlugs.filter((s) => String(s).toLowerCase().includes("aurelius")),
       )
 
       return [

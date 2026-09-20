@@ -28,17 +28,3 @@ The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[Th
 ## Ecclesiastical Law & Re-Application
 - Within his own cohort, [[Aurelius]] enforces the "Tradition of Humility" strictly, requiring all new clergy and commandos under his leadership to receive and openly display tattoos of their past sins. The aim is to normalize the priesthood as a collection of redeemed sinners.
 - If a member of the clergy commits a new, grave sin, they can have new tattoos applied. This only happens in rare cases, when they seek forgiveness and wish to rejoin the clergy.
-
-## Known Bearers & Designs
-
-The goddess chooses each design, so no two are alike. What the cohort carries is recorded here; the bearers' own pages describe how the marks sit on them and how they read in daily life.
-
-| Bearer | Placement | Marking | Glow |
-| :----- | :-------- | :------ | :--- |
-| [[Aurelius]] | Forearms and shins | Theft, assault, and the murder of an innocent family | Aureolin White: searing white, haloed gold |
-| [[Gideon]] | Shoulders and collarbones, pooling across the chest and upper back, with tear-like droplets down the spine and arms | "The Heavy Yoke", for his past as "The Wall" for a street syndicate | Gentle amber warmth |
-| [[Julian]] | Throat and collarbones | A stylized, split-tongued serpent, for malicious deceit, rumor-mongering, and the betrayal of street allies | Blinding white |
-| [[Lyra]] | Palms and wrists | Scorched black handprints, for reckless arson and the accidental destruction of a civilian shelter | Molten gold |
-| [[Vespera]] | Collarbones | A broken, unbalanced scale, for pride: a cold calculation that ignored a plea for help | The cracks mend with gold light |
-| [[Tristan]] | Forearms and back | A koi driving upstream through a river of ash and cinders, marking the killing of his parents | Aureolin White |
-| [[Selion]] | Forearms and torso | Black lines, for the unholy powers that once ran in his veins | Darkens rather than glows |
