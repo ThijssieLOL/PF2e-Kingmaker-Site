@@ -37,16 +37,8 @@ Spirits change over time, both on their own and by what is done to them. A spiri
 
 The word covers a wide range: concept spirits, undead spirits, fear spirits, and every other kind that makes its home in the spirit realm. Those are examples, not a tidy taxonomy. Spirit-sight reaches past them all. The [[Ocular of Kaelen]] also sees unreleased souls and ethereal entities, and it shows the parasitic spirits that cling to corrupt, evil people. Those parasites are not born of the person they fasten onto; they attach from outside.
 
-## The Spirit Realm
-The spirit realm is a single plane, parallel to the material world and always beside it. It divides into regions, each with its own character and its own inhabitants. Those regions need not follow the material world's geography, and Aurelius has seen too little of them to map them.
-
-Time passes the same on both sides.
-
-On its own side of the divide, a spirit is a real creature with a life of its own. It hunts and hoards, and it keeps its own ground, as much of it as the spirit can hold.
-
-A spirit's hold on the material world follows its strength. A strong spirit can reach across and act in the material world, and the further it rises in Rank, the more it can do there. Travel between the two realms takes a spirit of high Rank, and the weak ones cannot make the crossing, so they stay in their own country. Where that line falls, Aurelius does not yet know.
-
-A living mortal can enter the spirit realm, though not by any door Aurelius has found. He can see into it through the [[Ocular of Kaelen]], and seeing is all he can do.
+## [[The Spirit Realm]]
+The spirit realm is a single plane, parallel to the material world and always beside it. Its regions need not follow the material world's geography, and time passes the same on both sides. A strong spirit can reach across and act in the material world, and travel between the two realms takes a spirit of high Rank. Aurelius can see into the realm through the [[Ocular of Kaelen]], and he cannot enter it.
 
 ## Perception
 A spirit is invisible and intangible to the living unless the observer has a way to see into the spirit realm. To every other eye the spirit is not there: no shadow and no sound betray it. Speech is no different, and a spirit's [[The Hymnal|verse]] is spoken in the spirit realm without carrying to mortal ears.
@@ -94,4 +86,4 @@ What people make of spirits differs from one culture to the next.
 ## House Notes
 - **Perspective:** The workings of the spirit realm are the GM's to decide.
 - **Rules:** A spirit generally cannot be seen, targeted, or affected by anything that does not specifically perceive or affect spirits.
-- **Related pages:** the [[Spirits Ledger]] for the apparition families and Aurelius's bindings, and the [[Spirit Template]] for documenting an individual spirit.
+- **Related pages:** [[The Spirit Realm]] for the plane itself, the [[Spirits Ledger]] for the apparition families and Aurelius's bindings, and the [[Spirit Template]] for documenting an individual spirit.
