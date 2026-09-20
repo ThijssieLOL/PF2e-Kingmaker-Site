@@ -93,8 +93,10 @@ plugins:
   - source: "@quartz-community/description"
     enabled: true
     order: 70
+  # No math in the vault: the latex plugin still pulls KaTeX CSS/JS from a CDN
+  # on every page, so it is off. Re-enable if `$...$` math is ever added.
   - source: "@quartz-community/latex"
-    enabled: true
+    enabled: false
     options:
       renderEngine: katex
     order: 80
@@ -122,8 +124,10 @@ plugins:
     enabled: true
     options: {}
     order: 45
+  # No page uses a `password` field, so this only wrote an empty
+  # encryptedContentIndex.json and did PBKDF2 work at build time.
   - source: "@quartz-community/encrypted-pages"
-    enabled: true
+    enabled: false
     options:
       iterations: 600000
       passwordField: password
@@ -264,8 +268,9 @@ plugins:
       position: beforeBody
       priority: 15
       display: all
+  # No .excalidraw files, and the plugin fails to load (build warning). Off.
   - source: "@quartz-community/obsidian-plugin-excalidraw"
-    enabled: true
+    enabled: false
     options:
       enableInteraction: true
       darkMode: auto
