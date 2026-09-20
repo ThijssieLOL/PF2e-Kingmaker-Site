@@ -42,7 +42,7 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from: t
 
 ### Apparition Spells
 
-Each of the fourteen families lends one cantrip and one verse of each rank. The cantrip and the 1st-rank verse are set down here, family by family. A verse belongs to the spell, not to the family that lends it, so a spell two families share keeps a single verse and seal sequence. Verses still waiting on their words carry the bare form of the [[Spell Template]].
+Each of the fourteen families lends one cantrip and one verse of each rank. Every verse they lend is set down here, family by family. A verse belongs to the spell, not to the family that lends it, so a spell several families share keeps a single verse and seal sequence. Verses still waiting on their words carry the bare form of the [[Spell Template]].
 
 #### [[Crafter in the Vault]]
 
