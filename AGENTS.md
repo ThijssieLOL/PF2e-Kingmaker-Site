@@ -38,6 +38,24 @@ maintain wiki notes to a high standard — while **strictly respecting vault own
   https://github.com/ThijssieLOL/PF2e-Kingmaker-Site (git remote `origin`). The site is managed
   through this same vault/repo; pushing to GitHub builds and deploys it.
 
+### 2.1 Local Pathfinder 2e reference database (this machine)
+
+A local clone of the Archives of Nethys data lives **outside the vault** and may be read for rules
+lookups (spell components, traits, ranks, sources). It is reference material only — never a vault
+file, never edited, never committed, and its contents never belong in a note beyond a fact you are
+writing.
+
+- Database: `C:\Users\Thijs\Documents\02-Projecten\Pathfinder 2e character builder\pf2e\data\content.db`
+  (SQLite). The project's Python is at `…\Pathfinder 2e character builder\.venv\Scripts\python.exe`.
+- The `retr` table holds every AoN entry. Spells are `category = 'spell'`; the useful columns are
+  `name`, `level`, `traits_text`, `source`, `url`, `markdown`, `body`.
+- Pre-Remaster spells list components on a `**Cast** …` line in `markdown` (e.g. `[somatic]`,
+  `[verbal]`, `[material]`). Remaster spells drop that line and encode components as traits instead
+  — `Manipulate` means a somatic/material component, `Concentrate` a mental one; some entries put
+  the components in the description instead (e.g. Spiritual Torrent).
+- The path is machine-specific. On a device without it, fall back to Archives of Nethys online
+  (spell pages, or the search endpoint `https://elasticsearch.aonprd.com/aon/_search?q=…`).
+
 ## 3. HARD RULES — what you may edit (non-negotiable)
 
 You may **create or modify ONLY** files that fall into one of these categories:
