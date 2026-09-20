@@ -38,22 +38,35 @@ The hands are the other half of the casting. How a run of [[The Star Seals|seals
 
 ## The Recorded Library
 
-Every verse Aurelius has ever set down, sorted by the source he draws it from and by rank within each. The record leaves material components out and keeps the seal sequence inside the somatic line. Nothing leaves this section once it is recorded.
+Every verse Aurelius has ever set down, sorted by the source he draws it from: the apparition verses by family, the focus and divine verses by rank. The record leaves material components out and keeps the seal sequence inside the somatic line. Nothing leaves this section once it is recorded.
 
 ### Apparition Spells
 
-**Cantrips**
+Each of the fourteen families lends one cantrip and one verse of each rank. The cantrip and the 1st-rank verse are set down here, family by family. A verse belongs to the spell, not to the family that lends it, so a spell two families share keeps a single verse and seal sequence. Verses still waiting on their words carry the bare form of the [[Spell Template]].
 
-#### Ignition
-*Cantrip 1 · Attack, Concentrate, Fire, Manipulate · two actions · range 30 feet*
+#### [[Crafter in the Vault]]
 
-- **Manifestation:** A tongue of Aureolin White flame leaps from his open palm at the target.
-- **Verbal Component:** "O Blazing Sun, kindle Thou the flame, that it find him and burn."
-- **Somatic Component:** The Dragon -> The Archer
-- **Sensation:** A dry heat rolls up his arm and the smell of hot stone follows the flame; the target feels the air go tight an instant before it lands.
-- **Residue:** The flame dies into a scatter of white sparks that fall and go out on the ground.
+##### Sigil
+*Cantrip 1 · traits · actions · range*
 
-#### Tangle Vine
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Mending
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Custodian of Groves and Gardens]]
+
+##### Tangle Vine
 *Cantrip 1 · Attack, Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet*
 
 - **Manifestation:** A white-lit vine lances from his palm and coils around the target's legs, trailing light.
@@ -62,9 +75,195 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Sensation:** A cool pull at the wrist as the vine leaves his hand, and the smell of turned soil and cut stems.
 - **Residue:** The vine withers where it lies into a white ash the wind takes.
 
-**1st Rank**
+##### Protector Tree
+*Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
 
-#### Interposing Earth
+- **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, almost made from ethereal light, its leaves pale and glowing.
+- **Verbal Component:** "Thou who keepest every growing thing, set the tree over them and let it hold."
+- **Somatic Component:** The Mother -> The Lantern Bearer
+- **Sensation:** A cool pull in the wrist and the smell of turned soil and cut stems, the same smell the Tangle Vine casting carries.
+- **Residue:** When the tree falls it withers into white ash and a ring of fresh-turned soil.
+
+#### [[Echo of Lost Moments]]
+
+##### Figment
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Déjà Vu
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Impostor in Hidden Places]]
+
+##### Telekinetic Hand
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Ill Omen
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Lamentation of Sinister Deals]]
+
+##### Message
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Sure Strike
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Lurker in Devouring Dark]]
+
+##### Caustic Blast
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Grim Tendrils
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Monarch of the Fey Courts]]
+
+##### Tangle Vine
+*Cantrip 1 · shared with the [[Custodian of Groves and Gardens]]; one verse serves both families.*
+
+##### Charm
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Reveler in Lost Glee]]
+
+##### Prestidigitation
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Dizzying Colors
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Shepherd of Errant Winds]]
+
+##### Slashing Gust
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Tailwind
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Speaker in Sibilance]]
+
+##### Puff of Poison
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Ill Omen
+*Spell 1 · shared with the [[Impostor in Hidden Places]]; one verse serves both families.*
+
+#### [[Stalker in Darkened Boughs]]
+
+##### Gouging Claw
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Runic Body
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Steward of Stone and Fire]]
+
+##### Ignition
+*Cantrip 1 · Attack, Concentrate, Fire, Manipulate · two actions · range 30 feet*
+
+- **Manifestation:** A tongue of Aureolin White flame leaps from his open palm at the target.
+- **Verbal Component:** "O Blazing Sun, kindle Thou the flame, that it find him and burn."
+- **Somatic Component:** The Dragon -> The Archer
+- **Sensation:** A dry heat rolls up his arm and the smell of hot stone follows the flame; the target feels the air go tight an instant before it lands.
+- **Residue:** The flame dies into a scatter of white sparks that fall and go out on the ground.
+
+##### Interposing Earth
 *Spell 1 · Earth, Manipulate · reaction · duration 3 rounds*
 
 - **Manifestation:** A slab of packed earth tears up from the ground and stands before the target, ringed in Aureolin White light, a wall thrown up against the blast.[1](#ref-1)
@@ -73,14 +272,39 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from an
 - **Sensation:** The heat spikes at his hands and drops into his heels as the slab takes the blow. The air carries hot stone and dry ash, and the target feels the floor jump underfoot.
 - **Residue:** The slab breaks into dry clods that hold a faint white edge for a breath, then go dark.
 
-#### Protector Tree
-*Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
+#### [[Vanguard of Roaring Waters]]
 
-- **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, almost made from ethereal light, its leaves pale and glowing.
-- **Verbal Component:** "Thou who keepest every growing thing, set the tree over them and let it hold."
-- **Somatic Component:** The Mother -> The Lantern Bearer
-- **Sensation:** A cool pull in the wrist and the smell of turned soil and cut stems, the same smell the Tangle Vine casting carries.
-- **Residue:** When the tree falls it withers into white ash and a ring of fresh-turned soil.
+##### Rousing Splash
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Hydraulic Push
+*Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+#### [[Witness to Ancient Battles]]
+
+##### Shield
+*Cantrip 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Sure Strike
+*Spell 1 · shared with the [[Lamentation of Sinister Deals]]; one verse serves both families.*
 
 ### Focus Spells
 
