@@ -38,11 +38,11 @@ The hands are the other half of the casting. How a run of [[The Star Seals|seals
 
 ## The Recorded Library
 
-Every verse Aurelius has ever set down, sorted by the source he draws it from: the apparition verses by family, the focus and divine verses by rank. The record leaves material components out and keeps the seal sequence inside the somatic line. Nothing leaves this section once it is recorded.
+Every verse Aurelius has ever set down, sorted by the source he draws it from: the apparition verses by family, the divine verses by rank. The record leaves material components out and keeps the seal sequence inside the somatic line. Nothing leaves this section once it is recorded.
 
 ### Apparition Spells
 
-Each of the fourteen families lends one cantrip and one verse of each rank. Every verse they lend is set down here, family by family. A verse belongs to the spell, not to the family that lends it, so a spell several families share keeps a single verse and seal sequence. Verses still waiting on their words carry the bare form of the [[Spell Template]].
+Each of the fourteen families lends one cantrip, one verse of each rank, and a vessel spell. Every verse they lend is set down here, family by family. A verse belongs to the spell, not to the family that lends it, so a spell several families share keeps a single verse and seal sequence. Verses still waiting on their words carry the bare form of the [[Spell Template]].
 
 #### [[Crafter in the Vault]]
 
@@ -129,6 +129,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 
 ##### Resplendent Mansion
 *Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+**Vessel Spell**
+
+##### Traveling Workshop
+*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -228,6 +239,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 - **Sensation:**
 - **Residue:**
 
+**Vessel Spell**
+
+##### Garden of Healing
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Echo of Lost Moments]]
 
 ##### Figment
@@ -313,6 +335,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 
 ##### Foresight
 *Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+**Vessel Spell**
+
+##### Store Time
+*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -412,6 +445,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 - **Sensation:**
 - **Residue:**
 
+**Vessel Spell**
+
+##### Discomfiting Whisper
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Lamentation of Sinister Deals]]
 
 ##### Message
@@ -491,6 +535,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 
 ##### Resplendent Mansion
 *Spell 9 · shared with the [[Crafter in the Vault]]; one verse serves both families.*
+
+**Vessel Spell**
+
+##### Wish Market
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 #### [[Lurker in Devouring Dark]]
 
@@ -584,6 +639,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 - **Sensation:**
 - **Residue:**
 
+**Vessel Spell**
+
+##### Devouring Dark Form
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Monarch of the Fey Courts]]
 
 ##### Tangle Vine
@@ -670,6 +736,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 - **Sensation:**
 - **Residue:**
 
+**Vessel Spell**
+
+##### Nymph's Grace
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Reveler in Lost Glee]]
 
 ##### Prestidigitation
@@ -743,6 +820,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 
 ##### Wails of the Damned
 *Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+**Vessel Spell**
+
+##### Trickster's Mirrors
+*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -836,6 +924,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 - **Sensation:**
 - **Residue:**
 
+**Vessel Spell**
+
+##### Gift of the Anemos
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Speaker in Sibilance]]
 
 ##### Puff of Poison
@@ -903,6 +1002,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 
 ##### Unfathomable Song
 *Spell 9 · shared with the [[Monarch of the Fey Courts]]; one verse serves both families.*
+
+**Vessel Spell**
+
+##### Crown of Prophets
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 #### [[Stalker in Darkened Boughs]]
 
@@ -990,6 +1100,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 ##### Wrathful Storm
 *Spell 9 · shared with the [[Shepherd of Errant Winds]] and the [[Vanguard of Roaring Waters]]; one verse serves all three families.*
 
+**Vessel Spell**
+
+##### Darkened Forest Form
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Steward of Stone and Fire]]
 
 ##### Ignition
@@ -1075,6 +1196,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
+
+**Vessel Spell**
+
+##### Earth's Bile
+*Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
+
+- **Manifestation:** White fire and broken stone boil up from the ground in a ten-foot burst, and the earth breaks and burns.
+- **Verbal Component:** "O Blazing Sun, open Thou the earth, and let its bile rise."
+- **Somatic Component:** The Dragon -> The Wagon
+- **Sensation:** A heavy heat rises through his feet and out of his hands; hot stone and ash sit on the air, and the ground hums underfoot.
+- **Residue:** A shallow crater of cracked, still-warm stone, with white light fading in the seams.
 
 #### [[Vanguard of Roaring Waters]]
 
@@ -1162,6 +1294,17 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 ##### Wrathful Storm
 *Spell 9 · shared with the [[Shepherd of Errant Winds]] and the [[Stalker in Darkened Boughs]]; one verse serves all three families.*
 
+**Vessel Spell**
+
+##### River Carving Mountains
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Witness to Ancient Battles]]
 
 ##### Shield
@@ -1236,18 +1379,16 @@ Each of the fourteen families lends one cantrip and one verse of each rank. Ever
 - **Sensation:**
 - **Residue:**
 
-### Focus Spells
+**Vessel Spell**
 
-**1st Rank**
+##### Embodiment of Battle
+*Focus 1 · traits · actions · range*
 
-#### Earth's Bile
-*Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
-
-- **Manifestation:** White fire and broken stone boil up from the ground in a ten-foot burst, and the earth breaks and burns.
-- **Verbal Component:** "O Blazing Sun, open Thou the earth, and let its bile rise."
-- **Somatic Component:** The Dragon -> The Wagon
-- **Sensation:** A heavy heat rises through his feet and out of his hands; hot stone and ash sit on the air, and the ground hums underfoot.
-- **Residue:** A shallow crater of cracked, still-warm stone, with white light fading in the seams.
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Divine Spell List
 
