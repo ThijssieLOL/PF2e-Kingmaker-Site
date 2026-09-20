@@ -13,6 +13,8 @@ aliases:
 ## Overview
 Spirits are the beings that live in the spirit realm, the plane that lies alongside the material world. The kinds within it differ sharply from one another. What they share is where they live, not a shape or a temper.
 
+This page sets down [[Aurelius]]'s understanding of spirits, the working model he has built from what the [[Ocular of Kaelen]] shows him and from the spirits he has met, bound, and argued with. He holds it as incomplete. The realm is larger than any one tradition's map of it, his own included.
+
 ### Quick Facts
 - **Realm:** The spirit realm, a single plane parallel to the material world.
 - **Perception:** Invisible and intangible without a method of spirit-sight, such as the [[Ocular of Kaelen]].
