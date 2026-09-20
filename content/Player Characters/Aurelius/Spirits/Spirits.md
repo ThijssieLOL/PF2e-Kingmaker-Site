@@ -17,30 +17,51 @@ This page sets down [[Aurelius]]'s understanding of spirits, the working model h
 
 ### Quick Facts
 - **Realm:** The spirit realm, a single plane parallel to the material world.
-- **Perception:** Invisible and intangible without a method of spirit-sight, such as the [[Ocular of Kaelen]].
+- **Origin:** Born of what the living world leaves behind, such as a memory, a fear, or a will.
+- **Perception:** Invisible and intangible without spirit-sight, such as the [[Ocular of Kaelen]].
+- **Mind:** Conscious, and clever in step with its Rank.
 - **Rank:** A spirit's power is its **Rank**, the highest apparition spell it can carry.
-- **Mortality:** Spirits are not alive and do not die. They can be sealed, dispersed, scattered, or re-formed.
+- **Mortality:** Spirits cannot be killed; the furthest an act reaches is banishment from the spirit realm.
 - **Known Families:** Fourteen apparition families, and a great many spirits that belong to none of them.
 
 ## Nature of Spirits
-Strictly speaking, a spirit is a thing that lives in the spirit realm. It is not alive, and it does not die: it can be sealed, dispersed, scattered, or re-formed, and none of that destroys the being itself.
+A spirit is a thing that lives in the spirit realm. It is not alive, and it cannot be killed. What can be done to one depends on the act: a spirit can be sealed, broken apart, or driven off, and none of it ends the being. The furthest any act reaches is banishment, casting the spirit out of the spirit realm and into some other plane.
 
-The word covers a wide range: concept spirits, undead spirits, fear spirits, and every other kind that makes its home in the spirit realm. Spirit-sight reaches past them. The [[Ocular of Kaelen]] also sees unreleased souls and ethereal entities, and it shows the parasitic spirits that cling to corrupt, evil people.
+Spirits come from the living world, though not from living flesh. A memory, a fear, a will, a death that will not settle, a place that holds its own history: any of these, if it carries enough weight, can take on a life of its own in the spirit realm. What a spirit is made of shapes what it is. Some spirits were souls first, taken in and bound by the spirit realm, though not every soul meets that end.
+
+A spirit is a conscious creature. It thinks, wants, and chooses, and how much of that it can do follows its Rank. A ranked spirit is a thinking being, and the higher the Rank, the more it can hold in mind; the lesser spirits below Rank 1 have the least of it.
+
+Spirits do not eat, sleep, or rest. They are not alive, and nothing in them wears out the way a body does.
+
+Spirits change over time, both on their own and by what is done to them. A spirit's Rank is not fixed; it can rise or fall as the spirit does.
+
+The word covers a wide range: concept spirits, undead spirits, fear spirits, and every other kind that makes its home in the spirit realm. Those are examples, not a tidy taxonomy. Spirit-sight reaches past them all. The [[Ocular of Kaelen]] also sees unreleased souls and ethereal entities, and it shows the parasitic spirits that cling to corrupt, evil people. Those parasites are not born of the person they fasten onto; they attach from outside.
 
 ## The Spirit Realm
-The spirit realm is a single plane, parallel to the material world and always beside it. Like the material realm, it divides into regions, each with its own character and its own inhabitants. A living mortal can enter it.
+The spirit realm is a single plane, parallel to the material world and always beside it. It divides into regions, each with its own character and its own inhabitants. Those regions need not follow the material world's geography, and Aurelius has seen too little of them to map them.
 
-On its own side of the divide, a spirit is a real creature with a life of its own. It hunts and hoards, and it keeps its own ground.
+Time passes the same on both sides.
 
-A spirit's hold on the material world follows its strength. A strong spirit can reach across and act in the material world, but travel between the two realms takes a spirit of high Rank. The weak ones cannot make the crossing, so they stay in their own country.
+On its own side of the divide, a spirit is a real creature with a life of its own. It hunts and hoards, and it keeps its own ground, as much of it as the spirit can hold.
+
+A spirit's hold on the material world follows its strength. A strong spirit can reach across and act in the material world, and the further it rises in Rank, the more it can do there. Travel between the two realms takes a spirit of high Rank, and the weak ones cannot make the crossing, so they stay in their own country. Where that line falls, Aurelius does not yet know.
+
+A living mortal can enter the spirit realm, though not by any door Aurelius has found. He can see into it through the [[Ocular of Kaelen]], and seeing is all he can do.
 
 ## Perception
 A spirit is invisible and intangible to the living unless the observer has a way to see into the spirit realm. To every other eye the spirit is not there: no shadow and no sound betray it. Speech is no different, and a spirit's [[The Hymnal|verse]] is spoken in the spirit realm without carrying to mortal ears.
 
-In practice, seeing spirits means spirit-sight: the [[Ocular of Kaelen]], or whatever other method opens the same door. The sight is not free. Channeling it strains the bearer's body and mind, and places thick with the newly dead, such as fresh battlefields, overload it. The strain eases as the bearer's spiritual power grows.
+In practice, seeing spirits means spirit-sight: the [[Ocular of Kaelen]], or whatever other method opens the same door. Aurelius knows of no other. The sight is not free. Channeling it strains the bearer's body and mind, and places thick with the newly dead, such as fresh battlefields, overload it. The strain eases as the bearer's spiritual power grows.
+
+The blindness is not always one-way. A parasitic spirit can perceive the person it clings to, and other spirits may or may not, each by its own nature. A spirit can show itself to someone with no spirit-sight only if it stands very high in Rank.
+
+### The Spirit Tongue
+Every spirit speaks the one spirit tongue, a speech that carries in the spirit realm and not to mortal ears. Some spirits know other languages besides.
 
 ## Rank
 A spirit's power is measured by its **Rank**, the highest apparition spell it can carry. Rank carries no title and no grade, only a number, and it stands apart from the caster's own level. A binder can hold a spirit of a given Rank once they can cast apparition spells of that rank.
+
+A spirit is as strong as what made it: the weight of the memory, the depth of the fear, the force of the will behind it. Rank is not fixed. A spirit can rise or fall over time, on its own or by what is done to it.
 
 | Spirit Rank | Carries | When a binder can hold it |
 | :---------- | :------ | :------------------------ |
@@ -54,11 +75,15 @@ A spirit's power is measured by its **Rank**, the highest apparition spell it ca
 | **Rank 8** | 8th-rank apparition spell | Level 15 |
 | **Rank 9** | 9th-rank apparition spell | Level 17 |
 
+Above Rank 9, Aurelius does not know what lies. The spirits that called him to the Stolen Lands stayed beyond even the [[Ocular of Kaelen]]'s reach, and he has no name for their order.
+
 ### Lesser Spirits
-Below Rank 1 sit the **lesser spirits**: countless small beings, most of them tied to a single concept, too weak to carry an apparition spell. The [[The Celestial Calling|Celestial Calling]] builds its faith on them and describes them in its own terms, holding that a lesser spirit grows toward awareness the longer it stays near its concept, and that one which witnesses a masterpiece can rise to become a greater spirit, or muse.
+Below Rank 1 sit the **lesser spirits**: countless small beings, gathered under one name because beside the ranked spirits their differences in power count for little. Most are tied to a single concept, and they think the way an insect or a small animal thinks, aware of that concept and little else. A lesser spirit can belong to an apparition family, and many do.
+
+The [[The Celestial Calling|Celestial Calling]] builds its faith on them and reads them as the first rung of an ascent, though Aurelius has seen no such climb in the realm itself.
 
 ## The [[Spirits Ledger|Apparition Families]]
-The apparitions are the spirits the animist tradition knows best: fourteen families, each with a nature, an origin, and a repertoire of power of its own. The [[Spirits Ledger]] catalogues them family by family, and each family has its own page. Individual spirits are documented with the [[Spirit Template]]. Those fourteen are the families Aurelius has met; the spirit realm is large.
+The apparitions are the spirits the animist tradition knows best: fourteen families, each with a nature, an origin, and a repertoire of power of its own. The [[Spirits Ledger]] catalogues them family by family, and each family has its own page. Individual spirits are documented with the [[Spirit Template]]. Those fourteen are the families Aurelius has met; the spirit realm is large. What the families he has never met look like, or how many spirits belong to none at all, he cannot say.
 
 ## Beliefs and Traditions
 What people make of spirits differs from one culture to the next.
