@@ -2,13 +2,7 @@ import { Root } from "hast"
 import { VFile } from "vfile"
 import { QuartzTransformerPlugin } from "../types"
 import { BuildCtx } from "../../util/ctx"
-import {
-  FullSlug,
-  resolveRelative,
-  SimpleSlug,
-  simplifySlug,
-  stripSlashes,
-} from "../../util/path"
+import { FullSlug, resolveRelative, SimpleSlug, simplifySlug, stripSlashes } from "../../util/path"
 
 /**
  * Quartz treats a note named after its folder (`X/X.md`) as that folder's index
@@ -40,7 +34,8 @@ export const FolderNoteLinks: QuartzTransformerPlugin = () => {
 
       return [
         () => (tree: Root, file: VFile) => {
-          const pageSlug = typeof file.data.slug === "string" ? (file.data.slug as FullSlug) : undefined
+          const pageSlug =
+            typeof file.data.slug === "string" ? (file.data.slug as FullSlug) : undefined
           if (!pageSlug) return
           const outgoing = Array.isArray(file.data.links)
             ? (file.data.links as string[])
