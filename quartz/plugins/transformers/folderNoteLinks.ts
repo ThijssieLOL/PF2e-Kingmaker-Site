@@ -2,7 +2,15 @@ import { Root } from "hast"
 import { VFile } from "vfile"
 import { QuartzTransformerPlugin } from "../types"
 import { BuildCtx } from "../../util/ctx"
-import { FullSlug, resolveRelative, SimpleSlug, simplifySlug, stripSlashes } from "../../util/path"
+import {
+  FilePath,
+  FullSlug,
+  resolveRelative,
+  SimpleSlug,
+  simplifySlug,
+  slugifyFilePath,
+  stripSlashes,
+} from "../../util/path"
 
 /**
  * Quartz treats a note named after its folder (`X/X.md`) as that folder's index
@@ -14,6 +22,12 @@ import { FullSlug, resolveRelative, SimpleSlug, simplifySlug, stripSlashes } fro
  * resolved target is missing but whose final segment names a folder note,
  * pointing it at the folder page instead. Vault links stay clean; the fix lives
  * in the build.
+ *
+ * A note that also carries its own name as an alias (`Aurelius` on `Aurelius.md`)
+ * makes the bare slug look resolvable, so the repair is skipped and the graph
+ * loses the edge. The alias only ever redirects to the same folder page, so the
+ * check runs against the real file slugs instead of `ctx.allSlugs`, which the
+ * note-properties plugin pads with alias slugs.
  */
 const INDEX_SUFFIX = "/index"
 
@@ -21,7 +35,9 @@ export const FolderNoteLinks: QuartzTransformerPlugin = () => {
   return {
     name: "FolderNoteLinks",
     htmlPlugins(ctx: BuildCtx) {
-      const knownSlugs = new Set<string>(ctx.allSlugs)
+      const knownSlugs = new Set<string>(
+        ctx.allFiles.map((fp) => slugifyFilePath(fp as FilePath) as string),
+      )
       const folderNotes = new Map<string, string>()
       for (const slug of ctx.allSlugs) {
         if (!slug.endsWith(INDEX_SUFFIX)) continue
@@ -31,16 +47,6 @@ export const FolderNoteLinks: QuartzTransformerPlugin = () => {
           folderNotes.set(name, folder)
         }
       }
-      console.error(
-        "[FolderNoteLinks DEBUG] allSlugs=",
-        ctx.allSlugs.length,
-        "folderNotes=",
-        folderNotes.size,
-        "bareAurelius=",
-        ctx.allSlugs.includes("aurelius" as any),
-        "aureliusMatches=",
-        ctx.allSlugs.filter((s) => String(s).toLowerCase().includes("aurelius")),
-      )
 
       return [
         () => (tree: Root, file: VFile) => {
@@ -68,7 +74,6 @@ export const FolderNoteLinks: QuartzTransformerPlugin = () => {
                   const name = canonical.split("/").pop()
                   const folder = name ? folderNotes.get(name) : undefined
                   if (folder) {
-                    console.error("[FolderNoteLinks DEBUG] repair", dataSlug, "->", folder)
                     props.href = resolveRelative(pageSlug, folder as SimpleSlug) + "/"
                     props["data-slug"] = folder + INDEX_SUFFIX
                     if (outgoing) outgoing.push(simplifySlug(folder + INDEX_SUFFIX))
