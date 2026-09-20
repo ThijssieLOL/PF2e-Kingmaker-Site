@@ -36,6 +36,11 @@ the braindump raises a specific relationship, give that its own section (for exa
 
 The template is a checklist of fields the finished page expects. It is not a question bank.
 
+**Number every question.** The numbering runs continuously from 1 across all the subsections, so the
+user can answer by number. Keep the numbers stable: when a question is answered, mark it answered in
+place and re-issue the numbered list after processing, rather than renumbering the rest. Never send a
+brainstorm list unnumbered, including a re-sent or updated one.
+
 Cover two kinds of ground:
 
 - **Grounded questions** on what the user already told you: the names, dates, relationships, and
@@ -76,5 +81,5 @@ finish.
 ## Reporting back
 
 Vault rules on voice, headings, page layout, and the guard are in `AGENTS.md` §6 and §7.2 — read
-them there, do not restate them here. Keep your own reply to the questionnaire short: the questions,
-grouped under subsections, with a one-line note on which template you matched.
+them there, do not restate them here. Keep your own reply to the questionnaire short: the numbered
+questions, grouped under subsections, with a one-line note on which template you matched.
