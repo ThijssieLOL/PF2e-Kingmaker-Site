@@ -1,4 +1,5 @@
 ---
+agent-editable: true
 tags:
   - session
 session_num: "1"
@@ -33,8 +34,8 @@ A brief 1-2 sentence summary of the key events of the session.
 
 ---
 
-## Active Characters
-- **[[Character Link]]:** Notable actions or character beats from the session.
+## Active NPCs
+- **[[NPC Link]]:** Notable actions or character beats from the session.
 
 ---
 
