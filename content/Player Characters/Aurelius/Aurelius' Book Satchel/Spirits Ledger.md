@@ -21,15 +21,15 @@ His **Binding Ledger** is the personal catalogue he keeps of these families and 
 
 ### The Naming
 
-A spirit is bound when its binder gives it a name, and not before. Until then it has only been met, fought, or bargained with. Aurelius can name only a spirit he is qualified to bind, one whose Rank his vessel can hold. A spirit of a lower Rank than the highest he can command submits to the name when he gives it. If a spirit will not submit, he must first defeat it in combat, and he names it where it falls.
+A spirit is bound when its binder gives it a name, and not before. Until then it has only been met, fought, or bargained with. Aurelius can name only a spirit he is qualified to bind, one whose Rank his vessel can hold, and a spirit of a lower Rank than the highest he can command submits to the name when he gives it.
 
 ### The Names He Gives
 
 Aurelius calls every spirit he binds **The** something: [[The Court of One]], [[The Grazer]], [[The Hedge]], [[The Piper]], [[The Reacher]], [[The Reflection]], [[The Swallower]]. The name is his, spoken at the binding. Each spirit keeps its own name besides, the one it carried before, and the two are not the same.
 
-### The Vessel & Attunement
+### The Attunement
 
-Each day during his morning preparations, Aurelius attunes to a selection of the spirits he has bound: two at first, a third from 7th level, a fourth from 15th. One is his **primary** spirit for the day, lending its vessel spell. Binding is permanent and personal; attunement is daily and practical. Unbound spirits wait in the spirit realm, patient as old debts.
+Each day during his morning preparations, Aurelius attunes to a selection of the spirits he has bound: two at first, a third from 7th level, a fourth from 15th. One of them is his **primary** spirit for the day. Binding is permanent and personal; attunement is daily and practical. Unbound spirits wait in the spirit realm, patient as old debts.
 
 ### Seeking New Spirits
 

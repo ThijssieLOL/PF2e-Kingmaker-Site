@@ -35,15 +35,15 @@ Spirits do not eat, sleep, or rest. They are not alive, and nothing in them wear
 
 Spirits change over time, both on their own and by what is done to them. A spirit's Rank is not fixed; it can rise or fall as the spirit does.
 
-The word covers a wide range: concept spirits, undead spirits, fear spirits, and every other kind that makes its home in the spirit realm. Those are examples, not a tidy taxonomy. Spirit-sight reaches past them all. The [[Ocular of Kaelen]] also sees unreleased souls and ethereal entities, and it shows the parasitic spirits that cling to corrupt, evil people. Those parasites are not born of the person they fasten onto; they attach from outside.
+The word covers a wide range: concept spirits, undead spirits, fear spirits, and every other kind that makes its home in the spirit realm. Those are examples, not a tidy taxonomy. Spirit-sight reaches past them all, to unreleased souls, ethereal entities, and the parasitic spirits that cling to corrupt, evil people. Those parasites are not born of the person they fasten onto; they attach from outside.
 
 ## [[The Spirit Realm]]
 The spirit realm is a single plane, parallel to the material world and always beside it. Its regions need not follow the material world's geography, and time passes the same on both sides. A strong spirit can reach across and act in the material world, and travel between the two realms takes a spirit of high Rank. Aurelius can see into the realm through the [[Ocular of Kaelen]], and he cannot enter it.
 
 ## Perception
-A spirit is invisible and intangible to the living unless the observer has a way to see into the spirit realm. To every other eye the spirit is not there: no shadow and no sound betray it. Speech is no different, and a spirit's [[The Hymnal|verse]] is spoken in the spirit realm without carrying to mortal ears.
+A spirit is invisible and intangible to the living unless the observer has a way to see into the spirit realm. To every other eye the spirit is not there: no shadow and no sound betray it. Speech is no different, and a spirit's [[The Hymnal|verse]] is spoken in the spirit realm.
 
-In practice, seeing spirits means spirit-sight: the [[Ocular of Kaelen]], or whatever other method opens the same door. Aurelius knows of no other. The sight is not free. Channeling it strains the bearer's body and mind, and places thick with the newly dead, such as fresh battlefields, overload it. The strain eases as the bearer's spiritual power grows.
+In practice, seeing spirits means spirit-sight. The one Aurelius knows is the [[Ocular of Kaelen]], and he has found no other; the sight is not free.
 
 The blindness is not always one-way. A parasitic spirit can perceive the person it clings to, and other spirits may or may not, each by its own nature. A spirit can show itself to someone with no spirit-sight only if it stands very high in Rank.
 

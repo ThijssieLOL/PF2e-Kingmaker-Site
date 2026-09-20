@@ -64,7 +64,7 @@ He shows the marks openly in public as proof of the sun goddess' infinite capaci
 - **Physical Honesty:** Aurelius never hides physical injuries or fatigue from his companions. Commando training taught him that masked wounds endanger the team, so he reports his physical status with absolute, practical candor.
 - **Subconscious Somatic Gestures:** At rest, his fingers trace the [[The Star Seals|Star Seals]] or twitch as if holding a scribe's feather.
 - **Inaudible Speech:** When he speaks with spirits, his lips move in rapid, silent patterns on a spatial frequency inaudible to human ears.
-- **Spirit Overload:** Fresh battlefields and sites of mass tragedy flood the [[Ocular of Kaelen]] with spiritual echoes, and he retreats into quiet meditation until they pass.
+- **Spirit Overload:** When his [[Ocular of Kaelen]] is overwhelmed, he retreats into quiet meditation until it passes.
 
 ### Trauma Response: "The Eclipse"
 - **The Executioner Persona:** When he meets unsalvageable cruelty, severe blasphemy, or deep personal trauma, Aurelius enters a total psychological shutdown known as **The Eclipse**. His gentle warmth vanishes, replaced by a terrifying, cold, emotionless executioner state.
