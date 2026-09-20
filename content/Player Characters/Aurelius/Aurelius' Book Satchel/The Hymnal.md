@@ -64,6 +64,78 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Sensation:**
 - **Residue:**
 
+##### Knock
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Ghostly Weapon
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Creation
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Impaling Spike
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Wall of Metal
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Beheading Buzz Saw
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Ferrous Form
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Resplendent Mansion
+*Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Custodian of Groves and Gardens]]
 
 ##### Tangle Vine
@@ -84,6 +156,78 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Sensation:** A cool pull in the wrist and the smell of turned soil and cut stems, the same smell the Tangle Vine casting carries.
 - **Residue:** When the tree falls it withers into white ash and a ring of fresh-turned soil.
 
+##### Gentle Breeze
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Safe Passage
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Peaceful Bubble
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Truespeech
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Field of Life
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Lifewood Cage
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Moment of Renewal
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Nature's Enmity
+*Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Echo of Lost Moments]]
 
 ##### Figment
@@ -97,6 +241,78 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 ##### Déjà Vu
 *Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Dispel Magic
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Curse of Lost Time
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Vision of Death
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Illusory Scene
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Phantasmal Calamity
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Retrocognition
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Quandary
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Foresight
+*Spell 9 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -124,6 +340,78 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Sensation:**
 - **Residue:**
 
+##### Invisibility
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:** -
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Veil of Privacy
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Liminal Doorway
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Strange Geometry
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Mislead
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Planar Palace
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Disappearance
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:** -
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Phantasmagoria
+*Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Lamentation of Sinister Deals]]
 
 ##### Message
@@ -143,6 +431,66 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
+
+##### Blistering Invective
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Hypercognition
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:** -
+- **Sensation:**
+- **Residue:**
+
+##### Honeyed Words
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Breath of Life
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:** -
+- **Sensation:**
+- **Residue:**
+
+##### Sacred Form
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Contingency
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Moment of Renewal
+*Spell 8 · shared with the [[Custodian of Groves and Gardens]]; one verse serves both families.*
+
+##### Resplendent Mansion
+*Spell 9 · shared with the [[Crafter in the Vault]]; one verse serves both families.*
 
 #### [[Lurker in Devouring Dark]]
 
@@ -164,6 +512,78 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Sensation:**
 - **Residue:**
 
+##### Acid Grip
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Aqueous Orb
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Grasp of the Deep
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Wall of Ice
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Frost Pillar
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Hungry Depths
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Arctic Rift
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Implosion
+*Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Monarch of the Fey Courts]]
 
 ##### Tangle Vine
@@ -171,6 +591,78 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 ##### Charm
 *Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Create Food
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Enthrall
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Suggestion
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Hallucination
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:** -
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Dominate
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Mask of Terror
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Uncontrollable Dance
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Unfathomable Song
+*Spell 9 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -198,6 +690,66 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Sensation:**
 - **Residue:**
 
+##### Laughing Fit
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Hypnotize
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Confusion
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Illusory Scene
+*Spell 5 · shared with the [[Echo of Lost Moments]]; one verse serves both families.*
+
+##### Vibrant Pattern
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:** -
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Warp Mind
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Quandary
+*Spell 8 · shared with the [[Echo of Lost Moments]]; one verse serves both families.*
+
+##### Wails of the Damned
+*Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Shepherd of Errant Winds]]
 
 ##### Slashing Gust
@@ -211,6 +763,72 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 ##### Tailwind
 *Spell 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Propulsive Breeze
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Wall of Wind
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Vapor Form
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Scouting Eye
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Mislead
+*Spell 6 · shared with the [[Impostor in Hidden Places]]; one verse serves both families.*
+
+##### Vacuum
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Punishing Winds
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Wrathful Storm
+*Spell 9 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -232,6 +850,60 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 ##### Ill Omen
 *Spell 1 · shared with the [[Impostor in Hidden Places]]; one verse serves both families.*
 
+##### Stupefy
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Hypercognition
+*Spell 3 · shared with the [[Lamentation of Sinister Deals]]; one verse serves both families.*
+
+##### Snake Fangs
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Slither
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Petrify
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Mask of Terror
+*Spell 7 · shared with the [[Monarch of the Fey Courts]]; one verse serves both families.*
+
+##### Unrelenting Observation
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Unfathomable Song
+*Spell 9 · shared with the [[Monarch of the Fey Courts]]; one verse serves both families.*
+
 #### [[Stalker in Darkened Boughs]]
 
 ##### Gouging Claw
@@ -251,6 +923,72 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
+
+##### Vomit Swarm
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Wall of Thorns
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Bestial Curse
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Moon Frenzy
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Tangling Creepers
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Unfettered Pack
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Monstrosity Form
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Wrathful Storm
+*Spell 9 · shared with the [[Shepherd of Errant Winds]] and the [[Vanguard of Roaring Waters]]; one verse serves all three families.*
 
 #### [[Steward of Stone and Fire]]
 
@@ -272,6 +1010,72 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Sensation:** The heat spikes at his hands and drops into his heels as the slab takes the blow. The air carries hot stone and dry ash, and the target feels the floor jump underfoot.
 - **Residue:** The slab breaks into dry clods that hold a faint white edge for a breath, then go dark.
 
+##### Exploding Earth
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Fireball
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Wall of Fire
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Wall of Stone
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Petrify
+*Spell 6 · shared with the [[Speaker in Sibilance]]; one verse serves both families.*
+
+##### Volcanic Eruption
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Earthquake
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Falling Stars
+*Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
 #### [[Vanguard of Roaring Waters]]
 
 ##### Rousing Splash
@@ -292,6 +1096,72 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Sensation:**
 - **Residue:**
 
+##### Mist
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Crashing Wave
+*Spell 3 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Hydraulic Torrent
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Control Water
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Personal Ocean
+*Spell 6 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Dancing Fountain
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Whirlpool
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Wrathful Storm
+*Spell 9 · shared with the [[Shepherd of Errant Winds]] and the [[Stalker in Darkened Boughs]]; one verse serves all three families.*
+
 #### [[Witness to Ancient Battles]]
 
 ##### Shield
@@ -305,6 +1175,66 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 ##### Sure Strike
 *Spell 1 · shared with the [[Lamentation of Sinister Deals]]; one verse serves both families.*
+
+##### Enlarge
+*Spell 2 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Ghostly Weapon
+*Spell 3 · shared with the [[Crafter in the Vault]]; one verse serves both families.*
+
+##### Weapon Storm
+*Spell 4 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Invoke Spirits
+*Spell 5 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Phantasmal Calamity
+*Spell 6 · shared with the [[Echo of Lost Moments]]; one verse serves both families.*
+
+##### True Target
+*Spell 7 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:** -
+- **Sensation:**
+- **Residue:**
+
+##### Canticle of Everlasting Grief
+*Spell 8 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
+
+##### Weapon of Judgment
+*Spell 9 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Focus Spells
 
