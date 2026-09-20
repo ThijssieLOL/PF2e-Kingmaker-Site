@@ -469,15 +469,6 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Sensation:**
 - **Residue:**
 
-#### Summon Undead
-*Spell 1 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
 **2nd Rank**
 
 #### Banishing Touch
@@ -544,15 +535,6 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Residue:**
 
 #### Dispel Magic
-*Spell 2 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-#### Ghoulish Cravings
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -735,15 +717,6 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Residue:**
 
 #### Roaring Applause
-*Spell 3 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-#### Rouse Skeletons
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1246,15 +1219,6 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 - **Sensation:**
 - **Residue:**
 
-#### Tempest of Shades
-*Spell 7 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
 **8th Rank**
 
 #### Canticle of Everlasting Grief
@@ -1332,15 +1296,6 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 **9th Rank**
 
 #### Beseech Arcanotheign
-*Spell 9 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-#### Call Fluxwraith
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
