@@ -286,13 +286,12 @@ layout:
     content: {}
     folder:
       exclude:
-        - reader-mode
         # Folder pages also serve folder-notes (a note named like its folder, e.g.
-        # Aurelius). The graph plugin cannot resolve those pages to a node and
-        # draws a single meaningless dot, so the graph is dropped here; tag pages
-        # keep theirs. The full package name is required because `exclude`
-        # matches the raw source string, which is also why `reader-mode` is inert.
-        - "@quartz-community/graph"
+        # Aurelius). Those resolve to their real node, and linkless folder pages
+        # are given child edges by the FolderGraph page type, so the graph is
+        # kept here. The full package name is required because `exclude` matches
+        # the raw source string, which is also why `reader-mode` is inert.
+        - reader-mode
     tag:
       exclude:
         - reader-mode
