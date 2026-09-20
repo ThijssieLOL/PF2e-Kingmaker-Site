@@ -13,13 +13,22 @@ status: Active
 
 ## Overview
 
-The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Each [[The Grade System|grade]] from Spark (9) to Solstice (2) has its own **primary outfit**; the **secondary outfit** follows the chancellery a cleric belongs to. The vestments carry no armor; a cleric who expects combat wears their own armor as a separate kit. Grade 1 and Grade 0 wear no vestment at all.
+The outfits worn by the clergy of [[The Church of the Eternal Blazing Sun]]. Each [[The Grade System|grade]] from Spark (9) to Solstice (2) has its own **primary vestment**, and every cleric wears the emblem of their chancellery on it. The **secondary vestment** is the working dress, worn in the workplace, and it carries a chancellery distinction of its own. The vestments carry no armor; a cleric who expects combat wears their own armor as a separate kit. Grade 1 and Grade 0 wear no vestment at all.
 
 *(To be filled in.)*
 
 ### Quick Facts
 - **Primary Vestment:** Determined by grade
-- **Secondary Vestment:** Determined by chancellery
+- **Chancellery Emblem:** Worn on the primary vestment
+- **Secondary Vestment:** Working dress, determined by chancellery
+
+---
+
+## Chancellery Emblems
+
+Every cleric wears the emblem of their own chancellery on their primary vestment. Grade sets the vestment; the emblem worn on it shows which chancellery the cleric serves.
+
+The secondary vestment is the working dress, worn in the workplace rather than at ceremony. It carries a distinguishing factor of the chancellery as well, and that factor is left open for now.
 
 ---
 

@@ -1,5 +1,5 @@
 ---
-agent-editable: true
+agent-editable: false
 tags:
   - character
   - pc
@@ -7,7 +7,7 @@ aliases:
   - Jovian Larmelli
 ancestry: Human/Aiuvarin
 class: Bard
-faction:
+faction: "-"
 status: Alive
 ---
 
