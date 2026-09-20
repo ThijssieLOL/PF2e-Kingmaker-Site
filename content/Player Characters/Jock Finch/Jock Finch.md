@@ -23,7 +23,7 @@ A brief 1-2 sentence summary of who this character is and their role.
 - **Ancestry/Species:** Human/Aiuvarin
 - **Class/Profession:** Bard
 - **Affiliation:** -
-- **Role/Rank:** 
+- **Role/Rank:** -
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
