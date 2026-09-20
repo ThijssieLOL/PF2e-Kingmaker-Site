@@ -18,8 +18,8 @@ status: Alive
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** 
-- **Ancestry/Species:** 
+- **Full Name:** [akwa'waa](https://ojibwe.lib.umn.edu/main-entry/akwa-waa-vai)
+- **Ancestry/Species:** [giigoonh](https://ojibwe.lib.umn.edu/main-entry/giigoonh-na)
 - **Class/Profession:** 
 - **Affiliation:** 
 - **Role/Rank:** 
