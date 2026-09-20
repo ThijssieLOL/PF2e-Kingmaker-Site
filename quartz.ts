@@ -9,17 +9,27 @@ const config = await loadQuartzConfig()
 // trailing `/index` that every folder note and folder page carries. Its own node
 // keys keep it, so the two never meet and the page draws as a lone dot. Point the
 // lookup at the page's real slug; both sides then agree.
+let sawGraph = false
+let patchedGraph = false
 for (const component of componentRegistry.getAllComponents()) {
-  const patch = (script: string) =>
-    script.includes("[Graph]") && script.includes("window.location.pathname")
-      ? script.replace("window.location.pathname", 'document.body.dataset.slug||""')
-      : script
+  const patch = (script: string) => {
+    if (!script.includes("[Graph]")) return script
+    sawGraph = true
+    if (!script.includes("window.location.pathname")) return script
+    patchedGraph = true
+    return script.replace("window.location.pathname", 'document.body.dataset.slug||""')
+  }
   const after = component.afterDOMLoaded
   if (typeof after === "string") {
     component.afterDOMLoaded = patch(after)
   } else if (Array.isArray(after)) {
     component.afterDOMLoaded = after.map(patch)
   }
+}
+if (sawGraph && !patchedGraph) {
+  console.warn(
+    "[vault] graph slug patch did not apply: the graph plugin's script no longer reads window.location.pathname",
+  )
 }
 
 // Repair links to folder-notes (a note named after its folder, e.g. `X/X.md`),
