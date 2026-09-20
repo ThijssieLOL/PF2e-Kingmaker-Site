@@ -131,7 +131,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 - **Manifestation:**
 - **Verbal Component:**
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 
@@ -140,7 +140,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 - **Manifestation:**
 - **Verbal Component:**
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 
@@ -299,7 +299,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 - **Manifestation:**
 - **Verbal Component:**
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 
@@ -485,7 +485,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 - **Manifestation:**
 - **Verbal Component:**
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 
@@ -622,7 +622,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 - **Manifestation:**
 - **Verbal Component:**
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 
@@ -694,7 +694,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 - **Manifestation:**
 - **Verbal Component:**
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 
@@ -712,7 +712,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 - **Manifestation:**
 - **Verbal Component:**
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 
@@ -813,7 +813,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 - **Manifestation:**
 - **Verbal Component:**
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 
@@ -822,7 +822,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 
 - **Manifestation:**
 - **Verbal Component:**
-- **Somatic Component:**
+- **Somatic Component:** -
 - **Sensation:**
 - **Residue:**
 
@@ -931,7 +931,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
-- **Verbal Component:**
+- **Verbal Component:** -
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
@@ -976,7 +976,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
-- **Verbal Component:**
+- **Verbal Component:** -
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
@@ -1032,7 +1032,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
-- **Verbal Component:**
+- **Verbal Component:** -
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
@@ -1059,7 +1059,7 @@ Each of the fourteen families lends one cantrip and one verse of each rank. The 
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
-- **Verbal Component:**
+- **Verbal Component:** -
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
