@@ -31,6 +31,13 @@ export const FolderNoteLinks: QuartzTransformerPlugin = () => {
           folderNotes.set(name, folder)
         }
       }
+      console.error(
+        "[FolderNoteLinks DEBUG] allSlugs=",
+        ctx.allSlugs.length,
+        "folderNotes=",
+        folderNotes.size,
+        [...folderNotes.entries()].slice(0, 5),
+      )
 
       return [
         () => (tree: Root, file: VFile) => {
@@ -58,6 +65,7 @@ export const FolderNoteLinks: QuartzTransformerPlugin = () => {
                   const name = canonical.split("/").pop()
                   const folder = name ? folderNotes.get(name) : undefined
                   if (folder) {
+                    console.error("[FolderNoteLinks DEBUG] repair", dataSlug, "->", folder)
                     props.href = resolveRelative(pageSlug, folder as SimpleSlug) + "/"
                     props["data-slug"] = folder + INDEX_SUFFIX
                     if (outgoing) outgoing.push(simplifySlug(folder + INDEX_SUFFIX))
