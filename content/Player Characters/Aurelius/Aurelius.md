@@ -94,7 +94,7 @@ With Church researchers, Aurelius aims to establish consecrated holy zones acros
 ## Combat & Divine Abilities
 
 ### [[Aurelius' Combat Style]]
-Aurelius fights without weapons, in the kinetic, unarmed discipline of [[The Chancellery of Silent Illumination]], adapted to his own body and built for close range, high speed, and open space. He steps inside a guard before it closes and answers from an angle the opponent has not covered, every strike wrapped in divine force, until the control underneath it breaks down at the brink of death into a brutal, desperate survival technique.
+Aurelius fights at mid to long range as a caster, shaping his spells through the [[The Star Seals|Star Seals]] and using his bound apparitions to extend his reach and hold ground he gives up. Commando training left him able to fight and defend himself at close quarters, but that is a fallback rather than his style. The detachment underneath it holds until the brink of death, where it breaks into a brutal, desperate fight to survive.
 
 ### Spellcasting
 Aurelius casts holy light magic, **Aureolin White**, through the [[The Star Seals|Star Seals]], twelve base configurations of the hands from which every spell is built. Casting is a physical act: as his hands move through a sequence, the [[Tattoos of Penance]] on his forearms and shins ignite, and a surge of heat floods through his body. Directing that heat takes absolute mental focus; if his concentration breaks, the magic recoils inside him and leaves him with severe fatigue and pain. Every spell and spirit phenomenon he produces manifests as Aureolin White flame, either physical fire that ignites what it touches or pure spiritual light that cleanses a soul without harming the body around it.[3](#ref-3)

@@ -59,7 +59,7 @@ The record of Aurelius's character-building interview, kept in its original orde
 ### Combat Style
 
 - **17. How does your character typically fight?**
-  A kinetic, weaponless martial art built on footwork, shields of divine force, and bound spirits ([[Aurelius' Combat Style]]).
+  Mid to long range divine casting, shaped through hand seals and extended by bound spirits, with close quarters as a commando-trained fallback ([[Aurelius' Combat Style]]).
 - **18. How has your character adopted this fighting style?**
   Through the schooling and martial training of [[The Chancellery of Silent Illumination]] ([[Aurelius#Upbringing in The Chancellery of Silent Illumination]]).
 - **19. How often has your character actually fought?**
