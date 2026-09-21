@@ -81,7 +81,7 @@ The knives are what the DM can threaten, take, or pull on: the people Aurelius l
 - **Spirit Sealing:** a spirit is bound only by consent won through proven dominance, and the seal breaks only if another binder claims it or Aurelius dies ([[Spirit Sealing]]).
 - **The Daily Attunement:** two spirits each dawn, three from 7th level and four from 15th, and the first named is the day's primary ([[Spirits Ledger#The Attunement]]).
 - **Spirits Cannot Be Killed:** the furthest any act reaches is banishment, and he cannot enter the spirit realm, only see into it ([[Spirits#Nature of Spirits]]).
-- **Combat:** mid to long range casting, with close quarters as a trained fallback, and at the brink of death the control breaks into a brutal survival technique ([[Aurelius' Combat Style]]).
+- **Combat:** mid to long range casting with kinetic redirection for defense, close quarters as a trained fallback, and at the brink of death the control breaks into a brutal survival technique ([[Aurelius' Combat Style]]).
 
 ## Open Questions for the DM
 
