@@ -1,10 +1,9 @@
 ---
-agent-editable: false
 tags:
   - God
   - Religion
 faction: "[[The Order of the Sacred Mother]]"
-Pantheon: 
+Pantheon:
 Godly Domains:
   - Community
   - Death

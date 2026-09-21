@@ -1,5 +1,4 @@
 ---
-agent-editable: false
 tags:
   - character
   - God
