@@ -46,7 +46,7 @@ Each of the fourteen families lends one cantrip, one verse of each rank, and a v
 
 An apparition verse arrives in the spirit's own shape before his light takes it. The working forms first as the family would have it: fire gathers as plain fire, water as water, a vine as a green vine, earth as bare earth. Aurelius's light closes over it in the instant after it forms, and the spell burns Aureolin White from that moment on. His magic does not replace the apparition's; it takes control of it.
 
-A divine verse has no such moment. It is Aureolin White light from the first instant, with no earlier shape to shed.
+A divine verse has no such moment. It is Aureolin White light from the first instant, with no earlier shape to shed. 
 
 #### [[Crafter in the Vault]]
 
