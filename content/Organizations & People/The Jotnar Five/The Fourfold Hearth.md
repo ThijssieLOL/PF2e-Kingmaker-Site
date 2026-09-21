@@ -7,7 +7,7 @@ tags:
   - JotnarFive
 terrain:
 cleared: false
-explored: false
+explored: true
 ---
 
 ![[floating island.png|300]]
@@ -18,7 +18,7 @@ explored: false
 The Fourfold Hearth is a permanent demi plane that resembles a floating island in the sky.
 
 ### Quick Facts
-- **Terrain Type:** 
+- **Terrain Type:** floating island
 - **Region:** Astral space
 - **Controlled By:** [[Niigani Wewidun]]
 - **Status:** Permanent
