@@ -170,6 +170,10 @@ and offer what you CAN do instead.
   summary a page leaves behind when a section moves to a subnote are each one short phrase or one
   plain sentence. A Quick Facts line that runs into a second sentence or a trailing clause has
   grown too long: cut it back to the fact, and put the rest in the body of the section that owns it.
+- **Spell-template fields stay short.** The flavour lines under a verse (`Manifestation`,
+  `Verbal Component`, `Somatic Component`, `Sensation`, `Residue`) are one short sentence each, in
+  the register of the entries already written into The Hymnal. A line can run longer when the
+  material needs it, but lean is the default.
 - **Keep a page lean, and split it when it fills up.** A page should stay short enough to scan in
   one sitting. When a section outgrows the page's subject, give it a note of its own in the parent
   page's folder (the pattern already used by `Spirits/Apparitions/`), leave a short summary and a

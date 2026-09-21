@@ -1202,11 +1202,11 @@ Each of the fourteen families lends one cantrip, one verse of each rank, and a v
 ##### Earth's Bile
 *Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
 
-- **Manifestation:** White fire and broken stone boil up from the ground in a ten-foot burst, and the earth breaks and burns.
-- **Verbal Component:** "O Blazing Sun, open Thou the earth, and let its bile rise."
+- **Manifestation:** A tongue of Aureolin White fire gathers in either hand; he hurls the first, then the second a beat behind, and the second strikes the first into a firework burst.
+- **Verbal Component:** "O Blazing Sun, let Thy flame find them and not go out."
 - **Somatic Component:** The Dragon -> The Wagon
-- **Sensation:** A heavy heat rises through his feet and out of his hands; hot stone and ash sit on the air, and the ground hums underfoot.
-- **Residue:** A shallow crater of cracked, still-warm stone, with white light fading in the seams.
+- **Sensation:** A heat in either hand, one after the other, then a double flare as the two flames meet.
+- **Residue:** White fire clings where the burst fell and keeps catching.
 
 #### [[Vanguard of Roaring Waters]]
 
