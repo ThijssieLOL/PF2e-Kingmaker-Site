@@ -4,7 +4,7 @@ tags:
   - Darrowfell
   - Giant
   - JotnarFive
-ancestry:
+ancestry: giigoonh
 class:
 faction:
 status: Alive
