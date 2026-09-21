@@ -71,10 +71,6 @@ of truth for "this file may be edited by the agent". Currently that means:
 - The NPC notes under `content/Organizations & People/Non Player Characters/` **that carry the
   marker** (Vespera, Lyra, Lucian, Julian, Gideon, Tristan, Valerius). If a friend adds a new NPC
   there later, that note will have no marker and is off-limits.
-- The session notes under `content/Session Notes/` — every session note carries the marker, and
-  `content/Templates/Session Note Template.md` carries it too so each new note starts editable.
-  The campaign no longer runs player characters; the cast is NPCs that change from session to
-  session.
 
 ### 3.2 Shared locations (group-owned)
 - `content/index.md` — group hub page.
