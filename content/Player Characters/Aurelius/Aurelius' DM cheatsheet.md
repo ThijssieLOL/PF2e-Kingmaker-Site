@@ -87,16 +87,10 @@ Each knife gets one line and a link. The full account stays on the page it point
 
 ## Open Questions for the DM
 
-- The Grade 8 Cinder vestment is unwritten ([[The Vestments of the Clergy]]).
 - His languages are still recorded as "Common and spirit language (?)" ([[Character building questions (Aurelius)]]).
-- His preferred kingdom role is Magister, flavoured as High Priest ([[Character building questions (Aurelius)]]).
 - The Church's central headquarters has no location yet: "To be determined / Coordinated with DM" ([[The Church of the Eternal Blazing Sun]]).
 - What the whispers that called him are, and what order of spirit stands above Rank 9 ([[Spirits#Rank]]).
 - Whether Tristan is dead ([[Tristan]]).
-- How sealing looks to a bystander and to spirit-sight, and how his divine casting looks different from spirit casting ([[Spirit Sealing#House Notes]]).
-- The size of the Star Seal set, the five saints without domains, the five seals without shapes, and how Interposing Earth is cast as a reaction ([[The Star Seals#House Notes]]).
-- The chapters and margin exercises of [[The Shepherd]] are still TBD.
-- Four interview questions are unanswered: well groomed, most controversial opinion, most valuable possession, least funny joke ([[Character building questions (Aurelius)]]).
 
 ## House Notes
 
