@@ -44,6 +44,10 @@ Every verse Aurelius has ever set down, sorted by the source he draws it from: t
 
 Each of the fourteen families lends one cantrip, one verse of each rank, and a vessel spell. Every verse they lend is set down here, family by family. A verse belongs to the spell, not to the family that lends it, so a spell several families share keeps a single verse and seal sequence. Verses still waiting on their words carry the bare form of the [[Spell Template]].
 
+An apparition verse arrives in the spirit's own shape before his light takes it. The working forms first as the family would have it: fire gathers as plain fire, water as water, a vine as a green vine, earth as bare earth. Aurelius's light closes over it in the instant after it forms, and the spell burns Aureolin White from that moment on. His magic does not replace the apparition's; it takes control of it.
+
+A divine verse has no such moment. It is Aureolin White light from the first instant, with no earlier shape to shed.
+
 #### [[Crafter in the Vault]]
 
 ##### Sigil
@@ -1116,7 +1120,7 @@ Each of the fourteen families lends one cantrip, one verse of each rank, and a v
 ##### Ignition
 *Cantrip 1 · Attack, Concentrate, Fire, Manipulate · two actions · range 30 feet*
 
-- **Manifestation:** A tongue of Aureolin White flame leaps from his open palm at the target.
+- **Manifestation:** A plain flame springs up in his open palm, then his light takes it and it leaps at the target as holy fire.
 - **Verbal Component:** "O Blazing Sun, kindle Thou the flame, that it find him and burn."
 - **Somatic Component:** The Dragon -> The Archer
 - **Sensation:** A dry heat rolls up his arm and the smell of hot stone follows the flame; the target feels the air go tight an instant before it lands.
