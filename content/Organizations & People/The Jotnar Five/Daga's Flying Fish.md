@@ -12,7 +12,7 @@ status: Alive
 
 ![[Character Image.jpg|300]]
 
-> "A memorable quote."
+> "feed a man a "
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
