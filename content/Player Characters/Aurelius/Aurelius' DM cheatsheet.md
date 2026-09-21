@@ -56,7 +56,7 @@ Each knife gets one line and a link. The full account stays on the page it point
 - **The Debt of Redemption:** his sins are a standing contract with divine grace, and the marks never fade ([[Tattoos of Penance]]).
 - **The Vigil:** the siblings he left behind in Restov, and the standard of holy sacrifice [[Tristan]] set ([[Aurelius#The Fallen Siblings]]).
 - **The Mission:** the Stolen Lands charter he engineered, and the Church approval that rests on [[Lucian]]'s argument ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
-- **The Tradition of Humility:** the rule he enforces on his own cohort, that every new clergy and commando under him bear and display their sins ([[Tattoos of Penance#Ecclesiastical Law & Re-Application]]).
+- **The Tradition of Humility:** the rule he enforces on his own clergy later in the campaign, that every new clergy bear and display their sins ([[Tattoos of Penance#Ecclesiastical Law & Re-Application]]).
 - **The Refusal of the Crown:** he will not take a throne, and holds that no cleric should ([[Trias Politicas]]).
 
 ### Keepsakes
