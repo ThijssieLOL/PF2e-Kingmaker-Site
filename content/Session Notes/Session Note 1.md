@@ -1,9 +1,8 @@
 ---
-agent-editable: true
 tags:
   - session
 session_num: "1"
-date: 27/09/26
+date: 04/10/26
 in_game_date:
 ---
 

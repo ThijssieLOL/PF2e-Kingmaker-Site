@@ -1,10 +1,9 @@
 ---
-agent-editable: true
 tags:
   - session
-session_num: 
-date: 
-in_game_date: 
+session_num:
+date:
+in_game_date:
 ---
 
 > "The funniest / most notable quote of the session."
