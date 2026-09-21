@@ -39,7 +39,7 @@ aliases:
 ---
 
 ## Personality
-- **Demeanor:** 
+- **Demeanor:** try not p9k0
 
 ---
 
