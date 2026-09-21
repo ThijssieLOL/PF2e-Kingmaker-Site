@@ -6,14 +6,12 @@ tags:
   - pc
   - dm
 ---
-
+	
 # Aurelius' DM Cheatsheet
 
 ## Overview
 
-Aurelius's knife block, kept so his DM can run him without reading the rest of the wiki. Every entry is a knife: something to threaten, take, or pull on to raise the stakes for him. None of them are off-limits.
-
-Each knife gets one line and a link. The full account stays on the page it points to.
+The knives are what the DM can threaten, take, or pull on: the people Aurelius loves, the brothers he lost, the cabal that still hunts his line, the traumas and crimes that made him, the vows that hold him upright, and the keepsakes and secrets he carries. None of them are off-limits, and some, like the Eclipse, make him a danger to everyone near him.
 
 ### Quick Facts
 - **Character:** [[Aurelius]]
