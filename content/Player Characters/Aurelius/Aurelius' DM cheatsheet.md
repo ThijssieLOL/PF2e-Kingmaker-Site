@@ -46,7 +46,7 @@ Each knife gets one line and a link. The full account stays on the page it point
 - **The Eclipse:** the cold executioner state he falls into, and the sin he believes it is ([[Aurelius#Trauma Response: "The Eclipse"]]).
 - **Spirit Overload:** fresh battlefields and other dense spirit sites overwhelm the [[Ocular of Kaelen]] until he can withdraw and meditate ([[Ocular of Kaelen#Physical Strain & Sensory Overload]]).
 - **The Calling:** two years of overloads and whispers from something his own sight could not see, which is why he came to the Stolen Lands at all ([[Aurelius#Call to the Frontier: Mission to the Stolen Lands]]).
-- **Clowns:** his worst material fear ([[Character building questions (Aurelius)]]).
+- **Clowns:** his worst material fear ([[Character building questions (Aurelius)]]) (Suggestion: The person of the cult that invaded Aurelius' house that night was dressed like a clown)
 
 ### Crimes
 - **The Killings:** theft, assault, and the murder he committed on the streets of Restov, burned permanently into the [[Tattoos of Penance]] he shows in public.
