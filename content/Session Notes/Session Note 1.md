@@ -16,7 +16,7 @@ A brief 1-2 sentence summary of the key events of the session.
 - **Date Played:** 04/10/26
 - **In-Game Date:** 
 - **Location:** 
-- **Players at the table:**
+
 
 ## Recap
 - **Events:** (Chronological summary of what took place during the session)
@@ -36,12 +36,13 @@ A brief 1-2 sentence summary of the key events of the session.
 ## Active Characters
 
 ### Player Characters
-- [ ] [[Aurelius]]
-- [ ] [[Zephan|Zephan Ásteri]]
-- [ ] [[Jock Finch]]
-- [ ] [[Oliver Strong Bison]]
-- [ ] [[Selion]]
-- [ ] Esther
+- [v] Alea
+- [v] [[Aurelius]]
+- [v] [[Jock Finch]]
+- [v] [[Oliver Strong Bison]]
+- [v] [[Selion]]
+- [v] [[Zephan|Zephan Ásteri]]
+
 
 ### NPCs
 - **[[NPC Link]]:** Notable actions or character beats from the session.
