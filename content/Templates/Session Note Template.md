@@ -6,7 +6,7 @@ date:
 in_game_date:
 ---
 
-> "The funniest / most notable quote of the session."
+> "The funniest / most notable quote of the session." — Character Name
 
 ## Overview
 A brief 1-2 sentence summary of the key events of the session.
