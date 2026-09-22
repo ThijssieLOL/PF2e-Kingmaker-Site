@@ -16,12 +16,12 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 | Character                     | Player | Class / Role       | Focus & Description                                          |
 | ----------------------------- | ------ | ------------------ | ------------------------------------------------------------ |
-| **[[Aurelius]]**              |        | Animist / Magister | Missionary for the [[The Church of the Eternal Blazing Sun]] |
-| **[[Jock Finch]]**            |        | Bard               |                                                              |
-| **[[Oliver Strong Bison]]**   |        | Commander          | Kellid warrior of the [[Jotnar Five]]                        |
-| **[[Selion]]**                |        | Necromancer        |                                                              |
-| Essie                         |        | Gunslinger         |                                                              |
-| **[[Zephan\|Zephan Ásteri]]** |        | Swashbuckler       | Dashing hero chosen by fate                                  |
+| Alea                          | Esther | Gunslinger         |                                                              |
+| **[[Aurelius]]**              | Thijs  | Animist / Magister | Missionary for the [[The Church of the Eternal Blazing Sun]] |
+| **[[Jock Finch]]**            | Noella | Bard               |                                                              |
+| **[[Oliver Strong Bison]]**   | Bram   | Commander          | Kellid warrior of the [[Jotnar Five]]                        |
+| **[[Selion]]**                | Angelo | Necromancer        |                                                              |
+| **[[Zephan\|Zephan Ásteri]]** | Berend | Swashbuckler       | Dashing hero chosen by fate                                  |
 
 ---
 
