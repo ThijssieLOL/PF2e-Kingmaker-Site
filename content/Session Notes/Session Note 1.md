@@ -1,7 +1,7 @@
 ---
 tags:
   - session
-session_num: "1"
+session_num: session 1
 date: 04/10/26
 in_game_date:
 ---
