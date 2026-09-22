@@ -49,6 +49,5 @@ A brief 1-2 sentence summary of the key events of the session.
 ---
 
 ## Quotes
-Every funny quote of the session, with the speaker named.
 
 - **"Quote text."** — Character Name
