@@ -36,11 +36,12 @@ A brief 1-2 sentence summary of the key events of the session.
 ## Active Characters
 
 ### Player Characters
-- [ ] [[Aurelius]]
-- [ ] [[Zephan|Zephan Ásteri]]
-- [ ] [[Jock Finch]]
-- [ ] [[Oliver Strong Bison]]
-- [ ] [[Selion]]
+- [v] Alea
+- [v] [[Aurelius]]
+- [v] [[Jock Finch]]
+- [v] [[Oliver Strong Bison]]
+- [v] [[Selion]]
+- [v] [[Zephan|Zephan Ásteri]]
 
 ### NPCs
 - **[[NPC Link]]:** Notable actions or character beats from the session.
