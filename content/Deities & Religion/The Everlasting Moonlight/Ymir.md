@@ -60,3 +60,8 @@ status: Alive
 
 ---
 
+## Myths
+
+- [[The First Star]]
+- [[The Girl Who Dreamed of Flying]]
+- [[The Three Candles]]
