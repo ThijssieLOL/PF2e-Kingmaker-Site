@@ -1,6 +1,7 @@
 ---
 tags:
   - faction
+  - Fandarra
 leader: "[[Fandarra]]"
 headquarters:
 alignment:

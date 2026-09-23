@@ -2,6 +2,7 @@
 tags:
   - God
   - Religion
+  - Fandarra
 faction: "[[The Order of the Sacred Mother]]"
 Pantheon:
 Godly Domains:

@@ -8,7 +8,7 @@ tags:
 
 
 ### Quick Facts
-- **Title of the Myth:** 
+- **Title of the Myth:**  The Three candles
 - **associated with the myth:** [[Ymir]]
 
 
