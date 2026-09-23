@@ -1,29 +1,16 @@
 ---
 tags:
-  - character
-  - npc
-ancestry:
-class:
-faction:
-status: Alive
+  - myth
 ---
 
 ![[Character Image.jpg|300]]
 
-> "A memorable quote."
+
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
 
-### Quick Facts
-- **Full Name:** 
-- **Ancestry/Species:** 
-- **Class/Profession:** 
-- **Affiliation:** 
-- **Role/Rank:** 
 
-## Appearance
-- **Description:** (What they look like, what they wear, and any distinguishing features)
 
 ---
 
