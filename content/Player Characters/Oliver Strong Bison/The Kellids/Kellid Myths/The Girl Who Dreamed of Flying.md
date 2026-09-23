@@ -19,6 +19,8 @@ Years later, the girl became the first person to climb the highest mountain in *
 
 The girl eventually became a great traveler, and her descendants claim that [[Ymir]] still visits those who dream of impossible things. Among his followers, dreams are therefore not considered meaningless fantasies. They are whispers of possibilities that have not yet been explored.
 
+---
+
 ## Moral of the story
 
 
