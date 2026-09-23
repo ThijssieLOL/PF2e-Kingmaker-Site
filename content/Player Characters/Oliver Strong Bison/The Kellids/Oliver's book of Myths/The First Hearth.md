@@ -4,7 +4,7 @@ tags:
   - Fandarra
 ---
 
-![[Character Image.jpg|300]]
+![[thefirsthearth.jpg|300]]
 
 
 ### Quick Facts

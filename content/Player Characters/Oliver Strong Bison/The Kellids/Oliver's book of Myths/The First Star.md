@@ -4,7 +4,7 @@ tags:
   - Ymir
 ---
 
-![[Character Image.jpg|300]]
+![[thefirststar.jpg|300]]
 
 
 ### Quick Facts
