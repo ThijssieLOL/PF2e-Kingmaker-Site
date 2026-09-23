@@ -5,7 +5,7 @@ tags:
   - JotnarFive
 ancestry: Jotun
 class: Cleric
-faction: "[[Jotnar Five]]"
+faction: "[[The Jotnar Five]]"
 status: Alive
 aliases:
   - Niigani
@@ -16,13 +16,13 @@ aliases:
 > "It is only during a storm that a tree knows how strong it is." - Niigani
 
 ## Overview
-**Niigani** is a wise and compassionate storm giant cleric who serves as the [[Jotnar Five|Jotnar Four]]'s leader, diplomat, and spiritual guide. She believes that great strength comes with great responsibility and strives to use her power to protect others rather than rule over them.
+**Niigani** is a wise and compassionate storm giant cleric who serves as the [[The Jotnar Five|Jotnar Four]]'s leader, diplomat, and spiritual guide. She believes that great strength comes with great responsibility and strives to use her power to protect others rather than rule over them.
 
 ### Quick Facts
 - **Full Name:** Niigani wewidun // *Thunder before the storm*
 - **Ancestry/Species:** Storm Giant
 - **Class/Profession:** Cleric
-- **Affiliation:** [[Jotnar Five]]
+- **Affiliation:** [[The Jotnar Five]]
 - **Role/Rank:** Leader, Diplomat, and Spiritual Guide
 
 ## Appearance

@@ -5,7 +5,7 @@ tags:
   - JotnarFive
 ancestry: Jotun
 class: Fighter
-faction: "[[Jotnar Five]]"
+faction: "[[The Jotnar Five]]"
 status: Alive
 aliases:
   - Bapakine
@@ -22,7 +22,7 @@ aliases:
 - **Full Name:** Bapakine iwe ishkode // *That fire is giving off sparks.*
 - **Ancestry/Species:** Fire Giant
 - **Class/Profession:** Fighter / Master Smith
-- **Affiliation:** [[Jotnar Five]]
+- **Affiliation:** [[The Jotnar Five]]
 - **Role/Rank:** Warrior, Blacksmith, and Armorer 
 
 ## Appearance

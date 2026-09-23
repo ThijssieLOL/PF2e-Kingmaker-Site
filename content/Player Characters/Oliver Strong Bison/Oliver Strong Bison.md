@@ -6,7 +6,7 @@ tags:
   - Kellid
 ancestry: Aiuvarin
 class: Commander
-faction: "[[Jotnar Five]]"
+faction: "[[The Jotnar Five]]"
 status: Alive
 aliases:
   - Sa'be
@@ -21,12 +21,12 @@ aliases:
 > "A memorable quote." - Oliver Strong Bison
 
 ## Overview
-**Oliver** is the adopted son of the [[Jotnar Five|Jotnar Four]], raised by four giants who each taught him a different way to understand the world. Though shaped by hardship and trained as a formidable warrior, Oliver's greatest strength lies in the balance between Zagaakwaa's wisdom, Bapakine's discipline, Daga's joy, and Niigani's compassion.
+**Oliver** is the adopted son of the [[The Jotnar Five|Jotnar Four]], raised by four giants who each taught him a different way to understand the world. Though shaped by hardship and trained as a formidable warrior, Oliver's greatest strength lies in the balance between Zagaakwaa's wisdom, Bapakine's discipline, Daga's joy, and Niigani's compassion.
 ### Quick Facts
 - **Full Name:** Oliver Strong Bison / Sa’be Beshwaji’ // *Close friend of the giants*
 - **Ancestry/Species:** Human (Kellid) /  Aiuvarin
 - **Class/Profession:** Commander
-- **Affiliation:** [[Jotnar Five]]
+- **Affiliation:** [[The Jotnar Five]]
 - **Role/Rank:** General
 
 ## Appearance
@@ -49,7 +49,7 @@ aliases:
 ---
 
 ## History
-- **Background:** **Oliver** was born into a **Kellid** clan in the **Realm of the Mammoth Lords**, but at eight years old his village was slaughtered by the [[Heralds of the Moon Incarnate]], who killed his family, leaving him traumatized and alone. He was later found among the ruins by the [[Jotnar Five|Jotnar Four]], four giants who adopted him and raised him as their own, teaching him about nature, warfare, smithing, life, religion, and diplomacy. As he grew older, **Oliver** became a true member of the group, receiving the name **Sa’be Beshwaji’** at eighteen and becoming one of the [[Jotnar Five]]. Now thirty, **Oliver** joins the expedition into the **Stolen Lands** after the Jotnar discover that the **Heralds** may be operating there, hoping to finally find the people responsible for destroying his home and the scarred man who murdered his family.
+- **Background:** **Oliver** was born into a **Kellid** clan in the **Realm of the Mammoth Lords**, but at eight years old his village was slaughtered by the [[Heralds of the Moon Incarnate]], who killed his family, leaving him traumatized and alone. He was later found among the ruins by the [[The Jotnar Five|Jotnar Four]], four giants who adopted him and raised him as their own, teaching him about nature, warfare, smithing, life, religion, and diplomacy. As he grew older, **Oliver** became a true member of the group, receiving the name **Sa’be Beshwaji’** at eighteen and becoming one of the [[The Jotnar Five]]. Now thirty, **Oliver** joins the expedition into the **Stolen Lands** after the Jotnar discover that the **Heralds** may be operating there, hoping to finally find the people responsible for destroying his home and the scarred man who murdered his family.
 
 ---
 
@@ -62,6 +62,6 @@ aliases:
 
 [[Niigani Wewidun]]: **Niigani** became **Oliver**'s spiritual and moral guide, teaching him about responsibility, compassion, diplomacy, and the consequences of power. She is the most openly affectionate toward him and often takes on the role of a protective mother. **Oliver** turns to her whenever he is uncertain about what the right thing to do is.
 
-The [[Jotnar Five|Jotnar Four]]: **Oliver** doesn't think of the four giants as separate mentors anymore; they are simply his family. Each gave him something different: **Zagaakwaa** taught him to understand, Bapakine taught him to survive, **Daga** taught him to live and **Niigani** taught him to choose. They may disagree constantly about how to guide him, but all four consider **Oliver** family
+The [[The Jotnar Five|Jotnar Four]]: **Oliver** doesn't think of the four giants as separate mentors anymore; they are simply his family. Each gave him something different: **Zagaakwaa** taught him to understand, Bapakine taught him to survive, **Daga** taught him to live and **Niigani** taught him to choose. They may disagree constantly about how to guide him, but all four consider **Oliver** family
 
 [[The Herald]]: **The Herald** murdered **Oliver**'s entire family, and most if not all of his tribe

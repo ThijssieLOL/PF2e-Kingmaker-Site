@@ -5,7 +5,7 @@ tags:
   - JotnarFive
 ancestry: Jotun
 class: Bardbarian
-faction: "[[Jotnar Five]]"
+faction: "[[The Jotnar Five]]"
 status: Alive
 aliases:
   - Daga
@@ -22,7 +22,7 @@ aliases:
 - **Full Name:** Daga Manoo // *Let it be*
 - **Ancestry/Species:** Tide Giant
 - **Class/Profession:** Bardbarian
-- **Affiliation:** [[Jotnar Five]]
+- **Affiliation:** [[The Jotnar Five]]
 - **Role/Rank:** Scout, and Resident Troublemaker
 
 ## Appearance

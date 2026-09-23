@@ -46,12 +46,12 @@ And again.
 
 He didn't stop until the imp was dead.
 
-It was at that moment that the [[Jotnar Five|Jotnar Four]] found him.
+It was at that moment that the [[The Jotnar Five|Jotnar Four]] found him.
 
 --- 
 ### The Jotnar Four
 
-The [[Jotnar Five|Jotnar Four]] were a legendary adventuring company consisting of four giants:
+The [[The Jotnar Five|Jotnar Four]] were a legendary adventuring company consisting of four giants:
 
 [[Zagaakwa Ezhaayin]], a wise wood giant who possessed an almost spiritual connection with the forests.
 
@@ -73,7 +73,7 @@ At first, [[Oliver Strong Bison|Oliver]] was little more than the group's “par
 
 He carried things that were too heavy for ordinary children but far too light for giants. He fetched supplies. He slept beside the campfire. He occasionally tried to help during battles and was generally instructed to stay somewhere safe.
 
-Despite this, the [[Jotnar Five|Jotnar Four]] quickly became the closest thing [[Oliver Strong Bison|Oliver]] had to a family and over the years they began teaching him everything they knew.
+Despite this, the [[The Jotnar Five|Jotnar Four]] quickly became the closest thing [[Oliver Strong Bison|Oliver]] had to a family and over the years they began teaching him everything they knew.
   
 ---  
 ### Life Lessons
@@ -111,7 +111,7 @@ Together, the four gave [[Oliver Strong Bison|Oliver]] an education that no ordi
 --- 
 ### Friend Of The Giants  
 
-For the next decade, [[Oliver Strong Bison|Oliver]] travelled with the [[Jotnar Five|Jotnar Four]].
+For the next decade, [[Oliver Strong Bison|Oliver]] travelled with the [[The Jotnar Five|Jotnar Four]].
 
 They fought powerful monsters, explored ancient ruins, crossed dangerous wilderness, became involved in wars they probably should have avoided, and occasionally found themselves fighting creatures that were far beyond [[Oliver Strong Bison|Oliver]]'s ability to defeat.
 
@@ -139,7 +139,7 @@ The name was a declaration that he was no longer merely a child they had rescued
 
 He was one of them.
 
-From that day onward, the [[Jotnar Five|Jotnar Four]] became the [[Jotnar Five]].
+From that day onward, the [[The Jotnar Five|Jotnar Four]] became the [[The Jotnar Five]].
 
 --- 
 
@@ -147,7 +147,7 @@ From that day onward, the [[Jotnar Five|Jotnar Four]] became the [[Jotnar Five]]
 
 Twelve years have passed since then.
 
-[[Oliver Strong Bison|Oliver]] is now thirty years old. He has spent more of his life with the [[Jotnar Five]] than he ever did with his original family, and although the memories of his village have faded with time, one image has never left him.
+[[Oliver Strong Bison|Oliver]] is now thirty years old. He has spent more of his life with the [[The Jotnar Five]] than he ever did with his original family, and although the memories of his village have faded with time, one image has never left him.
 
 A bald man.
 
@@ -187,7 +187,7 @@ The man who killed his family.
 
 The man he was too afraid to kill.
 
-Now, thirty years old and armed with everything the [[Jotnar Five]] have taught him, [[Oliver Strong Bison|Oliver]] finally has a chance to find him.
+Now, thirty years old and armed with everything the [[The Jotnar Five]] have taught him, [[Oliver Strong Bison|Oliver]] finally has a chance to find him.
 
 For more than two decades, Oliver has carried the memory of that moment. Not simply the grief of losing his family, but the shame of knowing that when it mattered most, he was too afraid to act.
 

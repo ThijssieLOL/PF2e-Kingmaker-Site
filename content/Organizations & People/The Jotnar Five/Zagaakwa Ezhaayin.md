@@ -5,7 +5,7 @@ tags:
   - JotnarFive
 ancestry: Jotun
 class: Druid
-faction: "[[Jotnar Five]]"
+faction: "[[The Jotnar Five]]"
 status: Alive
 aliases:
   - Zagaakwaa
@@ -16,13 +16,13 @@ aliases:
 > "No matter how beautiful architecture men can make, they will never create such a wonderful thing as a tree."
 
 ## Overview
-**Zagaakwaa** is a wise and patient wood giant druid who serves as the [[Jotnar Five|Jotnar Four]]'s guardian of nature and keeper of the wilds. Quiet and contemplative, she believes in the natural cycles of life and death and fiercely opposes anything that corrupts or deliberately destroys the natural world.
+**Zagaakwaa** is a wise and patient wood giant druid who serves as the [[The Jotnar Five|Jotnar Four]]'s guardian of nature and keeper of the wilds. Quiet and contemplative, she believes in the natural cycles of life and death and fiercely opposes anything that corrupts or deliberately destroys the natural world.
 
 ### Quick Facts
 - **Full Name:** Zagaakwaa ezhaayin // *The forest is dense where you are going.*
 - **Ancestry/Species:** Forest Giant
 - **Class/Profession:** Druid
-- **Affiliation:** [[Jotnar Five]]
+- **Affiliation:** [[The Jotnar Five]]
 - **Role/Rank:** Naturalist and Keeper of the Wilds
 
 ## Appearance
