@@ -2,6 +2,7 @@
 tags:
   - character
   - God
+  - Ymir
 faction: "[[The Church of the Everlasting Moonlight]]"
 Pantheon:
 Godly Domains:

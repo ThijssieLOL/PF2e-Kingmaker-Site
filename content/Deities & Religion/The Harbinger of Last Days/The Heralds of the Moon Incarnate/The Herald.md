@@ -2,9 +2,11 @@
 tags:
   - character
   - npc
-ancestry: 
-class: 
-faction: 
+  - Groetus
+  - HelaldsOfTheMoonIncarnate
+ancestry:
+class:
+faction:
 status: Alive
 ---
 

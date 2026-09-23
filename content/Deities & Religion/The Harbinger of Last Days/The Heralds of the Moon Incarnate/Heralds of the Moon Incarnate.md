@@ -2,6 +2,8 @@
 tags:
   - faction
   - lore
+  - Groetus
+  - HelaldsOfTheMoonIncarnate
 leader: Unknown
 headquarters: Unknown
 alignment: Chaotic Evil (presumed)

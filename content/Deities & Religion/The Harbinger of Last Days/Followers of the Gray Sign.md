@@ -2,6 +2,7 @@
 tags:
   - faction
   - lore
+  - Groetus
 leader: Unknown
 headquarters: Unknown
 alignment: Chaotic Neutral

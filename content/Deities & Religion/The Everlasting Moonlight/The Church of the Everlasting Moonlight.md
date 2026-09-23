@@ -2,6 +2,7 @@
 tags:
   - faction
   - lore
+  - Ymir
 leader:
 headquarters:
 alignment:
