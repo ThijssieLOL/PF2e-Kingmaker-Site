@@ -1,6 +1,7 @@
 ---
 tags:
   - myth
+  - Ymir
 ---
 
 ![[Character Image.jpg|300]]
