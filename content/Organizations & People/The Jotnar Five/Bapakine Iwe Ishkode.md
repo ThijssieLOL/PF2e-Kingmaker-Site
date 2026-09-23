@@ -13,7 +13,7 @@ aliases:
 
 ![[firegiant.png|300]]
 
-> "There are no good wars or bad wars. The only thing bad about a war is to lose it. All wars have been fought for a so called good cause on both sides. But only the victor's cause becomes history's noble cause." - Bapakine
+> "There are no good wars or bad wars. The only thing bad about a war is to lose it. All wars have been fought for a so called good cause on both sides. But only the victor's cause becomes history's noble cause. It's not a matter of who is right or who is wrong, it's a matter of who has the best generals and the better army!" - Bapakine
 
 ## Overview
 **Bapakine** is a powerful fire giant warrior and master blacksmith whose intimidating temper hides an intensely loyal and protective nature. Blunt, stubborn, and pragmatic, he believes survival depends on preparation, determination, and the willingness to do what must be done.
