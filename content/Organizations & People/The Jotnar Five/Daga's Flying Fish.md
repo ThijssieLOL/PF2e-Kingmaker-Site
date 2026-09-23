@@ -4,6 +4,7 @@ tags:
   - Darrowfell
   - Giant
   - JotnarFive
+  - fih
 ancestry: giigoonh
 class:
 faction:
