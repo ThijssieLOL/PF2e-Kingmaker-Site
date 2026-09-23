@@ -1,6 +1,7 @@
 ---
 tags:
   - myth
+  - fih
 ---
 
 ![[Character Image.jpg|300]]
