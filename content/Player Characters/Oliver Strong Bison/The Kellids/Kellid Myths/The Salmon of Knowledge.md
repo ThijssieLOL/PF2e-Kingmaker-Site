@@ -7,7 +7,7 @@ tags:
 
 
 ### Quick Facts
-- **Title of the Myth:** 
+- **Title of the Myth:** The Salmon of Knowledge
 - **associated with the myth:** 
 
 

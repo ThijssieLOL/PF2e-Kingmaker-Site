@@ -8,7 +8,7 @@ tags:
 
 
 ### Quick Facts
-- **Title of the Myth:** 
+- **Title of the Myth:** The Girl Who Dreamed of Flying
 - **associated with the myth:** [[Ymir]]
 
 

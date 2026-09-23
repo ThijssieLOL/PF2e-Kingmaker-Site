@@ -8,7 +8,7 @@ tags:
 
 
 ### Quick Facts
-- **Title of the Myth:** 
+- **Title of the Myth:** The First Star
 - **associated with the myth:** [[Ymir]]
 
 

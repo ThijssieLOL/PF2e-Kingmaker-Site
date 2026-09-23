@@ -1,13 +1,14 @@
 ---
 tags:
   - myth
+  - Fandarra
 ---
 
 ![[Character Image.jpg|300]]
 
 
 ### Quick Facts
-- **Title of the Myth:** 
+- **Title of the Myth:** The Great Labor
 - **associated with the myth:** 
 
 
