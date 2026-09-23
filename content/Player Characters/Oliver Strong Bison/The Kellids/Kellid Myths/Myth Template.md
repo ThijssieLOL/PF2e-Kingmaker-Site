@@ -8,10 +8,8 @@ tags:
 
 ### Quick Facts
 - **Title of the Myth:** 
-- **as:** 
-- **Class/Profession:** 
-- **Affiliation:** 
-- **Role/Rank:** 
+- **associated with the myth:** 
+
 
 ## The story
 - **Description:** (What they look like, what they wear, and any distinguishing features)
