@@ -12,12 +12,12 @@ tags:
 
 
 ## The story
-- **Description:** (What they look like, what they wear, and any distinguishing features)
+
 
 ---
 
 ## Moral of the story
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+
 
 ---
 

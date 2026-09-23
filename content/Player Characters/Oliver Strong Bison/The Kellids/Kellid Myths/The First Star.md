@@ -27,7 +27,7 @@ The oldest **Elvish** astronomers claim that every star in the heavens is anothe
 ---
 
 ## Moral of the story
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+
 
 ---
 

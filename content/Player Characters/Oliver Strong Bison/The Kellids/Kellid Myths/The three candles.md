@@ -20,7 +20,7 @@ From that day onward, [[Ymir]] concealed the future from mortals, believing that
 ---
 
 ## Moral of the story
-- **Demeanor:** (How they act, their general attitude, and core beliefs)
+
 
 ---
 
