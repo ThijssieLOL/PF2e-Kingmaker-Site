@@ -63,4 +63,6 @@ status: Alive
 
 ## Myths
 
-- []
+- [[The First Hearth]]
+- [[The Great Labor]]
+- [[The Wolf and the Child]]
