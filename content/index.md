@@ -6,9 +6,9 @@ description: "The official campaign wiki for our Pathfinder 2e: Kingmaker campai
 ---
 
 ## 📖 Campaign Overview
-Welcome to the official campaign vault for **Pathfinder 2e: Kingmaker**. This wiki tracks the journey, faction dynamics, and overarching political and spiritual movements within the realm. The core narrative heavily features agents tied to the cohort, ...
+Welcome to the official campaign vault for **Pathfinder 2e: Kingmaker**. This wiki tracks the journey, faction dynamics, and overarching political and spiritual movements within the realm. The core narrative follows our party of heroes as they attempt to settle the stolen lands.
 
-The campaign is following an adventuring party of heroes on their quest to found a new nation in the stolen lands. It takes place in the homebrew world of Kaelerum. 
+The campaign is following an adventuring party of heroes on their quest to found a new nation in the stolen lands. It takes place in the homebrew world of Kaelerum following a modified version of the Pathfinder Kingmaker module. 
 
 ---
 
@@ -16,7 +16,7 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 | Character                     | Player | Class / Role       | Focus & Description                                          |
 | ----------------------------- | ------ | ------------------ | ------------------------------------------------------------ |
-| Alea                          | Esther | Gunslinger         |                                                              |
+| **[[Alea]]**                  | Esther | Gunslinger         |                                                              |
 | **[[Aurelius]]**              | Thijs  | Animist / Magister | Missionary for the [[The Church of the Eternal Blazing Sun]] |
 | **[[Jock Finch]]**            | Noella | Bard               |                                                              |
 | **[[Oliver Strong Bison]]**   | Bram   | Commander          | Kellid warrior of the [[The Jotnar Five]]                        |
