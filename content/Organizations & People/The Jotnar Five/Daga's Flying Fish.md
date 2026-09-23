@@ -12,7 +12,7 @@ status: Alive
 
 ![[Character Image.jpg|300]]
 
-> "Feed a man a fish, and one fish shall be dead; teach a man to fish, and you exterminate his entire ecosystem" -akwa'waa
+> "Feed a man a fish, and one fish shall be dead; teach a man to fish, and you exterminate his entire ecosystem" -The salmon of knowledge
 
 ## Overview
 A brief 1-2 sentence summary of who this character is and their role.
