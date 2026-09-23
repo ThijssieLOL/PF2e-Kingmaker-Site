@@ -8,7 +8,7 @@ tags:
 
 
 ### Quick Facts
-- **Title of the Myth:** The First Heart
+- **Title of the Myth:** The First Hearth
 - **associated with the myth:** [[Fandarra]]
 
 
