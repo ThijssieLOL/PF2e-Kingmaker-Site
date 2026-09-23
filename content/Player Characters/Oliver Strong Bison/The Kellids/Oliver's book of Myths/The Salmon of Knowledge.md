@@ -6,7 +6,7 @@ aliases:
   - Salmon of Knowledge
 ---
 
-![[Character Image.jpg|300]]
+![[The Salmon of Knowledge|Salmon of Knowledge]]
 
 
 ### Quick Facts

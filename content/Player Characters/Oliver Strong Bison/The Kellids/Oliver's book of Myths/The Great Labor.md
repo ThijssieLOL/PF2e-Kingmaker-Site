@@ -4,7 +4,7 @@ tags:
   - Fandarra
 ---
 
-![[Character Image.jpg|300]]
+![[greatlabor.jpg|300]]
 
 
 ### Quick Facts
