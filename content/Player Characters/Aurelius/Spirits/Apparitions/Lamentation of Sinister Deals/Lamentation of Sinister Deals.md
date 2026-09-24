@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Lamentation of Sinister Deals come from bargains that cost more than they returned.
 
+### Quick Facts
+
+- **Domain:** Bargains
+- **Vessel Spell:** *Wish Market*
+- **Avatar:** *Cosmic Notary*
+- **Apparition Skills:** Legal Lore, Scribing Lore
+- **Source:** *Pathfinder #223: Hell's Destiny* pg. 226 *(Uncommon)*
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Lamentation of Sinister Deals come from bargains that cost more t
 | 7 | *Contingency* | |
 | 8 | *Moment of Renewal* | |
 | 9 | *Resplendent Mansion* | |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Legal Lore, Scribing Lore
-- **Vessel Spell:** *Wish Market*
-- **Avatar:** *Cosmic Notary*
-- **Source:** *Pathfinder #223: Hell's Destiny* pg. 226 *(Uncommon)*

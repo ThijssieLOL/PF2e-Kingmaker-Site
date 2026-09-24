@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Impostor in Hidden Places are secret-keepers. They whisper in corners that mortal voices never reach.
 
+### Quick Facts
+
+- **Domain:** Secrets
+- **Vessel Spell:** *Discomfiting Whisper*
+- **Avatar:** *Whisper Hiding in Shadows*
+- **Apparition Skills:** Fortune-Telling Lore, Underworld Lore
+- **Source:** *War of Immortals* pg. 18
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Impostor in Hidden Places are secret-keepers. They whisper in cor
 | 7 | *Planar Palace* | |
 | 8 | *Disappearance* | |
 | 9 | *Phantasmagoria* | |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Fortune-Telling Lore, Underworld Lore
-- **Vessel Spell:** *Discomfiting Whisper*
-- **Avatar:** *Whisper Hiding in Shadows*
-- **Source:** *War of Immortals* pg. 18

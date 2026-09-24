@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Crafter in the Vault are born of forges, workshops, and places where creation and injury happen together.
 
+### Quick Facts
+
+- **Domain:** Forges and workshops
+- **Vessel Spell:** *Traveling Workshop*
+- **Avatar:** *Incarnate Dungeon*
+- **Apparition Skills:** Architecture Lore, Engineering Lore
+- **Source:** *War of Immortals* pg. 17
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Crafter in the Vault are born of forges, workshops, and places wh
 | 7 | *Beheading Buzz Saw* | |
 | 8 | *Ferrous Form* | |
 | 9 | *Resplendent Mansion* | |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Architecture Lore, Engineering Lore
-- **Vessel Spell:** *Traveling Workshop*
-- **Avatar:** *Incarnate Dungeon*
-- **Source:** *War of Immortals* pg. 17

@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Steward of Stone and Fire are slow-burning spirits of mountains, volcanoes, and hot springs.
 
+### Quick Facts
+
+- **Domain:** Mountains and fire
+- **Vessel Spell:** *Earth's Bile*
+- **Avatar:** *Blood of Planets*
+- **Apparition Skills:** Mountain Lore, Volcano Lore
+- **Source:** *War of Immortals* pg. 20
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Steward of Stone and Fire are slow-burning spirits of mountains, 
 | 7 | *Volcanic Eruption* | |
 | 8 | *Earthquake* | |
 | 9 | *Falling Stars* | |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Mountain Lore, Volcano Lore
-- **Vessel Spell:** *Earth's Bile*
-- **Avatar:** *Blood of Planets*
-- **Source:** *War of Immortals* pg. 20

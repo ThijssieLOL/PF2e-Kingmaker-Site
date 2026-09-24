@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Custodian of Groves and Gardens are quiet spirits of tended land, and they believe they have already found paradise.
 
+### Quick Facts
+
+- **Domain:** Tended land
+- **Vessel Spell:** *Garden of Healing*
+- **Avatar:** *Peaceful Reaches*
+- **Apparition Skills:** Farming Lore, Herbalism Lore
+- **Source:** *War of Immortals* pg. 18
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Custodian of Groves and Gardens are quiet spirits of tended land,
 | 7 | *Lifewood Cage* | |
 | 8 | *Moment of Renewal* | |
 | 9 | *Nature's Enmity* | |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Farming Lore, Herbalism Lore
-- **Vessel Spell:** *Garden of Healing*
-- **Avatar:** *Peaceful Reaches*
-- **Source:** *War of Immortals* pg. 18

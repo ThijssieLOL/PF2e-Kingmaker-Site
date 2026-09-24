@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Witness to Ancient Battles are grim spirits of soldiers, sieges, and fields that drank too much blood.
 
+### Quick Facts
+
+- **Domain:** Soldiers and sieges
+- **Vessel Spell:** *Embodiment of Battle*
+- **Avatar:** *General of Endless Battle*
+- **Apparition Skills:** Battlegrounds Lore, Heraldry Lore
+- **Source:** *War of Immortals* pg. 21
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Witness to Ancient Battles are grim spirits of soldiers, sieges, 
 | 7 | *True Target* | |
 | 8 | *Canticle of Everlasting Grief* | [[The Piper]] |
 | 9 | *Weapon of Judgment* | |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Battlegrounds Lore, Heraldry Lore
-- **Vessel Spell:** *Embodiment of Battle*
-- **Avatar:** *General of Endless Battle*
-- **Source:** *War of Immortals* pg. 21

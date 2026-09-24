@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Reveler in Lost Glee are twisted spirits of joy that once was, and of mirth that now wounds.
 
+### Quick Facts
+
+- **Domain:** Joy that wounds
+- **Vessel Spell:** *Trickster's Mirrors*
+- **Avatar:** *Ringmaster of the Dark Celebration*
+- **Apparition Skills:** Circus Lore, Fortune-Telling Lore
+- **Source:** *War of Immortals* pg. 19
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Reveler in Lost Glee are twisted spirits of joy that once was, an
 | 7 | *Warp Mind* | |
 | 8 | *Quandary* | |
 | 9 | *Wails of the Damned* | |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Circus Lore, Fortune-Telling Lore
-- **Vessel Spell:** *Trickster's Mirrors*
-- **Avatar:** *Ringmaster of the Dark Celebration*
-- **Source:** *War of Immortals* pg. 19

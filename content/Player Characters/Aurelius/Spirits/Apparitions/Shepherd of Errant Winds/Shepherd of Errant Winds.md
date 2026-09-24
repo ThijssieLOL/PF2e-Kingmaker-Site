@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Shepherd of Errant Winds are spirits of movement and freedom, born from the wake of the wind.
 
+### Quick Facts
+
+- **Domain:** Movement and freedom
+- **Vessel Spell:** *Gift of the Anemos*
+- **Avatar:** *Will of the Winds*
+- **Apparition Skills:** Sailing Lore, Scouting Lore
+- **Source:** *Pathfinder #216: The Acropolis Pyre* pg. 83
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Shepherd of Errant Winds are spirits of movement and freedom, bor
 | 7 | *Vacuum* | |
 | 8 | *Punishing Winds* | |
 | 9 | *Wrathful Storm* | |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Sailing Lore, Scouting Lore
-- **Vessel Spell:** *Gift of the Anemos*
-- **Avatar:** *Will of the Winds*
-- **Source:** *Pathfinder #216: The Acropolis Pyre* pg. 83

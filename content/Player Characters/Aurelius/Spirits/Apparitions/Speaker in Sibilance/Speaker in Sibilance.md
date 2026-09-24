@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Speaker in Sibilance are hissing spirits of forbidden knowledge, and each serpent is a different counsel.
 
+### Quick Facts
+
+- **Domain:** Forbidden knowledge
+- **Vessel Spell:** *Crown of Prophets*
+- **Avatar:** *Medusa of Merciless Mysteries*
+- **Apparition Skills:** Fortune-Telling Lore, Mountain Lore
+- **Source:** *Pathfinder #216: The Acropolis Pyre* pg. 83
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Speaker in Sibilance are hissing spirits of forbidden knowledge, 
 | 7 | *Mask of Terror* | |
 | 8 | *Unrelenting Observation* | |
 | 9 | *Unfathomable Song* | |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Fortune-Telling Lore, Mountain Lore
-- **Vessel Spell:** *Crown of Prophets*
-- **Avatar:** *Medusa of Merciless Mysteries*
-- **Source:** *Pathfinder #216: The Acropolis Pyre* pg. 83

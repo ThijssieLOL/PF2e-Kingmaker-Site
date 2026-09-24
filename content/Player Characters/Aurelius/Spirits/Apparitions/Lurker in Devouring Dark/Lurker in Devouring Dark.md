@@ -13,6 +13,14 @@ status: Active
 
 Spirits of the Lurker in Devouring Dark are cold spirits of deep water and ice, and of the hungers beneath the world.
 
+### Quick Facts
+
+- **Domain:** Deep water and ice
+- **Vessel Spell:** *Devouring Dark Form*
+- **Avatar:** *Tentacles from the Dark*
+- **Apparition Skills:** Ocean Lore, Sailing Lore
+- **Source:** *War of Immortals* pg. 19
+
 ---
 
 ## The Nine Ranks
@@ -28,12 +36,3 @@ Spirits of the Lurker in Devouring Dark are cold spirits of deep water and ice, 
 | 7 | *Hungry Depths* | |
 | 8 | *Arctic Rift* | |
 | 9 | *Implosion* | [[The Swallower]] |
-
----
-
-## Mechanical Reference
-
-- **Apparition Skills:** Ocean Lore, Sailing Lore
-- **Vessel Spell:** *Devouring Dark Form*
-- **Avatar:** *Tentacles from the Dark*
-- **Source:** *War of Immortals* pg. 19
