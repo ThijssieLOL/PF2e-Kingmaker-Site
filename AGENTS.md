@@ -156,6 +156,14 @@ braindump.
   screen gets `###` subsections or a table. A run of one-line sections is what makes a page look
   bare. Use a table when the material compares (ranks, spells, tiers, rosters). Keep each section to
   what its heading promises.
+- **Selective bullets.** Prose is the default; a list is the exception. Reach for a bullet list only
+  when a section holds a set of parallel, scannable facts, such as `### Quick Facts`, ranks, rosters,
+  tiers, funding sources, or a trigger list. When a list is right, open the section with one prose
+  sentence that states its point, then give the items as parallel labelled lines (`**Label:** ...`);
+  never drop an unlabelled run of sentences under a heading, and never let a heading lead straight
+  into a list with nothing to frame it. Everything narrative, explanatory, or historical is prose,
+  and a page that is lists from top to bottom has not been laid out at all. Keep the labels parallel
+  but varied: do not begin every one with "The".
 - **Headings name their topic.** Keep a heading a plain noun phrase that says what the section holds
   (`Appearance`, `The Star Seals`, `Concealment & Bearer Awareness`), never a question or a sentence
   about the subject. A heading that only makes sense after reading the section is the wrong heading.
