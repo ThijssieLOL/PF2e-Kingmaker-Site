@@ -39,6 +39,6 @@ The tattoos glow with brilliant light when the bearer channels magic, thanks to 
 
 ## Ecclesiastical Law & Re-Application
 
-Within his own cohort, [[Aurelius]] enforces the "Tradition of Humility" strictly, requiring all new clergy and commandos under his leadership to receive and openly display tattoos of their past sins. The aim is to normalize the priesthood as a collection of redeemed sinners.
+The tattoos are mandatory. Every member of the Church's clergy receives them at initiation, and the marks stay with them for life. They are placed on visible skin and worn openly, since public humility is part of the vow. The practice presents the priesthood as a body of redeemed sinners.
 
 If a member of the clergy commits a new, grave sin, they can have new tattoos applied. This only happens in rare cases, when they seek forgiveness and wish to rejoin the clergy.
