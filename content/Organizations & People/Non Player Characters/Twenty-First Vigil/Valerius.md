@@ -28,25 +28,25 @@ Valerius was the impulsive, fiery vanguard of the Twenty-First Vigil, a Fighter 
 
 ## Appearance
 
-- **Description:** (What they look like, what they wear, and any distinguishing features)
+(What they look like, what they wear, and any distinguishing features)
 
 ---
 
 ## Personality
 
-- **Demeanor:** A man who needed to prove himself, in a way that never turned malicious. He met every challenge head-on and never backed away from one.
+A man who needed to prove himself, in a way that never turned malicious. He met every challenge head-on and never backed away from one.
 
 ---
 
 ## Abilities
 
-- **Skills & Magic:** (How they fight, what magic they use, or their main talents)
+(How they fight, what magic they use, or their main talents)
 
 ---
 
 ## History
 
-- **Background:** (Their past, how they got here, and what they want to achieve)
+(Their past, how they got here, and what they want to achieve)
 
 ---
 
