@@ -90,7 +90,7 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 ### The Radiant Mandate & Apolitical Stance
 Clergy members are forbidden from holding crowns, ruling secular nations, or taking direct political office. Although apolitical, the church acts as a moral check on secular rulers: if a state becomes profoundly corrupt or commits grave evils, the church will intervene.
 
-The Moral Veto is triggered by capital sins:
+The Moral Veto is triggered by capital sins such as:
 
 - State-sponsored necromancy
 - Enslavement of populations
