@@ -1,5 +1,4 @@
 ---
-agent-editable: true
 tags:
   - session
 session_num: session 1
