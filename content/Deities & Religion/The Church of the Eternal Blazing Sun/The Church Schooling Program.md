@@ -21,7 +21,7 @@ The Church of the Eternal Blazing Sun educates its children in its own schools, 
 
 ## The Schooling Track
 
-Any family may place a child in the Church's schools. Believing parents choose it often, because the schooling is respected and it leads to steady work in the faith. A child in the program is a student, not a worker: they study letters, scripture, and the discipline of their chancellery, and they are never put to labor. No child takes the field before sixteen, in any chancellery. Until then the training stays inside the school and the practice yard.
+Any family may place a child in the Church's schools. Believing parents choose it often, because the schooling is respected and it leads to steady work in the faith. A child in the program is a student, not a worker: they study letters, scripture, and the discipline of their chancellery, and they are never put to labor. No child takes the field before sixteen, in any chancellery. Until then the training stays inside the school and the practice yard. The schooling is rigorous, because the work it leads to is demanding: every chancellery runs on difficult intellectual labor, and the schools are built to match.
 
 ---
 
