@@ -5,7 +5,7 @@ tags:
   - Giant
   - JotnarFive
   - fih
-ancestry: giigoonh
+ancestry: Mishi Giigoonh
 faction: "[[The Jotnar Five]]"
 status: Alive
 ---
@@ -15,7 +15,9 @@ status: Alive
 > "Feed a man a fish, and one fish shall be dead; teach a man to fish, and you exterminate his entire ecosystem" -The salmon of knowledge
 
 ## Overview
-A brief 1-2 sentence summary of who this character is and their role.
+Its a fish
+It flies
+It delivers letters
 
 ### Quick Facts
 - **Full Name:** Akwa'waa // *He fishes through the ice with spear*
