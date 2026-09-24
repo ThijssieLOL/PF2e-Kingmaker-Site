@@ -34,7 +34,7 @@ Clergy do not vow poverty. They vow not to lead rich lives.
 
 ## Funding & Banking
 
-The Church is not a business. It draws steady income from state contracts, chiefly for organizing and managing public charities such as orphanages and soup kitchens, and the rest comes from donations. Where a state will not pay for its charities, the Church funds them itself and asks donors for fixed pledged amounts. It holds it a moral wrong for a state to demand its charitable works without paying for them, or to reject those works entirely. The Church may also invest for profit, both within its own chancelleries and beyond them in private companies and secular governments. Its clergy are paid by grade, on a scale it holds should be fair, weighed by experience, responsibility, and the effort of the work.
+The Church is not a for profit business. It draws steady income from state contracts, chiefly for organizing and managing public charities such as orphanages and soup kitchens, and the rest comes from donations. Where a state will not pay for its charities, the Church funds them itself and asks donors for fixed pledged amounts. It holds it a moral wrong for a state to demand its charitable works without paying for them, or to reject those works entirely. The Church may also invest for profit, both within its own chancelleries and beyond them in private companies and secular governments. Its clergy are paid by grade, on a scale it holds should be fair, weighed by experience, responsibility, and the effort of the work.
 
 The Church does not run banks. Banking is left to the state, or to private owners where no foul play such as monopoly is present. The Church prefers the state.
 
