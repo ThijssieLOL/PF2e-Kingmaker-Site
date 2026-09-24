@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Shepherd of Errant Winds are spirits of movement and freedom, born from the wake of the wind.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Tailwind* (cantrip: Slashing Gust) | |
@@ -25,7 +29,10 @@ Spirits of the Shepherd of Errant Winds are spirits of movement and freedom, bor
 | 8 | *Punishing Winds* | |
 | 9 | *Wrathful Storm* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Sailing Lore, Scouting Lore
 - **Vessel Spell:** *Gift of the Anemos*
 - **Avatar:** *Will of the Winds*

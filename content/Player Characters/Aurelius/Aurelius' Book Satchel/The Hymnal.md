@@ -19,12 +19,15 @@ status: Active
 The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, set down so that he can speak it true again after long weeks without use. Each dawn he prays the day's office out of it in the [[The Liturgical Cadence|Liturgical Cadence]], and the rest of the book keeps the record of every verse he has ever learned. When he casts, the verses burn Aureolin White and his tattoos ignite along his forearms and shins.
 
 ### Quick Facts
+
 - **Kind of Book:** Prayer book of divine hymns
 - **What It Holds:** Every verse Aurelius has learned, divine, apparition, or focus
 - **How It Records:** Entered in full, in short phrases, per the [[Spell Template]]
 - **Morning Office:** Divine verses prayed for and bestowed, then the [[Spirit Sealing|spirits are called]]
 - **Kept In:** Aurelius's book satchel
 - **Current Verses:** Cantrips and 1st-rank spells
+
+---
 
 ## Casting a Verse
 
@@ -35,6 +38,8 @@ The words are fixed. He recalls each verse exactly as it was set down, though th
 Where a verse is heard depends on its source. A spirit's verse is spoken in the spirit realm and does not carry to mortal ears; a divine verse is spoken aloud and heard by anyone nearby.
 
 The hands are the other half of the casting. How a run of [[The Star Seals|seals]] is built is set down there.
+
+---
 
 ## The Recorded Library
 
@@ -51,6 +56,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Crafter in the Vault]]
 
 ##### Sigil
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -60,6 +66,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Mending
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -69,6 +76,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Knock
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -78,6 +86,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Ghostly Weapon
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -87,6 +96,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Creation
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -96,6 +106,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Impaling Spike
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -105,6 +116,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Wall of Metal
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -114,6 +126,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Beheading Buzz Saw
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -123,6 +136,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Ferrous Form
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -132,6 +146,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Resplendent Mansion
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -143,6 +158,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Traveling Workshop
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -154,6 +170,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Custodian of Groves and Gardens]]
 
 ##### Tangle Vine
+
 *Cantrip 1 · Attack, Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet*
 
 - **Manifestation:** A white-lit vine lances from his palm and coils around the target's legs, trailing light.
@@ -163,6 +180,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:** The vine withers where it lies into a white ash the wind takes.
 
 ##### Protector Tree
+
 *Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
 
 - **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, almost made from ethereal light, its leaves pale and glowing.
@@ -172,6 +190,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:** When the tree falls it withers into white ash and a ring of fresh-turned soil.
 
 ##### Gentle Breeze
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -181,6 +200,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Safe Passage
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -190,6 +210,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Peaceful Bubble
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -199,6 +220,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Truespeech
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -208,6 +230,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Field of Life
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -217,6 +240,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Lifewood Cage
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -226,6 +250,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Moment of Renewal
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -235,6 +260,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Nature's Enmity
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -246,6 +272,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Garden of Healing
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -257,6 +284,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Echo of Lost Moments]]
 
 ##### Figment
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -266,6 +294,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Déjà Vu
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -275,6 +304,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Dispel Magic
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -284,6 +314,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Curse of Lost Time
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -293,6 +324,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Vision of Death
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -302,6 +334,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Illusory Scene
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -311,6 +344,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Phantasmal Calamity
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -320,6 +354,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Retrocognition
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -329,6 +364,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Quandary
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -338,6 +374,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Foresight
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -349,6 +386,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Store Time
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -360,6 +398,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Impostor in Hidden Places]]
 
 ##### Telekinetic Hand
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -369,6 +408,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Ill Omen
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -378,6 +418,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Invisibility
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -387,6 +428,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Veil of Privacy
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -396,6 +438,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Liminal Doorway
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -405,6 +448,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Strange Geometry
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -414,6 +458,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Mislead
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -423,6 +468,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Planar Palace
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -432,6 +478,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Disappearance
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -441,6 +488,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Phantasmagoria
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -452,6 +500,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Discomfiting Whisper
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -463,6 +512,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Lamentation of Sinister Deals]]
 
 ##### Message
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -472,6 +522,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Sure Strike
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -481,6 +532,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Blistering Invective
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -490,6 +542,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Hypercognition
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -499,6 +552,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Honeyed Words
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -508,6 +562,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Breath of Life
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -517,6 +572,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Sacred Form
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -526,6 +582,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Contingency
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -535,14 +592,17 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Moment of Renewal
+
 *Spell 8 · shared with the [[Custodian of Groves and Gardens]]; one verse serves both families.*
 
 ##### Resplendent Mansion
+
 *Spell 9 · shared with the [[Crafter in the Vault]]; one verse serves both families.*
 
 **Vessel Spell**
 
 ##### Wish Market
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -554,6 +614,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Lurker in Devouring Dark]]
 
 ##### Caustic Blast
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -563,6 +624,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Grim Tendrils
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -572,6 +634,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Acid Grip
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -581,6 +644,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Aqueous Orb
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -590,6 +654,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Grasp of the Deep
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -599,6 +664,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Wall of Ice
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -608,6 +674,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Frost Pillar
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -617,6 +684,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Hungry Depths
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -626,6 +694,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Arctic Rift
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -635,6 +704,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Implosion
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -646,6 +716,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Devouring Dark Form
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -657,9 +728,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Monarch of the Fey Courts]]
 
 ##### Tangle Vine
+
 *Cantrip 1 · shared with the [[Custodian of Groves and Gardens]]; one verse serves both families.*
 
 ##### Charm
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -669,6 +742,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Create Food
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -678,6 +752,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Enthrall
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -687,6 +762,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Suggestion
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -696,6 +772,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Hallucination
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -705,6 +782,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Dominate
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -714,6 +792,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Mask of Terror
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -723,6 +802,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Uncontrollable Dance
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -732,6 +812,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Unfathomable Song
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -743,6 +824,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Nymph's Grace
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -754,6 +836,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Reveler in Lost Glee]]
 
 ##### Prestidigitation
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -763,6 +846,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Dizzying Colors
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -772,6 +856,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Laughing Fit
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -781,6 +866,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Hypnotize
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -790,6 +876,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Confusion
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -799,9 +886,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Illusory Scene
+
 *Spell 5 · shared with the [[Echo of Lost Moments]]; one verse serves both families.*
 
 ##### Vibrant Pattern
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -811,6 +900,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Warp Mind
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -820,9 +910,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Quandary
+
 *Spell 8 · shared with the [[Echo of Lost Moments]]; one verse serves both families.*
 
 ##### Wails of the Damned
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -834,6 +926,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Trickster's Mirrors
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -845,6 +938,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Shepherd of Errant Winds]]
 
 ##### Slashing Gust
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -854,6 +948,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Tailwind
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -863,6 +958,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Propulsive Breeze
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -872,6 +968,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Wall of Wind
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -881,6 +978,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Vapor Form
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -890,6 +988,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Scouting Eye
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -899,9 +998,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Mislead
+
 *Spell 6 · shared with the [[Impostor in Hidden Places]]; one verse serves both families.*
 
 ##### Vacuum
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -911,6 +1012,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Punishing Winds
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -920,6 +1022,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Wrathful Storm
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -931,6 +1034,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Gift of the Anemos
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -942,6 +1046,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Speaker in Sibilance]]
 
 ##### Puff of Poison
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -951,9 +1056,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Ill Omen
+
 *Spell 1 · shared with the [[Impostor in Hidden Places]]; one verse serves both families.*
 
 ##### Stupefy
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -963,9 +1070,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Hypercognition
+
 *Spell 3 · shared with the [[Lamentation of Sinister Deals]]; one verse serves both families.*
 
 ##### Snake Fangs
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -975,6 +1084,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Slither
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -984,6 +1094,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Petrify
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -993,9 +1104,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Mask of Terror
+
 *Spell 7 · shared with the [[Monarch of the Fey Courts]]; one verse serves both families.*
 
 ##### Unrelenting Observation
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -1005,11 +1118,13 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Unfathomable Song
+
 *Spell 9 · shared with the [[Monarch of the Fey Courts]]; one verse serves both families.*
 
 **Vessel Spell**
 
 ##### Crown of Prophets
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1021,6 +1136,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Stalker in Darkened Boughs]]
 
 ##### Gouging Claw
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1030,6 +1146,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Runic Body
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1039,6 +1156,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Vomit Swarm
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1048,6 +1166,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Wall of Thorns
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1057,6 +1176,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Bestial Curse
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1066,6 +1186,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Moon Frenzy
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -1075,6 +1196,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Tangling Creepers
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -1084,6 +1206,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Unfettered Pack
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -1093,6 +1216,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Monstrosity Form
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -1102,11 +1226,13 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Wrathful Storm
+
 *Spell 9 · shared with the [[Shepherd of Errant Winds]] and the [[Vanguard of Roaring Waters]]; one verse serves all three families.*
 
 **Vessel Spell**
 
 ##### Darkened Forest Form
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1118,6 +1244,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Steward of Stone and Fire]]
 
 ##### Ignition
+
 *Cantrip 1 · Attack, Concentrate, Fire, Manipulate · two actions · range 30 feet*
 
 - **Manifestation:** A plain flame springs up in his open palm, then his light takes it and it leaps at the target as holy fire.
@@ -1127,6 +1254,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:** The flame dies into a scatter of white sparks that fall and go out on the ground.
 
 ##### Interposing Earth
+
 *Spell 1 · Earth, Manipulate · reaction · duration 3 rounds*
 
 - **Manifestation:** A slab of packed earth tears up from the ground and stands before the target, ringed in Aureolin White light, a wall thrown up against the blast.[1](#ref-1)
@@ -1136,6 +1264,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:** The slab breaks into dry clods that hold a faint white edge for a breath, then go dark.
 
 ##### Exploding Earth
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1145,6 +1274,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Fireball
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1154,6 +1284,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Wall of Fire
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1163,6 +1294,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Wall of Stone
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -1172,9 +1304,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Petrify
+
 *Spell 6 · shared with the [[Speaker in Sibilance]]; one verse serves both families.*
 
 ##### Volcanic Eruption
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -1184,6 +1318,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Earthquake
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -1193,6 +1328,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Falling Stars
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -1204,6 +1340,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Earth's Bile
+
 *Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
 
 - **Manifestation:** A tongue of Aureolin White fire gathers in either hand; he hurls the first, then the second a beat behind, and the second strikes the first into a firework burst.
@@ -1215,6 +1352,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Vanguard of Roaring Waters]]
 
 ##### Rousing Splash
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1224,6 +1362,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Hydraulic Push
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1233,6 +1372,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Mist
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1242,6 +1382,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Crashing Wave
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1251,6 +1392,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Hydraulic Torrent
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1260,6 +1402,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Control Water
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -1269,6 +1412,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Personal Ocean
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -1278,6 +1422,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Dancing Fountain
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -1287,6 +1432,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Whirlpool
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -1296,11 +1442,13 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Wrathful Storm
+
 *Spell 9 · shared with the [[Shepherd of Errant Winds]] and the [[Stalker in Darkened Boughs]]; one verse serves all three families.*
 
 **Vessel Spell**
 
 ##### River Carving Mountains
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1312,6 +1460,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 #### [[Witness to Ancient Battles]]
 
 ##### Shield
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1321,9 +1470,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Sure Strike
+
 *Spell 1 · shared with the [[Lamentation of Sinister Deals]]; one verse serves both families.*
 
 ##### Enlarge
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1333,9 +1484,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Ghostly Weapon
+
 *Spell 3 · shared with the [[Crafter in the Vault]]; one verse serves both families.*
 
 ##### Weapon Storm
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1345,6 +1498,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Invoke Spirits
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -1354,9 +1508,11 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Phantasmal Calamity
+
 *Spell 6 · shared with the [[Echo of Lost Moments]]; one verse serves both families.*
 
 ##### True Target
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -1366,6 +1522,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Canticle of Everlasting Grief
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -1375,6 +1532,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ##### Weapon of Judgment
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -1386,6 +1544,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Vessel Spell**
 
 ##### Embodiment of Battle
+
 *Focus 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1399,6 +1558,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **Cantrips**
 
 #### Forbidding Ward
+
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1408,6 +1568,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Guidance
+
 *Cantrip 1 · Concentrate · one action · range 30 feet*
 
 - **Manifestation:** A quick flare of Aureolin White on the target's brow, gone before anyone notes it.
@@ -1417,6 +1578,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:** -
 
 #### Needle Darts
+
 *Cantrip 1 · Attack, Concentrate, Manipulate, Metal · two actions · range 60 feet*
 
 - **Manifestation:** The metal reforms in Aureolin White into three thin needles, which rise and fly clean through the target, each trailing light.
@@ -1428,6 +1590,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **1st Rank**
 
 #### Benediction
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1437,6 +1600,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Beseech the Sphinx
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1446,6 +1610,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Bless
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1455,6 +1620,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Blessing of Vigor
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1464,6 +1630,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Fear
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1473,6 +1640,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Harm
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1482,6 +1650,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Heal
+
 *Spell 1 · Healing, Manipulate, Vitality · one to three actions · range varies*
 
 - **Manifestation:** Aureolin White light gathers at his hands and pours into the wound, closing it from within.
@@ -1491,6 +1660,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:** A last gold-white glimmer at the healed skin, then nothing.
 
 #### Protection
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1500,6 +1670,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Purifying Icicle
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1509,6 +1680,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Rainbow's End
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1518,6 +1690,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Runic Body
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1527,6 +1700,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Runic Weapon
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1536,6 +1710,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Summon Lesser Servitor
+
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -1547,6 +1722,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **2nd Rank**
 
 #### Banishing Touch
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1556,6 +1732,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Blood Vendetta
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1565,6 +1742,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Calm
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1574,6 +1752,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Carrion Mire
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1583,6 +1762,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Cleanse Affliction
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1592,6 +1772,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Clear Mind
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1601,6 +1782,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Dancing Shield
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1610,6 +1792,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Dispel Magic
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1619,6 +1802,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Inner Radiance Torrent
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1628,6 +1812,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Manifestation of Spirits
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1637,6 +1822,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Sound Body
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1646,6 +1832,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Spiritual Armament
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1655,6 +1842,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Sudden Blight
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1664,6 +1852,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Summoner's Precaution
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1673,6 +1862,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Thermal Remedy
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1682,6 +1872,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Warrior's Regret
+
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -1693,6 +1884,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **3rd Rank**
 
 #### Begone
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1702,6 +1894,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Circle of Protection
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1711,6 +1904,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Deep Sight
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1720,6 +1914,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Glyph of Warding
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1729,6 +1924,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Heatvision
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1738,6 +1934,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Heroism
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1747,6 +1944,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Horde of Underlings
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1756,6 +1954,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Infectious Ennui
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1765,6 +1964,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Martyr's Intervention
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1774,6 +1974,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Moonlight Ray
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1783,6 +1984,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Perceive the Threads of Fate
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1792,6 +1994,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Roaring Applause
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1801,6 +2004,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Sign of Conviction
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1810,6 +2014,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Vampiric Feast
+
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -1821,6 +2026,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **4th Rank**
 
 #### Air Walk
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1830,6 +2036,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Anathematic Reprisal
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1839,6 +2046,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Bloodspray Curse
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1848,6 +2056,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Cloak of Light
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1857,6 +2066,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Divine Wrath
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1866,6 +2076,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Enervation
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1875,6 +2086,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Fly
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1884,6 +2096,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Girzanje's March
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1893,6 +2106,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### It Is Written
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1902,6 +2116,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Phantasmal Protagonist
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1911,6 +2126,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Procyal Philosophy
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1920,6 +2136,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Radiant Beam
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1929,6 +2146,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Radiant Heart of Devotion
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1938,6 +2156,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Spell Immunity
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1947,6 +2166,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Spiritual Anamnesis
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1956,6 +2176,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Steal Voice
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1965,6 +2186,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Vital Beacon
+
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -1976,6 +2198,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **5th Rank**
 
 #### Confusing Cry
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -1985,6 +2208,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Diadem of Divine Radiance
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -1994,6 +2218,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Divine Immolation
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -2003,6 +2228,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Drop Dead
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -2012,6 +2238,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Rip the Spirit
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -2021,6 +2248,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Spiritual Torrent
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -2030,6 +2258,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Spiritual Transport
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -2039,6 +2268,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Tree of Life and Death
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -2048,6 +2278,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Wall of Flesh
+
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -2059,6 +2290,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **6th Rank**
 
 #### Awaken Entropy
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2068,6 +2300,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Blessed Boundary
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2077,6 +2310,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Bounty of the Sky
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2086,6 +2320,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Devil Form
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2095,6 +2330,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Dragon Form
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2104,6 +2340,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Heinous Future
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2113,6 +2350,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Raise Dead
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2122,6 +2360,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Repulsion
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2131,6 +2370,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Scintillating Safeguard
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2140,6 +2380,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Spirit Blast
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2149,6 +2390,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Suspended Retribution
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2158,6 +2400,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Vampiric Exsanguination
+
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -2169,6 +2412,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **7th Rank**
 
 #### Angel Form
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2178,6 +2422,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Attacked From Within
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2187,6 +2432,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Chrysopoetic Curse
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2196,6 +2442,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Devouring Void
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2205,6 +2452,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Eclipse Burst
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2214,6 +2462,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Energy Aegis
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2223,6 +2472,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Ethereal Jaunt
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2232,6 +2482,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Execute
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2241,6 +2492,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Fiendish Rift
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2250,6 +2502,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Final Fate of the Locust Host
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2259,6 +2512,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Moonburst
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2268,6 +2522,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Shock to the System
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2277,6 +2532,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Spell Riposte
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2286,6 +2542,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Sunburst
+
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -2297,6 +2554,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **8th Rank**
 
 #### Canticle of Everlasting Grief
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -2306,6 +2564,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Divine Armageddon
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -2315,6 +2574,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Divine Aura
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -2324,6 +2584,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Incarnate Deific Herald
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -2333,6 +2594,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Moment of Renewal
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -2342,6 +2604,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Musical Shift
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -2351,6 +2614,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Part the Mists to Paradise
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -2360,6 +2624,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Spirit Song
+
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -2371,6 +2636,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **9th Rank**
 
 #### Beseech Arcanotheign
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -2380,6 +2646,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Crusade
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -2389,6 +2656,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Dimensional Excision
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -2398,6 +2666,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Foresight
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -2407,6 +2676,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Massacre
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -2416,6 +2686,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Overwhelming Presence
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -2425,6 +2696,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Sacred Covenant
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -2434,6 +2706,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Vampiric Revelry
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -2443,6 +2716,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Voracious Gestalt
+
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -2454,6 +2728,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 **10th Rank**
 
 #### Avatar
+
 *Spell 10 · traits · actions · range*
 
 - **Manifestation:**
@@ -2463,6 +2738,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Conquering Soldiers
+
 *Spell 10 · traits · actions · range*
 
 - **Manifestation:**
@@ -2472,6 +2748,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Garden of the Green Man's Growth
+
 *Spell 10 · traits · actions · range*
 
 - **Manifestation:**
@@ -2481,6 +2758,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Miracle
+
 *Spell 10 · traits · actions · range*
 
 - **Manifestation:**
@@ -2490,6 +2768,7 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 #### Tear the Veil
+
 *Spell 10 · traits · actions · range*
 
 - **Manifestation:**
@@ -2497,6 +2776,8 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
+
+---
 
 ## References
 

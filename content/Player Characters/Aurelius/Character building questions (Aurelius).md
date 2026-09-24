@@ -11,9 +11,12 @@ tags:
 The record of Aurelius's character-building interview, kept in its original order. Each answer is a short note; the full account of anything it touches lives on the page that owns it, linked in the answer.
 
 ### Quick Facts
+
 - **Subject:** [[Aurelius]]
 - **Status:** First draft, unfinished
 - **Kept For:** Reference during play and future rewrites
+
+---
 
 ## Mechanics
 
@@ -25,6 +28,8 @@ The record of Aurelius's character-building interview, kept in its original orde
   Religion and Diplomacy.
 - **4. What languages does your character speak, and why?**
   Common and spirit language (?) ([[Languages]]).
+
+---
 
 ## Visual Design and Aesthetics
 
@@ -67,6 +72,8 @@ The record of Aurelius's character-building interview, kept in its original orde
 - **20. Does your character have a code of honour in combat?**
   He prefers detachment and negotiation, but "The Eclipse" overrides it when cruelty or blasphemy triggers him ([[Aurelius#Trauma Response: "The Eclipse"]]).
 
+---
+
 ## Family and Relationships
 
 - **21. Describe your character's parents.**
@@ -88,6 +95,8 @@ The record of Aurelius's character-building interview, kept in its original orde
 - **29. Has your character been in a romantic relationship?**
   No. He keeps a vow of celibacy ([[Aurelius#Dialect & Boundaries]]).
 
+---
+
 ## Backstory and Upbringing
 
 - **30. Where did your character grow up?**
@@ -102,6 +111,8 @@ The record of Aurelius's character-building interview, kept in its original orde
   Poor.
 - **35. What is your tragic backstory?**
   Born with the [[Ocular of Kaelen]], orphaned by the cabal, driven to theft and murder on the streets, then redeemed by the Church and trained as a commando ([[Aurelius#History]]).
+
+---
 
 ## Motivations and Morality
 
@@ -122,6 +133,8 @@ The record of Aurelius's character-building interview, kept in its original orde
 - **43. Where does your character draw the line?**
   At unsalvageable cruelty, severe blasphemy, state-sponsored necromancy, enslavement, and systemic tyranny ([[Aurelius#Trauma Response: "The Eclipse"]]).
 
+---
+
 ## Religion
 
 - **44. Is your character religious?**
@@ -134,6 +147,8 @@ The record of Aurelius's character-building interview, kept in its original orde
   Strict orthodoxy, with diplomatic respect toward benevolent denominations ([[The Church of the Eternal Blazing Sun#Relations with Other Faiths]]).
 - **48. Do they believe in an afterlife?**
   Yes: the Sunlit Fields, earned through a life of debt and redemption ([[The Church of the Eternal Blazing Sun#Afterlife & Purification]]).
+
+---
 
 ## Personality and Preferences
 
@@ -177,6 +192,8 @@ The record of Aurelius's character-building interview, kept in its original orde
   (Unanswered.)
 - **68. If your character were a celestial body, what would they be?**
   A sun or a star, mirroring his devotion and his white-gold light.
+
+---
 
 ## House Notes
 

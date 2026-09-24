@@ -21,7 +21,7 @@ The church does not seek to rule nations directly. It acts instead as a moral gu
 - **Deity:** [[Erisol]]
 - **Alignment:** Lawful Good
 - **Leader:** Grade 2 (Solstice), chosen directly by the sun goddess
-- **Structure:** Grade-based hierarchy (Grade 9–0) and nine High Chancelleries
+- **Structure:** Grade-based hierarchy (Grade 9-0) and nine High Chancelleries
 - **Status:** Active
 
 ---

@@ -7,9 +7,20 @@ organization: "[[The Church of the Eternal Blazing Sun]]"
 status: Active
 ---
 
-# Church Tiers
+## Overview
 
 The houses of [[The Church of the Eternal Blazing Sun]] are tiered by the population they serve: higher tiers rarer, larger, and more heavily staffed, so outreach and expenditure stay proportionate. Only one Tier 5 house exists: the headquarters itself.
+
+### Quick Facts
+
+- **Owner:** [[The Church of the Eternal Blazing Sun]]
+- **Number of Tiers:** Five, from the parish to the headquarters
+- **Nine-Fold Staff:** Kept from Tier 2 upward
+- **Related:** [[The Grade System]]
+
+---
+
+## The Tiers
 
 - **Tier 1 — Parish:** The smallest houses, serving villages and hamlets. A Tier 1 church requires no resident Grade 7 (Blaze) priest; it is run by multiple Grade 8 (Cinder) clergy, as few as two in the humblest settlement.
 - **Tier 2 — Nine-Fold Church:** The standard major church, and the first tier bound by the nine-fold staff. From Tier 2 upward, every church keeps at least one clergy member of each chancellery. It is presided over by a Grade 7 (Blaze) parish priest.
@@ -17,7 +28,9 @@ The houses of [[The Church of the Eternal Blazing Sun]] are tiered by the popula
 - **Tier 4 — Metropolitan Cathedral:** The great cathedrals of the faith's largest cities, presided over by a Grade 5 (Pyre) archbishop.
 - **Tier 5 — The Headquarters:** The single seat of the Church's central administration, from which the Grade 2 (Solstice) leads the faith.
 
-A church rises in tier only with approval from above: the Tier 1–2 upgrade by a Grade 4 (Vesta), the Tier 2–3 by a Grade 3 (Zenith), and the Tier 3–4 by a Grade 2 (Solstice). The grades themselves are set out in [[The Grade System]].
+A church rises in tier only with approval from above: the Tier 1-2 upgrade by a Grade 4 (Vesta), the Tier 2-3 by a Grade 3 (Zenith), and the Tier 3-4 by a Grade 2 (Solstice). The grades themselves are set out in [[The Grade System]].
+
+---
 
 ## The Nine-Fold Staff (Tier 2 and above)
 
@@ -27,6 +40,8 @@ Every Cinder (Grade 8) must hold active assignment to a Chancellery, so a Tier 2
 - **The Responsible:** Each seat is held by a full-time resident responsible, one per chancellery, Grade 8 or higher, so that no single member carries an unmanageable workload.
 - **Sharing:** Clergy may serve several churches at once, save the responsible of a seat, who serves only the church to which they are attached.
 - **Filling the Seats:** A parish may recruit locally and submit the candidate for approval, or receive an appointment from the higher orders; a seat that falls empty is filled by transfer from the wider Church.
+
+---
 
 ## The Main Chancellery
 

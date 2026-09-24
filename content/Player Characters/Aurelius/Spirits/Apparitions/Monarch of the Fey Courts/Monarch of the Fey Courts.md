@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Monarch of the Fey Courts are vain and capricious, and they belong to the courts of the First World.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Charm* (cantrip: Tangle Vine) | |
@@ -25,7 +29,10 @@ Spirits of the Monarch of the Fey Courts are vain and capricious, and they belon
 | 8 | *Uncontrollable Dance* | [[The Court of One]] |
 | 9 | *Unfathomable Song* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Art Lore, Fey Lore
 - **Vessel Spell:** *Nymph's Grace*
 - **Avatar:** *Queen of the Winter Court*

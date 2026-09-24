@@ -7,9 +7,18 @@ organization: "[[The Church of the Eternal Blazing Sun]]"
 status: Active
 ---
 
-# The Grade System
+## Overview
 
 The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fire-themed grade system. As a member rises in grade, their title names a larger and more powerful flame. Higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics and magical items.
+
+### Quick Facts
+
+- **Organization:** [[The Church of the Eternal Blazing Sun]]
+- **Grades:** Grade 9 (Spark) down to Grade 0 (the goddess herself)
+- **Advancement:** A theological examination, a combat examination, and a review board
+- **Chancellery Service:** Required from Grade 8 upward, growing by grade
+
+---
 
 ## Grade & Level Progression
 
@@ -25,6 +34,8 @@ The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fir
 | **2** | Solstice | 19–20 | The supreme leader of the church (pope-equivalent), chosen directly by the sun goddess to lead the faith on earth. | Supreme command and complete oversight over **all 9 Chancelleries**. |
 | **1** | Star | | Ascended mortals and revered saints, minor divine entities in the Church's mythology, each represented by a sacred star or constellation. | |
 | **0** | The Eternal Blazing Sun | | The Goddess herself, the absolute cosmic apex of divinity and divine authority. | |
+
+---
 
 ## Ascension Trials
 

@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Crafter in the Vault are born of forges, workshops, and places where creation and injury happen together.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Mending* (cantrip: Sigil) | |
@@ -25,7 +29,10 @@ Spirits of the Crafter in the Vault are born of forges, workshops, and places wh
 | 8 | *Ferrous Form* | |
 | 9 | *Resplendent Mansion* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Architecture Lore, Engineering Lore
 - **Vessel Spell:** *Traveling Workshop*
 - **Avatar:** *Incarnate Dungeon*

@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Echo of Lost Moments are born of forgotten memories, and of time that was damaged and then repaired.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Déjà Vu* (cantrip: Figment) | |
@@ -25,7 +29,10 @@ Spirits of the Echo of Lost Moments are born of forgotten memories, and of time 
 | 8 | *Quandary* | |
 | 9 | *Foresight* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Fortune-Telling Lore, Genealogy Lore
 - **Vessel Spell:** *Store Time*
 - **Avatar:** *Devourer of Lost Time*

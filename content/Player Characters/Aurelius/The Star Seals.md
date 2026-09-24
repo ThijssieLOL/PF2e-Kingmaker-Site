@@ -18,11 +18,14 @@ The Star Seals are the somatic component of [[Aurelius]]'s casting: the handshap
 Every seal is named for a constellation, and every constellation is held by a Star Saint. [[The Hymnal]] records each verse in full, and the seal sequence is written down beside the verse it belongs to.
 
 ### Quick Facts
+
 - **What They Are:** The somatic component of Aurelius's spellcasting
 - **How Many:** One for each constellation
 - **Named After:** The constellations, and the Star Saints who hold them
 - **Built From:** Twelve base configurations of the hands
 - **Recorded In:** [[The Hymnal]]
+
+---
 
 ## The Twelve Base Shapes
 
@@ -76,6 +79,8 @@ Every seal is one of these twelve configurations.
 
 ![[The Star Seals - Ram.png|170]]
 
+---
+
 ## Building a Sequence
 
 A verse is cast through a run of seals, and the run grows with the rank of the verse: a cantrip takes the fewest seals, and a higher verse takes more. The traits of the spell choose the shapes, and the Star Saint whose seal matches the spell's domain matters; *Heal* draws on [[The Chalice]], held by [[Saint Olevira]], for health and healing.
@@ -83,6 +88,8 @@ A verse is cast through a run of seals, and the run grows with the rank of the v
 A sequence belongs to the spell, not to the spirit that lends it. When two apparitions lend the same verse, the seals do not change.
 
 No verse opens or closes on a fixed seal.
+
+---
 
 ## The Seals
 
@@ -105,6 +112,8 @@ No verse opens or closes on a fixed seal.
 | [[The Archer]] | [[Saint Aelvin]] | The Hunt, Archery | Tiger |
 | [[The Chalice]] | [[Saint Olevira]] | Health, Healing | Serpent |
 | [[The Dragon]] | [[Saint Henry]] | *not yet recorded* | Dragon |
+
+---
 
 ## House Notes
 

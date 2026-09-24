@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Stalker in Darkened Boughs are hunters of the ancient forests, drawn to violence and to those who master it.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Runic Body* (cantrip: Gouging Claw) | |
@@ -25,7 +29,10 @@ Spirits of the Stalker in Darkened Boughs are hunters of the ancient forests, dr
 | 8 | *Monstrosity Form* | [[The Grazer]] |
 | 9 | *Wrathful Storm* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Forest Lore, Hunting Lore
 - **Vessel Spell:** *Darkened Forest Form*
 - **Avatar:** *Beast of the Boughs*

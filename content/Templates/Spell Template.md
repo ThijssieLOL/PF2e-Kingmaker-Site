@@ -12,6 +12,7 @@ aliases:
 > — Aurelius
 
 #### Spell Name
+
 *Rank · traits · actions · range. One or two sentences on what the spell does.*
 
 - **Manifestation:** (What the spell looks like as it takes form: the shape the verse gives the power.)

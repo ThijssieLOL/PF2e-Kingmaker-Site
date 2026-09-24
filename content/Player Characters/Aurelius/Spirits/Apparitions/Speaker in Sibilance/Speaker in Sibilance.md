@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Speaker in Sibilance are hissing spirits of forbidden knowledge, and each serpent is a different counsel.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Ill Omen* (cantrip: Puff of Poison) | |
@@ -25,7 +29,10 @@ Spirits of the Speaker in Sibilance are hissing spirits of forbidden knowledge, 
 | 8 | *Unrelenting Observation* | |
 | 9 | *Unfathomable Song* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Fortune-Telling Lore, Mountain Lore
 - **Vessel Spell:** *Crown of Prophets*
 - **Avatar:** *Medusa of Merciless Mysteries*

@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Vanguard of Roaring Waters are chaotic spirits of rapids, breakers, and rivers that carve the world.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Hydraulic Push* (cantrip: Rousing Splash) | |
@@ -25,7 +29,10 @@ Spirits of the Vanguard of Roaring Waters are chaotic spirits of rapids, breaker
 | 8 | *Whirlpool* | |
 | 9 | *Wrathful Storm* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Mountain Lore, River Lore
 - **Vessel Spell:** *River Carving Mountains*
 - **Avatar:** *River that Splits the World*

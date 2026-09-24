@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Custodian of Groves and Gardens are quiet spirits of tended land, and they believe they have already found paradise.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Protector Tree* (cantrip: Tangle Vine) | |
@@ -25,7 +29,10 @@ Spirits of the Custodian of Groves and Gardens are quiet spirits of tended land,
 | 8 | *Moment of Renewal* | |
 | 9 | *Nature's Enmity* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Farming Lore, Herbalism Lore
 - **Vessel Spell:** *Garden of Healing*
 - **Avatar:** *Peaceful Reaches*

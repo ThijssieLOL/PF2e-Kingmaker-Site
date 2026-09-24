@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Impostor in Hidden Places are secret-keepers. They whisper in corners that mortal voices never reach.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Ill Omen* (cantrip: Telekinetic Hand) | |
@@ -25,7 +29,10 @@ Spirits of the Impostor in Hidden Places are secret-keepers. They whisper in cor
 | 8 | *Disappearance* | |
 | 9 | *Phantasmagoria* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Fortune-Telling Lore, Underworld Lore
 - **Vessel Spell:** *Discomfiting Whisper*
 - **Avatar:** *Whisper Hiding in Shadows*

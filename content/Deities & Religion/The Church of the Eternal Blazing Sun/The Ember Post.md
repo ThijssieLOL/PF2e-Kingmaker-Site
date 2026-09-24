@@ -7,15 +7,27 @@ organization: "[[The Church of the Eternal Blazing Sun]]"
 status: Active
 ---
 
-# The Ember Post
+## Overview
 
 The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. No messenger rides and no raven flies. A letter written in the right ink and committed to flame crosses any distance as a swirl of embers, then condenses once more out of the fire of the one it was meant for.
+
+### Quick Facts
+
+- **Operator:** [[The Chancellery of the Meridian Cadastre]]
+- **Medium:** Ember ink, committed to flame
+- **Delivery:** Arrives at the recipient's attuned hearth
+- **Rite:** The Prayer of Attunement
+- **Status:** Active
+
+---
 
 ## The Rite of Committal
 
 - **Ember Ink:** Messages are written on parchment in **ember ink**, a consecrated ink blended from holy water, lampblack, and ash drawn from a sanctified hearth. It is a Church-sacrament supply issued through [[The Chancellery of the Meridian Cadastre]] and kept under lock in every parish; any faithful in good standing may draw on it.
 - **The Committal:** The sender holds the finished letter to any open flame, hearth, brazier, or candle, and speaks the recipient's name. The parchment instantly combusts into a swirl of embers that rises, scatters, and is gone; the message itself has departed upon the fire.
 - **Delivery:** The embers fly through flame itself and reassemble at the recipient's **attuned hearth**, writing reforming in ash-black upon the parchment, or the words spoken in a whisper of crackling light.
+
+---
 
 ## Attunement
 
@@ -25,6 +37,8 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 - **Wandering the Light:** Attunement passes from fire to fire as the traveler moves, so itinerant clergy and field agents such as [[Aurelius]] carry their correspondence with them, pausing at each church's hearth along the road to offer the Prayer of Attunement anew and collect what has arrived.
 - **No Attunement:** A recipient who holds no current attunement receives their mail at their last attuned hearth, for most clergy the message hearth of their home parish, where it is held until they return or pray anew.
 - **The Message Hearth:** Every local church keeps a dedicated **message hearth** in its communication office: a fire consecrated to the parish itself and re-blessed each dawn by its [[#The Hearth Keepers|hearth keeper]] in a rite of the same kind. Any letter addressed to the church arrives there, whatever member it concerns.
+
+---
 
 ## The Hearth Keepers
 

@@ -4,11 +4,21 @@ tags:
   - lore
 ---
 
-To keep it easy to roleplay without slowing down the game or feeling forced, break his dialect down into a few simple linguistic habits, a small word bank, and distinct "voices" for different moods.
+## Overview
+
+The Liturgical Cadence is the formal speech register the Church's clergy keep, and [[Aurelius]] holds to it even in the field. It rests on a few simple linguistic habits, a small word bank, and distinct voices for different moods, all chosen to be easy to play without slowing the game or feeling forced.
+
+### Quick Facts
+
+- **What It Is:** The formal speech register of the Church's clergy
+- **Hallmarks:** No modern contractions, archaic pronouns, and plain active verbs
+- **In Play:** Three voices, for the catechist, the scholar, and the executioner
+- **Related:** [[Aurelius]]
 
 ---
 
 ## Simple Verb Negation
+
 The easiest way to sound Shakespearean without memorizing complex grammar is to **drop the word "do" or "don't" when negating verbs**. 
 Instead of adding "don't" before a verb, simply put "not" after the verb.
 
@@ -20,6 +30,7 @@ Instead of adding "don't" before a verb, simply put "not" after the verb.
 ---
 
 ## Word Bank
+
 Keep a small cheat sheet of these words on your character sheet. You do not need to use them in every sentence. One or two in a conversation is enough to establish his dialect.
 
 | Modern Phrase                 | Aurelius's Liturgical Equivalent         | Example in Sentence                                                        |
@@ -35,21 +46,25 @@ Keep a small cheat sheet of these words on your character sheet. You do not need
 ---
 
 ## The Three Voices
+
 Because Aurelius wears different masks, his dialect shifts slightly depending on who he is talking to.
 
 ### The Warm Catechist
+
 When talking to children or commoners, or when trying to lift his companions' spirits, his archaic speech should sound gentle, poetic, and comforting, like a grandfatherly priest despite his young age.
 - **The Tone:** Soft, patient, and reassuring.
 - **Example:** *"Fret not, little one. The sun must set so that we may appreciate the glory of its rising. Come, let us speak of the stars."*
 - **Example:** *"Verily, your courage today was a sight to behold. The sun smiles upon your efforts."*
 
 ### The Debating Scholar
+
 When dealing with stubborn non-believers, debating politics with [[Vespera]], or facing mundane paperwork, he is polite, but his high-register vocabulary carries a subtle, academic condescension.
 - **The Tone:** Measured, highly intellectual, slightly aloof.
 - **Example:** *"You jest, surely? To suggest the military should govern without the moral guidance of the Church is to invite a swift and chaotic ruin."*
 - **Example:** *"I cannot but wonder, my friend, if your skepticism is born of genuine doubt, or merely a fear of the light that exposes your shadows."*
 
 ### The Executioner
+
 When his "switch" is flipped and he confronts "unsalvageable sin," his dialect shifts from "scholarly" to **biblical and absolute**. This is where you can occasionally use *Thou/Thee/Thy* to show he is speaking not as a man, but as an instrument of divine judgment.
 - **The Tone:** Flat, emotionless, clinical, and heavy.
 - **Example:** *"Thy sins have weighed the scales, and they have been found wanting. Verily, the sun must set upon thy life."*

@@ -10,9 +10,13 @@ status: Active
 ---
 
 ## Overview
+
 Spirits of the Lamentation of Sinister Deals come from bargains that cost more than they returned.
 
+---
+
 ## The Nine Ranks
+
 | Rank | Spell | Spirit |
 | :---: | :--- | :--- |
 | 1 | *Sure Strike* (cantrip: Message) | |
@@ -25,7 +29,10 @@ Spirits of the Lamentation of Sinister Deals come from bargains that cost more t
 | 8 | *Moment of Renewal* | |
 | 9 | *Resplendent Mansion* | |
 
+---
+
 ## Mechanical Reference
+
 - **Apparition Skills:** Legal Lore, Scribing Lore
 - **Vessel Spell:** *Wish Market*
 - **Avatar:** *Cosmic Notary*

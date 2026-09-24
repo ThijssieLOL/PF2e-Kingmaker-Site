@@ -17,6 +17,15 @@ Most scholars of the spirit world teach that an apparition is a single, fixed en
 
 His **Binding Ledger** is the personal catalogue he keeps of these families and of the individual spirits he has met, bound, released, or only heard rumored. What spirits are, and how their world works, he sets down separately in [[Spirits]]; the [[Spirit Template]] is used to document individual spirits; each family has its own page under `Spirits/Apparitions/`. The ledger rides in his book satchel, always within reach.
 
+### Quick Facts
+
+- **Keeper:** [[Aurelius]]
+- **Records:** The apparition families, and every spirit he has met, bound, released, or only heard rumoured
+- **Kept In:** Aurelius's book satchel
+- **Related:** [[Spirits]], [[Spirit Sealing]], [[Spirit Template]]
+
+---
+
 ## [[Spirit Sealing|Binding]]
 
 ### The Naming
@@ -35,12 +44,16 @@ Each day during his morning preparations, Aurelius attunes to a selection of the
 
 As Aurelius's power deepens, each time he gains a new spell rank, his vessel can finally hold spirits of a higher Rank. He then sets out to *find* one: a new spirit of a family he already keeps, or a family he has never bound. A low-Rank spirit released with honor remains an ally; a spirit too strong to bind yet remains a goal.
 
+---
+
 ## Meeting Spirits
 
 - **Weak spirits** recognize his spiritual authority and submit to his presence without contest.
 - **Good spirits** work with him as willing partners, in mutual respect.
 - **Neutral spirits** he guides gently toward order and the sun goddess' light, through patient negotiation.
 - **Evil spirits** he treats as unnatural parasites. He seals them into obedience, bound to obey their binder alone. He pictures that bond as holy chains of white-gold light, an image of the seal rather than a chain that exists. Managing them demands intense mental focus and takes a physical toll on him.
+
+---
 
 ## The Apparition Families
 
@@ -62,6 +75,8 @@ Fourteen families are known to the animist tradition. Each page opens with the f
 | [[Steward of Stone and Fire]] | Mountains and fire |
 | [[Vanguard of Roaring Waters]] | Rapids and rivers |
 | [[Witness to Ancient Battles]] | Soldiers and sieges |
+
+---
 
 ## House Notes
 
