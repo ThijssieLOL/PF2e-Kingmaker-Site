@@ -151,7 +151,11 @@ and offer what you CAN do instead.
   a line or two gets folded into its parent, and one that runs past a screen of prose gets `###`
   subsections or a table. A run of one-line sections is what makes a page look bare, so merge them
   or give them the material they need. Keep each section to what its heading promises, and leave a
-  blank line around every heading, table, and list. Pages written without a template get the same
+  blank line around every heading, table, and list. Set every top-level `##` section off with a
+  `---` thematic break on its own line, beginning with one after the Overview and Quick Facts block,
+  so the page reads as clear blocks. The break never goes between `###` subsections and never sits
+  directly under a heading. This is the vault's default layout, not an optional flourish; the
+  church and chancellery notes already show it. Pages written without a template get the same
   treatment: `## Overview` and `### Quick Facts` first, then the body in grouped sections, and
   `## House Notes` last where the page carries meta notes. A page you create is never a braindump:
   someone opening it for the first time should see the structure at a glance and read it top to
