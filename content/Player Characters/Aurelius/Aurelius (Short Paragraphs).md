@@ -183,9 +183,13 @@ Aurelius was raised alongside six other orphans in the Twenty-First Vigil, his t
 
 ### The Church Clergy
 
+One cleric shaped him more than any other.
+
 - **[[Lucian|Father Lucian Soler]] — The Mentor & Father Figure:** A Grade 7 Warpriest and head instructor within [[The Chancellery of Silent Illumination]]. Lucian was Aurelius's tactical instructor and worked directly with him to forge his Animist combat style. A paternal anchor and protector against the ocular-hunting cabal, Lucian gave Aurelius his personal combat talisman before he left for the Stolen Lands, and he keeps in touch through encrypted Church missives.
 
 ### The Fallen Siblings
+
+Two of his siblings did not survive.
 
 - **[[Tristan]] — The Shield (Champion):** The protective older-brother figure of the class and Aurelius's closest listener, the one he could speak to about ordinary things when he could speak to no one else. Tristan was lost holding back a monstrous horde so his siblings could escape; whether he died is not known. Aurelius holds his memory as the highest standard of holy sacrifice, and he often blames himself for the loss.
 - **[[Valerius]] — The Vanguard (Fighter):** Impulsive and fiery, Valerius bickered with Aurelius over discipline versus instinct, and his death at the city walls reminds Aurelius of the brutal cost of war.
@@ -193,6 +197,8 @@ Aurelius was raised alongside six other orphans in the Twenty-First Vigil, his t
 The Vigil keeps a shrine to the fallen in the church graveyard garden of Restov, and Aurelius visits it when he can.
 
 ### The Living Siblings
+
+Four of his siblings came through alive.
 
 - **[[Gideon]] — The Anchor (Warpriest):** The emotional heart of the group, he embodies the sun goddess' healing grace. Gideon keeps a close eye on Aurelius's mental health, gently pulling him back to humanity whenever he slips into "The Eclipse."
 - **[[Julian]] — The Wit (Swashbuckler):** Charismatic, theatrical, and quick-witted, Julian uses humor and playful banter to keep Aurelius grounded and break his somber moods.

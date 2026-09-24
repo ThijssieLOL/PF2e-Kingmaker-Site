@@ -32,8 +32,6 @@ The trait grants its bearer complete perception of the spiritual world, letting 
 
 ## Appearance
 
-### Passive State
-
 At rest, the bearer's irises carry a dull, muted geometric pattern so intricate that it shows only on close inspection.
 
 ### Active State
@@ -83,17 +81,13 @@ A bearer may carry the trait and still know nothing of its true name, history, o
 
 ## The Prophecy & History
 
-The true origin and ultimate purpose of the Ocular remain a mystery, and the records that survive only deepen it.
+The true origin and ultimate purpose of the Ocular remain a mystery, and the records that survive only deepen it. An unnamed organization tracks the bearer and hunts the Ocular through its line, as it has for as long as any record shows.
 
 ### The Greater Whole
 
 The Ocular seems to be one part of a larger whole, though the whole itself is unknown to nearly everyone. No surviving record says whether the Ocular is one fragment among many or the last of them.
 
 Who or what Kaelen was is likewise unknown. His body parts are said to lie scattered across the world, and those who carry them seem drawn toward the Stolen Lands.
-
-### The Enigmatic Hunters
-
-An unnamed organization tracks the bearer and hunts the Ocular through its line.
 
 ### The Murder of Aurelius's Parents
 
@@ -106,6 +100,8 @@ He survived as a beggar and a thief in Restov from six to eight, using the sight
 ---
 
 ## Known Bearers
+
+Only one bearer is known at a time, and the current one is recorded here.
 
 - **[[Aurelius]]:** The current bearer.
 
