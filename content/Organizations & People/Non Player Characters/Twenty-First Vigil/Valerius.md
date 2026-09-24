@@ -23,6 +23,8 @@ Valerius was the impulsive, fiery vanguard of the Twenty-First Vigil, a Fighter 
 - **Role/Rank:** The Vanguard
 - **Grave:** Beside [[Tristan]]'s shrine in the church graveyard garden of Restov
 
+---
+
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
 

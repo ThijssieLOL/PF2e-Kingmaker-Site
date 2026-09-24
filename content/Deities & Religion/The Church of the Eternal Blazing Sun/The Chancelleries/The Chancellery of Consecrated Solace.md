@@ -16,6 +16,8 @@ The Chancellery of Consecrated Solace tends the bodies and the final rites of th
 - **Primary Function:** Public Health & Sacred Rites
 - **Status:** Active
 
+---
+
 ## Mandate & Responsibilities
 
 - **Health & Relief:** Operates hospitals, sanatoriums, and emergency disaster relief networks, and manages public sanitation.

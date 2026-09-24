@@ -28,6 +28,8 @@ Jock Finch is a runaway noble and a wandering bard chasing a pirate's life in a 
 - **Role/Rank:** None
 - **Home Town:** Eryndale
 
+---
+
 ## Appearance
 
 ### Build & Features
@@ -84,6 +86,8 @@ He keeps no written music. Every song he knows is in his head, and he is self-as
 Jock fights somewhere between a charge and a plan. He goes with the flow and stays laidback in an ordinary scrap, and panics when a real boss takes the field. He fights with a rapier and wears no armour. Part of his style comes from the training he grew up under and from duels with Mercius, the butler boy; the rest he improvised over the years.
 
 His experience is thin: a few fights in training, and duels he entered because he was drunk, cocky, or both. He keeps some honour in a fight, not much. He accepts a surrender when the circumstances suit him, and he is happy to play dirty.
+
+---
 
 ## Possessions
 

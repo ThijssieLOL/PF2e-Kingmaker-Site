@@ -16,6 +16,8 @@ The Chancellery of the Purifying Flame is the supreme judicial branch of [[The C
 - **Primary Function:** Judiciary & Anti-Corruption
 - **Status:** Active
 
+---
+
 ## Mandate & Responsibilities
 
 - **The Courts:** Prosecutes internal clerical corruption, enforces moral standards, and tries ecclesiastical offences.

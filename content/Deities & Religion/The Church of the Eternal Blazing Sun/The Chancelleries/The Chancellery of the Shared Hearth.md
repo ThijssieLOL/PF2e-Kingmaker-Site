@@ -16,6 +16,8 @@ The Chancellery of the Shared Hearth is the financial and charitable arm of [[Th
 - **Primary Function:** Finance & Public Welfare
 - **Status:** Active
 
+---
+
 ## Mandate & Responsibilities
 
 - **Treasury & Tithing:** Oversees all church coffers and enforces the strict doctrine against hoarding wealth.

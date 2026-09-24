@@ -8,8 +8,6 @@ alignment: Lawful Good
 status: Active
 ---
 
-# The Grand Order of the Phoenix
-
 > "Under the grace of the sun, no filth should exist." — Common maxim of the Order
 
 ## Overview
@@ -23,6 +21,8 @@ The Grand Order of the Phoenix is a smaller denomination of [[The Church of the 
 - **Origin:** Amicable schism from [[The Church of the Eternal Blazing Sun]]
 - **Alignment:** Lawful Good
 - **Status:** Active
+
+---
 
 ## Philosophy & Goals
 

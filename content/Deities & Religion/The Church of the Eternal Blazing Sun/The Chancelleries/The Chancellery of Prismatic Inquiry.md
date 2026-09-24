@@ -16,6 +16,8 @@ The Chancellery of Prismatic Inquiry is the scientific and arcane research arm o
 - **Primary Function:** Science & Arcane Optics
 - **Status:** Active
 
+---
+
 ## Mandate & Responsibilities
 
 - **Solar-Prism Technology:** Light-capturing crystal arrays, lenses, and the optical research the Church's instruments are built from.

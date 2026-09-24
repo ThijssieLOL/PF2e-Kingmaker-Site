@@ -23,6 +23,8 @@ Julian is the class's resident morale booster. Beneath his jokes he hides a high
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
 - **Role/Rank:** Infiltrator, Distraction Specialist, and Light Skirmisher
 
+---
+
 ## Appearance
 - **Description:** Lean and wire-muscled, with a very expressive face. He has sharp, mischievous green eyes and messy blonde hair that he refuses to keep neat. He wears his traveler's poncho with a dramatic, lopsided tilt. Wrapped tightly around his throat and collarbones is a stylized, split-tongued serpent ([[Tattoos of Penance]]) that glows a brilliant white when he channels.
 

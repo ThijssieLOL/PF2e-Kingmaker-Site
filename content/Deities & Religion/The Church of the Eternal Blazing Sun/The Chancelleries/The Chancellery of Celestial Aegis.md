@@ -16,6 +16,8 @@ The Chancellery of Celestial Aegis is the shield of [[The Church of the Eternal 
 - **Primary Function:** Defense & Holy Military
 - **Status:** Active
 
+---
+
 ## Mandate & Responsibilities
 
 - **The Standing Forces:** Commands the Church's armed forces: temple guardians, heavily armored paladin orders, and military fleets.

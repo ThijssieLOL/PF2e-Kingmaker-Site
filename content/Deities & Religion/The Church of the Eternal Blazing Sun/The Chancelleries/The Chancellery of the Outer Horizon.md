@@ -16,6 +16,8 @@ The Chancellery of the Outer Horizon carries [[The Church of the Eternal Blazing
 - **Primary Function:** Foreign Affairs & External Missions
 - **Status:** Active
 
+---
+
 ## Mandate & Responsibilities
 
 - **Diplomacy:** Directs treaties and alliances with benevolent sovereign nations.

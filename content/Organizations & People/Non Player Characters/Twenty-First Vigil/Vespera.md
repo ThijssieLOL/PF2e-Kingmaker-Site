@@ -23,6 +23,8 @@ Vespera is the quiet, analytical mind of the cohort, an Intelligence Officer, Fo
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
 - **Role/Rank:** Intelligence Officer, Forensic Scribe, and Tactician (Public Cover: Grade 8 Legal Scribe and Archival Assistant)
 
+---
+
 ## Appearance
 - **Description:** Tall, slender, with an immaculate, rigid posture. She has dark, piercing eyes and black hair pulled back into a tight, severe braid. She wears a dark blue and white traveling coat lined with hidden pockets for ink, scrolls, and tools. Etched onto her collarbones is a [[Tattoos of Penance|tattoo of penance]] depicting a broken, unbalanced scale. When glowing, the cracks in the scale mend with gold light.
 

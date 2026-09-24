@@ -16,6 +16,8 @@ The Chancellery of the Meridian Cadastre is the administrative backbone of [[The
 - **Primary Function:** Civil Administration & Archives
 - **Status:** Active
 
+---
+
 ## Mandate & Responsibilities
 
 - **Registries & Archives:** Maintains population censuses, civil registries (births, deaths, marriages), land ownership deeds across all archdioceses, and the historical vaults in which every parish's correspondence is eventually filed.

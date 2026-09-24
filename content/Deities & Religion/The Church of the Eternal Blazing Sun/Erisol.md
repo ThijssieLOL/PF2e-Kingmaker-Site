@@ -32,6 +32,8 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Erisol, often 
 - **Sacred Animal:** 
 - **Sacred Colours:** Gold and red
 
+---
+
 ## Appearance
 - **Description:** 
 

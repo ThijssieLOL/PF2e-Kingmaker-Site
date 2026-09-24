@@ -16,6 +16,8 @@ The Chancellery of Sacred Canon is the educational and doctrinal pillar of [[The
 - **Primary Function:** Education, Dogma & Examinations
 - **Status:** Active
 
+---
+
 ## Mandate & Responsibilities
 
 - **Schools & Archives:** Manages public literacy programs, higher academies, and seminaries, and maintains the central theological archives.

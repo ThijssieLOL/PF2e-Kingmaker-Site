@@ -19,6 +19,8 @@ The Chancellery of Silent Illumination is the intelligence service of [[The Chur
 - **Operative Force:** Orphan cohorts, including the Twenty-First Vigil
 - **Status:** Active
 
+---
+
 ## Mandate & Responsibilities
 
 ### Internal Investigation & Anti-Corruption

@@ -67,6 +67,8 @@ The hierarchy of the church runs on a strict, fire-themed grade system, from Gra
 
 The Church's houses are tiered by the population they serve, from the humble Tier 1 parish run by a handful of Cinders to the unique Tier 5 headquarters. From Tier 2 upward every church keeps the nine-fold staff, higher tiers fall to ever-senior clergy, and each upgrade is approved from above.
 
+---
+
 ## The Chancelleries
 
 The Church runs its affairs with the scale and discipline of a sovereign empire. Rather than rely on informal orders, it divides executive authority among nine supreme ministries, the High Chancelleries. Each Chancellery is led by high-ranking clergy and governs a distinct pillar of statecraft, divine law, and civil service.
