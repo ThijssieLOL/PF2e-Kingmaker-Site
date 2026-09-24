@@ -27,15 +27,19 @@ The tattoos are applied by a clergy member of Grade 8 (Cinder) or higher, usuall
 
 ## Divine Design & Symbology
 
-The goddess chooses the design. As the holy water is applied, it reveals the recipient's specific sins and what each sin means to them, and that revelation shapes the tattoo. The officiating priests choose where the tattoos sit, favoring highly visible areas of the body to emphasize public humility. Because the designs come from the goddess, there are no standardized symbols; the tattoos share only a distinct, cohesive style. In their resting state they are a warm, reddish-brown, like rust, close to traditional criminal brands.
-
-The patterns never resolve into a clear picture. A bearer can see what the design likely means, and others can read it too, but it stays a vague collection of streaks and shapes that only suggest the sin. The tattoos do not change over time, and they remain an unyielding reflection of a history already fixed.
+- **The Design:** The goddess chooses it. As the holy water is applied, it reveals the recipient's specific sins and what each sin means to them, and the tattoo takes its shape from that.
+- **The Placement:** The officiating priests choose where the tattoos sit, favoring highly visible areas of the body to emphasize public humility.
+- **The Style:** Because the designs come from the goddess, there are no standardized symbols; the tattoos share only a distinct, cohesive style, warm reddish-brown, like rust, close to traditional criminal brands.
+- **The Reading:** The patterns never resolve into a clear picture. A bearer can see what the design likely means, and others can read it too, but it stays a vague collection of streaks and shapes that only suggest the sin.
+- **Unchanging:** The tattoos do not change over time. They stay an unyielding reflection of a history already fixed.
 
 ---
 
 ## Magical Properties & Durability
 
-The residual divinity permanently imbued in the holy water makes the tattoos glow with brilliant light when the bearer channels magic. They give no physical or mechanical benefit in combat or spellcasting and are entirely symbolic. They also cannot be damaged or erased: even if the bearer suffers trauma or scarring, the divine patterns still show through the damaged tissue.
+- **The Glow:** The residual divinity permanently imbued in the holy water makes the tattoos glow with brilliant light when the bearer channels magic.
+- **No Benefit:** They give no physical or mechanical benefit in combat or spellcasting; they are entirely symbolic.
+- **Indestructible:** They cannot be damaged or erased. Even if the bearer suffers trauma or scarring, the divine patterns still show through the damaged tissue.
 
 ---
 
@@ -48,4 +52,5 @@ Within his own cohort, [[Aurelius]] enforces the "Tradition of Humility" strictl
 ## House Notes
 
 - Layout comparison copy of [[Tattoos of Penance]]. Draft only; not wiki canon.
-- Same facts as the original. Only the body bullet lists are rewritten as prose; the Quick Facts block stays a list.
+- Selective layout: the Initiation Ritual and Ecclesiastical Law read as prose; Divine Design and Magical Properties are sets of traits, so each fact carries a bold label instead of sitting as a bare bullet.
+- Same facts as the original. No unlabelled bullet remains anywhere on the page.
