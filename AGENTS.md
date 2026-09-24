@@ -151,15 +151,50 @@ and offer what you CAN do instead.
   a line or two gets folded into its parent, and one that runs past a screen of prose gets `###`
   subsections or a table. A run of one-line sections is what makes a page look bare, so merge them
   or give them the material they need. Keep each section to what its heading promises, and leave a
-  blank line around every heading, table, and list. Set every top-level `##` section off with a
-  `---` thematic break on its own line, beginning with one after the Overview and Quick Facts block,
-  so the page reads as clear blocks. The break never goes between `###` subsections and never sits
-  directly under a heading. This is the vault's default layout, not an optional flourish; the
-  church and chancellery notes already show it. Pages written without a template get the same
+  blank line above and below every heading, table, list, and `---` break, with no exception: the
+  `## Overview` and `### Quick Facts` headings get theirs too, and the space just under a `---` is
+  always blank. Set every top-level `##` section off with a `---` thematic break on its own line,
+  beginning with one after the Overview and Quick Facts block, so the page reads as clear blocks.
+  The break never goes between `###` subsections, never sits directly under a heading, and never
+  touches a line of text above or below it. This is the vault's default layout, not an optional
+  flourish; the church and chancellery notes already show it. Pages written without a template get
+  the same
   treatment: `## Overview` and `### Quick Facts` first, then the body in grouped sections, and
   `## House Notes` last where the page carries meta notes. A page you create is never a braindump:
   someone opening it for the first time should see the structure at a glance and read it top to
   bottom without hunting for the point.
+- **A template is a scaffold, not a layout model.** A note under `content/Templates/` lists the
+  fields to fill in; its formatting is not the house style, and copying it is what leaves a page
+  tight and thin. Templates commonly glue a heading to the text under it, skip the `---` after the
+  Quick Facts block, and split the page into a run of one-line `##` sections. Fill the fields, then
+  lay the page out by the rules above and the shape below; group the template's thin `##` sections
+  into fewer `##` sections with `###` pieces inside.
+
+  ```markdown
+  > "Quote."
+
+  ## Overview
+
+  Prose.
+
+  ### Quick Facts
+
+  - **Key:** Value
+
+  ---
+
+  ## First Section
+
+  Prose.
+
+  ### Subsection
+
+  Prose.
+
+  ---
+
+  ## Second Section
+  ```
 - **Headings name their topic.** A heading is an index label the reader scans, so keep it a plain
   noun phrase that says what the section holds: `Appearance`, `The Star Seals`, `Concealment &
   Bearer Awareness`, `Funding & Resource Allocation`. Never write one as a question or a sentence
