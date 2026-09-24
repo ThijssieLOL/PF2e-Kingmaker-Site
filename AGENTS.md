@@ -158,7 +158,8 @@ braindump.
   what its heading promises.
 - **Selective bullets.** Prose is the default; a list is the exception. Reach for a bullet list only
   when a section holds a set of parallel, scannable facts, such as `### Quick Facts`, ranks, rosters,
-  tiers, funding sources, or a trigger list. When a list is right, open the section with one prose
+  tiers, funding sources, a trigger list, or a process's steps and facets (the parts of a rite, the
+  stages of a procedure). When a list is right, open the section with one prose
   sentence that states its point, then give the items as parallel labelled lines (`**Label:** ...`);
   never drop an unlabelled run of sentences under a heading, and never let a heading lead straight
   into a list with nothing to frame it. Everything narrative, explanatory, or historical is prose,
