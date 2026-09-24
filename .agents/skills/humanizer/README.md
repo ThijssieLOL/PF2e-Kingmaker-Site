@@ -87,16 +87,6 @@ Humanizer follows the sample's rhythm, word choice, punctuation, and deliberate 
 | 17 | **Title case in headings** | "Strategic Negotiations And Partnerships" | "Strategic negotiations and partnerships" |
 | 18 | **Emojis** | "🚀 Launch Phase: 💡 Key Insight:" | Remove emojis |
 | 19 | **Curly quotes** | `said “the project”` | `said "the project"` |
-| 26 | **Too many hyphenated word pairs** | “cross-functional, data-driven, client-facing” | Keep only the hyphens grammar needs |
-| 27 | **A fake deeper truth** | "At its core, what matters is..." | State the point directly |
-| 28 | **Announcing the next point** | "Let's dive in", or "one thing that bit me" | Start with the content |
-| 29 | **A heading repeated below itself** | "## Performance" + "Speed matters." | Let the heading do the work |
-| 30 | **Writing about the old version** | "This function was added to replace..." | Describe what it does now |
-| 31 | **Forced punchlines and fragments** | "It had no preference. No prior. No nostalgia." | Use natural sentence lengths and specific claims |
-| 32 | **Formulaic sayings** | "Symmetry is the language of trust" | State the specific claim |
-| 33 | **Fake-candid openings** | "Honestly? It depends..." | State the answer directly |
-| 34 | **Answering objections no one raised** | "This isn't mainly about prompt length..." | Remove the unsupported defense and keep any real claim |
-| 35 | **Rejecting fake alternatives** | "A tempting option would be to..., but" | Remove the fake option and keep real choices |
 
 ### Chatbot patterns
 
@@ -113,6 +103,21 @@ Humanizer follows the sample's rhythm, word choice, punctuation, and deliberate 
 | 23 | **Filler phrases** | "In order to", "Due to the fact that" | "To", "Because" |
 | 24 | **Too many qualifiers** | "could potentially possibly" | "may" |
 | 25 | **Generic positive endings** | "The future looks bright" | End with a fact or a sourced plan |
+
+### Structure and argument patterns
+
+| # | Pattern | Before | After |
+|---|---------|--------|-------|
+| 26 | **Too many hyphenated word pairs** | “cross-functional, data-driven, client-facing” | Keep only the hyphens grammar needs |
+| 27 | **A fake deeper truth** | "At its core, what matters is..." | State the point directly |
+| 28 | **Announcing the next point** | "Let's dive in", or "one thing that bit me" | Start with the content |
+| 29 | **A heading repeated below itself** | "## Performance" + "Speed matters." | Let the heading do the work |
+| 30 | **Writing about the old version** | "This function was added to replace..." | Describe what it does now |
+| 31 | **Forced punchlines and fragments** | "It had no preference. No prior. No nostalgia." | Use natural sentence lengths and specific claims |
+| 32 | **Formulaic sayings** | "Symmetry is the language of trust" | State the specific claim |
+| 33 | **Fake-candid openings** | "Honestly? It depends..." | State the answer directly |
+| 34 | **Answering objections no one raised** | "This isn't mainly about prompt length..." | Remove the unsupported defense and keep any real claim |
+| 35 | **Rejecting fake alternatives** | "A tempting option would be to..., but" | Remove the fake option and keep real choices |
 
 ## Full example
 

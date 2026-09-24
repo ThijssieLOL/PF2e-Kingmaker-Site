@@ -29,13 +29,15 @@ The **Trias Politicas** is a political and governance theory developed by [[Aure
 
 ## Checks & Balances
 
-- **The 2v1 Principle:** If any single faction becomes corrupt, tyrannical, or oversteps its constitutional boundaries, the other two factions are legally and morally authorized to unite, subdue it, and force a restructuring.
-- **The Moral Veto:** [[The Church of the Eternal Blazing Sun]] holds a constitutional "Moral Veto" over any laws passed by the Royal Faction that invite spiritual corruption, demonic influence, or systemic moral decay.
-- **Escalation Protocols:** If the government ignores the Moral Veto, the Church answers with a tiered system of non-violent resistance.
-  - **The Silent Strike:** The clergy cease all public blessings, spiritual healings, and religious ceremonies, which puts immediate public pressure on the government.
-  - **The Battery Shutdown:** The ultimate recourse. The Church shuts down the [[Holy Ground Project]] battery, and the kingdom loses its spiritual defense barrier.
-  - **Mitigation of Harm:** During a shutdown, designated commandos such as Aurelius slip out at night to heal the most desperate, poor, and innocent citizens, which keeps collateral damage low without easing the political pressure.
-- **Theological Synthesis:** When political allies deadlock, Aurelius favors writing scholarly essays to find a middle-ground compromise. He firmly believes that members of the clergy (including himself) must never accept the crown; their place is to guide and judge from within the Church.
+If any single faction becomes corrupt, tyrannical, or oversteps its constitutional boundaries, the **2v1 Principle** authorizes the other two to unite, subdue it, and force a restructuring. [[The Church of the Eternal Blazing Sun]] also holds a constitutional "Moral Veto" over any laws passed by the Royal Faction that invite spiritual corruption, demonic influence, or systemic moral decay.
+
+If the government ignores the Moral Veto, the Church answers with a tiered system of non-violent resistance:
+
+- **The Silent Strike:** The clergy cease all public blessings, spiritual healings, and religious ceremonies, which puts immediate public pressure on the government.
+- **The Battery Shutdown:** The ultimate recourse. The Church shuts down the [[Holy Ground Project]] battery, and the kingdom loses its spiritual defense barrier.
+- **Mitigation of Harm:** During a shutdown, designated commandos such as Aurelius slip out at night to heal the most desperate, poor, and innocent citizens, which keeps collateral damage low without easing the political pressure.
+
+When political allies deadlock, Aurelius favors writing scholarly essays to find a middle-ground compromise. He firmly believes that members of the clergy (including himself) must never accept the crown; their place is to guide and judge from within the Church.
 
 ---
 

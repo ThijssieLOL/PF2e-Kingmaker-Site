@@ -7,7 +7,7 @@ description: |
   voice, filler, or chatbot artifacts. Based on Wikipedia's "Signs of AI writing."
 license: MIT
 metadata:
-  version: "2.11.2"
+  version: "2.12.0"
 ---
 
 # Humanizer: remove AI writing patterns
@@ -95,7 +95,7 @@ If the source explains what the person said and where, keep that useful citation
 
 ### 4. Sales language
 
-**Words to watch:** boasts a, vibrant, rich (figurative), profound, enhancing its, showcasing, exemplifies, commitment to, natural beauty, nestled, in the heart of, groundbreaking (figurative), renowned, breathtaking, must-visit, stunning
+**Words to watch:** boasts a, vibrant, rich (figurative), profound, enhancing its, showcasing, exemplifies, commitment to, natural beauty, nestled, in the heart of, in today's world, game-changing, elevate, groundbreaking (figurative), renowned, breathtaking, must-visit, stunning
 **Problem:** AI writing often sounds like an advertisement, especially when it describes places, culture, products, or organizations.
 **Before:**
 > Nestled within the breathtaking region of Gonder in Ethiopia, Alamata Raya Kobo stands as a vibrant town with a rich cultural heritage and stunning natural beauty.
@@ -301,7 +301,8 @@ Search the final text for both marks before returning.
 > The policy may affect outcomes.
 
 ### 25. Generic positive endings
-**Problem:** AI writing often ends with vague optimism instead of the last useful fact.
+**Words to watch:** In conclusion, Ultimately, At the end of the day, The future looks bright
+**Problem:** AI writing often ends with vague optimism or a stock sign-off instead of the last useful fact.
 **Before:**
 > The future looks bright for the company. Exciting times lie ahead as they continue their journey toward excellence. This represents a major step in the right direction.
 **After:**

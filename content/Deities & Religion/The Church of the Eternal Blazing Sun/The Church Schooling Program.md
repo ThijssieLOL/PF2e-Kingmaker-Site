@@ -21,20 +21,13 @@ The Church of the Eternal Blazing Sun educates its children in its own schools, 
 
 ## The Schooling Track
 
-- **Open Enrollment:** Any family may place a child in the Church's schools. Believing parents choose it often, because the schooling is respected and it leads to steady work in the faith.
-- **Schooling First:** A child in the program is a student, not a worker. They study letters, scripture, and the discipline of their chancellery, and they are never put to labor.
-- **Field Age:** No child takes the field before sixteen, in any chancellery. Until then the training stays inside the school and the practice yard.
+Any family may place a child in the Church's schools. Believing parents choose it often, because the schooling is respected and it leads to steady work in the faith. A child in the program is a student, not a worker: they study letters, scripture, and the discipline of their chancellery, and they are never put to labor. No child takes the field before sixteen, in any chancellery. Until then the training stays inside the school and the practice yard.
 
 ---
 
 ## The Merciful Path
 
-An orphan convicted of a crime is offered a choice instead of the sentence alone.
-
-- **Trial:** The Church brings the charge and tries the child in its own courts, as a state tries its citizens.
-- **The Choice:** Once sentence is passed, the child chooses between serving it and entering a chancellery schooling program.
-- **Any Chancellery:** The child may choose any of the nine. Eight of them admit children of any family; only [[The Chancellery of Silent Illumination]] takes orphans alone, and it selects the hardest, so a child it passes over usually finds a place elsewhere.
-- **Family First:** Where the child still has family, that family decides the placement and may refuse the Church's offer. Where there is no one, the Church stands as guardian and arranges it.
+An orphan convicted of a crime is offered a choice instead of the sentence alone. The Church brings the charge and tries the child in its own courts, as a state tries its citizens, and once sentence is passed, the child chooses between serving it and entering a chancellery schooling program. The child may choose any of the nine. Eight of them admit children of any family; only [[The Chancellery of Silent Illumination]] takes orphans alone, and it selects the hardest, so a child it passes over usually finds a place elsewhere. Where the child still has family, that family decides the placement and may refuse the Church's offer. Where there is no one, the Church stands as guardian and arranges it.
 
 ---
 

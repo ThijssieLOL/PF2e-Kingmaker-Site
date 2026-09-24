@@ -28,16 +28,16 @@ The Chancellery of the Purifying Flame is the supreme judicial branch of [[The C
 
 ## Structure & Ranks
 
-- **Hierarchy:** (How the Chancellery is organized and led)
+(How the Chancellery is organized and led)
 
 ---
 
 ## Key Members
 
-- **Member:** (Brief description of their role within the Chancellery.)
+(Brief description of their role within the Chancellery.)
 
 ---
 
 ## Relations
 
-- **Church Dynamics:** (Relationship with the Church hierarchy and other Chancelleries)
+(Relationship with the Church hierarchy and other Chancelleries)

@@ -28,7 +28,7 @@ The Chancellery of the Outer Horizon carries [[The Church of the Eternal Blazing
 
 ## Structure & Ranks
 
-- **Hierarchy:** (How the Chancellery is organized and led)
+(How the Chancellery is organized and led)
 
 ---
 
@@ -40,4 +40,4 @@ The Chancellery of the Outer Horizon carries [[The Church of the Eternal Blazing
 
 ## Relations
 
-- **Church Dynamics:** (Relationship with the Church hierarchy and other Chancelleries)
+(Relationship with the Church hierarchy and other Chancelleries)

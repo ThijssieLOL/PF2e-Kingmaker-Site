@@ -30,16 +30,16 @@ The Chancellery of Sacred Canon is the educational and doctrinal pillar of [[The
 
 ## Structure & Ranks
 
-- **Hierarchy:** (How the Chancellery is organized and led)
+(How the Chancellery is organized and led)
 
 ---
 
 ## Key Members
 
-- **Member:** (Brief description of their role within the Chancellery.)
+(Brief description of their role within the Chancellery.)
 
 ---
 
 ## Relations
 
-- **Church Dynamics:** (Relationship with the Church hierarchy and other Chancelleries)
+(Relationship with the Church hierarchy and other Chancelleries)

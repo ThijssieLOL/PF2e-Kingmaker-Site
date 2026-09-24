@@ -26,22 +26,26 @@ The Grand Order of the Phoenix is a smaller denomination of [[The Church of the 
 
 ## Philosophy & Goals
 
-- **Core Beliefs:** The Order shares the orthodox creed of the parent church: the sun goddess is the supreme deity, the Sunlit Fields await solites, and those who cannot protect themselves must be protected at all costs. It adds a doctrine of purity: under the grace of the sun, no filth should exist. Cleanliness of body, dress, and spirit is upheld as a form of worship, and the Order's adherents keep themselves immaculate and sweet-smelling even on the longest campaign.
-- **Primary Objective:** To spread the faith and root out evil, wielding the goddess's grace in ways the orthodox church will not, particularly through its blood-blessed binding arts.
+The Order shares the orthodox creed of the parent church: the sun goddess is the supreme deity, the Sunlit Fields await solites, and those who cannot protect themselves must be protected at all costs. To that it adds a doctrine of purity: under the grace of the sun, no filth should exist. Cleanliness of body, dress, and spirit is upheld as a form of worship, and the Order's adherents keep themselves immaculate and sweet-smelling even on the longest campaign. Its purpose is to spread the faith and root out evil, wielding the goddess's grace in ways the orthodox church will not, particularly through its blood-blessed binding arts.
 
 ---
 
 ## Doctrine & Practices
 
-- **The Amicable Schism:** At some point in the church's long history, a body of clergy and faithful parted from the main hierarchy over differences in ... . The split was conducted without enmity; the Order keeps its own clergy and hierarchy, and the main church still recognizes its members as fellow faithful rather than heretics.
-- **Blood-Blessed Binding:** The Order's most distinctive tradition is a holy necromancy that never touches the dead. Its practitioners bind living thralls, summoned guardians wreathed in a dim holy light, and infuse them with their own blood, so each thrall carries a measure of its binder's will and can be turned against the unrighteous. Because no corpse is raised and no soul is disturbed, the Order holds its art to be blessed by the goddess's grace rather than a mockery of the deceased. The church does not practice the art itself, but neither does it number it among the anathema of undeath.
-- **Vestments:** The Order keeps its own line of vestments, separate from the [[The Vestments of the Clergy|orthodox vestments]] of the parent church.
+### The Amicable Schism
+At some point in the church's long history, a body of clergy and faithful parted from the main hierarchy over differences in ... . The split was conducted without enmity; the Order keeps its own clergy and hierarchy, and the main church still recognizes its members as fellow faithful rather than heretics.
+
+### Blood-Blessed Binding
+The Order's most distinctive tradition is a holy necromancy that never touches the dead. Its practitioners bind living thralls, summoned guardians wreathed in a dim holy light, and infuse them with their own blood, so each thrall carries a measure of its binder's will and can be turned against the unrighteous. Because no corpse is raised and no soul is disturbed, the Order holds its art to be blessed by the goddess's grace rather than a mockery of the deceased. The church does not practice the art itself, but neither does it number it among the anathema of undeath.
+
+### Vestments
+The Order keeps its own line of vestments, separate from the [[The Vestments of the Clergy|orthodox vestments]] of the parent church.
 
 ---
 
 ## Structure & Ranks
 
-- **Hierarchy:** The Order maintains its own clergy and hierarchy, loosely modeled on the parent church's grade system, with its members holding grade ranks of their own.
+The Order maintains its own clergy and hierarchy, loosely modeled on the parent church's grade system, with its members holding grade ranks of their own.
 
 ---
 
