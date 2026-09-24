@@ -10,7 +10,6 @@ tags:
 The **Trias Politicas** is a political and governance theory developed by [[Aurelius]], one hypothesis among the many he holds, not the central ambition of his life. It divides power strictly among three factions so that no single group can seize absolute control over a kingdom. Human law, military order, and divine cleansing each keep the others in balance.
 
 ### Quick Facts
-
 - **Author:** [[Aurelius]]
 - **Type:** Political and governance theory
 - **Factions:** Royal, Church, and Military

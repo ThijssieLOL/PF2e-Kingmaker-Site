@@ -7,14 +7,11 @@ organization: "[[The Church of the Eternal Blazing Sun]]"
 status: Active
 ---
 
-# The Shared Hearth Economy
-
 ## Overview
 
 The Shared Hearth is the economic doctrine of [[The Church of the Eternal Blazing Sun]]: the teaching that governs how the faithful earn, hold, and give wealth. [[The Chancellery of the Shared Hearth]] administers it.
 
 ### Quick Facts
-
 - **Owner:** [[The Church of the Eternal Blazing Sun]]
 - **Steward:** [[The Chancellery of the Shared Hearth]]
 - **Core Tenet:** Giving is a civic duty, and wealth is for use, not hoarding.
@@ -33,7 +30,6 @@ The Shared Hearth is the economic doctrine of [[The Church of the Eternal Blazin
 - **Judged by Ability:** A person who can barely support their family may owe nothing.
 
 ### The Clergy's Vow
-
 Clergy do not vow poverty. They vow not to lead rich lives.
 
 ---

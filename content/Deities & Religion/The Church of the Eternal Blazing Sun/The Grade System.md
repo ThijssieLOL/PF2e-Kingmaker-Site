@@ -12,7 +12,6 @@ status: Active
 The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fire-themed grade system. As a member rises in grade, their title names a larger and more powerful flame. Higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics and magical items.
 
 ### Quick Facts
-
 - **Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Grades:** Grade 9 (Spark) down to Grade 0 (the goddess herself)
 - **Advancement:** A theological examination, a combat examination, and a review board

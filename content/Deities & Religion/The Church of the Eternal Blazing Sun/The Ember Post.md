@@ -12,7 +12,6 @@ status: Active
 The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. No messenger rides and no raven flies. A letter written in the right ink and committed to flame crosses any distance as a swirl of embers, then condenses once more out of the fire of the one it was meant for.
 
 ### Quick Facts
-
 - **Operator:** [[The Chancellery of the Meridian Cadastre]]
 - **Medium:** Ember ink, committed to flame
 - **Delivery:** Arrives at the recipient's attuned hearth

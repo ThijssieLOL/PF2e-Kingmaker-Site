@@ -7,14 +7,11 @@ tags:
   - dm
 ---
 
-	
-
 ## Overview
 
 The knives are what the DM can threaten, take, or pull on: the people Aurelius loves, the brothers he lost, the cabal that still hunts his line, the traumas and crimes that made him, the vows that hold him upright, and the keepsakes and secrets he carries. None of them are off-limits, and some, like the Eclipse, make him a danger to everyone near him.
 
 ### Quick Facts
-
 - **Character:** [[Aurelius]]
 - **Class:** Animist, ranged divine caster ([[Aurelius' Combat Style]])
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]], [[The Chancellery of the Outer Horizon]]
@@ -26,7 +23,6 @@ The knives are what the DM can threaten, take, or pull on: the people Aurelius l
 ## The Knives
 
 ### People He Loves
-
 - **[[Lucian|Father Lucian Soler]] — The Mentor:** raised and trained him, argues for him before Church leadership, and gave him the talisman he carries.
 - **[[Gideon]] — The Anchor:** the only sibling who names the Eclipse out loud and sits with him until he comes back.
 - **[[Julian]] — The Wit:** teases him back into company when he goes quiet.
@@ -34,18 +30,15 @@ The knives are what the DM can threaten, take, or pull on: the people Aurelius l
 - **[[Lyra]] — The Catalyst:** turns his Holy Ground theory into a working machine.
 
 ### The Fallen
-
 - **[[Tristan]] — The Shield:** presumed dead, never confirmed, the brother he told ordinary things to, and the loss he blames himself for.
 - **[[Valerius]] — The Vanguard:** presumed dead at the city walls, the brother he bickered with over discipline.
 - **The Shrine:** the Vigil's memorial in the church graveyard garden of Restov, tended by [[Lucian]] ([[Aurelius#The Fallen Siblings]]).
 
 ### Enemies
-
 - **The Ocular Hunters:** the unnamed cabal that killed his parents and tracked him through childhood, still active ([[Ocular of Kaelen#The Enigmatic Hunters]]).
 - **The Hunted Line:** the Ocular passes bearer to bearer, and the cabal hunts it through that line ([[Ocular of Kaelen]]).
 
 ### Traumas & Fears
-
 - **The Night in Restov:** his parents killed holding off the cabal when he was six ([[Ocular of Kaelen#The Murder of Aurelius's Parents]]).
 - **The Streets:** two years of theft, assault, and the murder of a man and his innocent family to bury the witnesses ([[Aurelius#Childhood & The Tragic Origin]]).
 - **The Eclipse:** the cold executioner state he falls into, and the sin he believes it is ([[Aurelius#Trauma Response: "The Eclipse"]]).
@@ -54,11 +47,9 @@ The knives are what the DM can threaten, take, or pull on: the people Aurelius l
 - **Clowns:** his worst material fear ([[Character building questions (Aurelius)]]) (Suggestion: The person of the cult that invaded Aurelius' house that night was dressed like a clown)
 
 ### Crimes
-
 - **The Killings:** theft, assault, and the murder he committed on the streets of Restov, burned permanently into the [[Tattoos of Penance]] he shows in public.
 
 ### Obligations & Debts
-
 - **The Vow of Celibacy:** he channels all of it into his duties ([[Aurelius#Dialect & Boundaries]]).
 - **The Debt of Redemption:** his sins are a standing contract with divine grace, and the marks never fade ([[Tattoos of Penance]]).
 - **The Vigil:** the siblings he left behind in Restov, and the standard of holy sacrifice [[Tristan]] set ([[Aurelius#The Fallen Siblings]]).
@@ -67,14 +58,12 @@ The knives are what the DM can threaten, take, or pull on: the people Aurelius l
 - **The Refusal of the Crown:** he will not take a throne, and holds that no cleric should ([[Trias Politicas]]).
 
 ### Keepsakes
-
 - **Lucian's Talisman:** non-magical, carried by [[Lucian]] through his whole career, given before Aurelius left for the frontier ([[Lucian#History & Backstory]]).
 - **[[The Hymnal]]:** his prayer book and spellbook.
 - **[[The Shepherd]]:** his notebook of political theory, half written.
 - **[[Spirits Ledger]]:** the catalogue of every spirit he has bound.
 
 ### Secrets & Mysteries
-
 - **The Ocular's Name:** he does not know what he carries, or that it has a name at all ([[Ocular of Kaelen#Bearer Misconception]]).
 - **The Greater Whole:** the Ocular is one part of something larger, and Kaelen's scattered remains draw their bearers toward the Stolen Lands ([[Ocular of Kaelen#The Greater Whole]]).
 - **The Double Life:** the gentle missionary cover over a trained commando ([[Aurelius#Upbringing in The Chancellery of Silent Illumination]]).

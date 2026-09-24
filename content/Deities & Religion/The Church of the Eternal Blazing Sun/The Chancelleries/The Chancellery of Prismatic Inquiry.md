@@ -9,6 +9,7 @@ status: Active
 ---
 
 ## Overview
+
 The Chancellery of Prismatic Inquiry is the scientific and arcane research arm of [[The Church of the Eternal Blazing Sun]]. Its scholars study the physical properties of divine energy and build the instruments that capture and direct it.
 
 ### Quick Facts
@@ -27,14 +28,17 @@ The Chancellery of Prismatic Inquiry is the scientific and arcane research arm o
 ---
 
 ## Structure & Ranks
+
 - **Hierarchy:** (How the Chancellery is organized and led)
 
 ---
 
 ## Key Members
+
 - **Member:** (Brief description of their role within the Chancellery.)
 
 ---
 
 ## Relations
+
 - **Church Dynamics:** (Relationship with the Church hierarchy and other Chancelleries)

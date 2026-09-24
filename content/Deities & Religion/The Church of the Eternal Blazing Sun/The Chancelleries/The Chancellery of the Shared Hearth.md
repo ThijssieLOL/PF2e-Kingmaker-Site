@@ -9,6 +9,7 @@ status: Active
 ---
 
 ## Overview
+
 The Chancellery of the Shared Hearth is the financial and charitable arm of [[The Church of the Eternal Blazing Sun]]. It keeps the Church's treasuries and turns its tithes into relief for the poor. It is also the steward of the Church's economic doctrine, the Shared Hearth, set out in [[The Shared Hearth Economy]].
 
 ### Quick Facts
@@ -26,14 +27,17 @@ The Chancellery of the Shared Hearth is the financial and charitable arm of [[Th
 ---
 
 ## Structure & Ranks
+
 - **Hierarchy:** (How the Chancellery is organized and led)
 
 ---
 
 ## Key Members
+
 - **Member:** (Brief description of their role within the Chancellery.)
 
 ---
 
 ## Relations
+
 - **Church Dynamics:** (Relationship with the Church hierarchy and other Chancelleries)

@@ -9,6 +9,7 @@ status: Active
 ---
 
 ## Overview
+
 The Chancellery of the Purifying Flame is the supreme judicial branch of [[The Church of the Eternal Blazing Sun]]. It tries ecclesiastical offences, enforces moral standards, and holds the Church's authority to judge a corrupt ruler.
 
 ### Quick Facts
@@ -26,14 +27,17 @@ The Chancellery of the Purifying Flame is the supreme judicial branch of [[The C
 ---
 
 ## Structure & Ranks
+
 - **Hierarchy:** (How the Chancellery is organized and led)
 
 ---
 
 ## Key Members
+
 - **Member:** (Brief description of their role within the Chancellery.)
 
 ---
 
 ## Relations
+
 - **Church Dynamics:** (Relationship with the Church hierarchy and other Chancelleries)

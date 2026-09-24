@@ -9,6 +9,7 @@ status: Active
 ---
 
 ## Overview
+
 The Chancellery of the Meridian Cadastre is the administrative backbone of [[The Church of the Eternal Blazing Sun]]. It keeps the Church's registries and archives, and it holds the lines of fire by which the Church speaks to itself.
 
 ### Quick Facts
@@ -26,14 +27,17 @@ The Chancellery of the Meridian Cadastre is the administrative backbone of [[The
 ---
 
 ## Structure & Ranks
+
 - **Hierarchy:** (How the Chancellery is organized and led)
 
 ---
 
 ## Key Members
+
 - **Member:** (Brief description of their role within the Chancellery.)
 
 ---
 
 ## Relations
+
 - **Church Dynamics:** (Relationship with the Church hierarchy and other Chancelleries)

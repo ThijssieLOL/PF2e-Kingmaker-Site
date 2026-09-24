@@ -12,7 +12,6 @@ status: Active
 The Church of the Eternal Blazing Sun educates its children in its own schools, and every chancellery keeps a training track on top of that schooling. For many families it is the road into the faith, and for a convicted orphan it is the alternative to a prison sentence.
 
 ### Quick Facts
-
 - **Owner:** [[The Church of the Eternal Blazing Sun]]
 - **Overseer:** [[The Chancellery of Sacred Canon]]
 - **Entry Age:** School age, no earlier than six

@@ -9,6 +9,7 @@ status: Active
 ---
 
 ## Overview
+
 The Chancellery of Sacred Canon is the educational and doctrinal pillar of [[The Church of the Eternal Blazing Sun]]. It keeps the Church's schools and archives, guards its doctrine, and decides who is fit to rise.
 
 ### Quick Facts
@@ -28,14 +29,17 @@ The Chancellery of Sacred Canon is the educational and doctrinal pillar of [[The
 ---
 
 ## Structure & Ranks
+
 - **Hierarchy:** (How the Chancellery is organized and led)
 
 ---
 
 ## Key Members
+
 - **Member:** (Brief description of their role within the Chancellery.)
 
 ---
 
 ## Relations
+
 - **Church Dynamics:** (Relationship with the Church hierarchy and other Chancelleries)

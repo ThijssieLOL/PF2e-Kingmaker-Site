@@ -9,7 +9,6 @@ tags:
 The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[The Church of the Eternal Blazing Sun]]. They are a physical, indelible record of a person's past sins, of the sun goddess' capacity for redemptive mercy, and of the bearer's commitment to humility. The core practice is universal across the faith, though individual churches vary slightly in how they administer it.
 
 ### Quick Facts
-
 - **Practiced By:** [[The Church of the Eternal Blazing Sun]]
 - **Applied By:** A Grade 8 (Cinder) or higher, at initiation
 - **Material:** Sacred alchemical ink, burnt into the skin as holy fire
