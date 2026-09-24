@@ -21,7 +21,7 @@ The church does not seek to rule nations directly. It acts instead as a moral gu
 - **Deity:** [[Erisol]]
 - **Alignment:** Lawful Good
 - **Leader:** Grade 2 (Solstice), chosen directly by the sun goddess
-- **Structure:** Grade-based hierarchy (Grade 9-0) and nine High Chancelleries
+- **Structure:** Grade-based hierarchy (Grade 9–0) and nine High Chancelleries
 - **Status:** Active
 
 ---
@@ -66,8 +66,6 @@ The hierarchy of the church runs on a strict, fire-themed grade system, from Gra
 ### [[Church Tiers]]
 
 The Church's houses are tiered by the population they serve, from the humble Tier 1 parish run by a handful of Cinders to the unique Tier 5 headquarters. From Tier 2 upward every church keeps the nine-fold staff, higher tiers fall to ever-senior clergy, and each upgrade is approved from above.
-
----
 
 ## The Chancelleries
 
