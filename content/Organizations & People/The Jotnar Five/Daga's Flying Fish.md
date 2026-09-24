@@ -6,8 +6,7 @@ tags:
   - JotnarFive
   - fih
 ancestry: giigoonh
-class:
-faction:
+faction: "[[The Jotnar Five]]"
 status: Alive
 ---
 
@@ -19,11 +18,11 @@ status: Alive
 A brief 1-2 sentence summary of who this character is and their role.
 
 ### Quick Facts
-- **Full Name:** [akwa'waa](https://ojibwe.lib.umn.edu/main-entry/akwa-waa-vai)
-- **Ancestry/Species:** [giigoonh](https://ojibwe.lib.umn.edu/main-entry/giigoonh-na)
-- **Class/Profession:** 
-- **Affiliation:** 
-- **Role/Rank:** 
+- **Full Name:** Akwa'waa // *He fishes through the ice with spear*
+- **Ancestry/Species:** Mishi Giigoonh // *Giant Fish*
+- **Class/Profession:** Messenger
+- **Affiliation:** [[The Jotnar Five]]
+
 
 ## Appearance
 - **Description:** (What they look like, what they wear, and any distinguishing features)
