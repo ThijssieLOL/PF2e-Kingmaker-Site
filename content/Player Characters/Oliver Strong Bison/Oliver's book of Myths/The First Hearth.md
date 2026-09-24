@@ -11,7 +11,7 @@ tags:
 - **Title of the Myth:** The First Hearth
 - **associated with the myth:** [[Fandarra]]
 
-
+test
 ## The story
 It is said that in the earliest days of **Kaelerum**, the first people wandered across the world without shelter, living separately from one another and struggling to survive the harshness of the world. Seeing their suffering, [[Fandarra]] gathered the scattered people together and struck a single stone against another, creating the world’s first fire. She taught them to protect the flame, cook together, and share whatever food they possessed.
 
