@@ -86,7 +86,8 @@ of truth for "this file may be edited by the agent". Currently that means:
 - **MUST** include `agent-editable: true` in the frontmatter (insert it as the first line inside
   the `---` block). This applies to every new file, without exception.
 - Must live in an appropriate folder (Aurelius lore → `Player Characters/Aurelius/`, NPCs →
-  `Non Player Characters/`, church lore → `The Eternal Blazing Sun/`, etc.), images → `Attachments/`.
+   `Non Player Characters/`, church lore → `The Church of the Eternal Blazing Sun/`, etc.), images
+   → `Attachments/`.
 
 ### 3.4 Everything else is OFF-LIMITS. Never touch, even if asked:
 - Other players' characters: `content/Player Characters/Selion/`, `content/Player Characters/Zephan/`
