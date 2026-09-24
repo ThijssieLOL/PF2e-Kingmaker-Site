@@ -1,6 +1,5 @@
 ---
 agent-editable: true
-draft: true
 tags:
   - trait
   - lore

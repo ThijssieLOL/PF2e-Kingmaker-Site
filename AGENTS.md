@@ -159,51 +159,47 @@ braindump.
 - **Selective bullets.** Prose is the default; a list is the exception. Reach for a bullet list only
   when a section holds a set of parallel, scannable facts, such as `### Quick Facts`, ranks, rosters,
   tiers, funding sources, a trigger list, or a process's steps and facets (the parts of a rite, the
-  stages of a procedure). When a list is right, open the section with one prose
-  sentence that states its point, then give the items as parallel labelled lines (`**Label:** ...`);
-  never drop an unlabelled run of sentences under a heading, and never let a heading lead straight
-  into a list with nothing to frame it. Everything narrative, explanatory, or historical is prose,
-  and a page that is lists from top to bottom has not been laid out at all. Keep the labels parallel
-  but varied: do not begin every one with "The".
+  stages of a procedure). When a list is right, give the items as parallel labelled lines
+  (`**Label:** ...`); open the section with one prose sentence when its point is not already clear
+  from the heading, but a heading that names the set may lead straight into it. Never drop an
+  unlabelled run of sentences under a heading. Everything narrative, explanatory, or historical is
+  prose, and a page that is lists from top to bottom has not been laid out at all. Keep the labels
+  parallel but varied: do not begin every one with "The".
 - **Headings name their topic.** Keep a heading a plain noun phrase that says what the section holds
   (`Appearance`, `The Star Seals`, `Concealment & Bearer Awareness`), never a question or a sentence
   about the subject. A heading that only makes sense after reading the section is the wrong heading.
-- **Whitespace and breaks.** A blank line sits above and below every heading, table, list, and `---`
-  break, with no exception: `## Overview` and `### Quick Facts` get theirs too, and the space just
-  under a `---` is always blank. Set every top-level `##` section off with a `---` thematic break on
-  its own line, beginning with one after the Overview and Quick Facts block, so the page reads as
-  clear blocks. The break never goes between `###` subsections, never sits directly under a heading,
-  and never touches a line of text above or below it. This is the vault's default layout, not an
-  optional flourish; the church and chancellery notes show it.
+- **Whitespace and breaks.** A blank line sits above every heading and around every table and `---`
+  break, and the space just under a `---` is always blank. A heading, though, is followed straight
+  away by its text or list, with no blank line directly under it. Set every top-level `##` section
+  off with a `---` thematic break on its own line, beginning with one after the Overview and Quick
+  Facts block, so the page reads as clear blocks. The break never goes between `###` subsections,
+  never sits directly under a heading, and never touches a line of text above or below it. This is
+  the vault's default layout, not an optional flourish; the Aurelius note shows it.
 - **Link placement (wiki-fandom style).** When a section introduces or summarises a dedicated note,
   hyperlink the section heading itself (`### [[Note Name]]`). Never write "see [[Note]]" or
   "(see ...)" as a pointer; if a link is needed in the body, place it on a meaningful word or phrase
   instead.
 - **Templates are scaffolds, not layout models.** A note under `content/Templates/` lists the fields
-  to fill in, and its formatting is not the house style. Templates commonly glue a heading to the
-  text under it, skip the `---` after the Quick Facts block, and split the page into a run of
-  one-line `##` sections. Fill the fields, then lay the page out by the rules above and the shape
-  below; group the template's thin `##` sections into fewer `##` sections with `###` pieces inside.
+  to fill in, and its formatting is not the house style. Templates commonly skip the `---` after the
+  Quick Facts block and split the page into a run of one-line `##` sections. Fill the fields, then
+  lay the page out by the rules above and the shape below; group the template's thin `##` sections
+  into fewer `##` sections with `###` pieces inside.
 
   ```markdown
   > "Quote."
 
   ## Overview
-
   Prose.
 
   ### Quick Facts
-
   - **Key:** Value
 
   ---
 
   ## First Section
-
   Prose.
 
   ### Subsection
-
   Prose.
 
   ---
