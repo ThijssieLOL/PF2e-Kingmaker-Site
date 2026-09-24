@@ -42,7 +42,7 @@ Aurelius is tall and lean, with an athletic build, broad in the shoulder and nar
 
 ### The "Eyes of God" ([[Ocular of Kaelen]])
 
-> [!info] The [[Ocular of Kaelen]]
+> [!info] The "Eyes of God"
 > An extraordinarily rare, prophetic eye condition known in ancient texts by that name, and called the "Eyes of God" informally within the Church. It sees directly into the spiritual layer of reality, and it is why he keeps a traveler's hood low over his brow and his gaze down when he works covertly, or when the shadowy cabal that hunts the trait is near.[1](#ref-1)
 
 ### The [[Tattoos of Penance]]
