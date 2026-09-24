@@ -154,6 +154,7 @@ Humanizer follows the sample's rhythm, word choice, punctuation, and deliberate 
 <details>
 <summary>Show release notes</summary>
 
+- **2.12.0** - Local vault fork. Added a "Sound human" habits list and a "Fast review" triage list to `SKILL.md`. Clarified that the no-invention rule applies to factual text only, so fiction is not exempt from the other patterns. Scoped the Title Case tell to sentence-case target styles, extended §28 to rhetorical-question transitions, and moved patterns 26-35 into a "Structure and argument patterns" group so the README and `SKILL.md` agree. All 35 patterns are kept.
 - **2.11.2** - Removed the plugin symlink and separate Claude Desktop package. Current Claude Code loads the root `SKILL.md` directly, so GitHub's source ZIP now works in Claude Desktop. No change to the 35 patterns.
 - **2.11.1** - Added a Claude Desktop-ready release package with one regular `humanizer/SKILL.md` file. GitHub's source archive still keeps the plugin symlink (fixes #224). No change to the 35 patterns.
 - **2.11.0** - Rewrote all repo guidance, descriptions, checks, and skill instructions in Plain Language. Kept all 35 patterns and their behavior.

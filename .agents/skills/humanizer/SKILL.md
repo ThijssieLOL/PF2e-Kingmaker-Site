@@ -22,7 +22,7 @@ When given text to humanize:
 
 1. **Find AI patterns.** Check the text against the patterns below.
 2. **Keep every claim.** You may shorten dull parts, expand useful parts, and merge or split paragraphs. Keep the information even when you change the structure.
-3. **Do not invent facts.** Do not add a fact, name, number, date, quote, or citation unless it comes from the source or the user. If a sentence needs a missing detail, ask for it or use a simpler sentence. You may add an opinion or reaction when the writer's voice calls for one, but you may not add a factual claim. Fiction is exempt because invented details are part of the task.
+3. **Do not invent facts in factual text.** Do not add a fact, name, number, date, quote, or citation unless it comes from the source or the user. If a sentence needs a missing detail, ask for it or use a simpler sentence. You may add an opinion or reaction when the writer's voice calls for one, but you may not add a factual claim. Fiction works differently: there, inventing detail is the task, so the no-invention rule does not apply. Every other rule still does, and fiction prose carries the same patterns below.
 4. **Match the voice.** Use the right tone for the text, such as formal, casual, or technical. Add personality only when the text and the writer call for it.
 
 The input type controls what you return. See [How to return the result](#how-to-return-the-result). Use the same rewrite process in every mode.
@@ -37,13 +37,30 @@ If the user provides a writing sample (their own previous writing), analyze it b
 
 A writing sample takes priority over these style rules. If the sample uses em dashes, keep them at about the same rate. Do not apply §14 as a ban.
 
-## Add personality only when it fits
+## Sound human
 
 Removing AI patterns is only half the job. The result should still sound like a person.
 
-Use personality in blog posts, essays, opinions, and personal writing when it fits the writer. Keep reference, technical, legal, and factual text neutral. Do not add opinions or first-person language where they do not belong.
+Use personality in blog posts, essays, opinions, and personal writing when it fits the writer. Keep reference, technical, legal, and factual text neutral. Do not add opinions or first-person language where they do not belong. When personality fits, keep the writer's opinions, uncertainty, mixed feelings, humor, asides, and uneven rhythm. Never invent facts to make the text feel personal.
 
-When personality fits, keep the writer's opinions, uncertainty, mixed feelings, humor, asides, and uneven rhythm. Never invent facts to make the text feel personal.
+Habits that push prose toward a person:
+
+- **Vary sentence length.** Mix short sentences with long ones. AI writing runs at one even, mid-length pace.
+- **Prefer concrete nouns and plain verbs.** Name the thing and the action instead of reaching for an abstract phrase.
+- **Keep one clear subject.** Let a person or thing be the actor, and let the sentences follow from it.
+- **Keep a specific, unexplained detail.** A real hour, place, or small odd fact reads as lived-in. Do not smooth it into a general claim.
+- **End on the last useful fact.** Stop when the information stops.
+
+## Fast review
+
+These tells point to AI writing most often, so check them first:
+
+- An importance or legacy claim attached to an ordinary fact (§1).
+- An -ing phrase that restates a fact in softer words (§3).
+- A run of sales adjectives, or *is* and *has* swapped for serves as, boasts, features (§4, §8).
+- A forced group of three, or a "not only X but Y" shape (§9, §10).
+- Em dashes, bold-label lists, and Title Case that the target house style does not use (§14 to §17).
+- Chatbot artifacts, cutoff disclaimers, or praise left in the text (§20 to §22).
 
 ## Content patterns
 
@@ -190,7 +207,7 @@ Do not ban the repeated word. Fix the repeated sentence pattern. The remaining s
 **After:**
 > The new policy, announced without warning, affects thousands of workers. The changes, long overdue according to critics, will take effect immediately.
 
-Before returning the rewrite, search for `—` and `–`. Remove each one unless the writer's sample uses that mark. In that case, match the sample's rate.
+Search the final text for both marks before returning.
 
 ### 15. Too much bold text
 **Problem:** AI chatbots often bold words and phrases without a clear reason.
@@ -209,7 +226,7 @@ Before returning the rewrite, search for `—` and `–`. Remove each one unless
 > The update improves the interface, speeds up load times through optimized algorithms, and adds end-to-end encryption.
 
 ### 17. Title case in headings
-**Problem:** AI chatbots often capitalize every main word in a heading.
+**Problem:** AI chatbots often capitalize every main word in a heading when the target style is sentence case. A house style that uses title case is unaffected.
 **Before:**
 > ## Strategic Negotiations And Global Partnerships
 **After:**
@@ -290,6 +307,8 @@ Before returning the rewrite, search for `—` and `–`. Remove each one unless
 **After:**
 > (Cut the paragraph. End on the last concrete fact instead of a send-off. If the source states real plans, use those.)
 
+## Structure and argument patterns
+
 ### 26. Too many hyphenated word pairs
 
 **Words to watch:** third-party, cross-functional, client-facing, data-driven, decision-making, well-known, high-quality, real-time, long-term, end-to-end
@@ -311,7 +330,7 @@ Before returning the rewrite, search for `—` and `–`. Remove each one unless
 ### 28. Announcing the next point
 
 **Phrases to watch:** Let's dive in, let's explore, let's break this down, here's what you need to know, now let's look at, without further ado, heads up, quick note, before I forget
-**Problem:** AI writing often announces the next point instead of stating it. A casual phrase such as "one thing that bit me" can have the same problem. Remove the announcement, not just its formal tone.
+**Problem:** AI writing often announces the next point instead of stating it. A casual phrase such as "one thing that bit me" can have the same problem, and so can a rhetorical question used as a transition, such as "So why does this matter?". Remove the announcement, not just its formal tone.
 **Before:**
 > Let's dive into how caching works in Next.js. Here's what you need to know.
 **After:**
