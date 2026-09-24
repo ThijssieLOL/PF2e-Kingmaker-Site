@@ -42,5 +42,6 @@ To advance to a higher grade, a member of the clergy must meet strict power and 
 
 - **Theological Examination:** A mandatory, highly comprehensive written exam covering all areas of church theology and philosophy (comparable to a university end-term exam). No exemptions are permitted for this test.
 - **Combat Examination:** A physical trial of combat prowess and martial discipline.
+- **Chancellery Examination:** Each chancellery sets its own examination in the discipline it serves, taken alongside the theological and combat trials. A member of [[The Chancellery of the Shared Hearth]], for example, is examined in economics. At the grades that call for it, a clergy member must hold the qualification their chancellery requires.
 - **Exemptions:** A candidate may receive an exemption from the combat exam if they possess a highly specialized, non-combat form of usefulness (such as exceptional diplomatic, scholarly, or administrative genius).
 - **The Review Board:** Candidates who pass the exams are interviewed by an appointed council of clergy members one grade higher than the rank being sought. The council weighs recommendations, character, and moral standing before granting ascension.
