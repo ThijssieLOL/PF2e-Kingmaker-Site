@@ -10,7 +10,7 @@ faction: "[[The Jotnar Five]]"
 status: Alive
 ---
 
-![[Character Image.jpg|300]]
+![[flyingfish.png|300]]
 
 > "Feed a man a fish, and one fish shall be dead; teach a man to fish, and you exterminate his entire ecosystem" -The salmon of knowledge
 
