@@ -14,7 +14,6 @@ status: Active
 Spirits of the Echo of Lost Moments are born of forgotten memories, and of time that was damaged and then repaired.
 
 ### Quick Facts
-
 - **Domain:** Forgotten memory
 - **Vessel Spell:** *Store Time*
 - **Avatar:** *Devourer of Lost Time*

@@ -14,7 +14,6 @@ status: Active
 Spirits of the Custodian of Groves and Gardens are quiet spirits of tended land, and they believe they have already found paradise.
 
 ### Quick Facts
-
 - **Domain:** Tended land
 - **Vessel Spell:** *Garden of Healing*
 - **Avatar:** *Peaceful Reaches*

@@ -14,7 +14,6 @@ status: Active
 Spirits of the Steward of Stone and Fire are slow-burning spirits of mountains, volcanoes, and hot springs.
 
 ### Quick Facts
-
 - **Domain:** Mountains and fire
 - **Vessel Spell:** *Earth's Bile*
 - **Avatar:** *Blood of Planets*

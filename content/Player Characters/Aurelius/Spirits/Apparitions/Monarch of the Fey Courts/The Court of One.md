@@ -17,7 +17,6 @@ own-name:
 The Court of One is a Rank 8 spirit of the [[Monarch of the Fey Courts]] family: a line of masked dancers in gowns grey with dust, holding hands, and the line has no fixed length. Anyone who watches must dance too.
 
 ### Quick Facts
-
 - **Apparition Family:** [[Monarch of the Fey Courts]]
 - **Spirit Rank:** 8 (carries the 8th-rank apparition spell, *Uncontrollable Dance*)
 - **Binding Status:** *TBD.*

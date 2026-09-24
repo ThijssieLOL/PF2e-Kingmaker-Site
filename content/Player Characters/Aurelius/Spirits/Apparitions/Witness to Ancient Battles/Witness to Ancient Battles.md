@@ -14,7 +14,6 @@ status: Active
 Spirits of the Witness to Ancient Battles are grim spirits of soldiers, sieges, and fields that drank too much blood.
 
 ### Quick Facts
-
 - **Domain:** Soldiers and sieges
 - **Vessel Spell:** *Embodiment of Battle*
 - **Avatar:** *General of Endless Battle*

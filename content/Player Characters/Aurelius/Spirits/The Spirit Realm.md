@@ -14,7 +14,6 @@ aliases:
 The spirit realm is a single plane, parallel to the material world and always beside it. Spirits are the beings that live there. What they are, and how they work, is set down in [[Spirits]].
 
 ### Quick Facts
-
 - **What It Is:** A single plane, parallel to the material world.
 - **Regions:** Many, each with its own character and inhabitants.
 - **Time:** Passes the same as in the material world.

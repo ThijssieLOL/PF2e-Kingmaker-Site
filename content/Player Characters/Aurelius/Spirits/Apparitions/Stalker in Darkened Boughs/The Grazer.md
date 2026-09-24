@@ -17,7 +17,6 @@ own-name:
 The Grazer is a Rank 8 spirit of the [[Stalker in Darkened Boughs]] family: a stag the height of a barn, its antlers grown into a grove of real trees. It does not hunt. It grazes, and you are in the pasture.
 
 ### Quick Facts
-
 - **Apparition Family:** [[Stalker in Darkened Boughs]]
 - **Spirit Rank:** 8 (carries the 8th-rank apparition spell, *Monstrosity Form*)
 - **Binding Status:** *TBD.*

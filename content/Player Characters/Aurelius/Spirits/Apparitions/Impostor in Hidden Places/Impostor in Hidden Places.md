@@ -14,7 +14,6 @@ status: Active
 Spirits of the Impostor in Hidden Places are secret-keepers. They whisper in corners that mortal voices never reach.
 
 ### Quick Facts
-
 - **Domain:** Secrets
 - **Vessel Spell:** *Discomfiting Whisper*
 - **Avatar:** *Whisper Hiding in Shadows*

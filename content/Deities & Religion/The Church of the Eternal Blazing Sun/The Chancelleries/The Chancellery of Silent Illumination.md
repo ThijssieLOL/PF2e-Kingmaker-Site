@@ -11,6 +11,7 @@ status: Active
 > "A memorable quote."
 
 ## Overview
+
 The Chancellery of Silent Illumination is the intelligence service of [[The Church of the Eternal Blazing Sun]], and it works on both sides of the Church's borders. At home it is the internal security agency, watching the clergy for corruption and betrayal. Abroad it runs the Church's own field missions: agents placed under cover in hostile lands and cases pursued across borders until they close. Its members are trained for the whole of that work, from investigation and counterintelligence to forensics and the tactical operations that end a case when it turns violent. The Chancellery works quietly behind the faith's public ministry, gathering foreign intelligence, tracking existential threats, and running operations where open force is too loud and standard clergy are too vulnerable.
 
 ### Quick Facts
@@ -73,7 +74,6 @@ The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant
 The most recent graduating cohort. Of the seven, four remain in active service to the Chancellery under public cover; one has transferred to another Chancellery, and two are counted among the fallen.
 
 ### Current Members
-
 | Member | Path | Public Cover |
 | :----- | :--- | :----------- |
 | [[Vespera]] | Investigator | Grade 8 Legal Scribe and Archival Assistant |
@@ -82,7 +82,6 @@ The most recent graduating cohort. Of the seven, four remain in active service t
 | [[Julian]] | Swashbuckler | Grade 8 Cantor and Choir Lead |
 
 ### Former Members
-
 | Member | Path | Now |
 | :----- | :--- | :-- |
 | [[Aurelius]] | Animist | Grade 8 (Cinder) missionary on the Stolen Lands charter, [[The Chancellery of the Outer Horizon]] |

@@ -14,7 +14,6 @@ status: Active
 Spirits of the Shepherd of Errant Winds are spirits of movement and freedom, born from the wake of the wind.
 
 ### Quick Facts
-
 - **Domain:** Movement and freedom
 - **Vessel Spell:** *Gift of the Anemos*
 - **Avatar:** *Will of the Winds*

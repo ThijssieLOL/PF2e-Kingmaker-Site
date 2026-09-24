@@ -14,6 +14,7 @@ status: Alive
 > "A memorable quote."
 
 ## Overview
+
 Vespera is the quiet, analytical mind of the cohort, an Intelligence Officer, Forensic Scribe, and Tactician. She views chaos and corruption as logical problems to be solved with discipline and structure.
 
 ### Quick Facts
@@ -26,25 +27,30 @@ Vespera is the quiet, analytical mind of the cohort, an Intelligence Officer, Fo
 ---
 
 ## Appearance
+
 - **Description:** Tall, slender, with an immaculate, rigid posture. She has dark, piercing eyes and black hair pulled back into a tight, severe braid. She wears a dark blue and white traveling coat lined with hidden pockets for ink, scrolls, and tools. Etched onto her collarbones is a [[Tattoos of Penance|tattoo of penance]] depicting a broken, unbalanced scale. When glowing, the cracks in the scale mend with gold light.
 
 ---
 
 ## Personality
+
 - **Demeanor:** She shows her deep love for her siblings through detailed tactical planning rather than words, making sure they are never placed in unnecessary danger. Her sin of pride is the one that still instructs her: a cold, detached calculation once led her to ignore a plea for help, and the avoidable tragedy that followed reminds her to balance logic with mercy.
 - **[[The Liturgical Cadence]]:** Vespera speaks the Cadence measured and academic, a habit of her training as a legal scribe. It suits her cold, analytical logic.
 
 ---
 
 ## Abilities
+
 - **Skills & Magic:** In combat, she uses defensive positioning and precise strikes to exploit enemy weaknesses. She is skilled in tactical planning, forensic scribing, and managing legal documents, property disputes, and historical records.
 
 ---
 
 ## History
+
 - **Background:** 
 
 ---
 
 ## Relationships
+
 - **[[Aurelius]]:** Vespera and Aurelius share a strong intellectual bond, and they debate political theory often. Where Aurelius builds grand frameworks like his *Trias Politicas*, Vespera keeps challenging him on the practical, logistical realities of implementing such systems in a wild frontier.

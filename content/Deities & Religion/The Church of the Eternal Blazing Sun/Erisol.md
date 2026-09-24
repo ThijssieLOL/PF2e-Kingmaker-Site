@@ -19,6 +19,7 @@ aliases:
 > "A fire can only burn as bright as the fuel it's fed"
 
 ## Overview
+
 The primary goddess of [[The Church of the Eternal Blazing Sun]]. Erisol, often called "the Eternal Blaze" or "the Pyre", is believed by her mythology to be the sun itself. She is the goddess of light and life.
 
 ### Quick Facts
@@ -35,21 +36,25 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Erisol, often 
 ---
 
 ## Appearance
+
 - **Description:** 
 
 ---
 
 ## Personality
+
 - **Demeanor:** 
 
 ---
 
 ## History
+
 - **Background:** 
 
 ---
 
 ## Relationships
+
 Erisol obviously has various relationships with her star saints as she is the one to raise them to sainthood.
 
 In some mythologies she has two daughters:

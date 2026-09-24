@@ -17,7 +17,6 @@ own-name:
 The Reflection is a Rank 2 spirit of the [[Impostor in Hidden Places]] family. It exists only in glass, where it stands behind whoever is looking, wearing the shape of the person they fear most.
 
 ### Quick Facts
-
 - **Apparition Family:** [[Impostor in Hidden Places]]
 - **Spirit Rank:** 2 (carries the 2nd-rank apparition spell, *Invisibility*)
 - **Binding Status:** *TBD.*

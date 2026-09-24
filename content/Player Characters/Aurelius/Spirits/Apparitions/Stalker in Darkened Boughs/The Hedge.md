@@ -17,7 +17,6 @@ own-name:
 The Hedge is a Rank 3 spirit of the [[Stalker in Darkened Boughs]] family: a blackthorn hedge grown into the shape of an animal, and the animal keeps changing. Whatever tries to pass, it becomes and lets through.
 
 ### Quick Facts
-
 - **Apparition Family:** [[Stalker in Darkened Boughs]]
 - **Spirit Rank:** 3 (carries the 3rd-rank apparition spell, *Wall of Thorns*)
 - **Binding Status:** *TBD.*

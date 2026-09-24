@@ -14,7 +14,6 @@ status: Active
 Spirits of the Stalker in Darkened Boughs are hunters of the ancient forests, drawn to violence and to those who master it.
 
 ### Quick Facts
-
 - **Domain:** The ancient forests
 - **Vessel Spell:** *Darkened Forest Form*
 - **Avatar:** *Beast of the Boughs*

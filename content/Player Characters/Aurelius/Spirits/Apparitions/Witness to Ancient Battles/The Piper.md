@@ -17,7 +17,6 @@ own-name:
 The Piper is a Rank 8 spirit of the [[Witness to Ancient Battles]] family, no taller than a man, with three faces on one head and a coat over a body that is only wounds. It plays before a battle, and only the men who are going to die in the coming attack can hear the tune.
 
 ### Quick Facts
-
 - **Apparition Family:** [[Witness to Ancient Battles]]
 - **Spirit Rank:** 8 (carries the 8th-rank apparition spell, *Canticle of Everlasting Grief*)
 - **Binding Status:** *TBD.*

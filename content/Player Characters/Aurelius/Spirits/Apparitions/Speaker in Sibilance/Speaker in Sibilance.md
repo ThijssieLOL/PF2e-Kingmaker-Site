@@ -14,7 +14,6 @@ status: Active
 Spirits of the Speaker in Sibilance are hissing spirits of forbidden knowledge, and each serpent is a different counsel.
 
 ### Quick Facts
-
 - **Domain:** Forbidden knowledge
 - **Vessel Spell:** *Crown of Prophets*
 - **Avatar:** *Medusa of Merciless Mysteries*

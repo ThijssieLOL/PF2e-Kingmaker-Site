@@ -11,7 +11,6 @@ tags:
 The record of Aurelius's character-building interview, kept in its original order. Each answer is a short note; the full account of anything it touches lives on the page that owns it, linked in the answer.
 
 ### Quick Facts
-
 - **Subject:** [[Aurelius]]
 - **Status:** First draft, unfinished
 - **Kept For:** Reference during play and future rewrites
@@ -49,7 +48,6 @@ The record of Aurelius's character-building interview, kept in its original orde
   He has no unique smell.
 
 ### Magic
-
 - **12. Where does your character tell people their magic came from?**
   Divine grace, granted through his service as a humble clergyman ([[Aurelius#Overview]]).
 - **13. Where does your character actually get their magic?**
@@ -62,7 +60,6 @@ The record of Aurelius's character-building interview, kept in its original orde
   Yes: internal heat, and recoil that brings severe fatigue and pain if his focus breaks ([[Aurelius#Combat & Divine Abilities]]).
 
 ### Combat Style
-
 - **17. How does your character typically fight?**
   Mid to long range divine casting shaped through hand seals, kinetic redirection for defense, and bound spirits for reach, with close quarters as a commando-trained fallback ([[Aurelius' Combat Style]]).
 - **18. How has your character adopted this fighting style?**

@@ -14,7 +14,6 @@ status: Active
 Spirits of the Vanguard of Roaring Waters are chaotic spirits of rapids, breakers, and rivers that carve the world.
 
 ### Quick Facts
-
 - **Domain:** Rapids and rivers
 - **Vessel Spell:** *River Carving Mountains*
 - **Avatar:** *River that Splits the World*

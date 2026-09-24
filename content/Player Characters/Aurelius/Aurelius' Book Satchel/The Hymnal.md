@@ -19,7 +19,6 @@ status: Active
 The Hymnal is Aurelius's prayer book: a small, sun-bleached book of hymns bound in pale leather, its spine cracked from years of riding in his book satchel. He does not read it to a congregation. Every verse inside is a spell, set down so that he can speak it true again after long weeks without use. Each dawn he prays the day's office out of it in the [[The Liturgical Cadence|Liturgical Cadence]], and the rest of the book keeps the record of every verse he has ever learned. When he casts, the verses burn Aureolin White and his tattoos ignite along his forearms and shins.
 
 ### Quick Facts
-
 - **Kind of Book:** Prayer book of divine hymns
 - **What It Holds:** Every verse Aurelius has learned, divine, apparition, or focus
 - **How It Records:** Entered in full, in short phrases, per the [[Spell Template]]
@@ -46,7 +45,6 @@ The hands are the other half of the casting. How a run of [[The Star Seals|seals
 Every verse Aurelius has ever set down, sorted by the source he draws it from: the apparition verses by family, the divine verses by rank. The record leaves material components out and keeps the seal sequence inside the somatic line. Nothing leaves this section once it is recorded.
 
 ### Apparition Spells
-
 Each of the fourteen families lends one cantrip, one verse of each rank, and a vessel spell. Every verse they lend is set down here, family by family. A verse belongs to the spell, not to the family that lends it, so a spell several families share keeps a single verse and seal sequence. Verses still waiting on their words carry the bare form of the [[Spell Template]].
 
 An apparition verse arrives in the spirit's own shape before his light takes it. The working forms first as the family would have it: fire gathers as plain fire, water as water, a vine as a green vine, earth as bare earth. Aurelius's light closes over it in the instant after it forms, and the spell burns Aureolin White from that moment on. His magic does not replace the apparition's; it takes control of it.
@@ -1554,7 +1552,6 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 - **Residue:**
 
 ### Divine Spell List
-
 **Cantrips**
 
 #### Forbidding Ward

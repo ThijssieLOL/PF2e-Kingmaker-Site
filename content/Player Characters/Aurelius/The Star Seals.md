@@ -18,7 +18,6 @@ The Star Seals are the somatic component of [[Aurelius]]'s casting: the handshap
 Every seal is named for a constellation, and every constellation is held by a Star Saint. [[The Hymnal]] records each verse in full, and the seal sequence is written down beside the verse it belongs to.
 
 ### Quick Facts
-
 - **What They Are:** The somatic component of Aurelius's spellcasting
 - **How Many:** One for each constellation
 - **Named After:** The constellations, and the Star Saints who hold them

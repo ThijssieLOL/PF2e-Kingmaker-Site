@@ -17,7 +17,6 @@ Spirits are the beings that live in the spirit realm, the plane that lies alongs
 This page sets down [[Aurelius]]'s understanding of spirits, the working model he has built from what the [[Ocular of Kaelen]] shows him and from the spirits he has met, bound, and argued with. He holds it as incomplete. The realm is larger than any one tradition's map of it, his own included.
 
 ### Quick Facts
-
 - **Realm:** The spirit realm, a single plane parallel to the material world.
 - **Origin:** Born of what the living world leaves behind, such as a memory, a fear, or a will.
 - **Perception:** Invisible and intangible without spirit-sight, such as the [[Ocular of Kaelen]].
@@ -59,7 +58,6 @@ In practice, seeing spirits means spirit-sight. The one Aurelius knows is the [[
 The blindness is not always one-way. A parasitic spirit can perceive the person it clings to, and other spirits may or may not, each by its own nature. A spirit can show itself to someone with no spirit-sight only if it stands very high in Rank.
 
 ### The Spirit Tongue
-
 Every spirit speaks the one spirit tongue, a speech that carries in the spirit realm and not to mortal ears. Some spirits know other languages besides.
 
 ---
@@ -85,7 +83,6 @@ A spirit is as strong as what made it: the weight of the memory, the depth of th
 Above Rank 9, Aurelius does not know what lies. The spirits that called him to the Stolen Lands stayed beyond even the [[Ocular of Kaelen]]'s reach, and he has no name for their order.
 
 ### Lesser Spirits
-
 Below Rank 1 sit the **lesser spirits**: countless small beings, gathered under one name because beside the ranked spirits their differences in power count for little. Most are tied to a single concept, and they think the way an insect or a small animal thinks, aware of that concept and little else. A lesser spirit can belong to an apparition family, and many do.
 
 The [[The Celestial Calling|Celestial Calling]] builds its faith on them and reads them as the first rung of an ascent, though Aurelius has seen no such climb in the realm itself.

@@ -12,7 +12,6 @@ status: Active
 The houses of [[The Church of the Eternal Blazing Sun]] are tiered by the population they serve: higher tiers rarer, larger, and more heavily staffed, so outreach and expenditure stay proportionate. Only one Tier 5 house exists: the headquarters itself.
 
 ### Quick Facts
-
 - **Owner:** [[The Church of the Eternal Blazing Sun]]
 - **Number of Tiers:** Five, from the parish to the headquarters
 - **Nine-Fold Staff:** Kept from Tier 2 upward

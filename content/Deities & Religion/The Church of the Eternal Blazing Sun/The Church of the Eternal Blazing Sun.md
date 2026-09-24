@@ -13,6 +13,7 @@ status: Active
 > "Praise the Sun." — Common Liturgical Greeting
 
 ## Overview
+
 The Church of the Eternal Blazing Sun is a large, Lawful Good religious institution devoted to the worship of the sun goddess. Its clergy place the highest value on redemption, forgiveness, and the preservation of life. The faith is vast and highly organized, bound by a unique grade-based hierarchy, a strict apolitical stance on state governance, and a compassionate, community-focused economic philosophy.
 
 The church does not seek to rule nations directly. It acts instead as a moral guardian of the mortal realms, intervening ruthlessly when secular rulers fall into corruption or commit grave evils.
@@ -64,7 +65,6 @@ The hierarchy of the church runs on a strict, fire-themed grade system, from Gra
 - **Tactical Placement:** The Church sites its houses with care. Churches, and higher-tier churches especially, are placed to reach the most people for the resources spent, so every church's tier tracks the population it serves.
 
 ### [[Church Tiers]]
-
 The Church's houses are tiered by the population they serve, from the humble Tier 1 parish run by a handful of Cinders to the unique Tier 5 headquarters. From Tier 2 upward every church keeps the nine-fold staff, higher tiers fall to ever-senior clergy, and each upgrade is approved from above.
 
 ## The Chancelleries
@@ -132,11 +132,9 @@ The Church binds its far-flung parishes and its agents in the field with a divin
   - *"From dawn to dusk, she watches."* (Solemn response)
 
 ### [[The Vestments of the Clergy|Clergy Attire]]
-
 Clergy dress by grade for ceremony and by chancellery for duty, with the emblem of their chancellery worn on the ceremonial vestment. Ceremonial vestments are an ankle-length black cassock with a high collar and gold engraving; a Grade 7 Blaze adds a long white stole worked in gold floral and solar patterns. In the field, a dark tunic and trousers under a white traveller's poncho-capelet. The vestments carry no armor, so a cleric who expects combat wears armor as a separate kit.
 
 ### [[Tattoos of Penance]]
-
 The church does not treat its clergy as flawless moral figures, but as redeemed sinners. To embody this, newly initiated clergy receive the [[Tattoos of Penance]], a sacred and permanent record of their past transgressions, the goddess's divine mercy, and their lifelong vow of public humility.
 
 ---
@@ -147,7 +145,6 @@ The church does not treat its clergy as flawless moral figures, but as redeemed 
 - **The Concordance of True Faiths:** The church keeps diplomatic relations with other mainstream, benevolent deities, but its dealings often carry a gentle, patronizing condescension, for it holds the sun goddess to be the absolute pinnacle of moral goodness.
 
 ### [[The Grand Order of the Phoenix]]
-
 A smaller denomination that split from the church on good terms and remains in its good graces, venerating the same sun goddess and departing from orthodoxy in practice rather than doctrine. Its most distinctive departure is the blood-blessed tradition of thrall-binding, a holy necromancy that never touches the dead.
 
 ### Cults & Heresies

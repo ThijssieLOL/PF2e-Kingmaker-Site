@@ -17,7 +17,6 @@ status: Active
 Spirit sealing is the rite that binds a spirit to [[Aurelius]]. He built it himself during his training in [[The Chancellery of Silent Illumination]], so it is his practice rather than a doctrine of the Church. A spirit is sealed when he gives it a name, and the seal holds until something breaks it.
 
 ### Quick Facts
-
 - **What It Is:** The rite that binds a spirit to Aurelius
 - **Requires:** The spirit's consent, won by proven dominance
 - **The Name:** His to give; the spirit keeps its own

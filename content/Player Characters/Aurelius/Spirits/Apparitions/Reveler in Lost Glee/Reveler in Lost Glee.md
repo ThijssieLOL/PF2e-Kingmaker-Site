@@ -14,7 +14,6 @@ status: Active
 Spirits of the Reveler in Lost Glee are twisted spirits of joy that once was, and of mirth that now wounds.
 
 ### Quick Facts
-
 - **Domain:** Joy that wounds
 - **Vessel Spell:** *Trickster's Mirrors*
 - **Avatar:** *Ringmaster of the Dark Celebration*

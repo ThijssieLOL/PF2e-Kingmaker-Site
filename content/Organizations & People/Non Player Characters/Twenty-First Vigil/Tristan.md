@@ -90,6 +90,7 @@ The Vigil marks his memory with a shrine in the church graveyard garden of Resto
 ---
 
 ## Relationships
+
 - **[[Aurelius]]:** Tristan was the cohort's protective older brother and the listening ear Aurelius trusted most. The two grew close over their years together, and Aurelius could speak to him about ordinary things when he could speak to no one else. He tried once to draw Tristan out about his past, saw how raw it was, and let it lie. His loss devastated Aurelius, who often blames himself for it.
 - **[[Gideon]]:** Gideon looked up to Tristan, most of all for his strength and his readiness to help anyone in need.
 - **[[Valerius]]:** Valerius was competitive with everyone, and he aimed much of that at Tristan. It was never malice, only a man who needed to prove himself. Tristan's loss hit him hardest of all, and Valerius is presumed to have died a few years later.

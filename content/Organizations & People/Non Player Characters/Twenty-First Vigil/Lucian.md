@@ -20,6 +20,7 @@ status: Alive
 > — Father Lucian Soler
 
 ## Overview
+
 Father Lucian Soler is a Grade 7 (Blaze) Warpriest within [[The Church of the Eternal Blazing Sun]] and the head instructor for the parish branch of [[The Chancellery of Silent Illumination]] at the local church of Restov. A veteran and former orphan who rose through the Church's ranks, he teaches divine recruits physical combat, tactics, and survival. To [[Aurelius]] and the surviving cohort of the Twenty-First Vigil, he is more than a military teacher. He is a quiet, deeply loving father who gave them guidance, discipline, and a home. He trained each of the seven to their own strengths rather than to a single mold.
 
 ### Quick Facts

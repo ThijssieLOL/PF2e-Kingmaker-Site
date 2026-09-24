@@ -14,7 +14,6 @@ status: Active
 Spirits of the Monarch of the Fey Courts are vain and capricious, and they belong to the courts of the First World.
 
 ### Quick Facts
-
 - **Domain:** The First World's courts
 - **Vessel Spell:** *Nymph's Grace*
 - **Avatar:** *Queen of the Winter Court*

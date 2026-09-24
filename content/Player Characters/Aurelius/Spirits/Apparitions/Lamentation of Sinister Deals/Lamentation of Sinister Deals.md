@@ -14,7 +14,6 @@ status: Active
 Spirits of the Lamentation of Sinister Deals come from bargains that cost more than they returned.
 
 ### Quick Facts
-
 - **Domain:** Bargains
 - **Vessel Spell:** *Wish Market*
 - **Avatar:** *Cosmic Notary*

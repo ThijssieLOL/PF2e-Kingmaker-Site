@@ -14,7 +14,6 @@ status: Active
 Spirits of the Lurker in Devouring Dark are cold spirits of deep water and ice, and of the hungers beneath the world.
 
 ### Quick Facts
-
 - **Domain:** Deep water and ice
 - **Vessel Spell:** *Devouring Dark Form*
 - **Avatar:** *Tentacles from the Dark*

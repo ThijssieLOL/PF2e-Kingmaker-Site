@@ -14,7 +14,6 @@ status: Active
 Spirits of the Crafter in the Vault are born of forges, workshops, and places where creation and injury happen together.
 
 ### Quick Facts
-
 - **Domain:** Forges and workshops
 - **Vessel Spell:** *Traveling Workshop*
 - **Avatar:** *Incarnate Dungeon*

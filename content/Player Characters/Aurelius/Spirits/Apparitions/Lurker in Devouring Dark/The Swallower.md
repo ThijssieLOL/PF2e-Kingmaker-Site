@@ -17,7 +17,6 @@ own-name:
 The Swallower is a Rank 9 spirit of the [[Lurker in Devouring Dark]] family: a whale-sized thing with no head, whose spine opens into a mouth from shoulder to tail. It swims through earth and air as if they were water, and everything it passes over collapses into it.
 
 ### Quick Facts
-
 - **Apparition Family:** [[Lurker in Devouring Dark]]
 - **Spirit Rank:** 9 (carries the 9th-rank apparition spell, *Implosion*)
 - **Binding Status:** *TBD.*
