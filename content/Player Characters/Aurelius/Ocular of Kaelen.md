@@ -8,7 +8,7 @@ type: Ocular Trait
 status: Active
 ---
 
-![[Mandala Eyes on White.png|515]]
+![[Mandala Eyes.png|515]]
 
 > "A memorable quote."
 
