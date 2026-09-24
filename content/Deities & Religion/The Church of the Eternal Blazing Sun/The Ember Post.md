@@ -30,7 +30,11 @@ The sender holds the finished letter to any open flame, hearth, brazier, or cand
 
 ## Attunement
 
-Attuning to a fire is an act of prayer, not mere proximity. The flame is holy, and it answers only the soul that has asked. The petitioner draws near to the hearth, stills their breath, and makes the [[The Church of the Eternal Blazing Sun#Gestures & Greetings|Solar Circle]] gesture before the flame, then speaks the Prayer of Attunement: a brief devotion naming themselves to the sun goddess and asking that her light bind their name to this fire. *"Praise the Sun. I am [Name], a child of her light. Let this hearth remember me, that her radiance may find me wherever I stand."* The fire responds as only it can: a surge of warmth against the face, a settling of the embers, a whisper of her name on the air. Only then does it take note of the soul before it, and from that moment any message committed to the Ember Post for that person arrives at that fire.
+Attuning to a fire is an act of prayer, not mere proximity. The flame is holy, and it answers only the soul that has asked. The petitioner draws near to the hearth, stills their breath, and makes the [[The Church of the Eternal Blazing Sun#Gestures & Greetings|Solar Circle]] gesture before the flame, then speaks the Prayer of Attunement: a brief devotion naming themselves to the sun goddess and asking that her light bind their name to this fire:
+
+> *"Praise the Sun. I am [Name], a child of her light. Let this hearth remember me, that her radiance may find me wherever I stand."* 
+
+The fire responds as only it can: a surge of warmth against the face, a settling of the embers, a whisper of her name on the air. Only then does it take note of the soul before it, and from that moment any message committed to the Ember Post for that person arrives at that fire.
 
 Attunement passes from fire to fire as the traveler moves, so itinerant clergy and field agents such as [[Aurelius]] carry their correspondence with them, pausing at each church's hearth along the road to offer the Prayer of Attunement anew and collect what has arrived. A recipient who holds no current attunement receives their mail at their last attuned hearth, for most clergy the message hearth of their home parish, where it is held until they return or pray anew.
 
