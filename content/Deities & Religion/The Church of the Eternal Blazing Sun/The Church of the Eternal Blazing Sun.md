@@ -108,7 +108,7 @@ The Church binds its far-flung parishes and its agents in the field with a divin
   - Extreme tyranny and systemic cruelty
 - **Intervention Protocol:** A Moral Veto can be initiated by any clergy member of Grade 7 (Priest) or higher, but it requires the formal approval of either a group of Grade 6 (Bishops) or at least one Grade 5 (Archbishop). Intervention runs from public denouncements and the excommunication of rulers to surgical strikes by the covert commando program.
 
-### Economic Stance
+### [[The Shared Hearth Economy|Economic Stance]]
 - **Anti-Poverty & Charity:** The church views poverty as a systemic failure of society, not of the individual. It teaches that the state carries the moral responsibility to ensure the welfare of its citizens.
 - **Condemnation of Wealth Hoarding:** The church does not treat a high income as a sin, but it fiercely condemns the hoarding of wealth. It teaches that the strong and wealthy have a divine obligation to carry and support the weak.
 - **Social Programs:** The church runs one of the largest charitable operations in the world, funding soup kitchens, orphanages, and aid programs and often partnering with secular governments to manage these public works.
