@@ -41,12 +41,14 @@ configuration:
         highlight: "rgba(143, 159, 169, 0.15)"
         textHighlight: "#b3aa0288"
 plugins:
+  # Dates come from git's last-edit time, so every page and folder listing agrees.
+  # A note's frontmatter `date` (a session's play date, say) is metadata, not a
+  # display date; reading it here showed `date: 04/10/26` as Apr 10, 2026.
   - source: "@quartz-community/created-modified-date"
     enabled: true
     options:
       defaultDateType: modified
       priority:
-        - frontmatter
         - git
         - filesystem
     order: 10
