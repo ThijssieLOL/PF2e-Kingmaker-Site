@@ -69,7 +69,7 @@ The Church's houses are tiered by the population they serve, from the humble Tie
 
 ## The Chancelleries
 
-The Church runs its affairs with the scale and discipline of a sovereign empire. Rather than rely on informal orders, it divides executive authority among nine supreme ministries, the High Chancelleries. Each Chancellery is led by high-ranking clergy and governs a distinct pillar of statecraft, divine law, and civil service.
+The Church runs its affairs with the scale and discipline of a sovereign empire. Rather than rely on informal orders, it divides executive authority among nine supreme ministries, the High Chancelleries. Each Chancellery is led by high-ranking clergy and governs a distinct pillar of statecraft, divine law, and civil service. Every chancellery sets an academic standard for the clergy who serve it, gathered in [[The Chancellery Curriculum]].
 
 | Chancellery | Pillar | Mandate |
 | :---------- | :----- | :------ |

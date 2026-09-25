@@ -91,7 +91,7 @@ A member finishes the bachelor equivalent before taking on a new chancellery. Be
 
 ## Next step
 
-Answer the numbered questions below. Once answered, the settled parts can be written into [[The Grade System]] and the nine chancellery pages.
+The settled parts now live on [[The Chancellery Curriculum]], linked from [[The Grade System]], [[The Church Schooling Program]], and the nine chancellery pages. The numbered questions below are still open; answer them by number and the page can be filled out.
 
 ## Open questions
 

@@ -15,6 +15,7 @@ The Chancellery of the Outer Horizon carries [[The Church of the Eternal Blazing
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Foreign Affairs & External Missions
+- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in psychology or communication studies]]
 - **Status:** Active
 
 ---

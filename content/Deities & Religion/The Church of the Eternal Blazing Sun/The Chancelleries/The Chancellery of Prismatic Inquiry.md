@@ -15,6 +15,7 @@ The Chancellery of Prismatic Inquiry is the scientific and arcane research arm o
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Science & Arcane Optics
+- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in any applied science]]
 - **Status:** Active
 
 ---

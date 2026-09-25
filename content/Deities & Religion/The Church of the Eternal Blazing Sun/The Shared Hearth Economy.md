@@ -45,4 +45,4 @@ The Church does not run banks. Banking is left to the state, or to private owner
 - This page is a live capture from an ongoing brainstorm on the Church's economics, and holds only what has been settled so far.
 - The name is provisional: "the Shared Hearth" is the working term for the whole economic system, and a dedicated name may replace it.
 - Open items: the term for the clergy's vow against rich living; the definition of "basic necessities"; the pledge system; whether lending at interest is allowed; the place of inheritance in the doctrine; how the Church's freedom to invest squares with its rule that it owns no means of production.
-- Related thread: the rule that clergy of a given grade must hold a qualification in their chancellery's field, such as economics for the Shared Hearth. It is recorded in [[The Grade System]]; the grade it starts at is still open.
+- Related thread: the rule that clergy of a given grade must hold a qualification in their chancellery's field. [[The Chancellery Curriculum]] now sets that standard, and economics is the Shared Hearth's subject at bachelor level.

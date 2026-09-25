@@ -15,6 +15,7 @@ The Chancellery of the Meridian Cadastre is the administrative backbone of [[The
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Civil Administration & Archives
+- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in archival studies]]
 - **Status:** Active
 
 ---

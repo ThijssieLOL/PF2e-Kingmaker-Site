@@ -17,6 +17,7 @@ The Chancellery of Silent Illumination is the intelligence service of [[The Chur
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Intelligence, Espionage & Covert Operations
+- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in criminal justice]]
 - **Operative Force:** Orphan cohorts, including the Twenty-First Vigil
 - **Status:** Active
 
@@ -60,7 +61,7 @@ Silent Illumination is the only chancellery that takes orphans and no one else; 
 
 ## Training Curriculum & Education
 
-The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant to produce versatile, self-reliant operatives. Its graduates work as spies and investigators rather than assassins, and instruction is fitted to each recruit, pushing their limits without going beyond them.
+The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant to produce versatile, self-reliant operatives. Its graduates work as spies and investigators rather than assassins, and instruction is fitted to each recruit, pushing their limits without going beyond them. On top of that training, its members are examined to the academic standard set in [[The Chancellery Curriculum]].
 
 - **Martial & Covert Mastery:** Unarmed martial arts, marksmanship, endurance conditioning, stealth, wilderness survival, and escape techniques.
 - **Esoteric & Divine Casting:** Specialized instruction in spirit-binding, divine martial magic, animism, and anti-magic countermeasures.
