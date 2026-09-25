@@ -15,7 +15,7 @@ The Chancellery of the Outer Horizon carries [[The Church of the Eternal Blazing
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Foreign Affairs & External Missions
-- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in psychology or communication studies]]
+- **Qualification:** [[The Chancellery Curriculum|Bachelor level in international relations, communication, or psychology]]
 - **Status:** Active
 
 ---
@@ -35,7 +35,7 @@ The Chancellery of the Outer Horizon carries [[The Church of the Eternal Blazing
 
 ## Key Members
 
-- **[[Aurelius]]:** Grade 8 (Cinder) missionary serving on the Stolen Lands charter, formally transferred from [[The Chancellery of Silent Illumination]] to pursue frontier diplomacy and the [[Holy Ground Project]].
+- **[[Aurelius]]:** Grade 8 (Cinder) missionary serving on the Stolen Lands charter, formally transferred from [[The Chancellery of Silent Illumination]] to pursue frontier diplomacy and the [[Holy Ground Project]]. He studies the Psychology track.
 
 ---
 

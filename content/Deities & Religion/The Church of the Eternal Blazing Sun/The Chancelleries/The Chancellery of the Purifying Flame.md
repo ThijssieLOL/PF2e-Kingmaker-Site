@@ -15,7 +15,7 @@ The Chancellery of the Purifying Flame is the supreme judicial branch of [[The C
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Judiciary & Anti-Corruption
-- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in law or sociology]]
+- **Qualification:** [[The Chancellery Curriculum|Bachelor level in law, political science, or sociology]]
 - **Status:** Active
 
 ---

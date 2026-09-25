@@ -15,7 +15,7 @@ The Chancellery of the Shared Hearth is the financial and charitable arm of [[Th
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Finance & Public Welfare
-- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in accounting, economics, or econometrics]]
+- **Qualification:** [[The Chancellery Curriculum|Bachelor level in accounting, economics, or actuarial science]]
 - **Status:** Active
 
 ---

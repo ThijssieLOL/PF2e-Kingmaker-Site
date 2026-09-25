@@ -17,7 +17,7 @@ status: In Development
 
 The **Holy Ground Project** is [[Aurelius]]'s grandest ambition, at once magical, spiritual, and political. Conceived as a theoretical, kingdom-scale spiritual defense network, it aims to shield entire mortal populations from spiritual corruption, parasitic entity possession, and undead incursions.
 
-It draws on divine theology, animist spirit manipulation, and advanced alchemical engineering to build a massive interconnected grid of solar-prism batteries and spiritual nodes across a nation's borders. The system also carries a manual political override aligned with Aurelius's preferred framework, the [[Trias Politicas]], so that national security remains tied to moral governance.
+It draws on divine theology, animist spirit manipulation, and advanced alchemical engineering to plan a massive interconnected grid of spiritual nodes and energy batteries across a nation's borders. The system also carries a manual political override aligned with Aurelius's preferred framework, the [[Trias Politicas]], so that national security remains tied to moral governance.
 
 ### Quick Facts
 - **Architect:** [[Aurelius]]
@@ -30,8 +30,8 @@ It draws on divine theology, animist spirit manipulation, and advanced alchemica
 
 ## Technical & Magical Mechanics
 
-### The Solar-Prism Battery Grid
-The grid is anchored by massive solar-prism batteries designed to absorb and store pure divine radiant energy from [[Erisol]] during daylight hours. During the night, the batteries gradually release their stored energy, keeping a continuous, unbroken protective barrier across the kingdom.
+### The Battery Grid
+The grid is designed around massive batteries meant to hold pure divine radiant energy from [[Erisol]] and release it through the night, keeping the protective barrier unbroken.
 
 ### The Cleansing Barrier
 The boundary acts as an automated filter for any spirit entering or residing within the protected territory, scanning constantly for parasitic, malicious, or unholy spirits. Holy fire forcibly separates and cleanses evil or parasitic spirits at the border, without physical trauma or psychological damage to the host.
@@ -63,3 +63,9 @@ The Holy Ground Project works as both a defensive wall and a balance of power be
 
 ### The Battery Shutdown Mechanism
 The core network matrix carries a manual override system controlled by the clergy, known as the "Battery Shutdown." Should a secular monarch or military power descend into severe corruption, mandate state-sponsored necromancy, or ignore a formal Moral Veto issued by [[The Chancellery of the Purifying Flame]], the Church can initiate a shutdown. Initiating the override instantly deactivates the kingdom's spiritual defenses. The realm goes without its protective shield until political balance and moral order are restored.
+
+---
+
+## House Notes
+
+- This page records the project as a design rather than a working system. The power source is the open question: how divine radiant energy is to be gathered and stored at kingdom scale is not yet solved.

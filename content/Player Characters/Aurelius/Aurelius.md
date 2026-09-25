@@ -27,6 +27,7 @@ Aurelius is a religious warrior-philosopher living a delicate double life. By da
 - **Class & Archetype:** Animist (Pathfinder 2e)
 - **Affiliation:** [[The Church of the Eternal Blazing Sun]]
 - **Current Chancellery:** [[The Chancellery of the Outer Horizon]] (Formerly [[The Chancellery of Silent Illumination]])
+- **Chancellery Track:** Psychology
 - **Church Rank:** Grade 8 — Cinder
 - **Public Persona:** Gentle Clergyman, Scribe, and Missionary
 - **Covert Persona:** Divine Commando & Spirit-Binder
@@ -118,12 +119,13 @@ Rescued from absolute ruin by the local church of Restov, the regional training 
 Convicted as a child for the killings he committed on the streets of Restov, Aurelius was offered the choice the Church extends to any underage orphan: serve the sentence, or enter a chancellery schooling program. He chose the Church's path. His rare spiritual sight and exceptional physical discipline marked him for [[The Chancellery of Silent Illumination]], and he was schooled and trained at the local church of his home city, Restov, the Chancellery's regional hub, under the eye of its head instructor, [[Lucian]].
 - **The Squad:** Raised alongside six fellow orphans, he forged unbreakable bonds during grueling commando conditioning.
 - **Double Identity:** Rising to the rank of **Grade 8 (Cinder)**, Aurelius built his dual existence: publicly a soft-spoken clergyman and scribe, covertly an operative running high-risk commando and spirit-binding missions.
+- **The Intelligence Studies Track:** His bachelor study for the chancellery ran along the Intelligence Studies track, and it went unfinished: the transfer to [[The Chancellery of the Outer Horizon]] cut it off before he completed it.
 
 ### Call to the Frontier: Mission to the Stolen Lands
 Two years before the grand exploration charter, Aurelius began suffering severe spiritual sensory overloads, each with echoing, high-planar whispers calling him to the untamed Stolen Lands. Because these entities stayed invisible even to his [[Ocular of Kaelen]], [[Lucian]] concluded they were ancient spirits of massive power beckoning him to his destiny.
 
 Determined to answer this calling, Aurelius engineered an unprecedented administrative transition:
-- **The Bureaucratic Transfer:** He formally applied for a transfer from [[The Chancellery of Silent Illumination]] to [[The Chancellery of the Outer Horizon]] to serve as an official missionary on the Stolen Lands charter.
+- **The Bureaucratic Transfer:** He formally applied for a transfer from [[The Chancellery of Silent Illumination]] to [[The Chancellery of the Outer Horizon]] to serve as an official missionary on the Stolen Lands charter, taking up the Psychology track there.
 - **The Selection Trial:** Church leaders initially worried his covert commando background made him ill-suited for frontier diplomacy, but [[Lucian]] argued that his blend of scholarly diplomacy, spirit-binding, and deadly self-defense made him the ideal candidate for dangerous uncharted lands.
 - **Strategic Vision:** Aurelius sees the frontier as fertile ground for the Church: an opportunity to help shape the new nation's institutions so they further the sun goddess's political and spiritual ambitions, and a place to field-test his theories, the [[Trias Politicas]] foremost among them, and the [[Holy Ground Project]].
 - **Hidden Protection:** Beyond divine destiny, Church high command quietly approved his assignment for security: a mobile missionary in the wilderness is far harder for the ocular-hunting cabal to track than a high-ranking priest in a city cathedral.

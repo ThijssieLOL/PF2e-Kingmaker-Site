@@ -17,7 +17,7 @@ The Chancellery of Silent Illumination is the intelligence service of [[The Chur
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Intelligence, Espionage & Covert Operations
-- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in criminal justice]]
+- **Qualification:** [[The Chancellery Curriculum|Bachelor level in criminology, forensic science, or intelligence studies]]
 - **Operative Force:** Orphan cohorts, including the Twenty-First Vigil
 - **Status:** Active
 
@@ -32,7 +32,7 @@ The Chancellery of Silent Illumination is the intelligence service of [[The Chur
 ### Foreign Investigation & Field Operations
 - **Hostile Surveillance:** Operatives are placed in foreign lands (especially regions where the Church is banned or heavily suppressed) to gather intelligence on hostile regimes, cult activity, and necromantic threats.
 - **Field Investigation Abroad:** The investigative method the Chancellery turns on its own clergy is turned on targets beyond the border. Agents work under cover for months or years, trace a network to the people who run it, and build the case before the Chancellery acts.
-- **Counter-Espionage:** The Chancellery neutralizes foreign spies, protects the sacred archives, and keeps solar technology out of enemy hands.
+- **Counter-Espionage:** The Chancellery neutralizes foreign spies, protects the sacred archives, and keeps the Church's research and instruments out of enemy hands.
 
 ### Covert Operations
 - **Targeted Intervention:** When hostile actors or necromantic threats cannot be reached through diplomacy or open crusade, the Chancellery sends field agents to locate, infiltrate, and neutralize them.

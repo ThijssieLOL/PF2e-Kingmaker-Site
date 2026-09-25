@@ -46,7 +46,7 @@ Lyra is eccentric and enthusiastic, endlessly curious about the physical propert
 
 ## Abilities
 
-She has a mastery of alchemy, combining physical science with spiritual energy. She is skilled in designing alchemical batteries and light-refracting lenses, preparing medicinal salves, and maintaining solar-prism instruments.
+She has a mastery of alchemy, combining physical science with spiritual energy. She is skilled in designing alchemical batteries and light-refracting lenses, in preparing medicinal salves, and in maintaining the instruments of her research.
 
 ---
 

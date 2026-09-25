@@ -15,7 +15,7 @@ The Chancellery of Consecrated Solace tends the bodies and the final rites of th
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Public Health & Sacred Rites
-- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in medicine or nursing]]
+- **Qualification:** [[The Chancellery Curriculum|Bachelor level in clinical medicine, public health, or mortuary science]]
 - **Status:** Active
 
 ---

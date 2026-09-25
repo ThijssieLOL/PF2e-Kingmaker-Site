@@ -15,7 +15,7 @@ The Chancellery of Celestial Aegis is the shield of [[The Church of the Eternal 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Defense & Holy Military
-- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in military or security science]]
+- **Qualification:** [[The Chancellery Curriculum|Bachelor level in military science, naval science, or combat engineering]]
 - **Status:** Active
 
 ---

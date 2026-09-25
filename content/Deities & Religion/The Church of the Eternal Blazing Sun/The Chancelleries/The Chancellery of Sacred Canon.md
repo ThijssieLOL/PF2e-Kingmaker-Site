@@ -15,7 +15,7 @@ The Chancellery of Sacred Canon is the educational and doctrinal pillar of [[The
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Education, Dogma & Examinations
-- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in theology or philosophy]]
+- **Qualification:** [[The Chancellery Curriculum|Bachelor level in theology, philosophy, or education]]
 - **Status:** Active
 
 ---

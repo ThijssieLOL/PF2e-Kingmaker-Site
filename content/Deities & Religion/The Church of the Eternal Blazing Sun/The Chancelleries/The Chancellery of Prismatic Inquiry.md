@@ -15,7 +15,7 @@ The Chancellery of Prismatic Inquiry is the general scientific research arm of [
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** General Science & Research
-- **Qualification:** [[The Chancellery Curriculum|Bachelor-level examination in any applied science]]
+- **Qualification:** [[The Chancellery Curriculum|Bachelor level in physics, chemistry, or biological sciences]]
 - **Status:** Active
 
 ---
