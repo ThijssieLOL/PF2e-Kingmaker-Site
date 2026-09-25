@@ -91,7 +91,7 @@ A member finishes the bachelor equivalent before taking on a new chancellery. Be
 
 ## Next step
 
-The settled parts now live on [[The Chancellery Curriculum]], linked from [[The Grade System]], [[The Church Schooling Program]], and the nine chancellery pages. The three specialised tracks for all nine chancelleries are recorded there. The questions below keep their original numbers; the answered ones carry the answer in place, and the rest stay open.
+The settled parts now live on [[The Chancellery Curriculum]], linked from [[The Grade System]], [[The Church Schooling Program]], and the nine chancellery pages. The three specialised tracks and each chancellery's primary attributes now share one table there. The questions below keep their original numbers; the answered ones carry the answer in place, and the rest stay open. New questions continue from 19.
 
 ## Questions
 
@@ -101,13 +101,13 @@ The settled parts now live on [[The Chancellery Curriculum]], linked from [[The 
 3. Does [[The Chancellery of Sacred Canon]] set and grade all nine qualifications, or does each chancellery still examine its own, as the current text says? Open.
 
 **The ladder and its names**
-4. In-world, are these called bachelor, master, and doctorate, or does the Church give them its own names? Does Kaelerum have secular universities that award them, or does the Church award them itself? Answered: the qualifications take the wider world's names, bachelor, master, and doctorate. Whether Kaelerum has secular universities is left to the DM for now.
+4. In-world, are these called bachelor, master, and doctorate, or does the Church give them its own names? Does Kaelerum have secular universities that award them, or does the Church award them itself? Answered in part: the qualifications take the wider world's names, bachelor, master, and doctorate. The awarding body, and whether Kaelerum has secular universities at all, stay open (see 26 and 27).
 5. Confirm the ladder: Grade 7 entry = bachelor-equivalent, Grade 6 = master-equivalent but narrower, Grade 5 = doctorate in each chancellery subject. Is anything required below Grade 7, at the Grade 8 Cinder's single chancellery? Answered: the ladder is confirmed. The part below Grade 7 stays open, though Aurelius's unfinished bachelor study as a Cinder (see 16) suggests the work begins there.
 6. You said a member finishes the bachelor equivalent "before getting new chancelleries." Does the qualification attach to each chancellery served, so a Grade 7 member serving two holds two bachelor's, and a Grade 5 serving three holds three doctorates, and so on? Answered: yes. The qualification attaches to each chancellery served, so the degrees multiply with the count.
 7. What happens from Grade 4 up to Grade 2, where the chancellery count keeps rising? Does the doctorate repeat for each new chancellery, or do the top grades shift from study to leadership? Answered: the requirement carries upward with the count. Grades 4 to 2 are held by so few clergy that the vault records less about them.
 
 **Subjects and breadth**
-8. The list gives a bachelor subject per chancellery. What are the master's and doctorate subjects: the same field at greater depth, or narrower specialisations? If narrower, what are they? Answered: the master's takes a narrower specialisation. The real-world subjects named so far are equivalents, to be replaced by the in-world tracks a member takes up on joining the chancellery.
+8. The list gives a bachelor subject per chancellery. What are the master's and doctorate subjects: the same field at greater depth, or narrower specialisations? If narrower, what are they? Answered: the master's takes a narrower specialisation. The subjects named so far were real-world equivalents, now replaced by the in-world tracks set in 17; their master's titles are still to be named (see 19).
 9. How loose is "or an adjacent subject," and who rules on whether a subject counts as adjacent? Can you give one or two examples of an accepted adjacency? Answered in part: each chancellery has three specialised tracks, each with its own master's, and a member may switch track for the master's through a transition program. The track names are now set (see 17). What counts as adjacent, and who rules on it, stays open.
 10. Please confirm the nine mappings as written, especially Outer Horizon (diplomacy, but listed as Psychology/Communication), Purifying Flame (Law/Sociology), and Meridian Cadastre (Archival studies). The vault spells the chancellery "Outer Horizon," singular; keep that? Resolved by the track set in 17: the nine fields are superseded, and each chancellery's three tracks now stand in their place. The chancellery keeps the singular spelling.
 
