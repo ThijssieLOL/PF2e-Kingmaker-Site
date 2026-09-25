@@ -38,39 +38,21 @@ The Church's qualifications take the names of the wider world's degrees: bachelo
 
 ---
 
-## The Specialised Tracks
+## Tracks & Attributes
 
-Each chancellery admits a field that fits its work, or one adjacent to it, and divides its bachelor study into three specialised tracks. A member takes up one track on joining the chancellery, and each track carries its own master's; a member who wants a different track for the master's passes through a transition program. These are the studies the nine chancelleries set.
+Each chancellery admits a field that fits its work, or one adjacent to it, and divides its bachelor study into three specialised tracks. A member takes up one track on joining the chancellery, and each track carries its own master's; a member who wants a different track for the master's passes through a transition program. The work also rewards certain aptitudes, and a chancellery's members tend to be strong in the matching attributes. The pattern is the norm rather than a rule: a capable member may hold a post on other strengths.
 
-| Chancellery | Specialised tracks |
-| :---------- | :----------------- |
-| [[The Chancellery of Celestial Aegis]] | Military Science / Naval Science / Combat Engineering |
-| [[The Chancellery of Consecrated Solace]] | Clinical Medicine / Public Health / Mortuary Science |
-| [[The Chancellery of Prismatic Inquiry]] | Physics / Chemistry / Biological Sciences |
-| [[The Chancellery of Sacred Canon]] | Theology / Philosophy / Education |
-| [[The Chancellery of Silent Illumination]] | Criminology / Forensic Science / Intelligence Studies |
-| [[The Chancellery of the Meridian Cadastre]] | Geography / Statistics / Information Science |
-| [[The Chancellery of the Outer Horizon]] | International Relations / Communication / Psychology |
-| [[The Chancellery of the Purifying Flame]] | Law / Political Science / Sociology |
-| [[The Chancellery of the Shared Hearth]] | Accounting / Economics / Actuarial Science |
-
----
-
-## Primary Attributes
-
-Each chancellery's work rewards certain aptitudes, and its members tend to be strong in the matching attributes. The pattern below is the norm rather than a rule: a capable member may hold a post on other strengths.
-
-| Chancellery                                  | Primary attribute(s)                  |
-| :------------------------------------------- | :------------------------------------ |
-| [[The Chancellery of Celestial Aegis]]       | Strength / Dexterity, or Intelligence |
-| [[The Chancellery of Consecrated Solace]]    | Wisdom                                |
-| [[The Chancellery of Prismatic Inquiry]]     | Intelligence                          |
-| [[The Chancellery of Sacred Canon]]          | Intelligence                          |
-| [[The Chancellery of Silent Illumination]]   | Dexterity, and Wisdom / Intelligence  |
-| [[The Chancellery of the Meridian Cadastre]] | Intelligence                          |
-| [[The Chancellery of the Outer Horizon]]     | Wisdom and Charisma                   |
-| [[The Chancellery of the Purifying Flame]]   | Wisdom and Charisma                   |
-| [[The Chancellery of the Shared Hearth]]     | Intelligence / Wisdom                 |
+| Chancellery                                  | Specialised tracks                                          | Primary attribute(s)                  |
+| :------------------------------------------- | :---------------------------------------------------------- | :------------------------------------ |
+| [[The Chancellery of Celestial Aegis]]       | Military Science / Naval Science / Combat Engineering       | Strength / Dexterity, or Intelligence |
+| [[The Chancellery of Consecrated Solace]]    | Clinical Medicine / Public Health / Mortuary Science        | Wisdom                                |
+| [[The Chancellery of Prismatic Inquiry]]     | Physics / Chemistry / Biological Sciences                   | Intelligence                          |
+| [[The Chancellery of Sacred Canon]]          | Theology / Philosophy / Education                           | Intelligence                          |
+| [[The Chancellery of Silent Illumination]]   | Criminology / Forensic Science / Intelligence Studies       | Dexterity, and Wisdom / Intelligence  |
+| [[The Chancellery of the Meridian Cadastre]] | Geography / Statistics / Information Science                | Intelligence                          |
+| [[The Chancellery of the Outer Horizon]]     | International Relations / Communication / Psychology        | Wisdom and Charisma                   |
+| [[The Chancellery of the Purifying Flame]]   | Law / Political Science / Sociology                         | Wisdom and Charisma                   |
+| [[The Chancellery of the Shared Hearth]]     | Accounting / Economics / Actuarial Science                  | Intelligence / Wisdom                 |
 
 ---
 
