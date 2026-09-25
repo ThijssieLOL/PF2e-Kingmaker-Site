@@ -122,3 +122,20 @@ The settled parts now live on [[The Chancellery Curriculum]], linked from [[The 
 16. Should this change anything already written about current members? Aurelius is Grade 8 and served Silent Illumination, so under this rule he would hold a Criminal Justice bachelor's; is that right, and should it appear on [[Aurelius]]? Answered: Aurelius studied the Intelligence Studies track in Silent Illumination but never finished the bachelor equivalent, since he transferred to [[The Chancellery of the Outer Horizon]], where he now studies the Psychology track. Both are recorded on [[Aurelius]].
 17. The names of the three specialised tracks per chancellery. Settled, and recorded on [[The Chancellery Curriculum]]: Celestial Aegis (Military Science / Naval Science / Combat Engineering); Consecrated Solace (Clinical Medicine / Public Health / Mortuary Science); Prismatic Inquiry (Physics / Chemistry / Biological Sciences); Sacred Canon (Theology / Philosophy / Education); Silent Illumination (Criminology / Forensic Science / Intelligence Studies); Meridian Cadastre (Geography / Statistics / Information Science); Outer Horizon (International Relations / Communication / Psychology); Purifying Flame (Law / Political Science / Sociology); Shared Hearth (Accounting / Economics / Actuarial Science).
 18. Prismatic Inquiry's mandate. Corrected: the chancellery is the Church's general science research arm, not a solar-energy body. The chancellery page and the Church's Chancellery table were rewritten to match, and the remaining solar-prism references were removed or marked open, since solar-energy technology is not yet a thing in the world.
+
+**The tracks in detail**
+19. Each track carries its own master's. What are the master's titles, and how do they relate to the bachelor: the work at greater depth under the same name, or a distinct title (a Master of Strategic Studies beside the Military Science bachelor, for example)?
+20. At Grade 5 the doctorate is "in each chancellery's field." Does the doctorate belong to the member's track, or to the chancellery's whole field whatever track they studied?
+21. What is the transition program for switching track at the master's? How long does it run, and does it carry the earlier study across or begin again?
+
+**Who holds what**
+22. Which track do the other members of the Twenty-First Vigil hold (Vespera, Lyra, Gideon, Julian)? Does [[Lucian]], a Grade 7 in Silent Illumination, hold a bachelor in one of its tracks?
+23. Does the bachelor study begin at Grade 8, and must it be finished before Grade 7, or only undertaken? Aurelius's unfinished Intelligence Studies work as a Cinder (see 16) points to the study beginning below Grade 7.
+
+**The solar correction and Prismatic Inquiry**
+24. With solar energy gone, what powers the [[Holy Ground Project]] barrier, and is the battery grid still the intended mechanism?
+25. What is the in-world term for the Church's light-and-prism work? The old "solar-prism" name is retired, and the lenses, crystal arrays, and radiant batteries need a name under Prismatic Inquiry's general-science mandate.
+
+**Degrees & standing**
+26. The degree names are a working choice. Does the Church take its own in-world terms later, or keep the secular bachelor, master, and doctorate?
+27. Are the tracks church programs only, or does something like them exist at secular academies too? This is the awarding-body half of 4.
