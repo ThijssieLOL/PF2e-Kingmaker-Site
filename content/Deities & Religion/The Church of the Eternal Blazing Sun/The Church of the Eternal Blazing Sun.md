@@ -75,7 +75,7 @@ The Church runs its affairs with the scale and discipline of a sovereign empire.
 | :---------- | :----- | :------ |
 | [[The Chancellery of Silent Illumination]] | Intelligence & Covert Operations | State security, espionage at home and abroad, counter-intelligence, and internal oversight. |
 | [[The Chancellery of the Shared Hearth]] | Finance & Public Welfare | Treasury, tithing, and public relief. |
-| [[The Chancellery of Prismatic Inquiry]] | Science & Arcane Optics | Research into solar-prism technology, alchemy, medicine, and divine energy. |
+| [[The Chancellery of Prismatic Inquiry]] | General Science & Research | Research across the natural sciences, alchemy, medicine, and divine energy. |
 | [[The Chancellery of Sacred Canon]] | Education, Dogma & Examinations | Schools, archives, doctrinal purity, and clerical advancement. |
 | [[The Chancellery of the Purifying Flame]] | Judiciary & Anti-Corruption | Ecclesiastical courts, internal purges, and the Moral Veto. |
 | [[The Chancellery of the Outer Horizon]] | Foreign Affairs & External Missions | Diplomacy and covert missions abroad. |
