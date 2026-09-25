@@ -22,11 +22,10 @@ The Chancellery of the Shared Hearth is the financial and charitable arm of [[Th
 ## Mandate & Responsibilities
 
 - **Treasury & Tithing:** Oversees all church coffers and enforces the strict doctrine against hoarding wealth.
-- **Central Income:** Manages all church income, including the income other chancelleries earn, and sets the funding each region and kingdom receives.
+- **Central Income:** Manages all church income, including the income other chancelleries earn, and sets the funding each chancellery, region, and kingdom receives.
 - **Public Relief:** Funds and manages the Church's social safety networks: state-run soup kitchens, orphanages, public housing, and community aid programs.
 - **Crisis Allocation:** When famine or disaster strikes, redirects money from lesser works to where the need is greatest, such as the food kitchens of the stricken region.
 - **Fraud & Audit:** Watches for skimming and embezzlement, reports the fraud, and hands the case to [[The Chancellery of Silent Illumination]], which runs the investigation.
-- **Missions:** Funds missionaries bound for lands where the faith is banned, paying their stipend up front for the length of their stay.
 
 ---
 
