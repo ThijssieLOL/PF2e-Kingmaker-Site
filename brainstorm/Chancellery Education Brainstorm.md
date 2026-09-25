@@ -63,6 +63,32 @@ A member finishes the bachelor equivalent before taking on a new chancellery. Be
 | [[The Chancellery of the Purifying Flame]] | Law / Sociology |
 | [[The Chancellery of the Shared Hearth]] | Accounting / Economics / Econometrics |
 
+## Primary attributes (verbatim addition)
+
+> the primary attributes of the chancelleries are (i.e. the recommended pf2e attribute to be good at/what you can expect from someone in this chancellery, though not always the case)
+>
+> - Celestial Aegis: Strength/Dexterity or intelligence
+> - Consecrated Solace: Wisdom
+> - Prismatic Inquiry: Intelligence
+> - Sacred Canon: Intelligence
+> - Silent illumination: Dexterity and Wisdom/intelligence
+> - Meridian Cadastre: Intelligence
+> - Outer Horizon: Wisdom and Charisma
+> - Purifying Flame: Wisdom and Charisma
+> - Shared Hearth: Intelligence/Wisdom
+
+| Chancellery | Primary attribute(s) |
+| :---------- | :------------------- |
+| [[The Chancellery of Celestial Aegis]] | Strength / Dexterity, or Intelligence |
+| [[The Chancellery of Consecrated Solace]] | Wisdom |
+| [[The Chancellery of Prismatic Inquiry]] | Intelligence |
+| [[The Chancellery of Sacred Canon]] | Intelligence |
+| [[The Chancellery of Silent Illumination]] | Dexterity, and Wisdom / Intelligence |
+| [[The Chancellery of the Meridian Cadastre]] | Intelligence |
+| [[The Chancellery of the Outer Horizon]] | Wisdom and Charisma |
+| [[The Chancellery of the Purifying Flame]] | Wisdom and Charisma |
+| [[The Chancellery of the Shared Hearth]] | Intelligence / Wisdom |
+
 ## Next step
 
 Answer the numbered questions below. Once answered, the settled parts can be written into [[The Grade System]] and the nine chancellery pages.
