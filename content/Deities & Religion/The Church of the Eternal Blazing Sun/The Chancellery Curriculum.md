@@ -55,17 +55,17 @@ Each chancellery admits a subject that fits its work, or one adjacent to it. The
 
 Each chancellery's work rewards certain aptitudes, and its members tend to be strong in the matching attributes. The pattern below is the norm rather than a rule: a capable member may hold a post on other strengths.
 
-| Chancellery | Primary attribute(s) |
-| :---------- | :------------------- |
-| [[The Chancellery of Celestial Aegis]] | Strength / Dexterity, or Intelligence |
-| [[The Chancellery of Consecrated Solace]] | Wisdom |
-| [[The Chancellery of Prismatic Inquiry]] | Intelligence |
-| [[The Chancellery of Sacred Canon]] | Intelligence |
-| [[The Chancellery of Silent Illumination]] | Dexterity, and Wisdom / Intelligence |
-| [[The Chancellery of the Meridian Cadastre]] | Intelligence |
-| [[The Chancellery of the Outer Horizon]] | Wisdom and Charisma |
-| [[The Chancellery of the Purifying Flame]] | Wisdom and Charisma |
-| [[The Chancellery of the Shared Hearth]] | Intelligence / Wisdom |
+| Chancellery                                  | Primary attribute(s)                  |
+| :------------------------------------------- | :------------------------------------ |
+| [[The Chancellery of Celestial Aegis]]       | Strength / Dexterity, or Intelligence |
+| [[The Chancellery of Consecrated Solace]]    | Wisdom                                |
+| [[The Chancellery of Prismatic Inquiry]]     | Intelligence                          |
+| [[The Chancellery of Sacred Canon]]          | Intelligence                          |
+| [[The Chancellery of Silent Illumination]]   | Dexterity, and Wisdom / Intelligence  |
+| [[The Chancellery of the Meridian Cadastre]] | Intelligence                          |
+| [[The Chancellery of the Outer Horizon]]     | Wisdom and Charisma                   |
+| [[The Chancellery of the Purifying Flame]]   | Wisdom and Charisma                   |
+| [[The Chancellery of the Shared Hearth]]     | Intelligence / Wisdom                 |
 
 ---
 
