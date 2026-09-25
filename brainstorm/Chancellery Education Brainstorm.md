@@ -91,32 +91,33 @@ A member finishes the bachelor equivalent before taking on a new chancellery. Be
 
 ## Next step
 
-The settled parts now live on [[The Chancellery Curriculum]], linked from [[The Grade System]], [[The Church Schooling Program]], and the nine chancellery pages. The numbered questions below are still open; answer them by number and the page can be filled out.
+The settled parts now live on [[The Chancellery Curriculum]], linked from [[The Grade System]], [[The Church Schooling Program]], and the nine chancellery pages. The questions below keep their original numbers; the answered ones carry the answer in place, and the rest stay open.
 
-## Open questions
+## Questions
 
 **Where it lives**
-1. Which note owns the academic standard: a new section on [[The Grade System]], a note of its own, or both (the ladder on The Grade System, each chancellery's required subject on its own page)?
-2. Is this the existing "Chancellery Examination" (The Grade System, line 45) described in more depth, or a separate qualification exam that sits in front of it?
-3. Does [[The Chancellery of Sacred Canon]] set and grade all nine qualifications, or does each chancellery still examine its own, as the current text says?
+1. Which note owns the academic standard: a new section on [[The Grade System]], a note of its own, or both (the ladder on The Grade System, each chancellery's required subject on its own page)? Open.
+2. Is this the existing "Chancellery Examination" (The Grade System, line 45) described in more depth, or a separate qualification exam that sits in front of it? Open.
+3. Does [[The Chancellery of Sacred Canon]] set and grade all nine qualifications, or does each chancellery still examine its own, as the current text says? Open.
 
 **The ladder and its names**
-4. In-world, are these called bachelor, master, and doctorate, or does the Church give them its own names? Does Kaelerum have secular universities that award them, or does the Church award them itself?
-5. Confirm the ladder: Grade 7 entry = bachelor-equivalent, Grade 6 = master-equivalent but narrower, Grade 5 = doctorate in each chancellery subject. Is anything required below Grade 7, at the Grade 8 Cinder's single chancellery?
-6. You said a member finishes the bachelor equivalent "before getting new chancelleries." Does the qualification attach to each chancellery served, so a Grade 7 member serving two holds two bachelor's, and a Grade 5 serving three holds three doctorates, and so on?
-7. What happens from Grade 4 up to Grade 2, where the chancellery count keeps rising? Does the doctorate repeat for each new chancellery, or do the top grades shift from study to leadership?
+4. In-world, are these called bachelor, master, and doctorate, or does the Church give them its own names? Does Kaelerum have secular universities that award them, or does the Church award them itself? Answered: the qualifications take the wider world's names, bachelor, master, and doctorate. Whether Kaelerum has secular universities is left to the DM for now.
+5. Confirm the ladder: Grade 7 entry = bachelor-equivalent, Grade 6 = master-equivalent but narrower, Grade 5 = doctorate in each chancellery subject. Is anything required below Grade 7, at the Grade 8 Cinder's single chancellery? Answered: the ladder is confirmed. The part below Grade 7 stays open.
+6. You said a member finishes the bachelor equivalent "before getting new chancelleries." Does the qualification attach to each chancellery served, so a Grade 7 member serving two holds two bachelor's, and a Grade 5 serving three holds three doctorates, and so on? Answered: yes. The qualification attaches to each chancellery served, so the degrees multiply with the count.
+7. What happens from Grade 4 up to Grade 2, where the chancellery count keeps rising? Does the doctorate repeat for each new chancellery, or do the top grades shift from study to leadership? Answered: the requirement carries upward with the count. Grades 4 to 2 are held by so few clergy that the vault records less about them.
 
 **Subjects and breadth**
-8. The list gives a bachelor subject per chancellery. What are the master's and doctorate subjects: the same field at greater depth, or narrower specialisations? If narrower, what are they?
-9. How loose is "or an adjacent subject," and who rules on whether a subject counts as adjacent? Can you give one or two examples of an accepted adjacency?
-10. Please confirm the nine mappings as written, especially Outer Horizon (diplomacy, but listed as Psychology/Communication), Purifying Flame (Law/Sociology), and Meridian Cadastre (Archival studies). The vault spells the chancellery "Outer Horizon," singular; keep that?
+8. The list gives a bachelor subject per chancellery. What are the master's and doctorate subjects: the same field at greater depth, or narrower specialisations? If narrower, what are they? Answered: the master's takes a narrower specialisation. The real-world subjects named so far are equivalents, to be replaced by the in-world tracks a member takes up on joining the chancellery.
+9. How loose is "or an adjacent subject," and who rules on whether a subject counts as adjacent? Can you give one or two examples of an accepted adjacency? Answered in part: each chancellery has three specialised tracks, each with its own master's, and a member may switch track for the master's through a transition program. The track names are still to be set. What counts as adjacent, and who rules on it, stays open.
+10. Please confirm the nine mappings as written, especially Outer Horizon (diplomacy, but listed as Psychology/Communication), Purifying Flame (Law/Sociology), and Meridian Cadastre (Archival studies). The vault spells the chancellery "Outer Horizon," singular; keep that? Open.
 
 **How it is possible**
-11. You framed the difficulty as scaling exponentially but "not impossible given supernatural intelligence." What is that factor concretely: a divine gift, church elixirs or enchanted study aids, the goddess's blessing on the gifted, something else?
-12. How long does each qualification take, and at what age does a member normally reach Grades 7, 6, and 5? Does the schooling program feed straight into the bachelor's, or is there a break for field service?
-13. Can a member be exempted from a qualification the way the combat exam allows a scholarly exemption, or is the academic bar absolute?
+11. You framed the difficulty as scaling exponentially but "not impossible given supernatural intelligence." What is that factor concretely: a divine gift, church elixirs or enchanted study aids, the goddess's blessing on the gifted, something else? Answered: the game's mechanics. High ability and deep training, with no further in-world means.
+12. How long does each qualification take, and at what age does a member normally reach Grades 7, 6, and 5? Does the schooling program feed straight into the bachelor's, or is there a break for field service? Answered in part: both the difficulty and the time each step takes rise sharply. The years and the ages stay open.
+13. Can a member be exempted from a qualification the way the combat exam allows a scholarly exemption, or is the academic bar absolute? Deferred: the exemption protocol is on hold for a later pass, so the question stays open.
 
 **Consequences**
-14. What happens to a member who cannot reach the next qualification: hold at their grade, transfer to another chancellery, or leave the ladder?
-15. Do these qualifications mean anything outside the Church, are church-won degrees recognised by secular academies and employers, or kept internal?
-16. Should this change anything already written about current members? Aurelius is Grade 8 and served Silent Illumination, so under this rule he would hold a Criminal Justice bachelor's; is that right, and should it appear on [[Aurelius]]?
+14. What happens to a member who cannot reach the next qualification: hold at their grade, transfer to another chancellery, or leave the ladder? Answered: they do not sit the ascension trials and stay at their current grade, and may try again the next year. See [[The Grade System#Ascension Trials]].
+15. Do these qualifications mean anything outside the Church, are church-won degrees recognised by secular academies and employers, or kept internal? Answered: they are built for church work, so they serve best inside the Church. The Church is prestigious and promotes the programs as church-funded.
+16. Should this change anything already written about current members? Aurelius is Grade 8 and served Silent Illumination, so under this rule he would hold a Criminal Justice bachelor's; is that right, and should it appear on [[Aurelius]]? Open.
+17. The names of the three specialised tracks per chancellery. Proposed, awaiting a decision.
