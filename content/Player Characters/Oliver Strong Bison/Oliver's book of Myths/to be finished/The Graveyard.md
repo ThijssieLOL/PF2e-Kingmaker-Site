@@ -8,13 +8,11 @@ tags:
 
 
 ### Quick Facts
-- **Title of the Myth:** The Man Who Waited for Tomorrow
+- **Title of the Myth:** The Graveyard
 - **associated with the myth:** [[Groetus]]
 
 
 ## The story
-### The Graveyard
-
 A child once asked an old priest why people built tombstones.
 
 *"To remember the dead,"* the priest said.
@@ -38,7 +36,7 @@ The priest had no answer.
 
 ## Moral of the story
 
-*Tomorrow is promised to no one, live in the here and now.*
+*Nothing remembered is remembered forever.*
 
 ---
 
