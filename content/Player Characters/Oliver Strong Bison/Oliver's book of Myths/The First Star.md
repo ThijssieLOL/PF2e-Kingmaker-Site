@@ -12,7 +12,7 @@ tags:
 - **associated with the myth:** [[Ymir]]
 
 
-## The story
+## The Story
 Before the first night, the world of **Kaelerum** was covered in endless darkness. There were no stars to guide travelers, and no dreams to give mortals hope of what might lie beyond their small corner of the world.  
 It was [[Ymir]] who first looked into the darkness and wondered what might be beyond it. He took a single spark from his own heart and threw it into the heavens. The spark became the first star.
 
