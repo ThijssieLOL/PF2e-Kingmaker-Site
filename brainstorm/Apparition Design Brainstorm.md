@@ -64,7 +64,7 @@ A whale-sized thing, and there is no head. The front of it tapers to a blunt clo
 - **Origin:** TBD.
 
 ![[concept art spirit 2.png]]
-
+Tihi penis
 ### The Hedge, Stalker in Darkened Boughs, Level 3 (Wall of Thorns)
 
 A blackthorn hedge grown into the shape of an animal, and the animal keeps changing. It walks the game trails on the legs of whatever it currently is, and the shape slides from a boar to a wolf to a man to something with no name, the way a cloud changes. Thorns stand out of every surface of it, long and straight and grey at the point. The change is not clean: an old shape hangs in it for a breath after it is gone, so a deer's head will come out of a wolf's shoulder before the hedge takes it back. One pair of eyes is real, brown and wet, and they move from shape to shape as the shape changes.
