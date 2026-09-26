@@ -45,7 +45,7 @@ This is why many giants believe that strength is not a privilege to be enjoyed, 
 
 ## Moral of the story
 
-*Life is not protected by one person alone. Compassion can be found in unexpected places, and every living creature has a role in protecting the world and those within it.*
+*Those strong enough to carry the burden should use their strength to help those who cannot.*
 
 ---
 
