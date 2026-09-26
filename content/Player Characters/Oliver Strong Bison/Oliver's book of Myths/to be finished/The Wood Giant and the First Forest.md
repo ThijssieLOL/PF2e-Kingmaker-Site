@@ -8,7 +8,7 @@ tags:
 
 
 ### Quick Facts
-- **Title of the Myth:** The Giants Who Held Up the Sky
+- **Title of the Myth:** The Wood Giant and the First Forest
 - **associated with the myth:** 
 
 
