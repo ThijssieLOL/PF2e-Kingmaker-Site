@@ -74,38 +74,19 @@ The first sitting proposed five areas. The names were rejected, and Devotion and
 | Devotion | divine connection, channeling, prayer, the practice of worship |
 | Conduct | moral standing, humility, penance, service record |
 
-### The revised framework (settled in outline)
+### The revised framework (settled)
 
-Three testable areas, the ones the correction names outright: combat, the chancellery, and doctrine. A fourth area for rites was considered and dropped; the Church's rites stay part of the training but do not get an area of their own.
+Three testable areas, named in the next section. A fourth area for rites was considered and dropped; the Church's rites stay part of the training but do not get an area of their own.
 
 | Area | What it covers | Pieces folded in |
 | :--- | :------------- | :--------------- |
-| Combat (name open) | combat, martial discipline, endurance | the Combat Examination and its exemption |
-| Chancellery (name open) | the candidate's chancellery, its discipline in knowledge and in practice | the Chancellery Examination and the Curriculum qualification |
-| Doctrine (name open) | the faith's body of knowledge: theology, scripture, history, canon law, liturgy | the Theological Examination |
+| Combat | combat, martial discipline, endurance | the Combat Examination and its exemption |
+| Specialization | the candidate's chancellery, its discipline in knowledge and in practice | the Chancellery Examination and the Curriculum qualification |
+| Doctrine | the faith's body of knowledge: theology, scripture, history, canon law, liturgy | the Theological Examination |
 
-### Naming schemes (proposal)
+### Area names (settled)
 
-The names are the piece still open. The register wanted is the plain one of "fitness" and "theology": a general domain an examiner can name and test. Options per area:
-
-| Combat area | Chancellery area | Doctrine area |
-| :---------- | :--------------- | :------------ |
-| Combat | Expertise | Theology |
-| Athletics | Specialization | Divinity |
-| Fitness | Profession | Doctrine |
-| Martial Training | Trade | Catechism |
-| Drill | Discipline | Scripture |
-
-Ready-made sets, each coherent in register:
-
-| Set | Combat | Chancellery | Doctrine |
-| :-- | :----- | :---------- | :------- |
-| Plainest | Athletics | Expertise | Theology |
-| Broad common nouns | Fitness | Profession | Divinity |
-| Names the test | Drill | Trade | Catechism |
-| Mixed | Combat | Expertise | Doctrine |
-
-Notes on the options: "Combat" is the accurate one, since the Church tests fighting rather than general fitness. "Discipline" can read as conduct, which the correction removed, so it is the weaker pick for the chancellery area. "Divinity" already names Grade 0 in canon, which gives it a second life. "Catechism" is narrower and names doctrinal instruction and its testing directly.
+The three areas are **Combat**, **Specialization**, and **Doctrine**. They were picked for reading as plain, testable domains, the register of "fitness" and "theology", over the alternatives weighed: Athletics and Fitness for the martial area, Expertise, Profession, and Trade for the candidate's field, and Divinity, Catechism, and Scripture for the faith. "Discipline" was set aside for reading as conduct, which the correction removed, and "Craft" for sounding like a trade rather than a field of study.
 
 ## Questions
 
@@ -181,7 +162,7 @@ Carried over from the earlier sittings. Answered items keep their old numbers wi
 **The revised areas**
 
 49. ✅ The trial runs on three areas: combat, the chancellery, and doctrine. A Rites area was considered and dropped.
-50. What should the areas be called? The naming options above are the offer; a new name is welcome.
+50. ✅ The areas are named Combat, Specialization, and Doctrine.
 51. The named examinations (Theological, Combat, Chancellery) are parts of the areas. Do their names survive inside the areas, or do the area names replace them?
 52. At the Grade 9 to Grade 8 step there is no chancellery yet. Does the chancellery area test the general education there, per the Curriculum, or does that step run on doctrine and combat alone?
 53. Each chancellery sets its own examination in canon. Does that stay, and how is fairness kept across nine very different fields?
