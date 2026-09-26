@@ -22,14 +22,14 @@ The church does not seek to rule nations directly. It acts instead as a moral gu
 - **Deity:** [[Erisol]]
 - **Alignment:** Lawful Good
 - **Leader:** Grade 2 (Solstice), chosen directly by the sun goddess
-- **Structure:** Grade-based hierarchy (Grade 9–0) and nine High Chancelleries
+- **Structure:** Grade-based hierarchy (Grade 9 to Grade 0) and nine High Chancelleries
 - **Status:** Active
 
 ---
 
 ## Theology & Cosmology
 
-### The Sun Goddess
+### [[Erisol|The Sun Goddess]]
 - **The Supreme Light:** The church worships the sun goddess, known as the Eternal Blazing Sun (or simply the Sun). 
 - **Avatars of the Divine:** Church doctrine teaches that the literal sun and every other star in the cosmos are physical avatars of the goddess, our sun a uniquely sacred and primary avatar.
 - **The Supreme Path:** The church acknowledges other true gods, but teaches that the Eternal Blazing Sun is the supreme, most morally good deity, and therefore the only one truly worthy of mortal worship.
@@ -51,19 +51,22 @@ The goddess raises ascended mortals to sainthood, and each is represented by a s
 
 ---
 
-## [[The Grade System]]
+## Hierarchy & Formation
 
-The hierarchy of the church runs on a strict, fire-themed grade system, from Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself. As a member rises, their title names a larger and more powerful flame, and higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics and magical items. Advancement is earned through [[The Ascension Trials|the ascension trials]], and every grade from Cinder upward requires active service across a growing number of Chancelleries.
+Rank in the Church is earned rather than granted, and the ladder runs from the schoolroom to the highest grade.
+
+### [[The Grade System]]
+The hierarchy runs on a strict, fire-themed grade ladder, from Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself. As a member rises, their title names a larger flame, and higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics. Service across a growing number of Chancelleries is required from Cinder upward.
+
+### [[The Ascension Trials]]
+Advancement runs through the yearly ascension trial, where a candidate clears three areas in full: Combat, Specialization, and Doctrine. Those who hold the qualification their chancellery requires may sit, and those who pass face the Review Board, a council of clergy one grade higher.
+
+### [[The Church Schooling System]]
+The Church owns the road from the schoolroom to the top of its orders. Its schools carry a child to the high school diploma, and a chancellery's specialised track carries them onward into the degrees that the grade ladder ties to rank.
 
 ---
 
-## [[The Ascension Trials]]
-
-The road up the ladder runs through the yearly ascension trial, where a candidate clears three areas in full: Combat, Specialization, and Doctrine. Those who hold [[The Chancellery Curriculum|the qualification their chancellery requires]] may sit, and those who pass face the Review Board, a council of clergy one grade higher.
-
----
-
-## Internal Organization & Orders
+## Structure & Governance
 
 ### Central Headquarters
 - **Location:** [To be determined / Coordinated with DM]
@@ -76,8 +79,7 @@ The road up the ladder runs through the yearly ascension trial, where a candidat
 ### [[Church Tiers]]
 The Church's houses are tiered by the population they serve, from the humble Tier 1 parish run by a handful of Cinders to the unique Tier 5 headquarters. From Tier 2 upward every church keeps the nine-fold staff, higher tiers fall to ever-senior clergy, and each upgrade is approved from above.
 
-## The Chancelleries
-
+### The Chancelleries
 The Church runs its affairs with the scale and discipline of a sovereign empire. Rather than rely on informal orders, it divides executive authority among nine supreme ministries, the High Chancelleries. Each Chancellery is led by high-ranking clergy and governs a distinct pillar of statecraft, divine law, and civil service. Every chancellery sets an academic standard for the clergy who serve it, gathered in [[The Chancellery Curriculum]].
 
 | Chancellery | Pillar | Mandate |
@@ -92,10 +94,7 @@ The Church runs its affairs with the scale and discipline of a sovereign empire.
 | [[The Chancellery of Consecrated Solace]] | Public Health & Sacred Rites | Hospitals, disaster relief, and the cremation rites. |
 | [[The Chancellery of the Meridian Cadastre]] | Civil Administration & Archives | Registries, archives, and the Ember Post. |
 
----
-
-## [[The Ember Post]]
-
+### [[The Ember Post]]
 The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road. A letter written in the right ink and committed to flame crosses any distance as a swirl of embers, then condenses again out of the fire of the one it was meant for.
 
 ---
@@ -109,11 +108,10 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 ### [[The Shared Hearth Economy|Economic Stance]]
 - **Anti-Poverty & Charity:** The church views poverty as a systemic failure of society, not of the individual, and holds the state morally responsible for the welfare of its citizens. It runs one of the largest charitable operations in the world.
 - **Wealth & Hoarding:** High income is no sin; hoarding is. The strong and wealthy carry a divine obligation to support the weak.
-- **Schools:** The church educates its children through [[The Church Schooling Program|the Church's schools]], the lower half of [[The Church Schooling System]], open to any family and to orphaned children offered a chancellery in place of a sentence.
 
 ---
 
-## Rituals, Worship, & Daily Life
+## Worship & Daily Life
 
 ### Liturgical Services
 - **Weekly Mass:** The church holds mass daily. Sunday is a dedicated rest day with two primary services, one at dawn and one at dusk.
@@ -127,6 +125,9 @@ The Church binds its far-flung parishes and its agents in the field with a divin
   - *"And the darkness shall never claim you."* (Reassuring response)
   - *"Shine bright, brother/sister."* (Friendly, casual response)
   - *"From dawn to dusk, she watches."* (Solemn response)
+
+### [[The Liturgical Cadence]]
+The Church's clergy speak in the Liturgical Cadence, a formal register that admits no modern contraction and keeps its plain, active verbs.
 
 ### [[The Vestments of the Clergy|Clergy Attire]]
 Clergy dress by grade for ceremony and by chancellery for duty, with the emblem of their chancellery worn on the ceremonial vestment. Ceremonial vestments are an ankle-length black cassock with a high collar and gold engraving; a Grade 7 Blaze adds a long white stole worked in gold floral and solar patterns. In the field, a dark tunic and trousers under a white traveller's poncho-capelet. The vestments carry no armor, so a cleric who expects combat wears armor as a separate kit.
