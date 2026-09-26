@@ -68,3 +68,4 @@ Spirits and their ascension are greatly important to this religion.
 
 ## Relations
 - **[[Zephan]]:** The cult is extremely interested in Zephan, because a private check for the noble family Ásteri revealed that Zephan had a calling in many different concepts. Zephan, of course, didn't like people telling him what he could and couldn't do, so promptly told them to depart and immediately forgot what his callings were.
+- Orion Ásteri: Another member of house Ásteri who did end up helping 
