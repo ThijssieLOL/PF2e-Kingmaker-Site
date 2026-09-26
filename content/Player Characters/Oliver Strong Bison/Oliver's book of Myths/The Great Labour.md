@@ -23,6 +23,8 @@ From this, the **Kellid** believe that all living things share the same origin, 
 
 ## Moral of the story
 
+*All life shares the same origin. To create, nurture, and protect life is to honor Fandarra and the earth that gave birth to us all.*
 
 ---
+
 
