@@ -52,22 +52,22 @@ A divine verse has no such moment. It is Aureolin White light from the first ins
 
 Each of the fourteen families lends one cantrip, one verse of each rank, and a vessel spell. Open a family for its verses.
 
-| Family | Domain |
-| :----- | :----- |
-| [[The Hymnal - Crafter in the Vault|Crafter in the Vault]] | Forges and workshops |
-| [[The Hymnal - Custodian of Groves and Gardens|Custodian of Groves and Gardens]] | Tended land |
-| [[The Hymnal - Echo of Lost Moments|Echo of Lost Moments]] | Forgotten memory |
-| [[The Hymnal - Impostor in Hidden Places|Impostor in Hidden Places]] | Secrets |
-| [[The Hymnal - Lamentation of Sinister Deals|Lamentation of Sinister Deals]] | Bargains |
-| [[The Hymnal - Lurker in Devouring Dark|Lurker in Devouring Dark]] | Deep water and ice |
-| [[The Hymnal - Monarch of the Fey Courts|Monarch of the Fey Courts]] | The First World's courts |
-| [[The Hymnal - Reveler in Lost Glee|Reveler in Lost Glee]] | Joy that wounds |
-| [[The Hymnal - Shepherd of Errant Winds|Shepherd of Errant Winds]] | Movement and freedom |
-| [[The Hymnal - Speaker in Sibilance|Speaker in Sibilance]] | Forbidden knowledge |
-| [[The Hymnal - Stalker in Darkened Boughs|Stalker in Darkened Boughs]] | The ancient forests |
-| [[The Hymnal - Steward of Stone and Fire|Steward of Stone and Fire]] | Mountains and fire |
-| [[The Hymnal - Vanguard of Roaring Waters|Vanguard of Roaring Waters]] | Rapids and rivers |
-| [[The Hymnal - Witness to Ancient Battles|Witness to Ancient Battles]] | Soldiers and sieges |
+| Family                                         | Domain                            |                          |
+| :--------------------------------------------- | :-------------------------------- | ------------------------ |
+| [[The Hymnal - Crafter in the Vault            | Crafter in the Vault]]            | Forges and workshops     |
+| [[The Hymnal - Custodian of Groves and Gardens | Custodian of Groves and Gardens]] | Tended land              |
+| [[The Hymnal - Echo of Lost Moments            | Echo of Lost Moments]]            | Forgotten memory         |
+| [[The Hymnal - Impostor in Hidden Places       | Impostor in Hidden Places]]       | Secrets                  |
+| [[The Hymnal - Lamentation of Sinister Deals   | Lamentation of Sinister Deals]]   | Bargains                 |
+| [[The Hymnal - Lurker in Devouring Dark        | Lurker in Devouring Dark]]        | Deep water and ice       |
+| [[The Hymnal - Monarch of the Fey Courts       | Monarch of the Fey Courts]]       | The First World's courts |
+| [[The Hymnal - Reveler in Lost Glee            | Reveler in Lost Glee]]            | Joy that wounds          |
+| [[The Hymnal - Shepherd of Errant Winds        | Shepherd of Errant Winds]]        | Movement and freedom     |
+| [[The Hymnal - Speaker in Sibilance            | Speaker in Sibilance]]            | Forbidden knowledge      |
+| [[The Hymnal - Stalker in Darkened Boughs      | Stalker in Darkened Boughs]]      | The ancient forests      |
+| [[The Hymnal - Steward of Stone and Fire       | Steward of Stone and Fire]]       | Mountains and fire       |
+| [[The Hymnal - Vanguard of Roaring Waters      | Vanguard of Roaring Waters]]      | Rapids and rivers        |
+| [[The Hymnal - Witness to Ancient Battles      | Witness to Ancient Battles]]      | Soldiers and sieges      |
 
 ### [[The Hymnal - Divine Verses|The Divine Verses]]
 
