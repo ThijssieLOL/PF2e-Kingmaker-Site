@@ -41,12 +41,14 @@ The correction this document is built around:
 ## Settled so far
 
 - The trials carry a candidate from Grade 9 to Grade 3. Grade 2 sits outside them; when the seat empties, the goddess names the next Solstice.
-- The trials sit once a year.
+- The trials sit once a year, in one examination period for the whole Church, held across several districts. [[The Chancellery of Sacred Canon]] convenes and presides.
+- No examination can kill; high-grade healers attend every sitting, and the examiners still push each candidate to their limit.
 - A member who cannot meet the chancellery qualification does not sit and holds their grade, and may try again the next year.
 - The named examinations are parts of the areas, not the areas themselves ([[The Grade System]]).
 - The Grade 9 to Grade 8 step calls for a general education, a high school diploma in the wider world. The chancellery degree begins above it.
 - Celestial Aegis supplies the broad base of the order, and most of its members are soldiers.
 - A candidate who passes the examinations faces a Review Board of clergy one grade higher.
+- A candidate receives scores only, a failed trial is a full re-sit, and a held grade is safe from the trials.
 
 ## The design rule
 
@@ -58,7 +60,7 @@ The correction gives the trials a filter, and the filter decides every later que
 
 ## Where devotion and conduct go instead
 
-Dropping them from the trial does not drop them from the Church. The Review Board already weighs character, recommendations, and moral standing after the examinations ([[The Grade System]]). A cleric's conduct the rest of the year belongs to [[The Chancellery of the Purifying Flame]] and the [[Tattoos of Penance]], not to a yearly test. Whether the Review Board keeps its character role at all is open (question 53).
+Dropping them from the trial does not drop them from the Church. The Review Board already weighs character and moral standing after the examinations ([[The Grade System]]), and a higher-up's recommendation is a formality (question 16). A cleric's conduct the rest of the year belongs to [[The Chancellery of the Purifying Flame]] and the [[Tattoos of Penance]], not to a yearly test. Whether the Review Board keeps its character role at all is open (question 54).
 
 ## Area frameworks
 
@@ -96,64 +98,64 @@ Carried over from the earlier sittings. Answered items keep their old numbers wi
 
 1. ✅ Which transitions the trials gate: Grade 9 → 8 through Grade 4 → 3, with Grade 3 the ceiling.
 2. ✅ Grade 2 is not reached by trial; the goddess names the Solstice when the seat empties.
-3. Open: does the overview's "strict power and combat requirements" mean a fourth gate beyond the exams, or is that wording just the combat exam and the level column?
-4. Partly answered: Grade 1 is where an ascending Solstice lands. Open: do the saints sit anywhere in the mortal process, for example reviewing the top grade?
+3. Open (re-asked): the "strict power and combat requirements" wording was unclear. It was meant as the Grade System's level column beside the Combat Examination. The question is whether a separate gate sits behind the phrase, and it is re-asked.
+4. ✅ Grade 1 is where an ascending Solstice lands. The saints do not review the process: they are minor deities, near omniscient, and the faithful pray to them for guidance instead. Grade 2 sits below them as a grounded deity, one who has not ascended.
 
 **The three named examinations**
 
-5. What separates the Curriculum qualification from the Chancellery Examination? Is the degree the ticket to sit and the exam a second test on the same field, or are they one event?
-6. Who writes and marks the Theological Examination, and is one paper sat church-wide or per region?
-7. What does the Combat Examination look like, and is death possible?
-8. Who grants the combat exemption, on what evidence, and is it common enough that people know a member took it?
-9. Is the exemption an insult or an honoured specialisation in a faith that prizes scholarship as much as force?
+5. ✅ Answered: the Curriculum qualification is the ticket to sit, and the Chancellery Examination is the separate test on the same field.
+6. ✅ [[The Chancellery of Sacred Canon]] designs and administers every examination, one standard for the whole Church, and keeps the divinity paper. Each chancellery guides the paper in its own field, and [[The Chancellery of Celestial Aegis]] guides the combat paper.
+7. ✅ Death is impossible. High-grade healers attend every sitting, and the examinations are safe with them at hand; without them the work would be extremely dangerous. Candidates are pushed to their limit.
+8. ⏸️ On hold for the DM.
+9. ✅ The exemption reads as good fortune and cleverness to the general public ("lucky guy", "he must be really smart").
 
 **The annual sitting**
 
-10. One sitting a year for the whole church, or one per region with results compared upward?
-11. Where is it held, and does the venue scale with the grade sought?
-12. Who convenes and presides?
-13. Does a candidate choose which sitting to attend, or can they be ordered to attempt?
+10. ✅ One examination period a year for the whole Church, held across several districts.
+11. ✅ The venue shrinks as the grade rises, because far fewer candidates advance; the Grade 9 to Grade 8 and Grade 8 to Grade 7 sittings draw enormous crowds.
+12. ✅ [[The Chancellery of Sacred Canon]] convenes and presides.
+13. ✅ Candidates choose individually, encouraged by higher pay and status; the higher grades are earned by members who deserve them.
 
 **The Review Board**
 
-14. How many sit on a board, and who appoints them?
-15. Can a candidate's own superior or mentor sit on their board? Is recusal a thing?
-16. What counts as a "recommendation"?
-17. When scores and character conflict, which wins?
-18. Is a rejected candidate told why?
+14. Open (brainstorm requested): the user proposes a board of x members standing two ranks up, with the count falling as the grade rises because fewer candidates attend. Whether the board sits one grade or two above the candidate needs settling.
+15. ✅ A superior or mentor may sit on the board, but cannot grade their own students.
+16. ✅ A recommendation is a spoken or written word from a higher-up, a formality rather than a requirement.
+17. Open: which wins when scores and character conflict.
+18. ✅ A candidate receives only their scores, never the reviews, to show room for improvement without discouraging them.
 
 **Failure, retry, and standing**
 
-19. Full re-sit, or only the failed parts?
-20. Is the number of attempts capped, and what happens at the cap?
-21. Is passing or failing public, and is it recorded on the member?
-22. Can a grade be lost, or does a cleric only fall through disgrace via [[The Chancellery of the Purifying Flame]]?
+19. ✅ Full re-sit.
+20. ✅ No hard cap, but a fourth attempt is discouraged by a higher fee, so the drain on the Church stays in check.
+21. ✅ Public, but never humiliating or degrading.
+22. ✅ A grade cannot be lost through the trials, only through disgrace.
 
 **The rite itself**
 
-23. What is the sitting called in-world?
-24. What follows a passed trial: a dawn ceremony, a vestment change ([[The Vestments of the Clergy]]), an oath, a new tattoo, something else?
-25. Solemn ordeal, festal day, or quiet administrative affair with religious dressing?
-26. Does the Liturgical Cadence govern the ceremony's spoken parts, with a fixed formula for the moment of ascent?
+23. Open: what is the sitting called in-world?
+24. Open: what follows a passed trial: a dawn ceremony, a vestment change ([[The Vestments of the Clergy]]), an oath, a new tattoo, something else?
+25. Open: solemn ordeal, festal day, or quiet administrative affair with religious dressing?
+26. Open: does the Liturgical Cadence govern the ceremony's spoken parts, with a fixed formula for the moment of ascent?
 
 **Story hooks and edge cases**
 
-27. Is cheating on a trial a known crime, and who investigates it?
-28. Has anyone passed and refused the grade?
-29. Does the process differ for a member recruited as an adult, a redeemed orphan, or a field riser like Aurelius?
-30. What is the most famous ascension, and the most famous failure?
+27. ✅ [[The Chancellery of Sacred Canon]] investigates cheating at a trial.
+28. Open: has anyone passed and refused the grade?
+29. Open: does the process differ for a member recruited as an adult, a redeemed orphan, or a field riser like Aurelius?
+30. Open: what is the most famous ascension, and the most famous failure?
 
 **The areas**
 
 31. ✅ Superseded: the five-area first framework is replaced by the three-area revised framework above.
-32. Are the areas equal in weight, or does one dominate?
-33. Who sets and marks each area? The working assumption is Sacred Canon for Doctrine, Celestial Aegis for Combat, and the candidate's own chancellery for its own field. Rites would need an owner.
+32. Open: are the areas equal in weight, or does one dominate?
+33. ✅ [[The Chancellery of Sacred Canon]] designs and administers the examinations. Each chancellery guides the paper in its own field, [[The Chancellery of Celestial Aegis]] the combat paper, and Sacred Canon the divinity paper.
 34. ✅ Every area appears at every grade, harder each time. The correction settles this: a Grade 9 is never held to a Grade 8's bar, and never exceeds it.
-35. Is a candidate scored per area against a pass line, or judged on overall standing?
-36. Besides combat, can a candidate be exempted from any other area?
-37. Does the Review Board judge character alone, or weigh the whole trial before granting the grade?
-38. Is the whole trial sat in one sitting, or are the areas spread across the year?
-39. Does failing one area sink the whole trial, or can a cleared area be carried into the next attempt?
+35. Open: is a candidate scored per area against a pass line, or judged on overall standing?
+36. Open: besides combat, can a candidate be exempted from any other area?
+37. Open: does the Review Board judge character alone, or weigh the whole trial before granting the grade?
+38. Open: is the whole trial sat in one sitting, or are the areas spread across the year?
+39. ✅ Full re-sit: a cleared area does not carry into the next attempt.
 
 **Church versus state**
 
@@ -163,12 +165,12 @@ Carried over from the earlier sittings. Answered items keep their old numbers wi
 
 49. ✅ The trial runs on three areas: combat, the chancellery, and doctrine. A Rites area was considered and dropped.
 50. ✅ The areas are named Combat, Specialization, and Doctrine.
-51. The named examinations (Theological, Combat, Chancellery) are parts of the areas. Do their names survive inside the areas, or do the area names replace them?
-52. At the Grade 9 to Grade 8 step there is no chancellery yet. Does the chancellery area test the general education there, per the Curriculum, or does that step run on doctrine and combat alone?
-53. Each chancellery sets its own examination in canon. Does that stay, and how is fairness kept across nine very different fields?
-54. Now that devotion and conduct leave the trial, does the Review Board keep its character role, or does it only confirm the examination results?
-55. Moot: Rites is dropped as an area.
+51. Open: do the names of the named examinations (Theological, Combat, Chancellery) survive inside the areas, or do the area names replace them?
+52. Open: at the Grade 9 to Grade 8 step there is no chancellery yet. Does the Specialization area test the general education there, per the Curriculum, or does that step run on doctrine and combat alone?
+53. Partly answered: the chancellery still sets the content of its own paper, now with Sacred Canon administering one standard and holding fairness across the nine. Open: how fairness is kept when the fields differ so widely.
+54. Open: now that devotion and conduct leave the trial, does the Review Board keep its character role, or does it only confirm the examination results?
+55. ✅ Moot: Rites is dropped as an area.
 
 ## Next step
 
-The dedicated note now exists: [[The Ascension Trials]] carries the settled design, and [[The Grade System]] keeps its summary and link. This document stays the working record, and the questions below stay open until they are answered.
+The settled design is written to [[The Ascension Trials]]: the annual sitting, the administration of the examinations, their safety, and the rules on results and retakes. That note carries the design, and [[The Grade System]] keeps its summary and link. This document stays the working record. Still open: the board's composition (14), the fourth gate (3), the character role (54), the exemption (8, held for the DM), and the rite (23 to 26).
