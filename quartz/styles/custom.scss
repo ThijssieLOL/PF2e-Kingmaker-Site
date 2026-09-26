@@ -103,6 +103,7 @@
 }
 
 .page-listing li.section-li > .section {
+  position: relative;
   display: flex;
   flex-direction: column;
   padding: 0.85rem 1rem;
@@ -113,6 +114,18 @@
 
 .page-listing li.section-li > .section:hover {
   border-color: var(--secondary);
+}
+
+// Whole-card click target. The plugin makes only the title an anchor, so the
+// card is turned into one link by stretching that anchor over the card (the
+// pattern Bootstrap calls a "stretched link"): the anchor's ::before is an
+// empty box pinned to the card, which the card is now positioned for. The title
+// keeps its own ::after, used for the subfolder arrow, so the overlay goes on
+// ::before to leave that alone.
+.page-listing li.section-li > .section > .desc > h3 > a::before {
+  content: "";
+  position: absolute;
+  inset: 0;
 }
 
 // A subfolder row has no date. It sorts above the note cards and runs the full
@@ -171,8 +184,13 @@
   background-color: transparent;
 }
 
-// Tag chips, pinned to the card's foot so they line up across a row.
+// Tag chips, pinned to the card's foot so they line up across a row. They are
+// lifted above the card's stretched link so each chip still takes its own
+// click through to its tag page, as does a chip the pointer happens to be over
+// when the rest of the card is clicked.
 .page-listing li.section-li > .section > .tags {
+  position: relative;
+  z-index: 1;
   display: flex;
   flex-wrap: wrap;
   gap: 0.35rem;
