@@ -7,8 +7,6 @@ organization: "[[The Church of the Eternal Blazing Sun]]"
 status: Active
 ---
 
-# The Vestments of the Clergy
-
 > "A memorable quote."
 
 ## Overview

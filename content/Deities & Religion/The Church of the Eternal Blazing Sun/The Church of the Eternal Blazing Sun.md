@@ -36,6 +36,9 @@ The church does not seek to rule nations directly. It acts instead as a moral gu
 - **Grade 0 Divinity:** High-ranking clergy know that the goddess occupies "Grade 0" of the cosmic hierarchy. Because the position is hers, it marks the ultimate state of divine ascension, though it stays unreachable for mortals while she reigns.
 - **The Solites:** Believers of the sun goddess are called **solites**.
 
+### [[The Star Saints]]
+The goddess raises ascended mortals to sainthood, and each is represented by a sacred star or constellation. Seventeen are recorded, with their constellations and domains.
+
 ### Afterlife & Purification
 - **The Sunlit Fields:** Solites believe in a heaven-like afterlife informally called the Sunlit Fields.
 - **The Purifying Fire:** When a solite dies, their soul passes through a purgatory-like process. Holy fire burns away their remaining sins gently, and then they rest eternally in the pure light of the goddess.
@@ -83,11 +86,6 @@ The Church runs its affairs with the scale and discipline of a sovereign empire.
 | [[The Chancellery of Consecrated Solace]] | Public Health & Sacred Rites | Hospitals, disaster relief, and the cremation rites. |
 | [[The Chancellery of the Meridian Cadastre]] | Civil Administration & Archives | Registries, archives, and the Ember Post. |
 
-### Judicial System & Anti-Corruption
-- **Internal Purges:** The church investigates internal corruption aggressively, with the discipline of a state apparatus. It treats exploiting the weak, or hoarding wealth at the expense of others, as an existential threat to its moral authority.
-- **Punishment:** Severe corruption or betrayal of the faith's core moral tenets is punishable by death.
-- **Excommunication:** While the church focuses heavily on preventing corruption before it takes root, excommunication is reserved for grave, unrepentant sins.
-
 ---
 
 ## [[The Ember Post]]
@@ -100,19 +98,12 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 
 ### The Radiant Mandate & Apolitical Stance
 - **Separation of Power:** Clergy members are forbidden from holding crowns, ruling secular nations, or taking direct political office.
-- **The Moral Veto:** Although apolitical, the church acts as a moral check on secular rulers. If a state becomes profoundly corrupt or commits grave evils, the church will intervene.
-- **Veto Triggers:** The Moral Veto is triggered by capital sins, including:
-  - State-sponsored necromancy
-  - Enslavement of populations
-  - Genocide
-  - Extreme tyranny and systemic cruelty
-- **Intervention Protocol:** A Moral Veto can be initiated by any clergy member of Grade 7 (Priest) or higher, but it requires the formal approval of either a group of Grade 6 (Bishops) or at least one Grade 5 (Archbishop). Intervention runs from public denouncements and the excommunication of rulers to surgical strikes by the covert commando program.
+- **The Moral Veto:** Although apolitical, the church acts as a moral check on secular rulers. When a state falls into profound corruption or commits grave evils, [[The Chancellery of the Purifying Flame]] holds the authority to intervene, from public denouncement to the covert commando strike.
 
 ### [[The Shared Hearth Economy|Economic Stance]]
-- **Anti-Poverty & Charity:** The church views poverty as a systemic failure of society, not of the individual. It teaches that the state carries the moral responsibility to ensure the welfare of its citizens.
-- **Condemnation of Wealth Hoarding:** The church does not treat a high income as a sin, but it fiercely condemns the hoarding of wealth. It teaches that the strong and wealthy have a divine obligation to carry and support the weak.
-- **Social Programs:** The church runs one of the largest charitable operations in the world, funding soup kitchens, orphanages, and aid programs and often partnering with secular governments to manage these public works.
-- **Schools:** The church educates its children through [[The Church Schooling Program]], a path open to any family and to orphaned children offered a chancellery in place of a sentence.
+- **Anti-Poverty & Charity:** The church views poverty as a systemic failure of society, not of the individual, and holds the state morally responsible for the welfare of its citizens. It runs one of the largest charitable operations in the world.
+- **Wealth & Hoarding:** High income is no sin; hoarding is. The strong and wealthy carry a divine obligation to support the weak.
+- **Schools:** The church educates its children through [[The Church Schooling Program]], open to any family and to orphaned children offered a chancellery in place of a sentence.
 
 ---
 

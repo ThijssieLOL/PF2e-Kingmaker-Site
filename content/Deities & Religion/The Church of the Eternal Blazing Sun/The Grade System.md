@@ -32,7 +32,7 @@ The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fir
 | **4** | Vesta | 14–16 | High-ranking administrators, senior inquisitors, and regional executive directors. | High administrative authority spanning **3 Chancelleries**. |
 | **3** | Zenith | 17–18 | Legendary figures of immense spiritual and political influence within the church hierarchy. | Executive oversight and governance across **4 Chancelleries**. |
 | **2** | Solstice | 19–20 | The supreme leader of the church (pope-equivalent), chosen directly by the sun goddess to lead the faith on earth. | Supreme command and complete oversight over **all 9 Chancelleries**. |
-| **1** | Star | | Ascended mortals and revered saints, minor divine entities in the Church's mythology, each represented by a sacred star or constellation. | |
+| **1** | Star | | Ascended mortals and revered [[The Star Saints|saints]], minor divine entities in the Church's mythology, each represented by a sacred star or constellation. | |
 | **0** | The Eternal Blazing Sun | | The Goddess herself, the absolute cosmic apex of divinity and divine authority. | |
 
 ---
