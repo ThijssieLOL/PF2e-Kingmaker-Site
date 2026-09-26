@@ -183,7 +183,7 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 54   | Congratulations. The only purpose your life has had is to act as sustenance to the flies and mold.                                                                                                                                                           |
 | 55   | You truly live a noble life. In comparison with you, thine compatriots  look almost average.                                                                                                                                                                 |
 | 56   | A Tripkee might faint just by placing their gaze upon you.                                                                                                                                                                                                   |
-| 57   |                                                                                                                                                                                                                                                              |
+| 57   | You are as troublesome as a Vanara with none of the charm.                                                                                                                                                                                                   |
 |      |                                                                                                                                                                                                                                                              |
 ### Personality Quizes
 ![[Zephan_Big five 1.png]]
