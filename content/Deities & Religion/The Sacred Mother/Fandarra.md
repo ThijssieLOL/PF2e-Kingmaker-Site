@@ -66,5 +66,5 @@ aliases:
 ## Myths
 
 - [[The First Hearth]]
-- [[The Great Labor]]
+- [[The Great Labour]]
 - [[The Wolf and the Child]]
