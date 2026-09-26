@@ -2,13 +2,123 @@
 
 // put your custom CSS here!
 
-// PageList renders every row as its own grid:
-//   li.section-li > .section { grid-template-columns: fit-content(8em) 3fr 1fr }
-// Subfolder rows carry an empty <p class="meta"></p>, so the date track has no
-// content to size against and collapses to zero. Their title then sits about
-// 1em from the left edge while note titles sit about 8em in, which is what made
-// the tag-less folder rows look out of place. Reserve the track's width so every
-// row lines up; max-content keeps a longer date from being clipped.
-li.section-li > .section {
-  grid-template-columns: minmax(8em, max-content) 3fr 1fr;
+// ---------------------------------------------------------------------------
+// Folder and tag listings (div.page-listing)
+//
+// The folder-page and tag-page plugins both drop a listing under the page body:
+// a count line, then ul.section-ul rows of date / title / tags. As one wide
+// column those rows read as a wall of text with a dead middle, and a stack of
+// tags makes each row taller than its title needs. Lay the entries out as a
+// grid of cards instead, so a folder's contents scan as a set of tiles.
+//
+// Every rule is scoped to .page-listing: that is enough to outrank the plugins'
+// own listPage.scss without an !important, and it keeps popovers, which do not
+// use the wrapper, on their compact layout.
+// ---------------------------------------------------------------------------
+
+.page-listing {
+  margin-top: 2.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--lightgray);
+}
+
+// "16 items under this folder." doubles as the listing's label.
+.page-listing > p {
+  margin: 0 0 1rem;
+  font-size: 0.72rem;
+  font-weight: $semiBoldWeight;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.page-listing ul.section-ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  gap: 0.75rem;
+  margin: 0;
+  padding-left: 0;
+  list-style: none;
+}
+
+.page-listing li.section-li {
+  margin-bottom: 0;
+}
+
+.page-listing li.section-li > .section {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  padding: 0.85rem 1rem;
+  border: 1px solid var(--lightgray);
+  border-radius: 8px;
+  transition: border-color 0.15s ease;
+}
+
+.page-listing li.section-li > .section:hover {
+  border-color: var(--secondary);
+}
+
+// Date line. Its height is reserved even on a subfolder card, which has no
+// date, so the titles stay on one line across a row of cards.
+.page-listing li.section-li > .section > .meta {
+  min-height: 1rem;
+  margin: 0 0 0.35rem;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  color: var(--gray);
+  opacity: 1;
+}
+
+.page-listing li.section-li > .section > .desc > h3 {
+  margin: 0;
+  font-size: 1.05rem;
+  line-height: 1.3;
+}
+
+.page-listing li.section-li > .section > .desc > h3 > a {
+  background-color: transparent;
+}
+
+// Tag chips. Pushing them to the card's foot keeps the chips on a common
+// baseline across a row, whether or not a card has a title of its own to wrap.
+.page-listing li.section-li > .section > .tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  margin: auto 0 0;
+  padding: 0.7rem 0 0;
+  list-style: none;
+}
+
+.page-listing li.section-li > .section > .tags li {
+  margin: 0;
+}
+
+.page-listing li.section-li > .section > .tags .tag-link {
+  padding: 0 0.5rem;
+  border-radius: 999px;
+  background-color: var(--highlight);
+  font-size: 0.72rem;
+  line-height: 1.55;
+}
+
+.page-listing li.section-li > .section > .tags .tag-link:hover {
+  background-color: var(--tertiary);
+  color: var(--light);
+}
+
+// A subfolder card carries neither date nor tags. Label it in the date slot so
+// a folder is told apart from a note at a glance, then tint the whole card.
+.page-listing li.section-li > .section:has(> .meta:empty):has(> .tags:empty) {
+  border-color: color-mix(in srgb, var(--secondary) 45%, var(--lightgray));
+  background-color: color-mix(in srgb, var(--secondary) 8%, transparent);
+}
+
+.page-listing
+  li.section-li
+  > .section:has(> .meta:empty):has(> .tags:empty)
+  > .meta::before {
+  content: "Folder";
 }
