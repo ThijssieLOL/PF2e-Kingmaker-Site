@@ -57,7 +57,7 @@ For the first time, he understood that he had spent so long preparing for the en
 
 ## Moral of the story
 
-*Guard what sustains others, even when you receive nothing in return.*
+*Tomorrow is promised to no one, live in the here and now.*
 
 ---
 
