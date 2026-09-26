@@ -69,7 +69,7 @@ The Church owns the road from the schoolroom to the top of its orders.
 ## Structure & Governance
 
 ### Regional Structure
-- The church runs a formal archdiocese system adapted to the world's geography. Regional bishops and archbishops manage local parishes and keep direct communication with the central headquarters.
+- **Archdioceses:** The church runs a formal archdiocese system adapted to the world's geography. Regional bishops and archbishops manage local parishes and keep direct communication with the central headquarters.
 - **Tactical Placement:** The Church sites its houses with care. Churches, and higher-tier churches especially, are placed to reach the most people for the resources spent, so every church's tier tracks the population it serves.
 
 ### [[Church Tiers]]
