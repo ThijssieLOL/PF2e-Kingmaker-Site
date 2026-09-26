@@ -17,14 +17,16 @@
 // pseudo-elements as full-width group labels, so nothing in quartz/ or in the
 // plugins has to change.
 //
-// A row is read as a subfolder when its .meta is empty. Every note in the vault
-// gets a git-backed date from the created-modified-date plugin, so the date
-// line is a reliable marker, and subfolder rows are the only rows without one.
-//
 // Every rule is scoped to .page-listing: that outranks the plugins' own
 // listPage.scss without an !important, and it leaves popovers, which do not use
 // the wrapper, on their compact layout.
 // ---------------------------------------------------------------------------
+
+// Only a folder page can list subfolders, and only a folder page has a slug
+// ending in "/index"; a tag listing ends in "tags/<tag>". The SPA morphs the
+// whole body on navigation, so the attribute stays correct on client-side
+// visits too.
+$folder-page: "body[data-slug$='/index']";
 
 .page-listing {
   margin-top: 2.5rem;
@@ -75,22 +77,6 @@
   order: 2;
 }
 
-// Label the two groups only when both are present. A tag listing has no
-// subfolder rows, and a folder holding a single kind of entry has nothing to
-// separate, so there both labels stay ungenerated and the plain list stands.
-//
-// The test is written against .meta rather than against the rows because a
-// :has() is not valid inside another :has(), and every .meta in the listing
-// belongs to a row, so "the list has an empty .meta" is the same as "the list
-// has a subfolder row".
-.page-listing ul.section-ul:has(.meta:empty):has(.meta:not(:empty))::before {
-  content: "Subfolders";
-}
-
-.page-listing ul.section-ul:has(.meta:empty):has(.meta:not(:empty))::after {
-  content: "Notes";
-}
-
 // Each row is its own grid so the card stretches to the row height without a
 // percentage height. `height: 100%` on the card looked right but resolved
 // against the row's content box, and Quartz resets box-sizing on body alone, so
@@ -128,15 +114,27 @@
   inset: 0;
 }
 
-// A subfolder row has no date. It sorts above the note cards and runs the full
-// width as a tinted band, with an arrow to mark it as a way into another
-// listing rather than a page of its own.
-.page-listing li.section-li:has(> .section > .meta:empty) {
+// ---------------------------------------------------------------------------
+// Subfolder rows, on folder pages only.
+//
+// A subfolder row is one whose title link points at a folder, which Quartz
+// writes with a trailing slash; page links carry none. That slash is the only
+// difference in the markup, and it is the reason this is not done on the date
+// line any more: a folder that carries a note named after it (a folder-note,
+// "X/X.md", which Quartz serves as X/index) is emitted with a date and its tags
+// exactly like a note row, which is what put The Church of the Eternal Blazing
+// Sun among the notes on Deities & Religion.
+// ---------------------------------------------------------------------------
+
+#{$folder-page} .page-listing li.section-li:has(> .section > .desc > h3 > a[href$="/"]) {
   order: 1;
   grid-column: 1 / -1;
 }
 
-.page-listing li.section-li:has(> .section > .meta:empty) > .section {
+#{$folder-page}
+  .page-listing
+  li.section-li:has(> .section > .desc > h3 > a[href$="/"])
+  > .section {
   flex-direction: row;
   align-items: center;
   padding: 0.6rem 1rem;
@@ -144,16 +142,37 @@
   background-color: color-mix(in srgb, var(--secondary) 8%, transparent);
 }
 
-.page-listing li.section-li:has(> .section > .meta:empty) > .section > .meta {
+// Its date is dropped, as on every other band, and its tags are moved to the
+// right edge so a folder-note's chips line up with the rest of the row.
+#{$folder-page}
+  .page-listing
+  li.section-li:has(> .section > .desc > h3 > a[href$="/"])
+  > .section
+  > .meta {
   display: none;
 }
 
-.page-listing li.section-li:has(> .section > .meta:empty) > .section > .desc > h3 {
+#{$folder-page}
+  .page-listing
+  li.section-li:has(> .section > .desc > h3 > a[href$="/"])
+  > .section
+  > .desc {
+  flex: 1 1 auto;
+  min-width: 0;
+}
+
+#{$folder-page}
+  .page-listing
+  li.section-li:has(> .section > .desc > h3 > a[href$="/"])
+  > .section
+  > .desc
+  > h3 {
   font-size: 1rem;
 }
 
-.page-listing
-  li.section-li:has(> .section > .meta:empty)
+#{$folder-page}
+  .page-listing
+  li.section-li:has(> .section > .desc > h3 > a[href$="/"])
   > .section
   > .desc
   > h3
@@ -161,6 +180,41 @@
   content: " \2192";
   color: var(--gray);
 }
+
+#{$folder-page}
+  .page-listing
+  li.section-li:has(> .section > .desc > h3 > a[href$="/"])
+  > .section
+  > .tags {
+  margin: 0 0 0 auto;
+  padding: 0;
+}
+
+// Label the two groups, but only when the listing holds both. A folder with a
+// single kind of entry has nothing to separate, so it keeps the plain list.
+//
+// The test is written out twice rather than shared through a variable because a
+// :has() is not valid inside another :has(), so these cannot be built from the
+// row selector above.
+#{$folder-page}
+  .page-listing
+  ul.section-ul:has(> li.section-li > .section > .desc > h3 > a[href$="/"]):has(
+    > li.section-li > .section > .desc > h3 > a:not([href$="/"])
+  )::before {
+  content: "Subfolders";
+}
+
+#{$folder-page}
+  .page-listing
+  ul.section-ul:has(> li.section-li > .section > .desc > h3 > a[href$="/"]):has(
+    > li.section-li > .section > .desc > h3 > a:not([href$="/"])
+  )::after {
+  content: "Notes";
+}
+
+// ---------------------------------------------------------------------------
+// Note cards.
+// ---------------------------------------------------------------------------
 
 // Date line. Its height is reserved so a row without a date still lines its
 // title up with the card beside it.
@@ -186,8 +240,7 @@
 
 // Tag chips, pinned to the card's foot so they line up across a row. They are
 // lifted above the card's stretched link so each chip still takes its own
-// click through to its tag page, as does a chip the pointer happens to be over
-// when the rest of the card is clicked.
+// click through to its tag page.
 .page-listing li.section-li > .section > .tags {
   position: relative;
   z-index: 1;
