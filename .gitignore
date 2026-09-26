@@ -18,8 +18,5 @@ copilot/
 # AGENTS.md is intentionally NOT ignored anymore: it is tracked in git so it syncs
 # across devices, but it lives at the repo root (outside content/) so Quartz never
 # publishes it.
-# Anchored to the repo root: unanchored `scripts/` also matched
-# `quartz/components/scripts/`, which silently kept new Quartz component scripts
-# out of git and out of the deployed build.
-/scripts/
+scripts/
 .claudian/

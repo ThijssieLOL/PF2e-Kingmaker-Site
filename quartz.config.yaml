@@ -304,13 +304,3 @@ layout:
         - reader-mode
     canvas: {}
     bases: {}
-    # The full-page 3D graph draws its own chrome in a fixed layer, so every
-    # layout slot is cleared and only the graph body renders.
-    graph3d:
-      positions:
-        header: []
-        left: []
-        right: []
-        beforeBody: []
-        afterBody: []
-        footer: []

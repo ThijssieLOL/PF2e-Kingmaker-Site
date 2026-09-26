@@ -1,6 +1,6 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { FolderNoteLinks } from "./quartz/plugins/transformers"
-import { FolderGraph, Graph3DPage } from "./quartz/plugins/pageTypes"
+import { FolderGraph } from "./quartz/plugins/pageTypes"
 import { componentRegistry } from "./quartz/components/registry"
 
 const config = await loadQuartzConfig()
@@ -41,10 +41,6 @@ config.plugins.transformers.push(FolderNoteLinks())
 // graph by linking them to their children. Runs after the folder-page plugin.
 config.plugins.pageTypes ??= []
 config.plugins.pageTypes.push(FolderGraph())
-
-// The dedicated full-page 3D graph at `/graph`. It is a virtual page, so it does
-// not touch any note; see `quartz/plugins/pageTypes/graph3d.ts`.
-config.plugins.pageTypes.push(Graph3DPage())
 
 export default config
 export const layout = await loadQuartzLayout()
