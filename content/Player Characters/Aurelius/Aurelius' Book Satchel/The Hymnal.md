@@ -69,6 +69,18 @@ Each of the fourteen families lends one cantrip, one verse of each rank, and a v
 | [[The Hymnal - Vanguard of Roaring Waters\|Vanguard of Roaring Waters]] | Rapids and rivers |
 | [[The Hymnal - Witness to Ancient Battles\|Witness to Ancient Battles]] | Soldiers and sieges |
 
-### [[The Hymnal - Divine Verses|The Divine Verses]]
+### The Divine Verses
 
-The verses Aurelius prays for himself, sorted by rank under one hub, each rank kept on a page of its own.
+The verses Aurelius prays for himself, cast from the sun goddess's own gift rather than through a spirit, kept by rank.
+
+- [[The Hymnal - Divine Verses - Cantrips|Cantrips]]
+- [[The Hymnal - Divine Verses - 1st Rank|1st Rank]]
+- [[The Hymnal - Divine Verses - 2nd Rank|2nd Rank]]
+- [[The Hymnal - Divine Verses - 3rd Rank|3rd Rank]]
+- [[The Hymnal - Divine Verses - 4th Rank|4th Rank]]
+- [[The Hymnal - Divine Verses - 5th Rank|5th Rank]]
+- [[The Hymnal - Divine Verses - 6th Rank|6th Rank]]
+- [[The Hymnal - Divine Verses - 7th Rank|7th Rank]]
+- [[The Hymnal - Divine Verses - 8th Rank|8th Rank]]
+- [[The Hymnal - Divine Verses - 9th Rank|9th Rank]]
+- [[The Hymnal - Divine Verses - 10th Rank|10th Rank]]
