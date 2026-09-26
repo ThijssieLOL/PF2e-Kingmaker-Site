@@ -30,10 +30,8 @@ The church does not seek to rule nations directly. It acts instead as a moral gu
 ## Theology & Cosmology
 
 ### [[Erisol|The Sun Goddess]]
-- **The Supreme Light:** The church worships the sun goddess, known as the Eternal Blazing Sun (or simply the Sun). 
-- **Avatars of the Divine:** Church doctrine teaches that the literal sun and every other star in the cosmos are physical avatars of the goddess, our sun a uniquely sacred and primary avatar.
+- **The Supreme Light:** The church worships the sun goddess, Erisol, known as the Eternal Blazing Sun (or simply the Sun).
 - **The Supreme Path:** The church acknowledges other true gods, but teaches that the Eternal Blazing Sun is the supreme, most morally good deity, and therefore the only one truly worthy of mortal worship.
-- **Grade 0 Divinity:** High-ranking clergy know that the goddess occupies "Grade 0" of the cosmic hierarchy. Because the position is hers, it marks the ultimate state of divine ascension, though it stays unreachable for mortals while she reigns.
 - **The Solites:** Believers of the sun goddess are called **solites**.
 
 ### [[The Star Saints]]
@@ -61,15 +59,14 @@ The hierarchy runs on a strict, fire-themed grade ladder, from Grade 9 (Spark) a
 - **[[The Ascension Trials]]:** Each step is earned through the yearly examinations, where a candidate clears Combat, Specialization, and Doctrine before the Review Board, a council of clergy one grade higher.
 
 ### [[The Church Schooling System]]
-The Church owns the road from the schoolroom to the top of its orders. Its schools carry a child to the high school diploma, and a chancellery's specialised track carries them onward into the degrees that the grade ladder ties to rank.
+The Church owns the road from the schoolroom to the top of its orders.
+
+- **[[The Church Schooling Program]]:** The Church's schools carry a child from first lessons to the high school diploma; any family may place a child, and a convicted orphan may take a place in a chancellery in place of a sentence.
+- **[[The Chancellery Curriculum]]:** Above the diploma, the specialised track and the degrees belong to the chancellery, and the Curriculum ties each degree to a step up the grades.
 
 ---
 
 ## Structure & Governance
-
-### Central Headquarters
-- **Location:** [To be determined / Coordinated with DM]
-- **Name:** [To be determined]
 
 ### Regional Structure
 - The church runs a formal archdiocese system adapted to the world's geography. Regional bishops and archbishops manage local parishes and keep direct communication with the central headquarters.
@@ -149,7 +146,7 @@ A smaller denomination that split from the church on good terms and remains in i
 
 ### Cults & Heresies
 - **Cults of False Gods:** Cults dedicated to demon lords, evil deities, or entities that practice sacrifice and necromancy are absolute threats. The church deploys its intelligence and military arms to dismantle them.
-- **Heretics of the sun church:** The church faces no rival sun-worshipping sect. The heresies that trouble it are groups that claim to belong to the church itself. These false brethren present themselves as orthodox clergy or faithful communities while preaching doctrines the church condemns, deceiving the laity from within. The church treats such claimants as the gravest form of heresy and hunts them relentlessly through its inquisitorial and intelligence arms. They stand in stark contrast to [[The Grand Order of the Phoenix]], which split openly and remains in good standing; the false brethren are impostors, and the church extends them none of the charity it shows kindred denominations. [Details to be established]
+- **Heretics of the sun church:** The church faces no rival sun-worshipping sect. The heresies that trouble it are groups that claim to belong to the church itself. These false brethren present themselves as orthodox clergy or faithful communities while preaching doctrines the church condemns, deceiving the laity from within. The church treats such claimants as the gravest form of heresy and hunts them relentlessly through its inquisitorial and intelligence arms. They stand in stark contrast to [[The Grand Order of the Phoenix]], which split openly and remains in good standing; the false brethren are impostors, and the church extends them none of the charity it shows kindred denominations.
 
 ### Magic & Secularists
 - **Atheists & Agnostics:** The church views them as misled, ignorant, or simply never exposed to the goddess's light, and prioritizes missionary work to educate them.
@@ -160,11 +157,11 @@ A smaller denomination that split from the church on good terms and remains in i
 ## History & Lore
 
 ### Origin Myth
-- **The Creation:** The sun goddess and the other true gods shaped the cosmos, giving rise to the universe and the mortal world. [Details of the creation myth to be expanded].
-- **The Founder:** The church was founded in antiquity by the very first Grade 2 (Solstice) of the faith, whose identity has been lost to time. [Details to be established].
+- **The Creation:** The sun goddess and the other true gods shaped the cosmos, giving rise to the universe and the mortal world.
+- **The Founder:** The church was founded in antiquity by the very first Grade 2 (Solstice) of the faith, whose identity has been lost to time.
 
 ### Historical Conflicts
-- **Major Wars:** The church has participated in several major historical conflicts and holy crusades throughout its long history, particularly against rising undead threats and corrupt empires. [Specific historical events to be established].
+- **Major Wars:** The church has participated in several major historical conflicts and holy crusades throughout its long history, particularly against rising undead threats and corrupt empires.
 
 ---
 
@@ -178,7 +175,12 @@ Despite its discipline, the church keeps a close watch on its own internal contr
 
 ### External Threats
 - **The Banned Kingdoms:** The church's greatest external struggle involves kingdoms that have explicitly banned the faith. These regimes view the church's economic teachings and anti-poverty advocacy as a direct threat to the ruling elite. The church prioritizes covert missionary work (such as [[Aurelius]]'s mission in the Stolen Lands) to bypass these bans and spread the faith.
-- **Other External Threats:** [To be determined].
 
 ### Apocalyptic Prophecy
-- **The End Times:** An ancient apocalyptic prophecy in the church's secret archives foretells a great cosmic trial. [Details of the prophecy are currently unknown/to be established].
+- **The End Times:** An ancient apocalyptic prophecy in the church's secret archives foretells a great cosmic trial.
+
+---
+
+## House Notes
+
+- Open items, to be settled with the DM: the location and name of the central headquarters; the details of the creation myth and the identity of the founding Solstice; the specific wars of the Church's history; the false brethren of the sun church and what marks them out; the remaining external threats; and the content of the End Times prophecy.

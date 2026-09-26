@@ -35,6 +35,12 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Erisol, often 
 
 ---
 
+## Divine Nature
+
+Church doctrine teaches that the literal sun and every other star in the cosmos are physical avatars of Erisol, our sun a uniquely sacred and primary avatar. High-ranking clergy know that she occupies "Grade 0" of the cosmic hierarchy; the position is hers, so it marks the ultimate state of divine ascension, though it stays unreachable for mortals while she reigns.
+
+---
+
 ## Appearance
 
 - **Description:** 
