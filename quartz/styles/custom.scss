@@ -34,21 +34,26 @@
 
 .page-listing ul.section-ul {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(15rem, 1fr));
+  grid-template-columns: repeat(auto-fill, minmax(17rem, 1fr));
   gap: 0.75rem;
   margin: 0;
   padding-left: 0;
   list-style: none;
 }
 
+// Each row is its own grid so the card stretches to the row height without a
+// percentage height. `height: 100%` on the card looked right but resolved to
+// the grid item's content box, and Quartz resets box-sizing on body alone, so
+// the card's padding and border were added on top and every card spilled 29px
+// into the row below it.
 .page-listing li.section-li {
+  display: grid;
   margin-bottom: 0;
 }
 
 .page-listing li.section-li > .section {
   display: flex;
   flex-direction: column;
-  height: 100%;
   padding: 0.85rem 1rem;
   border: 1px solid var(--lightgray);
   border-radius: 8px;
