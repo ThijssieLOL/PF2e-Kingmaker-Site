@@ -26,7 +26,7 @@ to change". Questions first, every time the concept is new or an existing page i
 2. **Reply with a questionnaire.** Write the questions yourself, in your own words. Never reuse
    [[Character building questions]] or any other list in the vault as your question bank.
 3. **Wait for the answers.** Only the user's replies authorize new canon.
-4. **Write the page from those answers**, then run the edit steps in `AGENTS.md` §7.2.
+4. **Write the page from those answers**, then run the edit steps in `AGENTS.md` §5.2.
 
 ## How to shape the questionnaire
 
@@ -70,16 +70,21 @@ Leave the rest empty. Do not pre-fill, and do not treat the gaps as a licence to
 
 A braindump about something already written produces questions too, not edits. Extend a note only
 through the user's answers to a questionnaire built the same way. If an answer contradicts existing
-canon, flag the conflict instead of overwriting it (`AGENTS.md` §6).
+canon, flag the conflict instead of overwriting it (`AGENTS.md` §4.1).
 
 ## After the answers
 
 One answer often settles canon that several notes depend on. Propagate it across every note it
-touches before reporting back, following `AGENTS.md` §7.3, and run the edit guard (§7.2) before you
-finish.
+touches before reporting back, following `AGENTS.md` §5.3, and run the edit guard (§5.2 step 6) before
+you finish.
+
+When the answers pile up on one sub-concept, that material is a note of its own, not one more section
+on the page the question was asked about (`AGENTS.md` §4.4). Name the split in one line before you
+write it, then create the subnote in the parent page's folder with a short summary and a heading link
+left behind on the parent.
 
 ## Reporting back
 
-Vault rules on voice, headings, page layout, and the guard are in `AGENTS.md` §6 and §7.2 — read
+Vault rules on voice, headings, page layout, and the guard are in `AGENTS.md` §4 and §5.2 — read
 them there, do not restate them here. Keep your own reply to the questionnaire short: the numbered
 questions, grouped under subsections, with a one-line note on which template you matched.

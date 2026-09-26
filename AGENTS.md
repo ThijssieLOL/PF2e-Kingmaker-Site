@@ -153,9 +153,10 @@ braindump.
 - **Group, don't stack.** Group related material under a few `##` sections instead of a long run of
   short ones, and use `###` subsections for the pieces inside a group. A heading has to earn its
   place: a section that holds only a line or two is folded into its parent, and one that runs past a
-  screen gets `###` subsections or a table. A run of one-line sections is what makes a page look
-  bare. Use a table when the material compares (ranks, spells, tiers, rosters). Keep each section to
-  what its heading promises.
+  screen gets `###` subsections or a table. A section that has become a subject in its own right gets
+  a subnote instead (§4.4). A run of one-line sections is what makes a page look bare. Use a table
+  when the material compares (ranks, spells, tiers, rosters). Keep each section to what its heading
+  promises.
 - **Selective bullets.** Prose is the default; a list is the exception. Reach for a bullet list only
   when a section holds a set of parallel, scannable facts, such as `### Quick Facts`, ranks, rosters,
   tiers, funding sources, a trigger list, or a process's steps and facets (the parts of a rite, the
@@ -219,9 +220,15 @@ braindump.
   on several pages, pick the page that owns it, move the detail there, and leave the summaries
   behind. The same rule applies inside one page, between `### Quick Facts` and the body.
 - **Keep a page lean, and split it when it fills up.** A page should stay short enough to scan in one
-  sitting. When a section outgrows the page's subject, give it a note of its own in the parent page's
-  folder (the pattern already used by `Spirits/Apparitions/`), leave a short summary and a wikilink
-  on the parent page, and move the detail to the subnote. Detail belongs on the subnote, not the hub.
+  sitting. A section gives way to a subnote when it has become a subject in its own right: it carries
+  its own `###` pieces or its own table of entries, it dominates the page it sits on, or a reader
+  would look it up by its own name. A long section that is still part of the page's subject stays,
+  with `###` subsections (§4.3). Weigh this before the section grows, not after.
+- **Splitting a section into a subnote.** Search the vault first for the section's key terms, so the
+  note is not already there. Create it in the parent page's folder, named after the concept (the
+  pattern in `Spirits/Apparitions/`), with `agent-editable: true` as the first frontmatter key and the
+  fields the matching template uses. Move the detail onto it, and leave the parent a short summary and
+  a heading link. Detail belongs on the subnote, not the hub.
 
 ## 5. Workflow (follow every time)
 
@@ -237,18 +244,23 @@ on what the user said, baseline questions on the template fields they did not me
 canon, wait for the answers, then write the page and run §5.2. Suggestions only when the user asks
 for them; a barebone stub only when the user asks for one.
 
+When the answers pile up on one sub-concept, say so before you write: that material becomes a note of
+its own in the parent page's folder, with a short summary and a heading link left behind on the parent
+(§4.4), rather than a section added to a page it has outgrown.
+
 Only the user's answers authorize new canon, and a braindump about something already written produces
 questions rather than edits (§4).
 
 ### 5.2 Every edit
 
 1. **Read first** — the target note(s) and the notes linked from them. Absorb canon before writing.
-2. **Check for duplicates, cheaply** — before writing anything new, search the vault for the
-   concept's key terms (names, nouns, numbers) with a targeted `rg`/grep rather than reading every
-   candidate note. A fact almost always has a home: when it does, do not write it again; link to the
-   note that owns it and keep only the short summary the reader needs (§4.4). When a page or a
-   section has outgrown its subject, run the `vault-cleanup` skill (`/cleanup`) rather than
-   improvising a split.
+2. **Check for duplicates, cheaply, and pick the home** — before writing anything new, search the
+   vault for the concept's key terms (names, nouns, numbers) with a targeted `rg`/grep rather than
+   reading every candidate note. A fact almost always has a home: when it does, do not write it
+   again; link to the note that owns it and keep only the short summary the reader needs (§4.4). When
+   the material has become a subject in its own right, its home is a subnote of its own, created in
+   this same edit (§4.4), not a longer section on the page that happened to host it. Ask the
+   `vault-cleanup` skill (`/cleanup`) for a vault-wide pass, not for the split this edit needs.
 3. **Plan** — outline your changes. If the scope is ambiguous, ask the user before writing.
 4. **Edit** — minimal, focused changes. Never reformat or "clean up" files beyond your task.
 5. **Self-review** — run every prose change through the `humanizer` skill (§4.2), then re-read your

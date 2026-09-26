@@ -9,9 +9,12 @@ metadata:
 
 # Vault cleanup: duplicates, oversized pages, headings, strays
 
-A retroactive pass over pages that already exist. It is the writing rules of `AGENTS.md` §6 applied
+A retroactive pass over pages that already exist. It is the writing rules of `AGENTS.md` §4 applied
 to the backlog, plus a division of labour: every fact has exactly one home, and pages that have
 outgrown their own subject get a subnote.
+
+A new section that outgrows its page is split while it is written, not here (`AGENTS.md` §4.4). This
+pass is for the backlog the user asks you to sweep.
 
 ## Scope and safety
 
@@ -22,7 +25,7 @@ outgrown their own subject get a subnote.
   is easy to undo; a delete is not.
 - **Never invent canon.** Reorganising moves text. It does not merge two facts into a new one, and
   it never drops a fact, name, number, date, or quote that was on the page.
-- **Verification, guard, and commit etiquette** are `AGENTS.md` §7.2 and §8. Run the guard before
+- **Verification, guard, and commit etiquette** are `AGENTS.md` §5.2 and §6. Run the guard before
   you finish. Leave the work uncommitted unless the user asks for a commit.
 
 ## Pass 1 — Duplicates
@@ -38,20 +41,19 @@ outgrown their own subject get a subnote.
 
 ## Pass 2 — A page that outgrew its subject
 
-Split when a section, not a page, has become the real subject: a rank ladder, a roster, a family of
-spirits, a whole institution under one hub page.
+The trigger and the mechanics are the authoring rule in `AGENTS.md` §4.4. This pass applies it across
+the backlog: split when a section, not a page, has become the real subject — a rank ladder, a roster,
+a family of spirits, a whole institution under one hub page.
 
-1. **Check first that the material is not already somewhere else.** Search the vault for the
+1. **Inventory the offenders.** A section that carries its own `###` pieces or its own table of
+   entries, or that dominates its page, is a candidate. Measure rather than guess.
+2. **Check first that the material is not already somewhere else.** Search the vault for the
    section's key terms before creating anything; if the dedicated note already exists, the work is
    a merge into it, not a new note.
-2. Create the subnote **inside the parent page's folder** (the pattern in
-   `Spirits/Apparitions/<Family>/`), named after the concept.
-3. Frontmatter: `agent-editable: true` as the first key, plus the fields the page's template or
-   neighbouring notes use.
-4. Move the detail to the subnote. On the parent, leave a short summary and a wikilink — enough that
-   a reader who never opens the subnote still understands the sentence in front of them.
-5. Link wiki-fandom style: when a section introduces or summarises a dedicated note, hyperlink the
-   section heading itself (`### [[Note Name]]`). Never "(see [[Note]])" as a pointer.
+3. **Create and move per §4.4** — the subnote in the parent page's folder (the pattern in
+   `Spirits/Apparitions/<Family>/`), `agent-editable: true` as the first key, the detail moved onto
+   it, and a short summary plus a heading link left on the parent. Link wiki-fandom style, the
+   heading itself carrying the link (`### [[Note Name]]`), never a "(see [[Note]])" pointer.
 
 ## Pass 3 — Headings
 
@@ -96,6 +98,6 @@ structure, or pages stop looking like their neighbours:
 
 - Every new or moved note carries `agent-editable: true` and valid YAML frontmatter.
 - Every wikilink resolves; no link points at a heading you renamed or a page you moved.
-- Run the edit guard (`AGENTS.md` §7.2 step 6) and fix anything it flags.
+- Run the edit guard (`AGENTS.md` §5.2 step 6) and fix anything it flags.
 - Report: what was merged, what was split, what was renamed, what you left alone and why. Keep it
   short — a list of pages and one line each.
