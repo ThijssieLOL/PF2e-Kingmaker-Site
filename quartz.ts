@@ -1,6 +1,6 @@
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
 import { FolderNoteLinks } from "./quartz/plugins/transformers"
-import { FolderGraph } from "./quartz/plugins/pageTypes"
+import { FolderGraph, Graph3DPage } from "./quartz/plugins/pageTypes"
 import { componentRegistry } from "./quartz/components/registry"
 
 const config = await loadQuartzConfig()
