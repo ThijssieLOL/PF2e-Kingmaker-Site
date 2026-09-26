@@ -77,6 +77,8 @@ truth for "this file may be edited"; the folder is never the rule. Currently tha
 - Follow the matching template in `content/Templates/` for its fields, use the frontmatter keys used
   across the vault (§2), link with wikilinks `[[Note]]`, and embed images with `![[image.png]]`. The
   template's formatting is not the layout model; §4.3 is.
+- **Carry content of its own.** A new note earns its place by holding something a reader cannot get
+  anywhere else. Never create a note whose body is only a list of links (§4.4).
 
 ### 3.4 Off-limits
 
@@ -235,6 +237,12 @@ braindump.
   pattern in `Spirits/Apparitions/`), with `agent-editable: true` as the first frontmatter key and the
   fields the matching template uses. Move the detail onto it, and leave the parent a short summary and
   a heading link. Detail belongs on the subnote, not the hub.
+- **Never leave a bare hub page.** Splitting a section leaves the roster on the parent, so the parent
+  keeps its shape and the reader keeps a way in. Do not create an in-between page holding only a lead
+  line and a list of links: that is an index, not an overview, and it lengthens the wiki without making
+  it clearer. A page earns its own note by carrying prose of its own, a body section the reader cannot
+  get anywhere else. If the only material is a roster, keep it on the parent as a compact list or table
+  (§4.3) and do not create the note. An `## Overview` is never a bare index.
 
 ## 5. Workflow (follow every time)
 
@@ -265,8 +273,9 @@ questions rather than edits (§4).
    reading every candidate note. A fact almost always has a home: when it does, do not write it
    again; link to the note that owns it and keep only the short summary the reader needs (§4.4). When
    the material has become a subject in its own right, its home is a subnote of its own, created in
-   this same edit (§4.4), not a longer section on the page that happened to host it. Ask the
-   `vault-cleanup` skill (`/cleanup`) for a vault-wide pass, not for the split this edit needs.
+   this same edit (§4.4), not a longer section on the page that happened to host it. The parent keeps
+   the roster; a note that would hold only links has not become a subject in its own right (§4.4). Ask
+   the `vault-cleanup` skill (`/cleanup`) for a vault-wide pass, not for the split this edit needs.
 3. **Plan** — outline your changes. If the scope is ambiguous, ask the user before writing.
 4. **Edit** — minimal, focused changes. Never reformat or "clean up" files beyond your task.
 5. **Self-review** — run every prose change through the `humanizer` skill (§4.2), then re-read your

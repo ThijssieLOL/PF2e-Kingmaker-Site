@@ -81,7 +81,8 @@ you finish.
 When the answers pile up on one sub-concept, that material is a note of its own, not one more section
 on the page the question was asked about (`AGENTS.md` §4.4). Name the split in one line before you
 write it, then create the subnote in the parent page's folder with a short summary and a heading link
-left behind on the parent.
+left behind on the parent. Leave the roster on the parent, and do not create a page that would hold
+only links (§4.4).
 
 ## Reporting back
 
