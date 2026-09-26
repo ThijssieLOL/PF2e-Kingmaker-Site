@@ -1,4 +1,4 @@
-// Full-page 3D graph. The canvas and its chrome sit in a fixed layer so the
+﻿// Full-page 3D graph. The canvas and its chrome sit in a fixed layer so the
 // reading-frame padding and grid never squeeze them, and every colour comes
 // from the same theme variables the rest of the site uses.
 
@@ -51,7 +51,7 @@ html[saved-theme="dark"] {
 
 .graph3d .graph3d-panel {
   position: absolute;
-  z-index: 3;
+  z-index: 4;
   top: 1rem;
   left: 1rem;
   width: 15rem;
@@ -182,7 +182,7 @@ html[saved-theme="dark"] {
 .graph3d .graph3d-labels {
   position: absolute;
   inset: 0;
-  z-index: 2;
+  z-index: 3;
   overflow: hidden;
   pointer-events: none;
 }
@@ -223,7 +223,7 @@ html[saved-theme="dark"] {
 
 .graph3d .graph3d-tip {
   position: absolute;
-  z-index: 4;
+  z-index: 5;
   max-width: 16rem;
   padding: 0.4rem 0.55rem;
   border: 1px solid var(--lightgray);
@@ -252,7 +252,7 @@ html[saved-theme="dark"] {
 
 .graph3d .graph3d-hint {
   position: absolute;
-  z-index: 3;
+  z-index: 4;
   bottom: 1rem;
   left: 50%;
   transform: translateX(-50%);
@@ -274,7 +274,7 @@ html[saved-theme="dark"] {
 
 .graph3d .graph3d-status {
   position: absolute;
-  z-index: 4;
+  z-index: 6;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
