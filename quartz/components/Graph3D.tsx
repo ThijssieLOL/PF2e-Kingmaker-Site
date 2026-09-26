@@ -18,7 +18,7 @@ function Graph3D({ displayClass }: QuartzComponentProps) {
 
       <div class="graph3d-panel">
         <h2>Graph View</h2>
-        <p class="graph3d-count">Loading the graph…</p>
+        <p class="graph3d-count">Loading…</p>
 
         <div class="graph3d-search">
           <input

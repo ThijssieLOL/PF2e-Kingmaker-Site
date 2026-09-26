@@ -539,6 +539,11 @@ function init() {
       graph = factory({ controlType: "orbit", rendererConfig: { antialias: true, alpha: true } })(
         host,
       )
+      // With reduced motion the layout settles silently instead of visibly
+      // springing apart: the whole simulation runs up front, then holds still.
+      const reduceMotion =
+        typeof window.matchMedia === "function" &&
+        window.matchMedia("(prefers-reduced-motion: reduce)").matches
       graph
         .backgroundColor("rgba(0,0,0,0)")
         .showNavInfo(false)
@@ -551,8 +556,8 @@ function init() {
         .linkOpacity(0.32)
         .linkWidth(0.4)
         .linkDirectionalParticles(0)
-        .warmupTicks(40)
-        .cooldownTicks(240)
+        .warmupTicks(reduceMotion ? 200 : 40)
+        .cooldownTicks(reduceMotion ? 0 : 240)
         .d3AlphaDecay(0.022)
         .d3VelocityDecay(0.32)
         .onNodeHover((node: Node3D | null) => setFocus(node))
@@ -563,7 +568,13 @@ function init() {
           else window.location.href = href.toString()
         })
         .onEngineTick(() => updateLabelPositions())
-        .onEngineStop(() => updateLabelPositions())
+        .onEngineStop(() => {
+          updateLabelPositions()
+          if (pendingFrame) {
+            pendingFrame = false
+            graph.zoomToFit(650, 60)
+          }
+        })
 
       const scene = graph.scene()
       if (scene && scene.position) projectVec = new (scene.position.constructor)()
