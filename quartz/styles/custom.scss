@@ -6,14 +6,24 @@
 // Folder and tag listings (div.page-listing)
 //
 // The folder-page and tag-page plugins both drop a listing under the page body:
-// a count line, then ul.section-ul rows of date / title / tags. As one wide
-// column those rows read as a wall of text with a dead middle, and a stack of
-// tags makes each row taller than its title needs. Lay the entries out as a
-// grid of cards instead, so a folder's contents scan as a set of tiles.
+// a count line, then ul.section-ul rows of date / title / tags. Left alone, the
+// rows run as one wide column that reads as a wall of text with a dead middle,
+// and subfolders sit in the same run as the notes with nothing to tell them
+// apart.
 //
-// Every rule is scoped to .page-listing: that is enough to outrank the plugins'
-// own listPage.scss without an !important, and it keeps popovers, which do not
-// use the wrapper, on their compact layout.
+// So the listing is laid out as a grid of note cards, with the subfolders split
+// off above them into their own labelled band. The plugins still own every row;
+// the split is made with `order` on the rows plus the list's two
+// pseudo-elements as full-width group labels, so nothing in quartz/ or in the
+// plugins has to change.
+//
+// A row is read as a subfolder when its .meta is empty. Every note in the vault
+// gets a git-backed date from the created-modified-date plugin, so the date
+// line is a reliable marker, and subfolder rows are the only rows without one.
+//
+// Every rule is scoped to .page-listing: that outranks the plugins' own
+// listPage.scss without an !important, and it leaves popovers, which do not use
+// the wrapper, on their compact layout.
 // ---------------------------------------------------------------------------
 
 .page-listing {
@@ -24,7 +34,7 @@
 
 // "16 items under this folder." doubles as the listing's label.
 .page-listing > p {
-  margin: 0 0 1rem;
+  margin: 0 0 1.25rem;
   font-size: 0.72rem;
   font-weight: $semiBoldWeight;
   letter-spacing: 0.08em;
@@ -41,13 +51,55 @@
   list-style: none;
 }
 
+// The group labels are the list's own pseudo-elements, so the plugin keeps
+// owning the rows. `order` holds ::before above the folder band and ::after
+// between that band and the note cards, and grid-column makes each label a
+// full-width row of its own. Both start ungenerated.
+.page-listing ul.section-ul::before,
+.page-listing ul.section-ul::after {
+  content: none;
+  grid-column: 1 / -1;
+  margin-top: 0.5rem;
+  font-size: 0.72rem;
+  font-weight: $semiBoldWeight;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--gray);
+}
+
+.page-listing ul.section-ul::before {
+  order: 0;
+}
+
+.page-listing ul.section-ul::after {
+  order: 2;
+}
+
+// Label the two groups only when both are present. A tag listing has no
+// subfolder rows, and a folder holding a single kind of entry has nothing to
+// separate, so there both labels stay ungenerated and the plain list stands.
+.page-listing
+  ul.section-ul:has(li.section-li:has(> .section > .meta:empty)):has(
+    li.section-li:has(> .section > .meta:not(:empty))
+  )::before {
+  content: "Subfolders";
+}
+
+.page-listing
+  ul.section-ul:has(li.section-li:has(> .section > .meta:empty)):has(
+    li.section-li:has(> .section > .meta:not(:empty))
+  )::after {
+  content: "Notes";
+}
+
 // Each row is its own grid so the card stretches to the row height without a
-// percentage height. `height: 100%` on the card looked right but resolved to
-// the grid item's content box, and Quartz resets box-sizing on body alone, so
+// percentage height. `height: 100%` on the card looked right but resolved
+// against the row's content box, and Quartz resets box-sizing on body alone, so
 // the card's padding and border were added on top and every card spilled 29px
 // into the row below it.
 .page-listing li.section-li {
   display: grid;
+  order: 3;
   margin-bottom: 0;
 }
 
@@ -64,8 +116,42 @@
   border-color: var(--secondary);
 }
 
-// Date line. Its height is reserved even on a subfolder card, which has no
-// date, so the titles stay on one line across a row of cards.
+// A subfolder row has no date. It sorts above the note cards and runs the full
+// width as a tinted band, with an arrow to mark it as a way into another
+// listing rather than a page of its own.
+.page-listing li.section-li:has(> .section > .meta:empty) {
+  order: 1;
+  grid-column: 1 / -1;
+}
+
+.page-listing li.section-li:has(> .section > .meta:empty) > .section {
+  flex-direction: row;
+  align-items: center;
+  padding: 0.6rem 1rem;
+  border-color: color-mix(in srgb, var(--secondary) 40%, var(--lightgray));
+  background-color: color-mix(in srgb, var(--secondary) 8%, transparent);
+}
+
+.page-listing li.section-li:has(> .section > .meta:empty) > .section > .meta {
+  display: none;
+}
+
+.page-listing li.section-li:has(> .section > .meta:empty) > .section > .desc > h3 {
+  font-size: 1rem;
+}
+
+.page-listing
+  li.section-li:has(> .section > .meta:empty)
+  > .section
+  > .desc
+  > h3
+  > a::after {
+  content: " \2192";
+  color: var(--gray);
+}
+
+// Date line. Its height is reserved so a row without a date still lines its
+// title up with the card beside it.
 .page-listing li.section-li > .section > .meta {
   min-height: 1rem;
   margin: 0 0 0.35rem;
@@ -86,8 +172,7 @@
   background-color: transparent;
 }
 
-// Tag chips. Pushing them to the card's foot keeps the chips on a common
-// baseline across a row, whether or not a card has a title of its own to wrap.
+// Tag chips, pinned to the card's foot so they line up across a row.
 .page-listing li.section-li > .section > .tags {
   display: flex;
   flex-wrap: wrap;
@@ -112,18 +197,4 @@
 .page-listing li.section-li > .section > .tags .tag-link:hover {
   background-color: var(--tertiary);
   color: var(--light);
-}
-
-// A subfolder card carries neither date nor tags. Label it in the date slot so
-// a folder is told apart from a note at a glance, then tint the whole card.
-.page-listing li.section-li > .section:has(> .meta:empty):has(> .tags:empty) {
-  border-color: color-mix(in srgb, var(--secondary) 45%, var(--lightgray));
-  background-color: color-mix(in srgb, var(--secondary) 8%, transparent);
-}
-
-.page-listing
-  li.section-li
-  > .section:has(> .meta:empty):has(> .tags:empty)
-  > .meta::before {
-  content: "Folder";
 }
