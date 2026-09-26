@@ -13,6 +13,7 @@ tags:
 
 ## The story
 
+story:
 
 ---
 
