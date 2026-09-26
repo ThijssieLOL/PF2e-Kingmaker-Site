@@ -39,7 +39,7 @@ The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fir
 
 ## The Shape of the Order
 
-The order is a pyramid. Most of the clergy hold Grade 9 or Grade 8, and the ranks thin with each step up until Grade 2, which a single member holds. The base is broad because the first stage of [[The Chancellery Curriculum|the Curriculum]] is expected of everyone: a recruit who enters at Grade 9 reaches Grade 8 in time, though some take longer than others.
+The order is a pyramid. Most of the clergy hold Grade 9 or Grade 8, and the ranks thin with each step up until Grade 2, which a single member holds. The base is broad because the first stage of [[The Chancellery Curriculum|the Curriculum]] is expected of everyone: a recruit who enters at Grade 9 reaches Grade 8 in time, though some take longer than others. [[The Chancellery of Celestial Aegis]] supplies the largest share of that base, and most of its members serve as soldiers, so a standing army of the faith sits at the broad bottom of the order.
 
 What stands above the base is earned by fewer each time. A bachelor's is not expected of every member, and each degree beyond it is rarer than the one before, so the smallest numbers sit at the top by design.
 
@@ -47,7 +47,9 @@ What stands above the base is earned by fewer each time. A bachelor's is not exp
 
 ## Ascension Trials
 
-To advance to a higher grade, a member of the clergy must meet strict power and combat requirements, followed by a rigorous evaluation process, held once a year:
+To advance to a higher grade, a member of the clergy must meet strict power and combat requirements and clear a rigorous evaluation, held once a year. The trials carry a candidate from Grade 9 (Spark) as far as Grade 3 (Zenith). Grade 2 sits outside them: when the seat falls vacant, the goddess names the next Solstice herself. That vacancy opens rarely, and more often through ascension than death, for a Solstice more commonly rises to Grade 1 as a [[The Star Saints|Star Saint]] at the end of their tenure than dies in office.
+
+Every trial is built from a small set of general areas that a candidate must clear in full, whatever grade they seek. The examinations below are parts of those areas rather than the whole of them, and each area grows harder as the grade climbs. The standard stays fair, but it is steep, and few reach the top.
 
 - **Theological Examination:** A mandatory, highly comprehensive written exam covering all areas of church theology and philosophy (comparable to a university end-term exam). No exemptions are permitted for this test.
 - **Combat Examination:** A physical trial of combat prowess and martial discipline.
