@@ -171,4 +171,4 @@ Carried over from the earlier sittings. Answered items keep their old numbers wi
 
 ## Next step
 
-Once the areas and their names are settled, the design moves into a dedicated note in the church folder, in the family of [[The Chancellery Curriculum]]. [[The Grade System]] then slims its Ascension Trials section to a summary and a link, and this document keeps only the working record.
+The dedicated note now exists: [[The Ascension Trials]] carries the settled design, and [[The Grade System]] keeps its summary and link. This document stays the working record, and the questions below stay open until they are answered.

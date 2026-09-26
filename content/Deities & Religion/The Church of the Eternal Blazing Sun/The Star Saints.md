@@ -12,7 +12,7 @@ status: Active
 
 ## Overview
 
-The Star Saints are the ascended mortals of [[The Church of the Eternal Blazing Sun]], raised to sainthood by [[Erisol]]. Each is a minor divine entity in the Church's mythology, represented by a sacred star or constellation, and each holds Grade 1 (Star) in [[The Grade System]]. A saint was a living person before the ascension, and the faithful pray to them as patrons of the domains they hold. The Church's supreme leader, the Grade 2 (Solstice), more often ascends into their number than dies in office ([[The Grade System#Ascension Trials]]).
+The Star Saints are the ascended mortals of [[The Church of the Eternal Blazing Sun]], raised to sainthood by [[Erisol]]. Each is a minor divine entity in the Church's mythology, represented by a sacred star or constellation, and each holds Grade 1 (Star) in [[The Grade System]]. A saint was a living person before the ascension, and the faithful pray to them as patrons of the domains they hold. The Church's supreme leader, the Grade 2 (Solstice), more often ascends into their number than dies in office ([[The Ascension Trials]]).
 
 ### Quick Facts
 - **Owner:** [[The Church of the Eternal Blazing Sun]]

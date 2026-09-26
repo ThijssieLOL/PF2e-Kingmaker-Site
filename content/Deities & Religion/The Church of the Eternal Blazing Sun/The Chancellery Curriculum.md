@@ -36,7 +36,7 @@ The first step is expected of every member: a recruit who joins at Grade 9 reach
 
 The chancellery counts follow [[The Grade System]]. Each grade carries a heavier load than the last, and the Curriculum treats the rise as the point: more chancelleries at once means more subjects held at a higher level, and the difficulty climbs faster than the count alone suggests. The requirement carries upward with the count, though Grades 4 to 2 are held by so few clergy that the vault records less about them.
 
-The climb costs time as well: for most members each step up takes far longer than the one before, and the Curriculum fixes no years. It holds the standard reachable, resting on the extraordinary aptitude and long study of the members who reach it and on no other means. A member who falls short of the qualification does not sit the ascension trials and holds their grade ([[The Grade System#Ascension Trials]]).
+The climb costs time as well: for most members each step up takes far longer than the one before, and the Curriculum fixes no years. It holds the standard reachable, resting on the extraordinary aptitude and long study of the members who reach it and on no other means. A member who falls short of the qualification does not sit the ascension trials and holds their grade ([[The Ascension Trials]]).
 
 ### Degrees & Standing
 The Church's qualifications take the names of the wider world's degrees: bachelor, master, and doctorate. The Church ranks high in prestige, and its programs are built for its own work, so a qualification won in the chancelleries serves a member best within them. The Church presents the programs as its own, funded from church coffers.

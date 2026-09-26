@@ -53,7 +53,13 @@ The goddess raises ascended mortals to sainthood, and each is represented by a s
 
 ## [[The Grade System]]
 
-The hierarchy of the church runs on a strict, fire-themed grade system, from Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself. As a member rises, their title names a larger and more powerful flame, and higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics and magical items. Advancement is earned through a theological examination, a combat examination, and a review board, and every grade from Cinder upward requires active service across a growing number of Chancelleries.
+The hierarchy of the church runs on a strict, fire-themed grade system, from Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself. As a member rises, their title names a larger and more powerful flame, and higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics and magical items. Advancement is earned through [[The Ascension Trials|the ascension trials]], and every grade from Cinder upward requires active service across a growing number of Chancelleries.
+
+---
+
+## [[The Ascension Trials]]
+
+The road up the ladder runs through the yearly ascension trial, where a candidate clears three areas in full: Combat, Specialization, and Doctrine. Those who hold [[The Chancellery Curriculum|the qualification their chancellery requires]] may sit, and those who pass face the Review Board, a council of clergy one grade higher.
 
 ---
 

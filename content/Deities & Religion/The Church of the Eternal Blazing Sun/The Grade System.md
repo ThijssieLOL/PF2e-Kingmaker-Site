@@ -14,7 +14,7 @@ The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fir
 ### Quick Facts
 - **Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Grades:** Grade 9 (Spark) down to Grade 0 (the goddess herself)
-- **Advancement:** A theological examination, a combat examination, and a review board
+- **Advancement:** The [[The Ascension Trials|ascension trials]], held once a year
 - **Chancellery Service:** Required from Grade 8 upward, growing by grade
 - **Shape:** A pyramid, broad at Grades 9 and 8, thinning to a single member at Grade 2
 
@@ -47,15 +47,6 @@ What stands above the base is earned by fewer each time. A bachelor's is not exp
 
 ## Ascension Trials
 
-To advance to a higher grade, a member of the clergy must meet strict power and combat requirements and clear a rigorous evaluation, held once a year. The trials carry a candidate from Grade 9 (Spark) as far as Grade 3 (Zenith). Grade 2 sits outside them: when the seat falls vacant, the goddess names the next Solstice herself. That vacancy opens rarely, and more often through ascension than death, for a Solstice more commonly rises to Grade 1 as a [[The Star Saints|Star Saint]] at the end of their tenure than dies in office.
+To advance to a higher grade, a member of the clergy clears the ascension trials, held once a year. Each trial is built from three areas a candidate must clear in full, whatever grade they seek: **Combat**, **Specialization**, and **Doctrine**. The trials carry a candidate from Grade 9 (Spark) as far as Grade 3 (Zenith). Grade 2 sits outside them: when the seat falls vacant, the goddess names the next Solstice herself, and the vacancy opens more often through ascension than death, for a Solstice commonly rises to Grade 1 as a [[The Star Saints|Star Saint]] at the end of their tenure than dies in office.
 
-Every trial is built from three areas that a candidate must clear in full, whatever grade they seek: **Combat**, **Specialization**, and **Doctrine**. The examinations below are parts of those areas rather than the whole of them, and each area grows harder as the grade climbs. The standard stays fair, but it is steep, and few reach the top.
-
-- **Theological Examination:** A mandatory, highly comprehensive written exam covering all areas of church theology and philosophy (comparable to a university end-term exam). No exemptions are permitted for this test.
-- **Combat Examination:** A physical trial of combat prowess and martial discipline.
-- **Chancellery Examination:** Each chancellery sets its own examination in the discipline it serves, taken alongside the theological and combat trials. A member of [[The Chancellery of the Shared Hearth]], for example, is examined in economics. At the grades that call for it, a clergy member must hold [[The Chancellery Curriculum|the qualification their chancellery requires]].
-
-- **Falling Short of the Standard:** A candidate who cannot meet the qualification their chancellery requires does not sit the ascension trials and stays at their current grade. They may attempt the qualification again the following year.
-
-- **Exemptions:** A candidate may receive an exemption from the combat exam if they possess a highly specialized, non-combat form of usefulness (such as exceptional diplomatic, scholarly, or administrative genius).
-- **The Review Board:** Candidates who pass the exams are interviewed by an appointed council of clergy members one grade higher than the rank being sought. The council weighs recommendations, character, and moral standing before granting ascension.
+The full account, the examinations inside each area, and the Review Board sit on [[The Ascension Trials]].
