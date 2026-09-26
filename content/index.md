@@ -34,3 +34,11 @@ The campaign is following an adventuring party of heroes on their quest to found
 ### Thom's current projects
 - [[Constellations and Cosmology]]
 - [[Languages]]
+
+---
+
+## 🕸️ Explore
+
+### Graph View
+The whole vault drawn as a cloud of notes you can orbit. Drag to spin it, scroll to zoom, and click any node to open that note. [Open the graph](./graph)
+

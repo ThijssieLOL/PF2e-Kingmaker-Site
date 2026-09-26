@@ -42,5 +42,9 @@ config.plugins.transformers.push(FolderNoteLinks())
 config.plugins.pageTypes ??= []
 config.plugins.pageTypes.push(FolderGraph())
 
+// The dedicated full-page 3D graph at `/graph`. It is a virtual page, so it does
+// not touch any note; see `quartz/plugins/pageTypes/graph3d.ts`.
+config.plugins.pageTypes.push(Graph3DPage())
+
 export default config
 export const layout = await loadQuartzLayout()
