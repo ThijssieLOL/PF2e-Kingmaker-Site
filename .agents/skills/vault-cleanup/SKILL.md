@@ -80,7 +80,7 @@ structure, or pages stop looking like their neighbours:
 - Humanizer §16 (lists with bold mini-headings) and §15 (too much bold) **do not apply** to
   `### Quick Facts` entries, template labels, or the vault's `**[[Name]] — Role:**` label style.
 - Humanizer §14 (dashes) applies to running prose only; the structured em-dash spots in
-  `AGENTS.md` §6 stay.
+  `AGENTS.md` §4.2 stay.
 - Everything else in humanizer — AI tells, sales language, triads, passive voice, filler — applies
   to every prose change as usual.
 
