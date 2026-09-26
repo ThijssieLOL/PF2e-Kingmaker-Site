@@ -1,5 +1,6 @@
 ---
 agent-editable: true
+title: "The Eternal Blazing Sun"
 tags:
   - faction
   - lore
