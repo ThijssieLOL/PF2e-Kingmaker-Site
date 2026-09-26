@@ -175,10 +175,12 @@ braindump.
   The break never goes between `###` subsections, never sits directly under a heading, and never
   touches a line of text above or below it. This is the vault's default layout, not an optional
   flourish; the Aurelius note shows it.
-- **Link placement (wiki-fandom style).** When a section introduces or summarises a dedicated note,
-  hyperlink the section heading itself (`### [[Note Name]]`). Never write "see [[Note]]" or
-  "(see ...)" as a pointer; if a link is needed in the body, place it on a meaningful word or phrase
-  instead.
+- **Link placement (wiki-fandom style).** When a section introduces, summarises, or hands off to a
+  dedicated note, hyperlink the section heading itself (`### [[Note Name]]`). That heading link is the
+  only pointer a reader needs, so the section ends on its content. Never write "see [[Note]]",
+  "(see ...)", or a closing referral such as "The full account sits on [[Note]]" or "More on
+  [[Note]]"; a body link belongs on a meaningful word or phrase, never on a bare pointer at the end
+  of a section.
 - **Templates are scaffolds, not layout models.** A note under `content/Templates/` lists the fields
   to fill in, and its formatting is not the house style. Templates commonly skip the `---` after the
   Quick Facts block and split the page into a run of one-line `##` sections. Fill the fields, then
@@ -250,7 +252,9 @@ questions rather than edits (§4).
 3. **Plan** — outline your changes. If the scope is ambiguous, ask the user before writing.
 4. **Edit** — minimal, focused changes. Never reformat or "clean up" files beyond your task.
 5. **Self-review** — run every prose change through the `humanizer` skill (§4.2), then re-read your
-   edits for tone, canon, markdown, and frontmatter validity.
+   edits for tone, canon, markdown, and frontmatter validity. Confirm no section closes on a bare
+   link pointer: if a section summarises a dedicated note, the heading carries the link instead
+   (§4.3).
 6. **Run the guard** — before finishing, and always before a commit:
 
    ```powershell

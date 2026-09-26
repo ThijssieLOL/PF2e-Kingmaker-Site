@@ -45,8 +45,6 @@ What stands above the base is earned by fewer each time. A bachelor's is not exp
 
 ---
 
-## Ascension Trials
+## [[The Ascension Trials]]
 
 To advance to a higher grade, a member of the clergy clears the ascension trials, held once a year. Each trial is built from three areas a candidate must clear in full, whatever grade they seek: **Combat**, **Specialization**, and **Doctrine**. The trials carry a candidate from Grade 9 (Spark) as far as Grade 3 (Zenith). Grade 2 sits outside them: when the seat falls vacant, the goddess names the next Solstice herself, and the vacancy opens more often through ascension than death, for a Solstice commonly rises to Grade 1 as a [[The Star Saints|Star Saint]] at the end of their tenure than dies in office.
-
-The full account, the examinations inside each area, and the Review Board sit on [[The Ascension Trials]].

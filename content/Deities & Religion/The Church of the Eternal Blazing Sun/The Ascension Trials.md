@@ -55,7 +55,7 @@ A candidate who clears the three areas is interviewed by an appointed council of
 
 ## House Notes
 
-- This page owns the ascension trials. [[The Grade System]] carries the summary and links here.
+- This page owns the ascension trials; [[The Grade System]] keeps only the summary.
 - Open item: whether a real fourth gate sits behind the phrase "strict power and combat requirements".
 - Open item: how [[The Chancellery Curriculum|the qualification]] relates to the Chancellery Examination, whether the degree is the ticket to sit and the exam a second test on the same field or the two are one event.
 - Open item: who marks the areas beyond Sacred Canon's Theological Examination.
