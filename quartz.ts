@@ -2,6 +2,25 @@ import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/conf
 import { FolderNoteLinks } from "./quartz/plugins/transformers"
 import { FolderGraph } from "./quartz/plugins/pageTypes"
 import { componentRegistry } from "./quartz/components/registry"
+import { isFolderPath } from "./quartz/util/path"
+import type { QuartzPluginData } from "./quartz/plugins/vfile"
+
+// A folder page's listing sorts date-first by default, and every page carries a
+// date from git, so the list reads in last-edited order and a note edited today
+// jumps to the top of its folder. Override the plugin's sort so the subfolder
+// band and the note cards both read alphabetically, folders ahead of notes. This
+// only changes the order of the rows; the custom.scss layout owns the look.
+const alphabeticallyFoldersFirst = (a: QuartzPluginData, b: QuartzPluginData): number => {
+  const aIsFolder = isFolderPath(a.slug ?? "")
+  const bIsFolder = isFolderPath(b.slug ?? "")
+  if (aIsFolder !== bIsFolder) return aIsFolder ? -1 : 1
+  const aTitle = a.frontmatter?.title?.toLowerCase() ?? ""
+  const bTitle = b.frontmatter?.title?.toLowerCase() ?? ""
+  return aTitle.localeCompare(bTitle)
+}
+componentRegistry.setOptionOverrides("@quartz-community/folder-page", {
+  sort: alphabeticallyFoldersFirst,
+})
 
 const config = await loadQuartzConfig()
 
