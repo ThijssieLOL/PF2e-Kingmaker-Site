@@ -9,7 +9,7 @@ status: Active
 
 ## Overview
 
-The Chancellery Curriculum is the academic standard the nine High Chancelleries set for their members. Every chancellery runs on difficult intellectual work, and [[The Grade System]] requires a cleric to hold the qualification of each chancellery they serve before taking it up. The Curriculum sets what that qualification is: a course of study drawn from the chancellery's field, at a level that climbs with grade, and the aptitudes its work rewards.
+The Chancellery Curriculum is the academic standard the nine High Chancelleries set for their members, the upper half of [[The Church Schooling System]]. Every chancellery runs on difficult intellectual work, and [[The Grade System]] requires a cleric to hold the qualification of each chancellery they serve before taking it up. The Curriculum sets what that qualification is: a course of study drawn from the chancellery's field, at a level that climbs with grade, and the aptitudes its work rewards.
 
 ### Quick Facts
 - **Owner:** [[The Church of the Eternal Blazing Sun]]

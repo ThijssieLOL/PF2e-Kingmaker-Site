@@ -109,7 +109,7 @@ The Church binds its far-flung parishes and its agents in the field with a divin
 ### [[The Shared Hearth Economy|Economic Stance]]
 - **Anti-Poverty & Charity:** The church views poverty as a systemic failure of society, not of the individual, and holds the state morally responsible for the welfare of its citizens. It runs one of the largest charitable operations in the world.
 - **Wealth & Hoarding:** High income is no sin; hoarding is. The strong and wealthy carry a divine obligation to support the weak.
-- **Schools:** The church educates its children through [[The Church Schooling Program]], open to any family and to orphaned children offered a chancellery in place of a sentence.
+- **Schools:** The church educates its children through [[The Church Schooling Program|the Church's schools]], the lower half of [[The Church Schooling System]], open to any family and to orphaned children offered a chancellery in place of a sentence.
 
 ---
 

@@ -9,7 +9,7 @@ status: Active
 
 ## Overview
 
-The Church of the Eternal Blazing Sun educates its children in its own schools, and every chancellery keeps a training track on top of that schooling. For many families it is the road into the faith, and for a convicted orphan it is the alternative to a prison sentence.
+The Church of the Eternal Blazing Sun educates its children in its own schools, the lower half of [[The Church Schooling System]], and every chancellery keeps a training track on top of that schooling. For many families it is the road into the faith, and for a convicted orphan it is the alternative to a prison sentence.
 
 ### Quick Facts
 - **Owner:** [[The Church of the Eternal Blazing Sun]]
