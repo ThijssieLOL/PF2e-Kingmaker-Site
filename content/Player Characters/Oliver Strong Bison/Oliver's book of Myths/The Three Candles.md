@@ -4,7 +4,7 @@ tags:
   - Ymir
 ---
 
-![[candles.png|300]]
+![[candles2.png|300]]
 
 
 ### Quick Facts
