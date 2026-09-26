@@ -24,7 +24,15 @@ The Church of the Eternal Blazing Sun carries a child from the schoolroom to the
 
 ## The Schooling Path
 
-The system runs in one line from the first year of school to the doctorate. Two pages hold its detail: one for the schools that carry a child to the diploma, and one for the standards that take over above it.
+The system runs in one line from the first year of school to the doctorate, and each stage hands on to the next. The table sets the whole road out by age and Church grade; the two pages under it hold the detail.
+
+| Program | Age | Church grade |
+| :--- | :--- | :--- |
+| General education (middle school) | 6 to 12 | Student, no grade |
+| High school | 12 to 18 | Student; Grade 9 (Spark) from 16 |
+| Bachelor's | 18 onward | Grade 8 (Cinder) |
+| Master's | No fixed age | Grade 7 (Blaze) |
+| Doctorate | No fixed age | Grade 6 (Ignis) |
 
 ### [[The Church Schooling Program]]
 The Church's schools carry a child from first lessons to the high school diploma. Any family may place a child, and a convicted orphan may take a place in one of the chancelleries in place of a sentence.
@@ -45,4 +53,5 @@ The specialised tracks are a different matter. A non-solite may take one up, but
 ## House Notes
 
 - This page gives the shape of the whole road and hands the detail to its two subnotes; it should not grow a second copy of either.
-- Open items: whether the schools charge non-solites or are free to all; what makes a child count as a solite for admission; the exact share of non-solites in the schools; whether the stages carry their own in-world names beyond middle school and high school; and the age a specialised track begins and where it is taught.
+- The Curriculum fixes no years past the diploma, so the table names an age only where canon sets one.
+- Open items: whether the schools charge non-solites or are free to all; what makes a child count as a solite for admission; the exact share of non-solites in the schools; whether the stages carry their own in-world names beyond middle school and high school; and where the specialised tracks are taught.
