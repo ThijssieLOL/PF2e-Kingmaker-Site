@@ -58,8 +58,7 @@ Rank in the Church is earned rather than granted, and the ladder runs from the s
 ### [[The Grade System]]
 The hierarchy runs on a strict, fire-themed grade ladder, from Grade 9 (Spark) at the entry to Grade 2 (Solstice) at its head, with Grade 1 (Star) and Grade 0 reserved for saints and the goddess herself. As a member rises, their title names a larger flame, and higher grades bring greater authority, access to restricted archives, higher pay, and an easier claim on powerful relics. Service across a growing number of Chancelleries is required from Cinder upward.
 
-#### [[The Ascension Trials]]
-Advancement runs through the yearly ascension trial, where a candidate clears three areas in full: Combat, Specialization, and Doctrine. Those who hold the qualification their chancellery requires may sit, and those who pass face the Review Board, a council of clergy one grade higher.
+- **[[The Ascension Trials]]:** Each step is earned through the yearly examinations, where a candidate clears Combat, Specialization, and Doctrine before the Review Board, a council of clergy one grade higher.
 
 ### [[The Church Schooling System]]
 The Church owns the road from the schoolroom to the top of its orders. Its schools carry a child to the high school diploma, and a chancellery's specialised track carries them onward into the degrees that the grade ladder ties to rank.
