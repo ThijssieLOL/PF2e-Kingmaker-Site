@@ -21,5 +21,8 @@ From that day onward, [[Ymir]] concealed the future from mortals, believing that
 
 ## Moral of the story
 
-_The future has value because it is uncertain. Do not become so concerned with what may come that you forget to live in the present._
+*The future has value because it is uncertain. Do not become so concerned with what may come that you forget to live in the present.*
+
+---
+
 
