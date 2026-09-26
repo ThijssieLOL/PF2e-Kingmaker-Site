@@ -89,9 +89,9 @@ In practice, the Church runs schools, hospitals, courts, an army, an intelligenc
 **Money and services**
 
 7. Is the tithe voluntary giving, a tax the Church levies, or a fee for rites? Who enforces non-payment?
-8. The Church runs schools, hospitals, orphanages, and relief. Does it act as the state's contractor, a rival provider, or does it claim these as its own right?
-9. When the Church feeds the poor in a land whose ruler will not pay for it, whose subjects does it make them?
-10. The Ember Post crosses any distance. Is it a mail service for members, or a utility that states come to depend on?
+8. ✅ The Church runs schools, hospitals, orphanages, and relief. Does it act as the state's contractor, a rival provider, or does it claim these as its own right?
+9. Open (to explore). When the Church feeds the poor in a land whose ruler will not pay for it, whose subjects does it make them?
+10. ✅ The Ember Post crosses any distance. Is it a mail service for members, or a utility that states come to depend on?
 11. The Meridian Cadastre keeps registries and archives of the people it serves. Is that a civil registry in function, and who may read it?
 
 **Force and intelligence**
@@ -128,12 +128,24 @@ Given for questions 1, 2, 4, and 6. Questions 3 and 5 were re-asked for clarity 
 4. "The faithful abide by the legal jurisdiction of the courts wherever they live, however if they believe it was done unfairly they can of course write to the church in which case the church can request the legal documents to see if a case or judicial system is fair and possibly veto i.e. religious discrimination"
 6. "Open to all people, you can even be a secular lawyer from an independent company and fight for your client inside of a church managed court. The only difference between a church managed court and a secular court is who is managing and overseeing them. Countries, even secular ones like to contract the church for judiciary systems due to their high expertise in areas such as ethics and law. The church even respects country specific laws as long as they do not contradict the church established ethics"
 
+## Round 2 answers (verbatim)
+
+Given for questions 8, 9, and 10.
+
+8. "States contractor"
+9. "Not sure actually, thats a very interesting question and one I'd love to explore"
+10. "Just a mail service for members"
+
 ## Canon flags
 
 1. **Territory (revision).** The hub page and this document both read that the Church holds no territory and rules no land. Answer 1 revises that: it holds one small headquarters holding. The apolitical rule and the ban on crowns survive, since a headquarters ground is neither a realm nor a crown, but the "no territory" wording has to change wherever it appears.
 2. **Court review and the veto (extension).** Answer 4 gives the Church standing to review any ruling a solite calls unfair and veto it as religious discrimination. [[The Chancellery of the Purifying Flame]] ties the Moral Veto to capital sins only. Open: is this review the same Veto, needing a Grade 5 or 6 approval, or a lighter petition route run by the courts?
 3. **Courts open, state contracts (extension).** Canon reads the courts as the Church's own judiciary over clergy and ecclesiastical offences. Answer 6 opens them to everyone and lets states contract the Church as a judiciary provider. The Purifying Flame mandate and the hub's apolitical stance both need this.
+4. **The Church as the state's contractor (extension).** Answer 8 casts the Church as the state's contractor for schools, hospitals, orphanages, and relief, not a rival provider and not a claim of right. The hub already holds the state "morally responsible for the welfare of its citizens" while the Church "runs one of the largest charitable operations in the world," so the two fit: the state carries the duty, the Church delivers on contract. Open: how the Church acts where a ruler will not fund relief at all, which is question 9.
+5. **The Ember Post (confirmation).** Answer 10 reads the Post as a mail service for members, which [[The Ember Post]] already supports: ember ink is a supply "any faithful in good standing may draw on," and the post binds the Church's parishes and field agents. No canon change needed.
 
 ## Next step
 
-When the questions are settled, the answers land on [[The Church of the Eternal Blazing Sun]] in its Political & Economic Philosophy section. If the distinction grows past a section, it earns a note of its own in the church folder, and this document keeps only the working record. The Territory and membership block is answered bar questions 3 and 5; canon waits on those two and on the first canon flag before it is written.
+When the questions are settled, the answers land on [[The Church of the Eternal Blazing Sun]] in its Political & Economic Philosophy section. If the distinction grows past a section, it earns a note of its own in the church folder, and this document keeps only the working record.
+
+The Territory and membership block is answered bar questions 3 and 5; canon waits on those two and on the first canon flag before it is written. The Money and services block is part-answered: question 8 gives the Church its contractor role and question 10 confirms the Ember Post as members-only. Question 9 is the one the user wants to explore, and questions 7 and 11 are still open.
