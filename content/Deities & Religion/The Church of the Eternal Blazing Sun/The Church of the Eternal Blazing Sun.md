@@ -134,6 +134,7 @@ The church does not treat its clergy as flawless moral figures, but as redeemed 
 
 ### Other Orthodox Churches
 - **The Concordance of True Faiths:** The church keeps diplomatic relations with other mainstream, benevolent deities, but its dealings often carry a gentle, patronizing condescension, for it holds the sun goddess to be the absolute pinnacle of moral goodness.
+- **The Moon & Earth Churches:** The church counts [[The Church of the Everlasting Moonlight]] and [[The Order of the Sacred Mother]] among the well-aligned orthodox faiths, keeps good relations with both, and cooperates with them from time to time.
 
 ### [[The Grand Order of the Phoenix]]
 A smaller denomination that split from the church on good terms and remains in its good graces, venerating the same sun goddess and departing from orthodoxy in practice rather than doctrine. Its most distinctive departure is the blood-blessed tradition of thrall-binding, a holy necromancy that never touches the dead.
