@@ -27,7 +27,6 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 
 *Cantrip 1 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -37,7 +36,6 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 ### Hydraulic Push
 
 *Spell 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -49,7 +47,6 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 
 *Spell 2 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -59,7 +56,6 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 ### Crashing Wave
 
 *Spell 3 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -71,7 +67,6 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 
 *Spell 4 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -81,7 +76,6 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 ### Control Water
 
 *Spell 5 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -93,7 +87,6 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 
 *Spell 6 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -103,7 +96,6 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 ### Dancing Fountain
 
 *Spell 7 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -115,7 +107,6 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 
 *Spell 8 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -126,12 +117,11 @@ The verses that the [[Vanguard of Roaring Waters]] lends [[Aurelius]], set down 
 
 *Spell 9 · shared with the [[Shepherd of Errant Winds]] and the [[Stalker in Darkened Boughs]]; one verse serves all three families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Shepherd of Errant Winds|Shepherd of Errant Winds]], which lends it at the same rank.
+Set down on [[The Hymnal - Shepherd of Errant Winds|the Shepherd of Errant Winds page]].
 
 ### River Carving Mountains
 
 *Focus 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**

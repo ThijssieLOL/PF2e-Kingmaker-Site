@@ -27,7 +27,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 
 *Cantrip 1 · Attack, Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet*
 
-
 - **Manifestation:** A white-lit vine lances from his palm and coils around the target's legs, trailing light.
 - **Verbal Component:** "Let the bough rise at Thy word and bind the step of my enemy."
 - **Somatic Component:** The Mother -> The Archer
@@ -37,7 +36,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 ### Protector Tree
 
 *Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
-
 
 - **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, almost made from ethereal light, its leaves pale and glowing.
 - **Verbal Component:** "Thou who keepest every growing thing, set the tree over them and let it hold."
@@ -49,7 +47,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 
 *Spell 2 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -59,7 +56,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 ### Safe Passage
 
 *Spell 3 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -71,7 +67,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 
 *Spell 4 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -81,7 +76,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 ### Truespeech
 
 *Spell 5 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -93,7 +87,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 
 *Spell 6 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -103,7 +96,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 ### Lifewood Cage
 
 *Spell 7 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -115,7 +107,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 
 *Spell 8 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -126,7 +117,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 
 *Spell 9 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -136,7 +126,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 ### Garden of Healing
 
 *Focus 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**

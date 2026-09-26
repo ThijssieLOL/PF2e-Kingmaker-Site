@@ -27,12 +27,11 @@ The verses that the [[Monarch of the Fey Courts]] lends [[Aurelius]], set down i
 
 *Cantrip 1 · shared with the [[Custodian of Groves and Gardens]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves and Gardens|Custodian of Groves and Gardens]], which lends it at the same rank.
+Set down on [[The Hymnal - Custodian of Groves and Gardens|the Custodian of Groves and Gardens page]].
 
 ### Charm
 
 *Spell 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -44,7 +43,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves
 
 *Spell 2 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -54,7 +52,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves
 ### Enthrall
 
 *Spell 3 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -66,7 +63,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves
 
 *Spell 4 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -76,7 +72,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves
 ### Hallucination
 
 *Spell 5 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:** -
@@ -88,7 +83,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves
 
 *Spell 6 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -98,7 +92,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves
 ### Mask of Terror
 
 *Spell 7 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -110,7 +103,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves
 
 *Spell 8 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -121,7 +113,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves
 
 *Spell 9 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -131,7 +122,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves
 ### Nymph's Grace
 
 *Focus 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**

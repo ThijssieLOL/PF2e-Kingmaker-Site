@@ -27,7 +27,6 @@ The verses that the [[Steward of Stone and Fire]] lends [[Aurelius]], set down i
 
 *Cantrip 1 · Attack, Concentrate, Fire, Manipulate · two actions · range 30 feet*
 
-
 - **Manifestation:** A plain flame springs up in his open palm, then his light takes it and it leaps at the target as holy fire.
 - **Verbal Component:** "O Blazing Sun, kindle Thou the flame, that it find him and burn."
 - **Somatic Component:** The Dragon -> The Archer
@@ -37,7 +36,6 @@ The verses that the [[Steward of Stone and Fire]] lends [[Aurelius]], set down i
 ### Interposing Earth
 
 *Spell 1 · Earth, Manipulate · reaction · duration 3 rounds*
-
 
 - **Manifestation:** A slab of packed earth tears up from the ground and stands before the target, ringed in Aureolin White light, a wall thrown up against the blast.[1](#ref-1)
 - **Verbal Component:** "By Thy light let the earth stand, and let it bear what I cannot."
@@ -49,7 +47,6 @@ The verses that the [[Steward of Stone and Fire]] lends [[Aurelius]], set down i
 
 *Spell 2 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -59,7 +56,6 @@ The verses that the [[Steward of Stone and Fire]] lends [[Aurelius]], set down i
 ### Fireball
 
 *Spell 3 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -71,7 +67,6 @@ The verses that the [[Steward of Stone and Fire]] lends [[Aurelius]], set down i
 
 *Spell 4 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -81,7 +76,6 @@ The verses that the [[Steward of Stone and Fire]] lends [[Aurelius]], set down i
 ### Wall of Stone
 
 *Spell 5 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -93,12 +87,11 @@ The verses that the [[Steward of Stone and Fire]] lends [[Aurelius]], set down i
 
 *Spell 6 · shared with the [[Speaker in Sibilance]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Speaker in Sibilance|Speaker in Sibilance]], which lends it at the same rank.
+Set down on [[The Hymnal - Speaker in Sibilance|the Speaker in Sibilance page]].
 
 ### Volcanic Eruption
 
 *Spell 7 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -110,7 +103,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Speaker in Sibilanc
 
 *Spell 8 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -121,7 +113,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Speaker in Sibilanc
 
 *Spell 9 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -131,7 +122,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Speaker in Sibilanc
 ### Earth's Bile
 
 *Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
-
 
 - **Manifestation:** A tongue of Aureolin White fire gathers in either hand; he hurls the first, then the second a beat behind, and the second strikes the first into a firework burst.
 - **Verbal Component:** "O Blazing Sun, let Thy flame find them and not go out."

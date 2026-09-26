@@ -27,7 +27,6 @@ The verses that the [[Witness to Ancient Battles]] lends [[Aurelius]], set down 
 
 *Cantrip 1 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:** -
@@ -38,12 +37,11 @@ The verses that the [[Witness to Ancient Battles]] lends [[Aurelius]], set down 
 
 *Spell 1 · shared with the [[Lamentation of Sinister Deals]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Lamentation of Sinister Deals|Lamentation of Sinister Deals]], which lends it at the same rank.
+Set down on [[The Hymnal - Lamentation of Sinister Deals|the Lamentation of Sinister Deals page]].
 
 ### Enlarge
 
 *Spell 2 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -55,12 +53,11 @@ This verse is shared; it is recorded with the [[The Hymnal - Lamentation of Sini
 
 *Spell 3 · shared with the [[Crafter in the Vault]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Crafter in the Vault|Crafter in the Vault]], which lends it at the same rank.
+Set down on [[The Hymnal - Crafter in the Vault|the Crafter in the Vault page]].
 
 ### Weapon Storm
 
 *Spell 4 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -72,7 +69,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Crafter in the Vaul
 
 *Spell 5 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -83,12 +79,11 @@ This verse is shared; it is recorded with the [[The Hymnal - Crafter in the Vaul
 
 *Spell 6 · shared with the [[Echo of Lost Moments]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Echo of Lost Moments|Echo of Lost Moments]], which lends it at the same rank.
+Set down on [[The Hymnal - Echo of Lost Moments|the Echo of Lost Moments page]].
 
 ### True Target
 
 *Spell 7 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -100,7 +95,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Echo of Lost Moment
 
 *Spell 8 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -111,7 +105,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Echo of Lost Moment
 
 *Spell 9 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -121,7 +114,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Echo of Lost Moment
 ### Embodiment of Battle
 
 *Focus 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**

@@ -27,7 +27,6 @@ The verses that the [[Shepherd of Errant Winds]] lends [[Aurelius]], set down in
 
 *Cantrip 1 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -37,7 +36,6 @@ The verses that the [[Shepherd of Errant Winds]] lends [[Aurelius]], set down in
 ### Tailwind
 
 *Spell 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -49,7 +47,6 @@ The verses that the [[Shepherd of Errant Winds]] lends [[Aurelius]], set down in
 
 *Spell 2 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -59,7 +56,6 @@ The verses that the [[Shepherd of Errant Winds]] lends [[Aurelius]], set down in
 ### Wall of Wind
 
 *Spell 3 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -71,7 +67,6 @@ The verses that the [[Shepherd of Errant Winds]] lends [[Aurelius]], set down in
 
 *Spell 4 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -81,7 +76,6 @@ The verses that the [[Shepherd of Errant Winds]] lends [[Aurelius]], set down in
 ### Scouting Eye
 
 *Spell 5 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -93,12 +87,11 @@ The verses that the [[Shepherd of Errant Winds]] lends [[Aurelius]], set down in
 
 *Spell 6 · shared with the [[Impostor in Hidden Places]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Impostor in Hidden Places|Impostor in Hidden Places]], which lends it at the same rank.
+Set down on [[The Hymnal - Impostor in Hidden Places|the Impostor in Hidden Places page]].
 
 ### Vacuum
 
 *Spell 7 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -110,7 +103,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Impostor in Hidden 
 
 *Spell 8 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -121,7 +113,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Impostor in Hidden 
 
 *Spell 9 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -131,7 +122,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Impostor in Hidden 
 ### Gift of the Anemos
 
 *Focus 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**

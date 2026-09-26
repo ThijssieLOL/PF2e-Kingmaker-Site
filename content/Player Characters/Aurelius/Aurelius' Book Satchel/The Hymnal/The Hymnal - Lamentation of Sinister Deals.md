@@ -27,7 +27,6 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 
 *Cantrip 1 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:** -
@@ -37,7 +36,6 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 ### Sure Strike
 
 *Spell 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -49,7 +47,6 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 
 *Spell 2 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -59,7 +56,6 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 ### Hypercognition
 
 *Spell 3 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -71,7 +67,6 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 
 *Spell 4 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -81,7 +76,6 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 ### Breath of Life
 
 *Spell 5 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -93,7 +87,6 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 
 *Spell 6 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -103,7 +96,6 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 ### Contingency
 
 *Spell 7 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -115,18 +107,17 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 
 *Spell 8 · shared with the [[Custodian of Groves and Gardens]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Custodian of Groves and Gardens|Custodian of Groves and Gardens]], which lends it at the same rank.
+Set down on [[The Hymnal - Custodian of Groves and Gardens|the Custodian of Groves and Gardens page]].
 
 ### Resplendent Mansion
 
 *Spell 9 · shared with the [[Crafter in the Vault]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Crafter in the Vault|Crafter in the Vault]], which lends it at the same rank.
+Set down on [[The Hymnal - Crafter in the Vault|the Crafter in the Vault page]].
 
 ### Wish Market
 
 *Focus 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**

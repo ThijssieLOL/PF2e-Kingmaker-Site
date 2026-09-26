@@ -27,7 +27,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Forbidding Ward
 
-
 *Cantrip 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -38,7 +37,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Guidance
 
-
 *Cantrip 1 · Concentrate · one action · range 30 feet*
 
 - **Manifestation:** A quick flare of Aureolin White on the target's brow, gone before anyone notes it.
@@ -48,7 +46,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:** -
 
 #### Needle Darts
-
 
 *Cantrip 1 · Attack, Concentrate, Manipulate, Metal · two actions · range 60 feet*
 
@@ -62,7 +59,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Benediction
 
-
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -72,7 +68,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Beseech the Sphinx
-
 
 *Spell 1 · traits · actions · range*
 
@@ -84,7 +79,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Bless
 
-
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -94,7 +88,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Blessing of Vigor
-
 
 *Spell 1 · traits · actions · range*
 
@@ -106,7 +99,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Fear
 
-
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -116,7 +108,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Harm
-
 
 *Spell 1 · traits · actions · range*
 
@@ -128,7 +119,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Heal
 
-
 *Spell 1 · Healing, Manipulate, Vitality · one to three actions · range varies*
 
 - **Manifestation:** Aureolin White light gathers at his hands and pours into the wound, closing it from within.
@@ -138,7 +128,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:** A last gold-white glimmer at the healed skin, then nothing.
 
 #### Protection
-
 
 *Spell 1 · traits · actions · range*
 
@@ -150,7 +139,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Purifying Icicle
 
-
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -160,7 +148,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Rainbow's End
-
 
 *Spell 1 · traits · actions · range*
 
@@ -172,7 +159,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Runic Body
 
-
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -183,7 +169,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Runic Weapon
 
-
 *Spell 1 · traits · actions · range*
 
 - **Manifestation:**
@@ -193,7 +178,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Summon Lesser Servitor
-
 
 *Spell 1 · traits · actions · range*
 
@@ -207,7 +191,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Banishing Touch
 
-
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -217,7 +200,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Blood Vendetta
-
 
 *Spell 2 · traits · actions · range*
 
@@ -229,7 +211,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Calm
 
-
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -239,7 +220,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Carrion Mire
-
 
 *Spell 2 · traits · actions · range*
 
@@ -251,7 +231,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Cleanse Affliction
 
-
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -261,7 +240,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Clear Mind
-
 
 *Spell 2 · traits · actions · range*
 
@@ -273,7 +251,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Dancing Shield
 
-
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -283,7 +260,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Dispel Magic
-
 
 *Spell 2 · traits · actions · range*
 
@@ -295,7 +271,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Inner Radiance Torrent
 
-
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -305,7 +280,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Manifestation of Spirits
-
 
 *Spell 2 · traits · actions · range*
 
@@ -317,7 +291,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Sound Body
 
-
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -327,7 +300,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Spiritual Armament
-
 
 *Spell 2 · traits · actions · range*
 
@@ -339,7 +311,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Sudden Blight
 
-
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -349,7 +320,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Summoner's Precaution
-
 
 *Spell 2 · traits · actions · range*
 
@@ -361,7 +331,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Thermal Remedy
 
-
 *Spell 2 · traits · actions · range*
 
 - **Manifestation:**
@@ -371,7 +340,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Warrior's Regret
-
 
 *Spell 2 · traits · actions · range*
 
@@ -385,7 +353,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Begone
 
-
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -395,7 +362,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Circle of Protection
-
 
 *Spell 3 · traits · actions · range*
 
@@ -407,7 +373,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Deep Sight
 
-
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -417,7 +382,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Glyph of Warding
-
 
 *Spell 3 · traits · actions · range*
 
@@ -429,7 +393,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Heatvision
 
-
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -439,7 +402,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Heroism
-
 
 *Spell 3 · traits · actions · range*
 
@@ -451,7 +413,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Horde of Underlings
 
-
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -461,7 +422,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Infectious Ennui
-
 
 *Spell 3 · traits · actions · range*
 
@@ -473,7 +433,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Martyr's Intervention
 
-
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -483,7 +442,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Moonlight Ray
-
 
 *Spell 3 · traits · actions · range*
 
@@ -495,7 +453,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Perceive the Threads of Fate
 
-
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -505,7 +462,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Roaring Applause
-
 
 *Spell 3 · traits · actions · range*
 
@@ -517,7 +473,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Sign of Conviction
 
-
 *Spell 3 · traits · actions · range*
 
 - **Manifestation:**
@@ -527,7 +482,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Vampiric Feast
-
 
 *Spell 3 · traits · actions · range*
 
@@ -541,7 +495,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Air Walk
 
-
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -551,7 +504,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Anathematic Reprisal
-
 
 *Spell 4 · traits · actions · range*
 
@@ -563,7 +515,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Bloodspray Curse
 
-
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -573,7 +524,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Cloak of Light
-
 
 *Spell 4 · traits · actions · range*
 
@@ -585,7 +535,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Divine Wrath
 
-
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -595,7 +544,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Enervation
-
 
 *Spell 4 · traits · actions · range*
 
@@ -607,7 +555,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Fly
 
-
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -617,7 +564,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Girzanje's March
-
 
 *Spell 4 · traits · actions · range*
 
@@ -629,7 +575,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### It Is Written
 
-
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -639,7 +584,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Phantasmal Protagonist
-
 
 *Spell 4 · traits · actions · range*
 
@@ -651,7 +595,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Procyal Philosophy
 
-
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -661,7 +604,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Radiant Beam
-
 
 *Spell 4 · traits · actions · range*
 
@@ -673,7 +615,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Radiant Heart of Devotion
 
-
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -683,7 +624,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Spell Immunity
-
 
 *Spell 4 · traits · actions · range*
 
@@ -695,7 +635,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Spiritual Anamnesis
 
-
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -706,7 +645,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Steal Voice
 
-
 *Spell 4 · traits · actions · range*
 
 - **Manifestation:**
@@ -716,7 +654,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Vital Beacon
-
 
 *Spell 4 · traits · actions · range*
 
@@ -730,7 +667,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Confusing Cry
 
-
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -740,7 +676,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Diadem of Divine Radiance
-
 
 *Spell 5 · traits · actions · range*
 
@@ -752,7 +687,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Divine Immolation
 
-
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -762,7 +696,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Drop Dead
-
 
 *Spell 5 · traits · actions · range*
 
@@ -774,7 +707,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Rip the Spirit
 
-
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -784,7 +716,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Spiritual Torrent
-
 
 *Spell 5 · traits · actions · range*
 
@@ -796,7 +727,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Spiritual Transport
 
-
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -807,7 +737,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Tree of Life and Death
 
-
 *Spell 5 · traits · actions · range*
 
 - **Manifestation:**
@@ -817,7 +746,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Wall of Flesh
-
 
 *Spell 5 · traits · actions · range*
 
@@ -831,7 +759,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Awaken Entropy
 
-
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -841,7 +768,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Blessed Boundary
-
 
 *Spell 6 · traits · actions · range*
 
@@ -853,7 +779,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Bounty of the Sky
 
-
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -863,7 +788,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Devil Form
-
 
 *Spell 6 · traits · actions · range*
 
@@ -875,7 +799,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Dragon Form
 
-
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -885,7 +808,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Heinous Future
-
 
 *Spell 6 · traits · actions · range*
 
@@ -897,7 +819,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Raise Dead
 
-
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -907,7 +828,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Repulsion
-
 
 *Spell 6 · traits · actions · range*
 
@@ -919,7 +839,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Scintillating Safeguard
 
-
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -929,7 +848,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Spirit Blast
-
 
 *Spell 6 · traits · actions · range*
 
@@ -941,7 +859,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Suspended Retribution
 
-
 *Spell 6 · traits · actions · range*
 
 - **Manifestation:**
@@ -951,7 +868,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Vampiric Exsanguination
-
 
 *Spell 6 · traits · actions · range*
 
@@ -965,7 +881,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Angel Form
 
-
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -975,7 +890,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Attacked From Within
-
 
 *Spell 7 · traits · actions · range*
 
@@ -987,7 +901,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Chrysopoetic Curse
 
-
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -997,7 +910,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Devouring Void
-
 
 *Spell 7 · traits · actions · range*
 
@@ -1009,7 +921,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Eclipse Burst
 
-
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -1019,7 +930,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Energy Aegis
-
 
 *Spell 7 · traits · actions · range*
 
@@ -1031,7 +941,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Ethereal Jaunt
 
-
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -1041,7 +950,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Execute
-
 
 *Spell 7 · traits · actions · range*
 
@@ -1053,7 +961,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Fiendish Rift
 
-
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -1063,7 +970,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Final Fate of the Locust Host
-
 
 *Spell 7 · traits · actions · range*
 
@@ -1075,7 +981,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Moonburst
 
-
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -1085,7 +990,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Shock to the System
-
 
 *Spell 7 · traits · actions · range*
 
@@ -1097,7 +1001,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Spell Riposte
 
-
 *Spell 7 · traits · actions · range*
 
 - **Manifestation:**
@@ -1107,7 +1010,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Sunburst
-
 
 *Spell 7 · traits · actions · range*
 
@@ -1121,7 +1023,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Canticle of Everlasting Grief
 
-
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -1131,7 +1032,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Divine Armageddon
-
 
 *Spell 8 · traits · actions · range*
 
@@ -1143,7 +1043,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Divine Aura
 
-
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -1153,7 +1052,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Incarnate Deific Herald
-
 
 *Spell 8 · traits · actions · range*
 
@@ -1165,7 +1063,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Moment of Renewal
 
-
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -1175,7 +1072,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Musical Shift
-
 
 *Spell 8 · traits · actions · range*
 
@@ -1187,7 +1083,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Part the Mists to Paradise
 
-
 *Spell 8 · traits · actions · range*
 
 - **Manifestation:**
@@ -1197,7 +1092,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Spirit Song
-
 
 *Spell 8 · traits · actions · range*
 
@@ -1211,7 +1105,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Beseech Arcanotheign
 
-
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -1221,7 +1114,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Crusade
-
 
 *Spell 9 · traits · actions · range*
 
@@ -1233,7 +1125,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Dimensional Excision
 
-
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -1243,7 +1134,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Foresight
-
 
 *Spell 9 · traits · actions · range*
 
@@ -1255,7 +1145,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Massacre
 
-
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -1265,7 +1154,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Overwhelming Presence
-
 
 *Spell 9 · traits · actions · range*
 
@@ -1277,7 +1165,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Sacred Covenant
 
-
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -1288,7 +1175,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Vampiric Revelry
 
-
 *Spell 9 · traits · actions · range*
 
 - **Manifestation:**
@@ -1298,7 +1184,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Voracious Gestalt
-
 
 *Spell 9 · traits · actions · range*
 
@@ -1312,7 +1197,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Avatar
 
-
 *Spell 10 · traits · actions · range*
 
 - **Manifestation:**
@@ -1322,7 +1206,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Conquering Soldiers
-
 
 *Spell 10 · traits · actions · range*
 
@@ -1334,7 +1217,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Garden of the Green Man's Growth
 
-
 *Spell 10 · traits · actions · range*
 
 - **Manifestation:**
@@ -1345,7 +1227,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 #### Miracle
 
-
 *Spell 10 · traits · actions · range*
 
 - **Manifestation:**
@@ -1355,7 +1236,6 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 - **Residue:**
 
 #### Tear the Veil
-
 
 *Spell 10 · traits · actions · range*
 

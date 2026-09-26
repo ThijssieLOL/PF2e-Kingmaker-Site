@@ -27,7 +27,6 @@ The verses that the [[Reveler in Lost Glee]] lends [[Aurelius]], set down in [[T
 
 *Cantrip 1 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -37,7 +36,6 @@ The verses that the [[Reveler in Lost Glee]] lends [[Aurelius]], set down in [[T
 ### Dizzying Colors
 
 *Spell 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -49,7 +47,6 @@ The verses that the [[Reveler in Lost Glee]] lends [[Aurelius]], set down in [[T
 
 *Spell 2 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -59,7 +56,6 @@ The verses that the [[Reveler in Lost Glee]] lends [[Aurelius]], set down in [[T
 ### Hypnotize
 
 *Spell 3 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -71,7 +67,6 @@ The verses that the [[Reveler in Lost Glee]] lends [[Aurelius]], set down in [[T
 
 *Spell 4 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -82,12 +77,11 @@ The verses that the [[Reveler in Lost Glee]] lends [[Aurelius]], set down in [[T
 
 *Spell 5 · shared with the [[Echo of Lost Moments]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Echo of Lost Moments|Echo of Lost Moments]], which lends it at the same rank.
+Set down on [[The Hymnal - Echo of Lost Moments|the Echo of Lost Moments page]].
 
 ### Vibrant Pattern
 
 *Spell 6 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:** -
@@ -99,7 +93,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Echo of Lost Moment
 
 *Spell 7 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -110,12 +103,11 @@ This verse is shared; it is recorded with the [[The Hymnal - Echo of Lost Moment
 
 *Spell 8 · shared with the [[Echo of Lost Moments]]; one verse serves both families.*
 
-This verse is shared; it is recorded with the [[The Hymnal - Echo of Lost Moments|Echo of Lost Moments]], which lends it at the same rank.
+Set down on [[The Hymnal - Echo of Lost Moments|the Echo of Lost Moments page]].
 
 ### Wails of the Damned
 
 *Spell 9 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -126,7 +118,6 @@ This verse is shared; it is recorded with the [[The Hymnal - Echo of Lost Moment
 ### Trickster's Mirrors
 
 *Focus 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**

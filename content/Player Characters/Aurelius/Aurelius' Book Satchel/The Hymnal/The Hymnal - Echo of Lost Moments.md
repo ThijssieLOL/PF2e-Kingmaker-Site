@@ -27,7 +27,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 
 *Cantrip 1 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -37,7 +36,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 ### Déjà Vu
 
 *Spell 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -49,7 +47,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 
 *Spell 2 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -59,7 +56,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 ### Curse of Lost Time
 
 *Spell 3 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -71,7 +67,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 
 *Spell 4 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -81,7 +76,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 ### Illusory Scene
 
 *Spell 5 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -93,7 +87,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 
 *Spell 6 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -103,7 +96,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 ### Retrocognition
 
 *Spell 7 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -115,7 +107,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 
 *Spell 8 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -126,7 +117,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 
 *Spell 9 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -136,7 +126,6 @@ The verses that the [[Echo of Lost Moments]] lends [[Aurelius]], set down in [[T
 ### Store Time
 
 *Focus 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**

@@ -27,7 +27,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 
 *Cantrip 1 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -37,7 +36,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 ### Ill Omen
 
 *Spell 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -49,7 +47,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 
 *Spell 2 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:** -
 - **Somatic Component:**
@@ -59,7 +56,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 ### Veil of Privacy
 
 *Spell 3 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -71,7 +67,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 
 *Spell 4 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -81,7 +76,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 ### Strange Geometry
 
 *Spell 5 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -93,7 +87,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 
 *Spell 6 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -103,7 +96,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 ### Planar Palace
 
 *Spell 7 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
@@ -115,7 +107,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 
 *Spell 8 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:** -
 - **Somatic Component:**
@@ -126,7 +117,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 
 *Spell 9 · traits · actions · range*
 
-
 - **Manifestation:**
 - **Verbal Component:**
 - **Somatic Component:**
@@ -136,7 +126,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 ### Discomfiting Whisper
 
 *Focus 1 · traits · actions · range*
-
 
 - **Manifestation:**
 - **Verbal Component:**
