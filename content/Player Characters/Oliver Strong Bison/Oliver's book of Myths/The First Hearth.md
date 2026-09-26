@@ -21,6 +21,6 @@ The legends claim that the first **Kellid** hearth never belonged to a single fa
 
 ## Moral of the story
 
-No person can thrive alone. What we share with our community, food, warmth, shelter, and kindness, strengthens everyone.
+No person can thrive alone. What we share with our community: food warmth, shelter, and kindness, strengthens everyone.
 
 ---
