@@ -78,17 +78,16 @@
 // Label the two groups only when both are present. A tag listing has no
 // subfolder rows, and a folder holding a single kind of entry has nothing to
 // separate, so there both labels stay ungenerated and the plain list stands.
-.page-listing
-  ul.section-ul:has(li.section-li:has(> .section > .meta:empty)):has(
-    li.section-li:has(> .section > .meta:not(:empty))
-  )::before {
+//
+// The test is written against .meta rather than against the rows because a
+// :has() is not valid inside another :has(), and every .meta in the listing
+// belongs to a row, so "the list has an empty .meta" is the same as "the list
+// has a subfolder row".
+.page-listing ul.section-ul:has(.meta:empty):has(.meta:not(:empty))::before {
   content: "Subfolders";
 }
 
-.page-listing
-  ul.section-ul:has(li.section-li:has(> .section > .meta:empty)):has(
-    li.section-li:has(> .section > .meta:not(:empty))
-  )::after {
+.page-listing ul.section-ul:has(.meta:empty):has(.meta:not(:empty))::after {
   content: "Notes";
 }
 
