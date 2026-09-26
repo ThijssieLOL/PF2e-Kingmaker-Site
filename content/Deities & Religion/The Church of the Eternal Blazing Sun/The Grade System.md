@@ -49,7 +49,7 @@ What stands above the base is earned by fewer each time. A bachelor's is not exp
 
 To advance to a higher grade, a member of the clergy must meet strict power and combat requirements and clear a rigorous evaluation, held once a year. The trials carry a candidate from Grade 9 (Spark) as far as Grade 3 (Zenith). Grade 2 sits outside them: when the seat falls vacant, the goddess names the next Solstice herself. That vacancy opens rarely, and more often through ascension than death, for a Solstice more commonly rises to Grade 1 as a [[The Star Saints|Star Saint]] at the end of their tenure than dies in office.
 
-Every trial is built from a small set of general areas that a candidate must clear in full, whatever grade they seek. The examinations below are parts of those areas rather than the whole of them, and each area grows harder as the grade climbs. The standard stays fair, but it is steep, and few reach the top.
+Every trial is built from three areas that a candidate must clear in full, whatever grade they seek: **Combat**, **Specialization**, and **Doctrine**. The examinations below are parts of those areas rather than the whole of them, and each area grows harder as the grade climbs. The standard stays fair, but it is steep, and few reach the top.
 
 - **Theological Examination:** A mandatory, highly comprehensive written exam covering all areas of church theology and philosophy (comparable to a university end-term exam). No exemptions are permitted for this test.
 - **Combat Examination:** A physical trial of combat prowess and martial discipline.
