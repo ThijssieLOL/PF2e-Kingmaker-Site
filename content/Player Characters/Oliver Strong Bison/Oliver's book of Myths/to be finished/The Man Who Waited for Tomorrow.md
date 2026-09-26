@@ -1,15 +1,15 @@
 ---
 tags:
   - myth
-  - Giant
+  - Groetus
 ---
 
 ![[wolfchild.jpg|300]]
 
 
 ### Quick Facts
-- **Title of the Myth:** The Wood Giant and the First Forest
-- **associated with the myth:** 
+- **Title of the Myth:** The Man Who Waited for Tomorrow
+- **associated with the myth:** [[Groetus]]
 
 
 ## The story
@@ -29,9 +29,9 @@ Most of all, he saved his words of love for tomorrow. There would always be anot
 
 Years passed.
 
-Whenever someone asked him why he never opened the good wine, he would smile and say, "Tomorrow."
+Whenever someone asked him why he never opened the good wine, he would smile and say: *"Tomorrow."*
 
-Whenever someone asked why he never wore his finest clothes, he would answer, "Tomorrow."
+Whenever someone asked why he never wore his finest clothes, he would answer: *"Tomorrow."*
 
 And whenever he thought of telling someone that he loved them, he told himself there would be time for it tomorrow.
 
