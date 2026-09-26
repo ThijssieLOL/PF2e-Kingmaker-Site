@@ -181,7 +181,7 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 52   | One could do your job better by not showing up                                                                                                                                                                                                               |
 | 53   | The only thing that lies stored within your head are your teeth                                                                                                                                                                                              |
 | 54   | Congratulations. The only purpose your life has had is to act as sustenance to the flies and mold.                                                                                                                                                           |
-| 55   | You truly live a noble life. In comparison with you, thine compatriots  look alaverage.                                                                                                                                                                      |
+| 55   | You truly live a noble life. In comparison with you, thine compatriots  look almost average.                                                                                                                                                                 |
 |      |                                                                                                                                                                                                                                                              |
 ### Personality Quizes
 ![[Zephan_Big five 1.png]]
