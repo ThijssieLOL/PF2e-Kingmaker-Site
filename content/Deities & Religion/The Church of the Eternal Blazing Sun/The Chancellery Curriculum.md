@@ -32,6 +32,8 @@ Read as a series of transitions, the ladder shows what each step up is worth in 
 | **Grade 7 → Grade 6** | A master's degree | A bachelor's in a second chancellery's track, then the master's in both |
 | **Grade 6 → Grade 5** | A doctorate | A bachelor's and master's in a third chancellery, then a doctorate in all three |
 
+The first step is expected of every member: a recruit who joins at Grade 9 reaches Grade 8 in time, though the pace differs from one to the next. The steps above it are not. A member may remain at Grade 8 for life, and the bachelor's belongs to those who go on to qualify. Each degree beyond it is rarer than the one before, and the pyramid shape of the Church follows from that ([[The Grade System]]).
+
 The chancellery counts follow [[The Grade System]]. Each grade carries a heavier load than the last, and the Curriculum treats the rise as the point: more chancelleries at once means more subjects held at a higher level, and the difficulty climbs faster than the count alone suggests. The requirement carries upward with the count, though Grades 4 to 2 are held by so few clergy that the vault records less about them.
 
 The climb costs time as well: for most members each step up takes far longer than the one before, and the Curriculum fixes no years. It holds the standard reachable, resting on the extraordinary aptitude and long study of the members who reach it and on no other means. A member who falls short of the qualification does not sit the ascension trials and holds their grade ([[The Grade System#Ascension Trials]]).

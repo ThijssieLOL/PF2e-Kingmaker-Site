@@ -16,6 +16,7 @@ The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fir
 - **Grades:** Grade 9 (Spark) down to Grade 0 (the goddess herself)
 - **Advancement:** A theological examination, a combat examination, and a review board
 - **Chancellery Service:** Required from Grade 8 upward, growing by grade
+- **Shape:** A pyramid, broad at Grades 9 and 8, thinning to a single member at Grade 2
 
 ---
 
@@ -33,6 +34,14 @@ The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fir
 | **2** | Solstice | 19–20 | The supreme leader of the church (pope-equivalent), chosen directly by the sun goddess to lead the faith on earth. | Supreme command and complete oversight over **all 9 Chancelleries**. |
 | **1** | Star | | Ascended mortals and revered saints, minor divine entities in the Church's mythology, each represented by a sacred star or constellation. | |
 | **0** | The Eternal Blazing Sun | | The Goddess herself, the absolute cosmic apex of divinity and divine authority. | |
+
+---
+
+## The Shape of the Order
+
+The order is a pyramid. Most of the clergy hold Grade 9 or Grade 8, and the ranks thin with each step up until Grade 2, which a single member holds. The base is broad because the first stage of [[The Chancellery Curriculum|the Curriculum]] is expected of everyone: a recruit who enters at Grade 9 reaches Grade 8 in time, though some take longer than others.
+
+What stands above the base is earned by fewer each time. A bachelor's is not expected of every member, and each degree beyond it is rarer than the one before, so the smallest numbers sit at the top by design.
 
 ---
 
