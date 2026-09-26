@@ -42,7 +42,7 @@ The hands are the other half of the casting. How a run of [[The Star Seals|seals
 
 ## The Recorded Library
 
-Every verse Aurelius has ever set down, kept on a page of its own: one for each of the fourteen apparition families, and one for the divine verses. The record leaves material components out and keeps the seal sequence inside the somatic line, and nothing leaves it once it is written. A verse belongs to the spell, not to the family that lends it, so a spell two families share is written once, on the page of the first family that lends it, and linked from the other.
+Every verse Aurelius has ever set down, kept on a page of its own: one for each of the fourteen apparition families, and one for each rank of the divine verses. The record leaves material components out and keeps the seal sequence inside the somatic line, and nothing leaves it once it is written. A verse belongs to the spell, not to the family that lends it, so a spell two families share is written once, on the page of the first family that lends it, and linked from the other.
 
 An apparition verse arrives in the spirit's own shape before his light takes it. The working forms first as the family would have it: fire gathers as plain fire, water as water, a vine as a green vine, earth as bare earth. Aurelius's light closes over it in the instant after it forms, and the spell burns Aureolin White from that moment on. His magic does not replace the apparition's; it takes control of it.
 
@@ -69,6 +69,6 @@ Each of the fourteen families lends one cantrip, one verse of each rank, and a v
 | [[The Hymnal - Vanguard of Roaring Waters|Vanguard of Roaring Waters]] | Rapids and rivers |
 | [[The Hymnal - Witness to Ancient Battles|Witness to Ancient Battles]] | Soldiers and sieges |
 
-### The Divine Verses
+### [[The Hymnal - Divine Verses|The Divine Verses]]
 
-The verses Aurelius prays for himself, sorted by rank, are recorded in [[The Hymnal - Divine Verses]].
+The verses Aurelius prays for himself, sorted by rank under one hub, each rank kept on a page of its own.
