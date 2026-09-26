@@ -25,6 +25,7 @@ The Chancellery of Prismatic Inquiry is the general scientific research arm of [
 - **General Science:** The Church's broad research body, covering the natural sciences and building the instruments the Church's work depends on.
 - **Alchemy & Medicine:** Alchemical advancement and medical research.
 - **Divine Energy:** The physical properties of divine energy itself.
+- **Relic Lore:** Identifies relics, appraises the magic in them, and keeps them sound.
 
 ---
 

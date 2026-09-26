@@ -89,7 +89,7 @@ The Church runs its affairs with the scale and discipline of a sovereign empire.
 | [[The Chancellery of the Outer Horizon]] | Foreign Affairs & External Missions | Diplomacy and covert missions abroad. |
 | [[The Chancellery of Celestial Aegis]] | Defense & Holy Military | Command of the Church's armed forces and its holy wars. |
 | [[The Chancellery of Consecrated Solace]] | Public Health & Sacred Rites | Hospitals, disaster relief, and the cremation rites. |
-| [[The Chancellery of the Meridian Cadastre]] | Civil Administration & Archives | Registries, archives, and the Ember Post. |
+| [[The Chancellery of the Meridian Cadastre]] | Civil Administration & Archives | Registries, archives, relic custody, and the Ember Post. |
 
 ### [[The Ember Post]]
 The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road. A letter written in the right ink and committed to flame crosses any distance as a swirl of embers, then condenses again out of the fire of the one it was meant for.

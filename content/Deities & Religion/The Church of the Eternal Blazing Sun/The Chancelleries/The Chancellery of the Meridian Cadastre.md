@@ -28,6 +28,9 @@ The Chancellery maintains population censuses, civil registries (births, deaths,
 ### The Ember Post
 Every local church's [[The Ember Post|message hearth]] falls under the Cadastre's authority. The Chancellery issues the consecrated ember ink and appoints each parish's hearth keeper. It sets the protocols by which inbound correspondence is received, sorted, and archived, and maintains the central message registry that lets the Church coordinate across all archdioceses at the speed of flame.
 
+### Relic Custody
+The Chancellery keeps the Church's relics and consecrated objects. It holds them in vaults under its seal, records where each came from, and maintains the register of which cleric holds a relic and by what authority. Nothing leaves a vault without an entry in that register.
+
 ---
 
 ## Structure & Ranks

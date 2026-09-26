@@ -25,6 +25,7 @@ The Chancellery of Celestial Aegis is the shield of [[The Church of the Eternal 
 - **The Standing Forces:** Commands the Church's armed forces: temple guardians, heavily armored paladin orders, and military fleets.
 - **Holy War:** Wages large-scale warfare against undead incursions and demonic threats.
 - **The Combat Examination:** Advises [[The Chancellery of Sacred Canon]] on the combat paper of the ascension trials ([[The Ascension Trials]]).
+- **Vault Watch:** Provides the armed guard for the Church's relic vaults.
 
 ---
 

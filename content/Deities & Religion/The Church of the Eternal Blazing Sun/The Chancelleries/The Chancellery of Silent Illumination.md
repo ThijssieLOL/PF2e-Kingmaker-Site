@@ -27,7 +27,7 @@ The Chancellery of Silent Illumination is the intelligence service of [[The Chur
 
 ### Internal Investigation & Anti-Corruption
 - **The Internal Purge:** Agents of Silent Illumination quietly monitor priests, bishops, and secular officials, acting on the Church's zero-tolerance policy for corruption and wealth hoarding.
-- **Ecclesiastical Audits:** Agents may investigate high-ranking clergy suspected of betraying holy tenets, embezzling tithes, or misusing relics.
+- **Ecclesiastical Audits:** Agents may investigate high-ranking clergy suspected of betraying holy tenets, embezzling tithes, or stealing or misusing relics.
 
 ### Foreign Investigation & Field Operations
 - **Hostile Surveillance:** Operatives are placed in foreign lands (especially regions where the Church is banned or heavily suppressed) to gather intelligence on hostile regimes, cult activity, and necromantic threats.
