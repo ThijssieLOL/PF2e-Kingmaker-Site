@@ -23,6 +23,8 @@ The girl eventually became a great traveler, and her descendants claim that [[Ym
 
 ## Moral of the story
 
+*Do not let others decide which dreams are foolish. A dream does not need to be achieved exactly as imagined to lead you somewhere wonderful.*
 
 ---
+
 

@@ -28,7 +28,7 @@ The oldest **Elvish** astronomers claim that every star in the heavens is anothe
 
 ## Moral of the story
 
-The unknown should not be feared. There is always more of the world to discover, and curiosity is what leads us beyond what we already know.
+*The unknown should not be feared. There is always more of the world to discover, and curiosity is what leads us beyond what we already know.*
 
 ---
 
