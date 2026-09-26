@@ -17,11 +17,35 @@ The verses that the [[Lurker in Devouring Dark]] lends [[Aurelius]], set down in
 
 ### Quick Facts
 - **Family:** [[Lurker in Devouring Dark]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Devouring Dark Form]] | Vessel spell |
+| [[#Caustic Blast]] | Cantrip |
+| [[#Grim Tendrils]] | 1st |
+| [[#Acid Grip]] | 2nd |
+| [[#Aqueous Orb]] | 3rd |
+| [[#Grasp of the Deep]] | 4th |
+| [[#Wall of Ice]] | 5th |
+| [[#Frost Pillar]] | 6th |
+| [[#Hungry Depths]] | 7th |
+| [[#Arctic Rift]] | 8th |
+| [[#Implosion]] | 9th |
+
+### Devouring Dark Form
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Caustic Blast
 
@@ -116,16 +140,6 @@ The verses that the [[Lurker in Devouring Dark]] lends [[Aurelius]], set down in
 ### Implosion
 
 *Spell 9 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-### Devouring Dark Form
-
-*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**

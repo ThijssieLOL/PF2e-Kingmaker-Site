@@ -17,11 +17,35 @@ The verses that the [[Crafter in the Vault]] lends [[Aurelius]], set down in [[T
 
 ### Quick Facts
 - **Family:** [[Crafter in the Vault]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Traveling Workshop]] | Vessel spell |
+| [[#Sigil]] | Cantrip |
+| [[#Mending]] | 1st |
+| [[#Knock]] | 2nd |
+| [[#Ghostly Weapon]] | 3rd |
+| [[#Creation]] | 4th |
+| [[#Impaling Spike]] | 5th |
+| [[#Wall of Metal]] | 6th |
+| [[#Beheading Buzz Saw]] | 7th |
+| [[#Ferrous Form]] | 8th |
+| [[#Resplendent Mansion]] | 9th |
+
+### Traveling Workshop
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Sigil
 
@@ -116,16 +140,6 @@ The verses that the [[Crafter in the Vault]] lends [[Aurelius]], set down in [[T
 ### Resplendent Mansion
 
 *Spell 9 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-### Traveling Workshop
-
-*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**

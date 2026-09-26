@@ -17,11 +17,35 @@ The verses that the [[Reveler in Lost Glee]] lends [[Aurelius]], set down in [[T
 
 ### Quick Facts
 - **Family:** [[Reveler in Lost Glee]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Trickster's Mirrors]] | Vessel spell |
+| [[#Prestidigitation]] | Cantrip |
+| [[#Dizzying Colors]] | 1st |
+| [[#Laughing Fit]] | 2nd |
+| [[#Hypnotize]] | 3rd |
+| [[#Confusion]] | 4th |
+| [[#Illusory Scene]] | 5th |
+| [[#Vibrant Pattern]] | 6th |
+| [[#Warp Mind]] | 7th |
+| [[#Quandary]] | 8th |
+| [[#Wails of the Damned]] | 9th |
+
+### Trickster's Mirrors
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Prestidigitation
 
@@ -108,16 +132,6 @@ Set down on [[The Hymnal - Echo of Lost Moments|the Echo of Lost Moments page]].
 ### Wails of the Damned
 
 *Spell 9 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-### Trickster's Mirrors
-
-*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**

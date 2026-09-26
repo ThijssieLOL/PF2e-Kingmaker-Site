@@ -17,11 +17,35 @@ The verses that the [[Speaker in Sibilance]] lends [[Aurelius]], set down in [[T
 
 ### Quick Facts
 - **Family:** [[Speaker in Sibilance]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Crown of Prophets]] | Vessel spell |
+| [[#Puff of Poison]] | Cantrip |
+| [[#Ill Omen]] | 1st |
+| [[#Stupefy]] | 2nd |
+| [[#Hypercognition]] | 3rd |
+| [[#Snake Fangs]] | 4th |
+| [[#Slither]] | 5th |
+| [[#Petrify]] | 6th |
+| [[#Mask of Terror]] | 7th |
+| [[#Unrelenting Observation]] | 8th |
+| [[#Unfathomable Song]] | 9th |
+
+### Crown of Prophets
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Puff of Poison
 
@@ -106,13 +130,3 @@ Set down on [[The Hymnal - Monarch of the Fey Courts|the Monarch of the Fey Cour
 *Spell 9 · shared with the [[Monarch of the Fey Courts]]; one verse serves both families.*
 
 Set down on [[The Hymnal - Monarch of the Fey Courts|the Monarch of the Fey Courts page]].
-
-### Crown of Prophets
-
-*Focus 1 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**

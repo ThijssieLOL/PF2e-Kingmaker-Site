@@ -17,11 +17,35 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 
 ### Quick Facts
 - **Family:** [[Impostor in Hidden Places]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Discomfiting Whisper]] | Vessel spell |
+| [[#Telekinetic Hand]] | Cantrip |
+| [[#Ill Omen]] | 1st |
+| [[#Invisibility]] | 2nd |
+| [[#Veil of Privacy]] | 3rd |
+| [[#Liminal Doorway]] | 4th |
+| [[#Strange Geometry]] | 5th |
+| [[#Mislead]] | 6th |
+| [[#Planar Palace]] | 7th |
+| [[#Disappearance]] | 8th |
+| [[#Phantasmagoria]] | 9th |
+
+### Discomfiting Whisper
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Telekinetic Hand
 
@@ -116,16 +140,6 @@ The verses that the [[Impostor in Hidden Places]] lends [[Aurelius]], set down i
 ### Phantasmagoria
 
 *Spell 9 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-### Discomfiting Whisper
-
-*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**

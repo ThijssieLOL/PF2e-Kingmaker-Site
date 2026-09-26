@@ -17,11 +17,35 @@ The verses that the [[Stalker in Darkened Boughs]] lends [[Aurelius]], set down 
 
 ### Quick Facts
 - **Family:** [[Stalker in Darkened Boughs]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Darkened Forest Form]] | Vessel spell |
+| [[#Gouging Claw]] | Cantrip |
+| [[#Runic Body]] | 1st |
+| [[#Vomit Swarm]] | 2nd |
+| [[#Wall of Thorns]] | 3rd |
+| [[#Bestial Curse]] | 4th |
+| [[#Moon Frenzy]] | 5th |
+| [[#Tangling Creepers]] | 6th |
+| [[#Unfettered Pack]] | 7th |
+| [[#Monstrosity Form]] | 8th |
+| [[#Wrathful Storm]] | 9th |
+
+### Darkened Forest Form
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Gouging Claw
 
@@ -118,13 +142,3 @@ The verses that the [[Stalker in Darkened Boughs]] lends [[Aurelius]], set down 
 *Spell 9 · shared with the [[Shepherd of Errant Winds]] and the [[Vanguard of Roaring Waters]]; one verse serves all three families.*
 
 Set down on [[The Hymnal - Shepherd of Errant Winds|the Shepherd of Errant Winds page]].
-
-### Darkened Forest Form
-
-*Focus 1 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**

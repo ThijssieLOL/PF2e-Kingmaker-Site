@@ -17,11 +17,35 @@ The verses that the [[Shepherd of Errant Winds]] lends [[Aurelius]], set down in
 
 ### Quick Facts
 - **Family:** [[Shepherd of Errant Winds]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Gift of the Anemos]] | Vessel spell |
+| [[#Slashing Gust]] | Cantrip |
+| [[#Tailwind]] | 1st |
+| [[#Propulsive Breeze]] | 2nd |
+| [[#Wall of Wind]] | 3rd |
+| [[#Vapor Form]] | 4th |
+| [[#Scouting Eye]] | 5th |
+| [[#Mislead]] | 6th |
+| [[#Vacuum]] | 7th |
+| [[#Punishing Winds]] | 8th |
+| [[#Wrathful Storm]] | 9th |
+
+### Gift of the Anemos
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Slashing Gust
 
@@ -112,16 +136,6 @@ Set down on [[The Hymnal - Impostor in Hidden Places|the Impostor in Hidden Plac
 ### Wrathful Storm
 
 *Spell 9 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-### Gift of the Anemos
-
-*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**

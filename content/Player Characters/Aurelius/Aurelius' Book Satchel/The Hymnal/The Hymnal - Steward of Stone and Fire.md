@@ -17,11 +17,35 @@ The verses that the [[Steward of Stone and Fire]] lends [[Aurelius]], set down i
 
 ### Quick Facts
 - **Family:** [[Steward of Stone and Fire]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Earth's Bile]] | Vessel spell |
+| [[#Ignition]] | Cantrip |
+| [[#Interposing Earth]] | 1st |
+| [[#Exploding Earth]] | 2nd |
+| [[#Fireball]] | 3rd |
+| [[#Wall of Fire]] | 4th |
+| [[#Wall of Stone]] | 5th |
+| [[#Petrify]] | 6th |
+| [[#Volcanic Eruption]] | 7th |
+| [[#Earthquake]] | 8th |
+| [[#Falling Stars]] | 9th |
+
+### Earth's Bile
+
+*Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
+
+- **Manifestation:** A tongue of Aureolin White fire gathers in either hand; he hurls the first, then the second a beat behind, and the second strikes the first into a firework burst.
+- **Verbal Component:** "O Blazing Sun, let Thy flame find them and not go out."
+- **Somatic Component:** The Dragon -> The Wagon
+- **Sensation:** A heat in either hand, one after the other, then a double flare as the two flames meet.
+- **Residue:** White fire clings where the burst fell and keeps catching.
 
 ### Ignition
 
@@ -118,16 +142,6 @@ Set down on [[The Hymnal - Speaker in Sibilance|the Speaker in Sibilance page]].
 - **Somatic Component:**
 - **Sensation:**
 - **Residue:**
-
-### Earth's Bile
-
-*Focus 1 · Animist, Earth, Fire · one action · range 30 feet, 10-foot burst · sustained up to 1 minute*
-
-- **Manifestation:** A tongue of Aureolin White fire gathers in either hand; he hurls the first, then the second a beat behind, and the second strikes the first into a firework burst.
-- **Verbal Component:** "O Blazing Sun, let Thy flame find them and not go out."
-- **Somatic Component:** The Dragon -> The Wagon
-- **Sensation:** A heat in either hand, one after the other, then a double flare as the two flames meet.
-- **Residue:** White fire clings where the burst fell and keeps catching.
 
 ---
 

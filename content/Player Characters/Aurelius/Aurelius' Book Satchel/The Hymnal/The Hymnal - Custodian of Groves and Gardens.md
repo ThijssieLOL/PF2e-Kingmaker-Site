@@ -17,11 +17,35 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 
 ### Quick Facts
 - **Family:** [[Custodian of Groves and Gardens]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Garden of Healing]] | Vessel spell |
+| [[#Tangle Vine]] | Cantrip |
+| [[#Protector Tree]] | 1st |
+| [[#Gentle Breeze]] | 2nd |
+| [[#Safe Passage]] | 3rd |
+| [[#Peaceful Bubble]] | 4th |
+| [[#Truespeech]] | 5th |
+| [[#Field of Life]] | 6th |
+| [[#Lifewood Cage]] | 7th |
+| [[#Moment of Renewal]] | 8th |
+| [[#Nature's Enmity]] | 9th |
+
+### Garden of Healing
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Tangle Vine
 
@@ -116,16 +140,6 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 ### Nature's Enmity
 
 *Spell 9 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-### Garden of Healing
-
-*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**

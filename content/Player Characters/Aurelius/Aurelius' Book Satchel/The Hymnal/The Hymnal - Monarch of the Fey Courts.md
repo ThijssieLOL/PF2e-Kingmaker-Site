@@ -17,11 +17,35 @@ The verses that the [[Monarch of the Fey Courts]] lends [[Aurelius]], set down i
 
 ### Quick Facts
 - **Family:** [[Monarch of the Fey Courts]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Nymph's Grace]] | Vessel spell |
+| [[#Tangle Vine]] | Cantrip |
+| [[#Charm]] | 1st |
+| [[#Create Food]] | 2nd |
+| [[#Enthrall]] | 3rd |
+| [[#Suggestion]] | 4th |
+| [[#Hallucination]] | 5th |
+| [[#Dominate]] | 6th |
+| [[#Mask of Terror]] | 7th |
+| [[#Uncontrollable Dance]] | 8th |
+| [[#Unfathomable Song]] | 9th |
+
+### Nymph's Grace
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Tangle Vine
 
@@ -112,16 +136,6 @@ Set down on [[The Hymnal - Custodian of Groves and Gardens|the Custodian of Grov
 ### Unfathomable Song
 
 *Spell 9 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-### Nymph's Grace
-
-*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**

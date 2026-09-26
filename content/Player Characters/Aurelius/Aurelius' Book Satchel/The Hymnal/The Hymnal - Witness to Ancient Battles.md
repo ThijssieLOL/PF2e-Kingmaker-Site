@@ -17,11 +17,35 @@ The verses that the [[Witness to Ancient Battles]] lends [[Aurelius]], set down 
 
 ### Quick Facts
 - **Family:** [[Witness to Ancient Battles]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Embodiment of Battle]] | Vessel spell |
+| [[#Shield]] | Cantrip |
+| [[#Sure Strike]] | 1st |
+| [[#Enlarge]] | 2nd |
+| [[#Ghostly Weapon]] | 3rd |
+| [[#Weapon Storm]] | 4th |
+| [[#Invoke Spirits]] | 5th |
+| [[#Phantasmal Calamity]] | 6th |
+| [[#True Target]] | 7th |
+| [[#Canticle of Everlasting Grief]] | 8th |
+| [[#Weapon of Judgment]] | 9th |
+
+### Embodiment of Battle
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Shield
 
@@ -104,16 +128,6 @@ Set down on [[The Hymnal - Echo of Lost Moments|the Echo of Lost Moments page]].
 ### Weapon of Judgment
 
 *Spell 9 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**
-
-### Embodiment of Battle
-
-*Focus 1 · traits · actions · range*
 
 - **Manifestation:**
 - **Verbal Component:**

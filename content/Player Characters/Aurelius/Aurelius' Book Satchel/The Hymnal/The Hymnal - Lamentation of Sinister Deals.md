@@ -17,11 +17,35 @@ The verses that the [[Lamentation of Sinister Deals]] lends [[Aurelius]], set do
 
 ### Quick Facts
 - **Family:** [[Lamentation of Sinister Deals]]
-- **Verses:** The cantrip, one verse of each rank, and the vessel spell
+- **Verses:** The vessel spell, the cantrip, and one verse of each rank
 
 ---
 
 ## The Verses
+
+| Verse | Rank |
+| :---- | :--- |
+| [[#Wish Market]] | Vessel spell |
+| [[#Message]] | Cantrip |
+| [[#Sure Strike]] | 1st |
+| [[#Blistering Invective]] | 2nd |
+| [[#Hypercognition]] | 3rd |
+| [[#Honeyed Words]] | 4th |
+| [[#Breath of Life]] | 5th |
+| [[#Sacred Form]] | 6th |
+| [[#Contingency]] | 7th |
+| [[#Moment of Renewal]] | 8th |
+| [[#Resplendent Mansion]] | 9th |
+
+### Wish Market
+
+*Focus 1 · traits · actions · range*
+
+- **Manifestation:**
+- **Verbal Component:**
+- **Somatic Component:**
+- **Sensation:**
+- **Residue:**
 
 ### Message
 
@@ -114,13 +138,3 @@ Set down on [[The Hymnal - Custodian of Groves and Gardens|the Custodian of Grov
 *Spell 9 · shared with the [[Crafter in the Vault]]; one verse serves both families.*
 
 Set down on [[The Hymnal - Crafter in the Vault|the Crafter in the Vault page]].
-
-### Wish Market
-
-*Focus 1 · traits · actions · range*
-
-- **Manifestation:**
-- **Verbal Component:**
-- **Somatic Component:**
-- **Sensation:**
-- **Residue:**

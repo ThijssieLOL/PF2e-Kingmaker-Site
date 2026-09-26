@@ -23,6 +23,20 @@ The divine verses are the ones [[Aurelius]] prays for himself, cast from the sun
 
 ## The Verses
 
+| Rank |
+| :--- |
+| [[#Cantrips]] |
+| [[#1st Rank]] |
+| [[#2nd Rank]] |
+| [[#3rd Rank]] |
+| [[#4th Rank]] |
+| [[#5th Rank]] |
+| [[#6th Rank]] |
+| [[#7th Rank]] |
+| [[#8th Rank]] |
+| [[#9th Rank]] |
+| [[#10th Rank]] |
+
 ### Cantrips
 
 #### Forbidding Ward
