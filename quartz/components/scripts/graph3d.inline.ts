@@ -477,6 +477,9 @@ function init() {
     document.removeEventListener("keydown", onKeydown)
     if (graph) {
       try {
+        // Stop the render loop before tearing the instance down, so a frame in
+        // flight cannot reach the emptied host during a fast SPA navigation.
+        if (typeof graph.pauseAnimation === "function") graph.pauseAnimation()
         graph._destructor()
       } catch {
         // The library may already be gone during a fast SPA navigation.
