@@ -74,30 +74,38 @@ The first sitting proposed five areas. The names were rejected, and Devotion and
 | Devotion | divine connection, channeling, prayer, the practice of worship |
 | Conduct | moral standing, humility, penance, service record |
 
-### The revised framework (proposal)
+### The revised framework (settled in outline)
 
-Three testable areas, with an optional fourth. The core three are the ones the correction names outright: combat, the chancellery, and doctrine.
+Three testable areas, the ones the correction names outright: combat, the chancellery, and doctrine. A fourth area for rites was considered and dropped; the Church's rites stay part of the training but do not get an area of their own.
 
 | Area | What it covers | Pieces folded in |
 | :--- | :------------- | :--------------- |
 | Combat (name open) | combat, martial discipline, endurance | the Combat Examination and its exemption |
 | Chancellery (name open) | the candidate's chancellery, its discipline in knowledge and in practice | the Chancellery Examination and the Curriculum qualification |
 | Doctrine (name open) | the faith's body of knowledge: theology, scripture, history, canon law, liturgy | the Theological Examination |
-| Rites (name open, optional) | performing the Church's rites: the Cadence, cremation, healing, blessing, channeling | the testable half of the old Devotion |
-
-Rites is the one judgement call. It keeps the part of Devotion an examiner can watch, which is a rite carried out correctly, and drops the part no examiner can see, which is the candidate's feeling toward the goddess. Cut it, and the trial runs on the three.
 
 ### Naming schemes (proposal)
 
-The names are the piece the correction set aside. Three schemes, each a different register:
+The names are the piece still open. The register wanted is the plain one of "fitness" and "theology": a general domain an examiner can name and test. Options per area:
 
-| Scheme | Combat | Chancellery | Doctrine | Rites |
-| :----- | :----- | :---------- | :------- | :---- |
-| Plain | Combat | Chancellery | Doctrine | Rites |
-| Short and parallel | Arms | Profession | Creed | Rite |
-| In-world | The Sword | The Ledger | The Word | The Flame |
+| Combat area | Chancellery area | Doctrine area |
+| :---------- | :--------------- | :------------ |
+| Combat | Expertise | Theology |
+| Athletics | Specialization | Divinity |
+| Fitness | Profession | Doctrine |
+| Martial Training | Trade | Catechism |
+| Drill | Discipline | Scripture |
 
-The "Ledger" in the third scheme only fits the chancelleries that count and keep books, so it reads as the weakest of the three unless the chancellery area is renamed for service rather than for the field.
+Ready-made sets, each coherent in register:
+
+| Set | Combat | Chancellery | Doctrine |
+| :-- | :----- | :---------- | :------- |
+| Plainest | Athletics | Expertise | Theology |
+| Broad common nouns | Fitness | Profession | Divinity |
+| Names the test | Drill | Trade | Catechism |
+| Mixed | Combat | Expertise | Doctrine |
+
+Notes on the options: "Combat" is the accurate one, since the Church tests fighting rather than general fitness. "Discipline" can read as conduct, which the correction removed, so it is the weaker pick for the chancellery area. "Divinity" already names Grade 0 in canon, which gives it a second life. "Catechism" is narrower and names doctrinal instruction and its testing directly.
 
 ## Questions
 
@@ -156,7 +164,7 @@ Carried over from the earlier sittings. Answered items keep their old numbers wi
 
 **The areas**
 
-31. Superseded: the five-area first framework is replaced by the revised framework above. Does the three-or-four split hold?
+31. ✅ Superseded: the five-area first framework is replaced by the three-area revised framework above.
 32. Are the areas equal in weight, or does one dominate?
 33. Who sets and marks each area? The working assumption is Sacred Canon for Doctrine, Celestial Aegis for Combat, and the candidate's own chancellery for its own field. Rites would need an owner.
 34. ✅ Every area appears at every grade, harder each time. The correction settles this: a Grade 9 is never held to a Grade 8's bar, and never exceeds it.
@@ -172,13 +180,13 @@ Carried over from the earlier sittings. Answered items keep their old numbers wi
 
 **The revised areas**
 
-49. Does the trial run on three areas (combat, the chancellery, doctrine) or four, adding the testable side of the old Devotion in Rites?
-50. What should the areas be called? The three schemes above are the offer; a fourth is welcome.
+49. ✅ The trial runs on three areas: combat, the chancellery, and doctrine. A Rites area was considered and dropped.
+50. What should the areas be called? The naming options above are the offer; a new name is welcome.
 51. The named examinations (Theological, Combat, Chancellery) are parts of the areas. Do their names survive inside the areas, or do the area names replace them?
 52. At the Grade 9 to Grade 8 step there is no chancellery yet. Does the chancellery area test the general education there, per the Curriculum, or does that step run on doctrine and combat alone?
 53. Each chancellery sets its own examination in canon. Does that stay, and how is fairness kept across nine very different fields?
 54. Now that devotion and conduct leave the trial, does the Review Board keep its character role, or does it only confirm the examination results?
-55. If Rites stays, does it test performance (a rite carried out correctly) rather than feeling, and who examines it?
+55. Moot: Rites is dropped as an area.
 
 ## Next step
 
