@@ -42,7 +42,7 @@ Gideon is calm and reassuring, grounded in pastoral care. He does not push and h
 
 ## Abilities
 
-He went through the same commando training as his siblings but focuses on defensive martial arts, using his shield and body to redirect attacks away from his allies. When he channels magic, his tattoos glow with a gentle, pulsing, amber-like warmth; the brand looks less like a punishment and more like a glowing mantle of responsibility.
+He went through the same commando training as his siblings but focuses on defensive martial arts, using his shield and body to redirect attacks away from his allies. When he channels magic, his tattoos ignite into Aureolin White like every bearer's, though on him the light pulses slow and gentle, so the brand looks less like a punishment and more like a glowing mantle of responsibility.
 
 ---
 

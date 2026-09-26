@@ -13,6 +13,7 @@ The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[Th
 - **Applied By:** A Grade 8 (Cinder) or higher, at initiation
 - **Material:** Sacred alchemical ink, burnt into the skin as holy fire
 - **Purpose:** A public record of past sins and the goddess's mercy
+- **Glow:** Aureolin White when the bearer channels, the same for every bearer
 - **Lasting:** Permanent; it cannot be damaged or erased
 
 ---
@@ -33,7 +34,7 @@ Because the designs come from the goddess, there are no standardized symbols. Th
 
 ## Magical Properties & Durability
 
-The tattoos glow with brilliant light when the bearer channels magic, thanks to the residual divinity permanently imbued in the holy water. They give no physical or mechanical benefit in combat or spellcasting; they are entirely symbolic. The tattoos cannot be damaged or erased. Even if the bearer suffers trauma or scarring, the divine patterns still show through the damaged tissue.
+The tattoos ignite into **Aureolin White** when the bearer channels magic, thanks to the residual divinity permanently imbued in the holy water. The colour does not vary from one bearer to the next: every brand in the Church burns the same white, a searing, pure light haloed by a faint golden-yellow radiance. They give no physical or mechanical benefit in combat or spellcasting; they are entirely symbolic. The tattoos cannot be damaged or erased. Even if the bearer suffers trauma or scarring, the divine patterns still show through the damaged tissue.
 
 ---
 

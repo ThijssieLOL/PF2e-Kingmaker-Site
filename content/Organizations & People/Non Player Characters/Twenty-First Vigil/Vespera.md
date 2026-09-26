@@ -28,7 +28,7 @@ Vespera is the quiet, analytical mind of the cohort, an Intelligence Officer, Fo
 
 ## Appearance
 
-Vespera is tall and slender, with an immaculate, rigid posture. She has dark, piercing eyes and black hair pulled back into a tight, severe braid. She wears a dark blue and white traveling coat lined with hidden pockets for ink, scrolls, and tools. Etched onto her collarbones is a [[Tattoos of Penance|tattoo of penance]] depicting a broken, unbalanced scale. When glowing, the cracks in the scale mend with gold light.
+Vespera is tall and slender, with an immaculate, rigid posture. She has dark, piercing eyes and black hair pulled back into a tight, severe braid. She wears a dark blue and white traveling coat lined with hidden pockets for ink, scrolls, and tools. Etched onto her collarbones is a [[Tattoos of Penance|tattoo of penance]] depicting a broken, unbalanced scale. When glowing, the cracks in the scale mend with Aureolin White light.
 
 ---
 

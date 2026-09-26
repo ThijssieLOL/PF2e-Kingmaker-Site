@@ -32,7 +32,7 @@ Lyra has a petite, slender frame that never seems to stop moving. Her face is al
 
 She wears a modified travel outfit in the faded, practical colors of the Church of the Eternal Blazing Sun, customized for field research. Over it she wears a thick, reinforced leather apron and heavy, elbow-length gloves meant to withstand acid spills and volatile heat. A bulky bandolier hangs across her chest, packed with clinking glass vials, brass-capped flasks of swirling, luminescent liquids, and neatly slotted surgical tools. A sturdy leather satchel hangs at her hip, bulging with crumpled blueprints, charcoal pencils, and dried specimens.
 
-Her most striking feature is her [[Tattoos of Penance]]: scorched, pitch-black handprints that look as though her hands were dipped in liquid soot, wrapping her palms and running in jagged, ash-like veins up her wrists. When she channels her divine magic or fires her alchemical creations, they fracture open with the pulsing light of molten gold.
+Her most striking feature is her [[Tattoos of Penance]]: scorched, pitch-black handprints that look as though her hands were dipped in liquid soot, wrapping her palms and running in jagged, ash-like veins up her wrists. When she channels her divine magic or fires her alchemical creations, they fracture open with Aureolin White light.
 
 Lyra rarely stands completely still. She carries herself with a bouncy, forward-leaning posture, constantly shifting her weight, adjusting her goggles, or absentmindedly tapping her fingers against her flasks in a rhythmic, impatient cadence.
 

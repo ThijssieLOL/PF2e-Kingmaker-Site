@@ -118,7 +118,7 @@ Each answer is verbatim. My processing note follows the arrow.
     → Placement is forearms and back (answer 22), both visible areas.
 17. **Glow color when he channels: I suggested a banked-ember red-gold.**
     **Answer:** "All tattoos of penance glow in the same color as aurelius' tattoos"
-    → Canon flag 1: this makes every brand Aureolin White, which conflicts with the per-bearer colors listed in [[Tattoos of Penance]]. Still open.
+    → Canon flag 1: this makes every brand Aureolin White. Resolved: the per-bearer colours were corrected to match, and the rule is recorded in [[Tattoos of Penance]].
 18. **Any other sins the goddess would mark besides the killing?**
     **Answer:** "No, this is his major sin"
     → The killing is the only sin marked.
@@ -290,7 +290,7 @@ Each answer is verbatim. My processing note follows the arrow.
 
 These are symbolic compositions in the manner of Japanese crime tattoos: a central motif over a background of wind, water, cloud, or fire. Each one reads the crime without depicting it. The design rests rust-brown. Like every tattoo of penance, it never resolves into a clear picture; it stays a vague collection of streaks and shapes.
 
-**Chosen: The Koi Through Ash.** A koi drives upstream through a river of ash and cinders. Behind it, a burned-out grove; ahead, clean water and a rising sun. Read: survival and transformation, the old life burned behind him. The koi is perseverance, the ash is the home, the sun is the goddess. Placement: forearms and back. It glows Aureolin White pending question A.1.
+**Chosen: The Koi Through Ash.** A koi drives upstream through a river of ash and cinders. Behind it, a burned-out grove; ahead, clean water and a rising sun. Read: survival and transformation, the old life burned behind him. The koi is perseverance, the ash is the home, the sun is the goddess. Placement: forearms and back. It glows Aureolin White, like every brand in the Church.
 
 The rest were not chosen and are kept for reference:
 
@@ -304,7 +304,7 @@ The rest were not chosen and are kept for reference:
 
 ## Canon flags
 
-1. **Tattoo glow (open).** Answer 17 makes every brand Aureolin White, which conflicts with the per-bearer colors in [[Tattoos of Penance]]. Tristan's note now reads Aureolin White. Awaiting the Round 4 decision.
+1. **Tattoo glow (resolved).** Every brand is Aureolin White, the sun goddess's colour. The per-bearer colours in [[Gideon]], [[Lyra]], and [[Vespera]] were corrected to match, and the rule is recorded in [[Tattoos of Penance]].
 2. **Armor (resolved).** The no-armor rule covers the ceremonial kit only. Field combat armor stands, and [[Tristan]] wears dark plate with a sunburst device.
 3. **Tattoo visibility (resolved).** Brands are deliberately visible. Tristan's sit on his forearms and back.
 4. **Intake (resolved and applied).** Sentenced to prison, offered the Chancellery as an alternative because he was underage, and he took it.
