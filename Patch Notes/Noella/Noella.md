@@ -8,8 +8,9 @@ aliases:
 
 ## Overview
 
-Patch notes for Noella, who plays [[Jock Finch]]. No entries yet. Notes are added here as days are recorded, one note per day.
+Daily patch notes for Noella, who plays [[Jock Finch]]. Two days in the window, 16 and 17 September 2026.
 
 ### Daily Notes
 
-None yet.
+- [[Patch Notes/Noella/2026-09-16|2026-09-16]] — setting up the Jock Finch pages
+- [[Patch Notes/Noella/2026-09-17|2026-09-17]] — two small edits
