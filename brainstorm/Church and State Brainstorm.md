@@ -64,7 +64,7 @@ The Church already does most of what a state does. The table gathers each functi
 
 Four things separate it from a realm, and they are the hinge of the whole question:
 
-- **It rules no land.** Clergy are forbidden crowns, secular rule, and political office, so the Church holds no territory and governs no population as subjects.
+- **It rules no realm.** Clergy are forbidden crowns, secular rule, and political office, so the Church governs no nation and holds no population as its subjects. Per answer 1, it does hold one small piece of ground: the headquarters and the working settlement around it, run as a Vatican-style holding rather than a realm.
 - **It owns no means of production,** and it leaves banking to the state or to honest private owners.
 - **It intervenes rather than occupies.** Its reach into a state runs from public denouncement and the excommunication of rulers to the covert commando strike, not to annexation.
 - **Its head is not chosen by the world.** No inheritance, election, or conquest picks the Solstice; the goddess names them when the seat empties.
@@ -79,12 +79,12 @@ In practice, the Church runs schools, hospitals, courts, an army, an intelligenc
 
 **Territory and membership**
 
-1. Does the Church hold territory of its own, or does it exist wholly inside other realms?
-2. Who owns a church's buildings and land: the Church, the local state, or the donors who gave them?
-3. Is membership a legal status like citizenship, or purely religious? Can a person be a solite and still not obey church law?
-4. Do the faithful answer to church courts wherever they live, or only where a state grants the Church jurisdiction?
-5. When church law and the law of the land disagree over the same person, which one holds?
-6. Are the courts open to non-members, or do they try clergy and solites only?
+1. ✅ The Church holds a small territory of its own: the ground of the headquarters, sized to the workforce that runs the whole Church from there. It is a Vatican-style holding, not a realm with subjects.
+2. ✅ Ownership follows who paid. A building the Church funds is Church property; a building a state funds belongs to that state. Whether donors who gifted a building keep any claim is still open.
+3. Open (re-asked). Is membership a formal legal status, or only a religious label, and can a solite ignore church law?
+4. ✅ The faithful answer to the courts of the land where they live. Where they judge a ruling unfair, they may petition the Church, which can call for the case documents, review the ruling and the judicial system behind it, and may veto it as religious discrimination.
+5. Open (re-asked). When the law of the land and church law disagree over the same person, which one holds?
+6. ✅ The courts are open to all, member or not. A secular lawyer from an independent firm may argue before a church-managed court, and the only difference from a secular court is who oversees it. States, secular ones included, contract the Church to run judiciary systems for its expertise in ethics and law, and the Church honours local law where it does not contradict church ethics.
 
 **Money and services**
 
@@ -119,6 +119,21 @@ In practice, the Church runs schools, hospitals, courts, an army, an intelligenc
 
 24. Is there any state-like apparatus the table above has missed, something the Church does that no note records yet?
 
+## Round 1 answers (verbatim)
+
+Given for questions 1, 2, 4, and 6. Questions 3 and 5 were re-asked for clarity and are not yet answered.
+
+1. "The church does hold territory, but very minimal. It only runs a small part of territory similar to vatican city, where the headquarters are, since the workforces needed to manage the headquarters and the entire church from the headquarters is equivalent to a small country. (similar in size to vatican city)."
+2. "Depends on who payed for them, usually church buildings are funded by the church in which case they are property of the church, but they could also be funded by the state"
+4. "The faithful abide by the legal jurisdiction of the courts wherever they live, however if they believe it was done unfairly they can of course write to the church in which case the church can request the legal documents to see if a case or judicial system is fair and possibly veto i.e. religious discrimination"
+6. "Open to all people, you can even be a secular lawyer from an independent company and fight for your client inside of a church managed court. The only difference between a church managed court and a secular court is who is managing and overseeing them. Countries, even secular ones like to contract the church for judiciary systems due to their high expertise in areas such as ethics and law. The church even respects country specific laws as long as they do not contradict the church established ethics"
+
+## Canon flags
+
+1. **Territory (revision).** The hub page and this document both read that the Church holds no territory and rules no land. Answer 1 revises that: it holds one small headquarters holding. The apolitical rule and the ban on crowns survive, since a headquarters ground is neither a realm nor a crown, but the "no territory" wording has to change wherever it appears.
+2. **Court review and the veto (extension).** Answer 4 gives the Church standing to review any ruling a solite calls unfair and veto it as religious discrimination. [[The Chancellery of the Purifying Flame]] ties the Moral Veto to capital sins only. Open: is this review the same Veto, needing a Grade 5 or 6 approval, or a lighter petition route run by the courts?
+3. **Courts open, state contracts (extension).** Canon reads the courts as the Church's own judiciary over clergy and ecclesiastical offences. Answer 6 opens them to everyone and lets states contract the Church as a judiciary provider. The Purifying Flame mandate and the hub's apolitical stance both need this.
+
 ## Next step
 
-When the questions are settled, the answers land on [[The Church of the Eternal Blazing Sun]] in its Political & Economic Philosophy section. If the distinction grows past a section, it earns a note of its own in the church folder, and this document keeps only the working record.
+When the questions are settled, the answers land on [[The Church of the Eternal Blazing Sun]] in its Political & Economic Philosophy section. If the distinction grows past a section, it earns a note of its own in the church folder, and this document keeps only the working record. The Territory and membership block is answered bar questions 3 and 5; canon waits on those two and on the first canon flag before it is written.
