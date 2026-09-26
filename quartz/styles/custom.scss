@@ -105,9 +105,7 @@ $folder-page: "body[data-slug$='/index']";
 // Whole-card click target. The plugin makes only the title an anchor, so the
 // card is turned into one link by stretching that anchor over the card (the
 // pattern Bootstrap calls a "stretched link"): the anchor's ::before is an
-// empty box pinned to the card, which the card is now positioned for. The title
-// keeps its own ::after, used for the subfolder arrow, so the overlay goes on
-// ::before to leave that alone.
+// empty box pinned to the card, which the card is now positioned for.
 .page-listing li.section-li > .section > .desc > h3 > a::before {
   content: "";
   position: absolute;
@@ -170,15 +168,28 @@ $folder-page: "body[data-slug$='/index']";
   font-size: 1rem;
 }
 
+// A folder outline leads the name, in place of the trailing arrow. It is an
+// inline SVG used as a mask, so the glyph takes its colour from --gray and
+// stays monochrome instead of shipping a coloured icon. It hangs off the h3
+// rather than the anchor, whose ::before is taken by the stretched-link overlay
+// above, and it leads the title so it never crowds the tag chips on the right.
+$folder-icon: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='none' stroke='black' stroke-width='2' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpath d='M20 20a2 2 0 0 0 2-2V8a2 2 0 0 0-2-2h-7.9a2 2 0 0 1-1.69-.9L9.6 3.9A2 2 0 0 0 7.93 3H4a2 2 0 0 0-2 2v13a2 2 0 0 0 2 2Z'/%3E%3C/svg%3E");
+
 #{$folder-page}
   .page-listing
   li.section-li:has(> .section > .desc > h3 > a[href$="/"])
   > .section
   > .desc
-  > h3
-  > a::after {
-  content: " \2192";
-  color: var(--gray);
+  > h3::before {
+  content: "";
+  display: inline-block;
+  width: 0.95em;
+  height: 0.95em;
+  margin-right: 0.5rem;
+  vertical-align: -0.12em;
+  background-color: var(--gray);
+  -webkit-mask: $folder-icon no-repeat center / contain;
+  mask: $folder-icon no-repeat center / contain;
 }
 
 #{$folder-page}
