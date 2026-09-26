@@ -47,7 +47,7 @@ What stands above the base is earned by fewer each time. A bachelor's is not exp
 
 ## Ascension Trials
 
-To advance to a higher grade, a member of the clergy must meet strict power and combat requirements, followed by a rigorous evaluation process:
+To advance to a higher grade, a member of the clergy must meet strict power and combat requirements, followed by a rigorous evaluation process, held once a year:
 
 - **Theological Examination:** A mandatory, highly comprehensive written exam covering all areas of church theology and philosophy (comparable to a university end-term exam). No exemptions are permitted for this test.
 - **Combat Examination:** A physical trial of combat prowess and martial discipline.
