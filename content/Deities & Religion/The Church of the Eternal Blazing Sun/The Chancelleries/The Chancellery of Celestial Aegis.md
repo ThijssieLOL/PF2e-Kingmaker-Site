@@ -12,6 +12,8 @@ status: Active
 
 The Chancellery of Celestial Aegis is the shield of [[The Church of the Eternal Blazing Sun]]. It holds supreme command of the Church's standing armed forces and leads its large-scale wars. It is the most populated of the nine chancelleries by a wide margin, and most of its members serve as common soldiers: for much of the clergy the defence of the faith is the road in.
 
+A member reaches [[The Chancellery Curriculum|the chancellery's standard]] through one of two aptitudes rather than both. The soldiers lean on Strength and Dexterity; the Intelligence-minded are fewer, and they usually take up Combat Engineering, the chancellery's one heavy academic track. Military Science and Naval Science rest on practical soldiering.
+
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
 - **Primary Function:** Defense & Holy Military

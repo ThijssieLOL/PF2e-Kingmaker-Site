@@ -101,7 +101,7 @@ The settled parts now live on [[The Chancellery Curriculum]], linked from [[The 
 3. Does [[The Chancellery of Sacred Canon]] set and grade all nine qualifications, or does each chancellery still examine its own, as the current text says? Open.
 
 **The ladder and its names**
-4. In-world, are these called bachelor, master, and doctorate, or does the Church give them its own names? Does Kaelerum have secular universities that award them, or does the Church award them itself? Answered in part: the qualifications take the wider world's names, bachelor, master, and doctorate. The awarding body, and whether Kaelerum has secular universities at all, stay open (see 26 and 27).
+4. In-world, are these called bachelor, master, and doctorate, or does the Church give them its own names? Does Kaelerum have secular universities that award them, or does the Church award them itself? Answered: the qualifications take the wider world's names, bachelor, master, and doctorate, and the Church awards them itself (see 26 and 27). Whether Kaelerum has secular universities at all stays open.
 5. Confirm the ladder: Grade 7 entry = bachelor-equivalent, Grade 6 = master-equivalent but narrower, Grade 5 = doctorate in each chancellery subject. Is anything required below Grade 7, at the Grade 8 Cinder's single chancellery? Answered: the ladder is confirmed. The part below Grade 7 stays open, though Aurelius's unfinished bachelor study as a Cinder (see 16) suggests the work begins there.
 6. You said a member finishes the bachelor equivalent "before getting new chancelleries." Does the qualification attach to each chancellery served, so a Grade 7 member serving two holds two bachelor's, and a Grade 5 serving three holds three doctorates, and so on? Answered: yes. The qualification attaches to each chancellery served, so the degrees multiply with the count.
 7. What happens from Grade 4 up to Grade 2, where the chancellery count keeps rising? Does the doctorate repeat for each new chancellery, or do the top grades shift from study to leadership? Answered: the requirement carries upward with the count. Grades 4 to 2 are held by so few clergy that the vault records less about them.
@@ -137,5 +137,5 @@ The settled parts now live on [[The Chancellery Curriculum]], linked from [[The 
 25. What is the in-world term for the Church's light-and-prism work? The old "solar-prism" name is retired, and the lenses, crystal arrays, and radiant batteries need a name under Prismatic Inquiry's general-science mandate.
 
 **Degrees & standing**
-26. The degree names are a working choice. Does the Church take its own in-world terms later, or keep the secular bachelor, master, and doctorate?
-27. Are the tracks church programs only, or does something like them exist at secular academies too? This is the awarding-body half of 4.
+26. The degree names are a working choice. Does the Church take its own in-world terms later, or keep the secular bachelor, master, and doctorate? Answered: the names stay. The Church keeps the secular bachelor, master, and doctorate.
+27. Are the tracks church programs only, or does something like them exist at secular academies too? This is the awarding-body half of 4. Answered in part: the Church awards the qualifications, so the tracks are its programs. Whether secular academies run anything like them stays open.

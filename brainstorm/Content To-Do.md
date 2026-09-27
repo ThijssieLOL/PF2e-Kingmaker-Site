@@ -31,18 +31,18 @@ The hub page's House Notes hold most of these, and the DM settles them.
 - [ ] Decide whether the Review Board keeps its character role alongside the results
 - [ ] The combat exemption: who grants it, and on what evidence (DM)
 - [ ] The ceremony that follows a passed trial
-- [ ] Name the body that awards [[The Chancellery Curriculum|the chancellery qualifications]]: the Church itself or a secular academy
+- [x] Name the body that awards [[The Chancellery Curriculum|the chancellery qualifications]]: the Church itself.
 - [ ] Decide who rules on whether a subject counts as adjacent
 - [ ] Whether a member can be exempted from a qualification
 - [ ] The years each qualification level takes
 - [ ] Whether the settled standard changes anything already written for serving members such as [[Aurelius]]
-- [ ] Keep the secular degree names, or give the Church its own
-- [ ] Reconcile [[The Chancellery of Celestial Aegis]]'s Intelligence aptitudes with a chancellery that is the most populated and leans martial
+- [x] Keep the secular degree names.
+- [x] Reconcile [[The Chancellery of Celestial Aegis]]'s Intelligence aptitudes with a chancellery that is the most populated and leans martial: the attribute line means one aptitude or the other, and the Intelligence-minded take Combat Engineering.
 - [ ] [[The Church Schooling System]]: whether the schools charge non-solites or are free to all
 - [ ] What makes a child count as a solite for admission, and the exact share of non-solites in the schools
 - [ ] In-world names for the stages beyond middle school and high school
 - [ ] Where the specialised tracks are taught
-- [ ] Work through the open questions in [[Chancellery Education Brainstorm]] (1 to 3, 9, 12, 13, 19 to 27)
+- [ ] Work through the open questions in [[Chancellery Education Brainstorm]] (1 to 3, 9, 12, 13, 19 to 25, and 27)
 
 ### Economy
 

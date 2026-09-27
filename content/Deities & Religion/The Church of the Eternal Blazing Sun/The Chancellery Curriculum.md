@@ -39,13 +39,13 @@ The chancellery counts follow [[The Grade System]]. Each grade carries a heavier
 The climb costs time as well: for most members each step up takes far longer than the one before, and the Curriculum fixes no years. It holds the standard reachable, resting on the extraordinary aptitude and long study of the members who reach it and on no other means. A member who falls short of the qualification does not sit the ascension trials and holds their grade ([[The Ascension Trials]]).
 
 ### Degrees & Standing
-The Church's qualifications take the names of the wider world's degrees: bachelor, master, and doctorate. The Church ranks high in prestige, and its programs are built for its own work, so a qualification won in the chancelleries serves a member best within them. The Church presents the programs as its own, funded from church coffers.
+The Church's qualifications take the names of the wider world's degrees: bachelor, master, and doctorate, and the Church awards them itself, through its chancelleries. It ranks high in prestige, and its programs are built for its own work, so a qualification won in the chancelleries serves a member best within them. The Church funds the programs from its own coffers.
 
 ---
 
 ## Tracks & Attributes
 
-Each chancellery admits a field that fits its work, or one adjacent to it, and divides its bachelor study into three specialised tracks. A member takes up one track on joining the chancellery, and each track carries its own master's; a member who wants a different track for the master's passes through a transition program. The work also rewards certain aptitudes, and a chancellery's members tend to be strong in the matching attributes. The pattern is the norm rather than a rule: a capable member may hold a post on other strengths.
+Each chancellery admits a field that fits its work, or one adjacent to it, and divides its bachelor study into three specialised tracks. A member takes up one track on joining the chancellery, and each track carries its own master's; a member who wants a different track for the master's passes through a transition program. The work also rewards certain aptitudes, and a chancellery's members tend to be strong in the matching attributes. Where a chancellery's line names two sets, a member reaches the standard through one of them rather than both. The pattern is the norm rather than a rule: a capable member may hold a post on other strengths.
 
 | Chancellery                                  | Specialised tracks                                          | Primary attribute(s)                  |
 | :------------------------------------------- | :---------------------------------------------------------- | :------------------------------------ |
@@ -64,6 +64,4 @@ Each chancellery admits a field that fits its work, or one adjacent to it, and d
 ## House Notes
 
 - This page records the standard as it is set: the ladder from Grade 8 through Grade 5 and upward, the degree each transition stands for, the three specialised tracks each chancellery sets, and the aptitudes each chancellery rewards.
-- Open items: whether the Church awards these qualifications itself or a secular academy does; who judges whether a subject counts as adjacent; whether a member may be exempted from a qualification; the years each level takes; and whether the settled standard changes anything already written for serving members such as [[Aurelius]].
-- The degree names are a working choice. The Church may take its own terms for them later.
-- Open item: [[The Chancellery of Celestial Aegis]] is the most populated chancellery and leans on martial strength, yet this page lists Intelligence among its primary aptitudes for military science, naval science, and combat engineering. The officer tracks may be the intellectual ones while the rank and file are not, and the two readings need reconciling.
+- Open items: who judges whether a subject counts as adjacent; whether a member may be exempted from a qualification; the years each level takes; and whether the settled standard changes anything already written for serving members such as [[Aurelius]].
