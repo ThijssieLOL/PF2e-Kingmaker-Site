@@ -1,9 +1,9 @@
 ### Humble Beginnings
 [[Oliver Strong Bison|Oliver]] was born in a small **Kellid** village in the mountains the **Realm of the Mammoth Lords**, the son of a human barbarian woman named **Belka** and an elven man named **Elwin Valtoris**. His family belonged to the **Strong Bison Clan**, and [[Oliver Strong Bison|Oliver]] grew up surrounded by the close knit community of his people. From the moment they were old enough to walk, he was inseparable from his two closest friends, **Dron** (m) and **Dumra** (f). For the first eight years of his life, [[Oliver Strong Bison|Oliver]] knew little of the world beyond his village.
 
-Then came the [[Heralds of the Moon Incarnate]].
+Then came the [[The Heralds of the Moon Incarnate]].
 
-The cult had come to the village searching for something, or someone, and brought with them a ritual that would forever change [[Oliver Strong Bison|Oliver]]'s life. The **[[Heralds of the Moon Incarnate|Heralds]]** summoned a legion of demons into the village, unleashing them upon the unsuspecting inhabitants. The cultists themselves joined the slaughter as homes burned and villagers were torn apart.
+The cult had come to the village searching for something, or someone, and brought with them a ritual that would forever change [[Oliver Strong Bison|Oliver]]'s life. The **[[The Heralds of the Moon Incarnate|Heralds]]** summoned a legion of demons into the village, unleashing them upon the unsuspecting inhabitants. The cultists themselves joined the slaughter as homes burned and villagers were torn apart.
 
 [[Oliver Strong Bison|Oliver]] remembers very little of the battle itself.
 
@@ -161,7 +161,7 @@ The man who killed his family.
 
 Until one day, one of the Jotnar discovers a lead.
 
-Rumors have begun circulating about the [[Heralds of the Moon Incarnate]] operating within the Stolen Lands. The evidence is incomplete, but there are enough similarities to the cult that destroyed [[Oliver Strong Bison|Oliver]]'s village to make the Jotnar take the rumors seriously.
+Rumors have begun circulating about the [[The Heralds of the Moon Incarnate]] operating within the Stolen Lands. The evidence is incomplete, but there are enough similarities to the cult that destroyed [[Oliver Strong Bison|Oliver]]'s village to make the Jotnar take the rumors seriously.
 
 [[Oliver Strong Bison|Oliver]] immediately volunteers to investigate.
 

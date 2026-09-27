@@ -12,7 +12,7 @@ status: Alive
 
 ![[TheHerald.png|300]]
 
-> "Hear me and rejoice! you have had the privilege of being saved by the Great Herald. You may think this is suffering. No... it is salvation. The universal scales tip toward balance because of your sacrifice. Smile... for even in death, you have become [[Heralds of the Moon Incarnate]]" - The Herald
+> "Hear me and rejoice! you have had the privilege of being saved by the Great Herald. You may think this is suffering. No... it is salvation. The universal scales tip toward balance because of your sacrifice. Smile... for even in death, you have become [[The Heralds of the Moon Incarnate]]" - The Herald
 
 ## Overview
 The **Herald** is the name [[Oliver Strong Bison]] has given to the man he remembers from the destruction of his village. He was one of the figures responsible for the massacre that claimed [[Oliver Strong Bison|Oliver]]'s family, standing among the cultists and demons that descended upon the village when [[Oliver Strong Bison|Oliver]] was only eight years old.
@@ -22,7 +22,7 @@ The **Herald** is the name [[Oliver Strong Bison]] has given to the man he remem
 - **Known as:** The Herald
 - **Ancestry/Species:** Human?
 - **Class/Profession:** (mortal) Herald
-- **Affiliation:** [[Heralds of the Moon Incarnate]]
+- **Affiliation:** [[The Heralds of the Moon Incarnate]]
 - **Role/Rank:** Herald / Leader?
 
 ## Appearance
@@ -59,17 +59,17 @@ The Cultists themselves are known to employ strange magic, rituals, and occasion
 ---
 
 ## History
-[[Oliver Strong Bison|Oliver]] has spent years asking questions about the [[Heralds of the Moon Incarnate]], hoping that someone might recognize the description of the bald man with the scar.
+[[Oliver Strong Bison|Oliver]] has spent years asking questions about the [[The Heralds of the Moon Incarnate]], hoping that someone might recognize the description of the bald man with the scar.
 
 Most of what he has learned is about the cult rather than the individual.
 
-The [[Heralds of the Moon Incarnate|Heralds]] believe the current world is corrupt and that its destruction is necessary for the creation of the next reality. They believe [[Groetus]] will preserve the souls and essences of those worthy enough to pass into the next existence.
+The [[The Heralds of the Moon Incarnate|Heralds]] believe the current world is corrupt and that its destruction is necessary for the creation of the next reality. They believe [[Groetus]] will preserve the souls and essences of those worthy enough to pass into the next existence.
 
 Whether the man who destroyed [[Oliver Strong Bison|Oliver]]'s village genuinely believed these things, or whether he simply used the cult as a means to his own ends, Oliver does not know.
 
 He doesn't even know why the village was targeted.
 
-The [[Heralds of the Moon Incarnate|Heralds]] were looking for something when they came.
+The [[The Heralds of the Moon Incarnate|Heralds]] were looking for something when they came.
 
 Something important enough to justify unleashing demons upon an entire settlement.
 

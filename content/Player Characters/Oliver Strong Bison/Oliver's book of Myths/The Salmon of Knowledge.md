@@ -27,6 +27,8 @@ The poet **Finegas** spent nine years fishing for this salmon. Finally **Finegas
 
 ## Moral of the story
 
+*Knowledge is not always gained through grand deeds or long study. Remain attentive and curious, for even an unexpected mistake may reveal something invaluable.*
 
 ---
+
 

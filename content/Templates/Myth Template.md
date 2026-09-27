@@ -11,13 +11,15 @@ tags:
 - **associated with the myth:** 
 
 
-## The story
+## The Story
 
+story:
 
 ---
 
-## Moral of the story
+## Moral of the Story
 
+Moral:
 
 ---
 
