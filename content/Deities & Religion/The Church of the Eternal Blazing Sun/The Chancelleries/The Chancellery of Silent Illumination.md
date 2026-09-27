@@ -68,6 +68,9 @@ The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant
 - **Theological & Civil Law:** Deep study of Church law, canonical ethics, and international statecraft, so agents know precisely when and how to enforce moral justice.
 - **Intellectual Precision:** Rigorous training in espionage, investigative methods, alchemy, and forensic analysis.
 
+### [[The Silent Illumination Schooling]]
+The Chancellery schools its cohorts apart from the Church's public schools, since its training and its missions carry more of the Church's secrets. Each Vigil is taught privately at the chancellery's regional hub by a tutor for each area, and the lessons follow the public outline with a harder edge and one added subject.
+
 ---
 
 ## Known Operatives: The Twenty-First Vigil

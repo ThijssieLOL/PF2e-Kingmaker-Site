@@ -32,7 +32,7 @@ At eighteen a student sits the high school diploma alongside the other examinati
 
 ## The Merciful Path
 
-An orphan convicted of a crime is offered a choice instead of the sentence alone. The Church brings the charge and tries the child in its own courts, as a state tries its citizens, and once sentence is passed, the child chooses between serving it and entering a chancellery schooling program. The child may choose any of the nine. Eight of them admit children of any family; only [[The Chancellery of Silent Illumination]] takes orphans alone, and it selects the hardest, so a child it passes over usually finds a place elsewhere. Where the child still has family, that family decides the placement and may refuse the Church's offer. Where there is no one, the Church stands as guardian and arranges it.
+An orphan convicted of a crime is offered a choice instead of the sentence alone. The Church brings the charge and tries the child in its own courts, as a state tries its citizens, and once sentence is passed, the child chooses between serving it and entering a chancellery schooling program. The child may choose any of the nine. Eight of them admit children of any family; only [[The Chancellery of Silent Illumination]] takes orphans alone, and it selects the hardest, so a child it passes over usually finds a place elsewhere. The one order that takes orphans alone also keeps their schooling to itself: its recruits are [[The Silent Illumination Schooling|taught privately inside its own house]], apart from the Church's public schools. Where the child still has family, that family decides the placement and may refuse the Church's offer. Where there is no one, the Church stands as guardian and arranges it.
 
 ---
 
