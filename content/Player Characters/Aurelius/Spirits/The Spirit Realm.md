@@ -1,36 +1,47 @@
 ---
 agent-editable: true
 tags:
+  - Plane
   - spirit
   - lore
 aliases:
   - Spirit Realm
+plane-type: Parallel
+ruler: 
+status: 
 ---
 
 > "A memorable quote."
 
 ## Overview
 
-The spirit realm is a single plane, parallel to the material world and always beside it. Spirits are the beings that live there. What they are, and how they work, is set down in [[Spirits]].
+The spirit realm is a single plane, parallel to the material world and always beside it. It is the home of the spirits.
 
 ### Quick Facts
-- **What It Is:** A single plane, parallel to the material world.
-- **Regions:** Many, each with its own character and inhabitants.
-- **Time:** Passes the same as in the material world.
-- **Crossing:** Takes a spirit of high Rank; the weak cannot make it.
-- **Mortal Entry:** Possible, though Aurelius has found no way in.
+- **Also Known As:** Spirit Realm
+- **Plane Type:** A single plane, parallel to the material world
+- **Native Inhabitants:** Spirits
+- **Access:** A spirit crosses only at high Rank
+- **Mortal Entry:** Possible, though Aurelius has found no way in
 
 ---
 
-## The Realm Itself
+## Environment
 
-The realm divides into regions, each with its own character and its own inhabitants. Those regions need not follow the material world's geography, and Aurelius has seen too little of them to map them. Time passes the same on both sides.
+The realm divides into regions, each with its own character and its own inhabitants. Those regions need not follow the material world's geography, and Aurelius has seen too little of them to map them.
+
+### Planar Traits
+- **Time:** Passes the same as in the material world.
+
+---
+
+## [[Spirits]]
 
 On its own side of the divide, a spirit is a real creature with a life of its own. It hunts and hoards, and it keeps its own ground, as much of it as the spirit can hold.
 
 ---
 
-## Crossing Between Worlds
+## Travel & Access
 
 A spirit's hold on the material world follows its strength. A strong spirit can reach across and act in the material world, and the further it rises in Rank, the more it can do there. Travel between the two realms takes a spirit of high Rank, and the weak ones cannot make the crossing, so they stay in their own country. Where that line falls, Aurelius does not yet know.
 
