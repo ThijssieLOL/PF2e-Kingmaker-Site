@@ -8,7 +8,7 @@ alignment: Lawful Good
 deity: The Eternal Blazing Sun
 status: Active
 ---
-
+	
 ![[sun logo.png]]
 
 > "Praise the Sun." — Common Liturgical Greeting
