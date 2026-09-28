@@ -4,7 +4,7 @@ tags:
   - Giant
 ---
 
-![[wolfchild.jpg|300]]
+![[giantholdingsky.jpg|300]]
 
 
 ### Quick Facts
