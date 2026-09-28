@@ -2,6 +2,7 @@
 tags:
   - myth
   - Ymir
+  - BookofMyths
 ---
 
 ![[candles2.png|300]]

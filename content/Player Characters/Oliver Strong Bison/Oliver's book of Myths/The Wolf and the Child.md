@@ -2,6 +2,7 @@
 tags:
   - myth
   - Fandarra
+  - BookofMyths
 ---
 
 ![[wolfchild.jpg|300]]
