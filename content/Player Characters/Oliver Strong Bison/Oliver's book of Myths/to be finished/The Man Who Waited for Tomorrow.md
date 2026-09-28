@@ -4,7 +4,7 @@ tags:
   - Groetus
 ---
 
-![[wolfchild.jpg|300]]
+![[old man.png|300]]
 
 
 ### Quick Facts

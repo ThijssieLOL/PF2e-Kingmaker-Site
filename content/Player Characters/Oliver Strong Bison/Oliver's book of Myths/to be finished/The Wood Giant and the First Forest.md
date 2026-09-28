@@ -4,7 +4,7 @@ tags:
   - Giant
 ---
 
-![[forest.png|300]]
+![[forest 1.png|300]]
 
 
 ### Quick Facts
