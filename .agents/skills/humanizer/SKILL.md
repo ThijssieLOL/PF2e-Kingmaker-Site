@@ -2,12 +2,13 @@
 name: humanizer
 description: |
   Rewrite AI-sounding text so it reads naturally without changing what it says.
-  Use when editing or reviewing prose for inflated claims,
-  sales language, vague sources, repetitive structure, stock AI words, passive
-  voice, filler, or chatbot artifacts. Based on Wikipedia's "Signs of AI writing."
+  Use when editing or reviewing prose, including fiction and worldbuilding notes,
+  for inflated claims, sales language, vague sources, repetitive structure,
+  stock AI words, passive voice, filler, or chatbot artifacts. Follows the
+  project's house style when it has one. Based on Wikipedia's "Signs of AI writing."
 license: MIT
 metadata:
-  version: "2.12.0"
+  version: "2.13.0"
 ---
 
 # Humanizer: remove AI writing patterns
@@ -22,8 +23,9 @@ When given text to humanize:
 
 1. **Find AI patterns.** Check the text against the patterns below.
 2. **Keep every claim.** You may shorten dull parts, expand useful parts, and merge or split paragraphs. Keep the information even when you change the structure.
-3. **Do not invent facts in factual text.** Do not add a fact, name, number, date, quote, or citation unless it comes from the source or the user. If a sentence needs a missing detail, ask for it or use a simpler sentence. You may add an opinion or reaction when the writer's voice calls for one, but you may not add a factual claim. Fiction works differently: there, inventing detail is the task, so the no-invention rule does not apply. Every other rule still does, and fiction prose carries the same patterns below.
+3. **Do not invent facts in factual text.** Do not add a fact, name, number, date, quote, or citation unless it comes from the source or the user. If a sentence needs a missing detail, ask for it or use a simpler sentence. You may add an opinion or reaction when the writer's voice calls for one, but you may not add a factual claim. Fiction works differently: there, inventing detail is often the task. The exception is a shared canon, such as a campaign wiki or a series bible, where the writer owns the facts. See [Fiction and worldbuilding](#fiction-and-worldbuilding). Every other rule still applies, and fiction prose carries the same patterns below.
 4. **Match the voice.** Use the right tone for the text, such as formal, casual, or technical. Add personality only when the text and the writer call for it.
+5. **Follow the house style.** If the project has its own style rules, they win over the defaults here. See [Follow the house style](#follow-the-house-style).
 
 The input type controls what you return. See [How to return the result](#how-to-return-the-result). Use the same rewrite process in every mode.
 
@@ -37,6 +39,16 @@ If the user provides a writing sample (their own previous writing), analyze it b
 
 A writing sample takes priority over these style rules. If the sample uses em dashes, keep them at about the same rate. Do not apply §14 as a ban.
 
+## Follow the house style
+
+A project may set its own style in a style guide, agent instructions, or templates. Where that style conflicts with a rule below, the house style wins. Common cases:
+
+- **Punctuation.** The house style may allow em dashes in named places, such as rank labels, quote attributions, and list labels. Keep those. Remove dashes from running prose unless the style allows them there too (§14).
+- **Formatting.** The house style may require bold labels, title case headings, or a fixed quote or summary slot (§15 to §19). Keep them.
+- **Structure.** Keep required headings, page order, and fixed fields. Humanize the prose inside them.
+
+When the house style is silent, use the rules below. If the writer also gives a sample, the house style controls formatting and punctuation, and the sample controls voice. If you keep something the patterns would flag, say so in the summary.
+
 ## Sound human
 
 Removing AI patterns is only half the job. The result should still sound like a person.
@@ -49,6 +61,7 @@ Habits that push prose toward a person:
 - **Prefer concrete nouns and plain verbs.** Name the thing and the action instead of reaching for an abstract phrase.
 - **Keep one clear subject.** Let a person or thing be the actor, and let the sentences follow from it.
 - **Keep a specific, unexplained detail.** A real hour, place, or small odd fact reads as lived-in. Do not smooth it into a general claim.
+- **Use the writer's own words.** When the writer gives notes, answers, or rough phrasing, keep their concrete images and jokes in preference to your synonyms. Do not turn an odd, specific line into a general one.
 - **End on the last useful fact.** Stop when the information stops.
 
 ## Fast review
@@ -61,6 +74,34 @@ These tells point to AI writing most often, so check them first:
 - A forced group of three, or a "not only X but Y" shape (§9, §10).
 - Em dashes, bold-label lists, and Title Case that the target house style does not use (§14 to §17).
 - Chatbot artifacts, cutoff disclaimers, or praise left in the text (§20 to §22).
+- In fiction and lore: abstract nouns standing in for an action, stock fantasy phrasing, or list entries that share one skeleton (see Fiction and worldbuilding).
+
+## Fiction and worldbuilding
+
+Use this section for stories, character notes, lore, and setting pages. The numbered patterns still apply. These points add to them.
+
+### Canon comes from the writer
+
+Writing new prose is the task. Inventing canon is not, when the text belongs to a shared world, such as a campaign wiki, a series bible, or a game setting. Treat these as facts: names, titles, ranks, numbers, dates, events, relationships, rules, quoted speech, and stated motives. Do not add, drop, or change one.
+
+A passage may need a concrete moment or detail that the notes do not supply. Ask the writer for it, or write a plainer sentence. Do not fill the gap with plausible canon. A short passage with a plain sentence is better than a longer one with a made-up detail.
+
+### Habits for fiction and lore
+
+- **Show behavior, not labels.** "Patient" and "compassionate" tell the reader little. What the character does when someone is rude tells more. If the notes give no behavior, keep the label and ask for one.
+- **Replace an abstract noun with an action when the source has one.** Phrases such as "clinical detachment", "quiet dignity", and "a deep bond" often stand in for a scene. If the notes hold no action, keep the shortest honest phrase.
+- **Make institutions lived-in.** A rank, a rite, or an office feels real through its costs, paperwork, rivalries, and failures. Use only what the notes give. Ask for the rest.
+- **Keep flaws sharp.** Do not soften a petty, prejudiced, or contradictory trait into a virtue.
+- **Cut stock fantasy phrasing.** Examples: "a dance of light and shadow", "whispers of", "a symphony of", "the weight of centuries", "ancient and terrible", "hung heavy in the air", "something stirred". Use the image the text already supplies.
+- **Vary entries in a roster.** Lists of characters or factions often reuse one skeleton: an epithet, three adjectives, and a role (§10, §11). Give each entry its own opening and its own incident. Keep epithets the writer gave. Do not add new ones.
+- **Stop after the beat.** Do not end a lore paragraph by explaining what it means.
+
+**Before:**
+> Marta, the Quartermaster, is methodical, guarded, and fiercely loyal. Piers, the Scout, is restless, sharp, and quiet. Together they form the backbone of the company.
+**After:**
+> Marta counts the barrels twice and does not say why. Piers scouts ahead of the column and comes back saying little.
+
+*The After lines assume the writer's notes supply the barrel count and the scouting habit. Without them, ask.*
 
 ## Content patterns
 
@@ -197,7 +238,7 @@ Do not ban the repeated word. Fix the repeated sentence pattern. The remaining s
 
 ### 14. Em and en dashes
 
-**Rule:** The final rewrite must not contain em dashes (—) or en dashes (–), unless the writer's sample uses them. Replace a dash with a period, comma, colon, or parentheses, or rewrite the sentence. Also check for spaced dashes (` — `) and double hyphens (` -- `) used as dashes.
+**Rule:** The final rewrite must not contain em dashes (—) or en dashes (–), unless the writer's sample or the house style uses them. Replace a dash with a period, comma, colon, or parentheses, or rewrite the sentence. Also check for spaced dashes (` — `) and double hyphens (` -- `) used as dashes.
 **Before:**
 > The term is primarily promoted by Dutch institutions—not by the people themselves. You don't say "Netherlands, Europe" as an address—yet this mislabeling continues—even in official documents.
 **After:**
@@ -432,6 +473,8 @@ A person may use some of these patterns. Do not treat any item below as proof by
 - **Unsourced claims.** Most of the web is unsourced. Lack of citations doesn't prove anything.
 - **Correct, complex formatting.** Visual editors and templates produce clean output without any AI.
 - **Secondhand text.** Do not rewrite watched phrases inside quotations, titles, proper names, or examples where the phrase is being discussed rather than used.
+- **In-world voice.** A character's dialect, a liturgy, a decree, or a chant may be formal, repetitive, or ornate on purpose. Judge it by that voice, not by the narration rules. Do not add contractions, slang, or plain phrasing to it.
+- **Structure required by the house style.** Bold labels, fixed headings, and quote slots are not AI tells when the house style asks for them.
 
 When unsure, look for several patterns together. One em dash proves nothing. Several stock patterns in the same passage are stronger evidence.
 
@@ -443,6 +486,7 @@ These details often carry the writer's voice. Keep them unless they hurt the mea
 - **Mixed feelings and unresolved tension.** Keep lines such as "I think this is mostly good, but it bothers me, and I can't fully explain why."
 - **Dated, era-bound references.** Slang, memes, or in-jokes that map to a specific year and subculture. Models lag by a year or more.
 - **Deliberate first-person choices.** Keep a cut or word choice when the writer can explain why it belongs.
+- **Invented terms and proper nouns.** Coined names, ranks, rites, and capitalized terms in a setting are not errors. Do not lowercase, respell, or replace them.
 - **Variety in sentence length.** Real writing alternates short and long. AI writing tends toward an even, mid-length cadence.
 - **Genuine asides, parentheticals, or self-corrections.** "(I keep wanting to say 'almost' here, but it really was certain.)" Models rarely interrupt themselves like this.
 - **Edits made before November 30, 2022.** ChatGPT's public launch. Anything older than that is, with very rare exceptions, not AI-written.
@@ -453,7 +497,7 @@ These details often carry the writer's voice. Keep them unless they hurt the mea
 
 **Pasted text (default).** Return the draft, a short list of remaining AI patterns, and the final rewrite.
 
-**File mode.** When the user names a file, run the full rewrite process but write only the final text to the file. Change prose only. Keep code blocks, YAML metadata, data, and link targets unchanged. Then give the user a short summary.
+**File mode.** When the user names a file, run the full rewrite process but write only the final text to the file. Change prose only. Keep code blocks, YAML metadata, data, link targets, wikilinks, embeds, and required structure unchanged. Then give the user a short summary.
 
 **Embedded mode.** When another task uses this skill for a pull request, commit message, or document, return only the final text.
 
@@ -463,14 +507,17 @@ These details often carry the writer's voice. Keep them unless they hurt the mea
 2. Write a draft. Read it aloud. Check the rhythm, details, simple verbs such as *is* and *has*, and the right level of formality.
 3. Ask two questions:
    - **"What still sounds AI-generated?"**
-   - **"Did the rewrite add or remove any fact, name, number, date, quote, citation, ranking, or other claim?"**
+   - **"Did the rewrite add or remove any fact, name, number, date, quote, citation, ranking, canon detail, or other claim?"**
+   - **"Does the text follow the house style?"** Skip this question when there is none.
    Treat any unsupported addition or lost claim as an error.
-4. Write the final version. State each point naturally instead of patching one flagged phrase at a time. If a sentence stays awkward, rewrite the paragraph around its main point. Apply the dash rule in §14.
+4. Write the final version. State each point naturally instead of patching one flagged phrase at a time. If a sentence stays awkward, rewrite the paragraph around its main point. Apply the dash rule in §14 and any house style.
 
 Return the result required by [How to return the result](#how-to-return-the-result).
 
 ## Source
 
 This skill is based on [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing), maintained by WikiProject AI Cleanup. Its patterns come from reviews of AI-generated text on Wikipedia.
+
+The "Follow the house style" and "Fiction and worldbuilding" sections and the habit of using the writer's own words are local additions. They do not come from Wikipedia.
 
 Wikipedia's main point: "LLMs use statistical algorithms to guess what should come next. The result tends toward the most statistically likely result that applies to the widest variety of cases."
