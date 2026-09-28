@@ -9,7 +9,7 @@ status: Active
 
 ## Overview
 
-The Shared Hearth is the economic doctrine of [[The Church of the Eternal Blazing Sun]]: the teaching that governs how the faithful earn, hold, and give wealth. [[The Chancellery of the Shared Hearth]] administers it.
+The Shared Hearth is the economic doctrine of [[The Church of the Eternal Blazing Sun]]. It governs how the faithful earn, hold, and give wealth, and [[The Chancellery of the Shared Hearth]] administers it.
 
 ### Quick Facts
 - **Owner:** [[The Church of the Eternal Blazing Sun]]
@@ -21,11 +21,13 @@ The Shared Hearth is the economic doctrine of [[The Church of the Eternal Blazin
 
 ## Wealth & Giving
 
-The Church does not own the means of production directly. It urges the state to hold most of them, and private owners may hold the rest; corruption is condemned wherever it appears. A high income is not a sin in itself. The doctrine judges what a person does with wealth, not how much they earn, and a person who lives modestly and spends the rest on others commits no sin, however much they earn.
+The Church does not own the means of production directly. It urges the state to hold most of them and allows private owners to hold the rest. It condemns corruption wherever it appears.
 
-The sin the doctrine names is hoarding, and hoarding is wealth held back for its own sake. A family that keeps a reserve against hard times is not a hoarder, and neither is the Church, which keeps funds for famine and disaster. The wrong lies in wealth kept from the use of others while need goes unmet.
+A high income is not a sin in itself. The doctrine judges what a person does with wealth, not how much they earn. Someone who lives modestly and spends the rest on others commits no sin, however large their income.
 
-The Church teaches that each gives according to their ability and receives according to their need, and that giving is a civic duty as much as a religious one. Tithes are expected of all believers, at a rate that rises with income, and they are assessed on spendable income, what remains after a household's basic necessities. What counts as a basic necessity is not yet defined. A person who can barely support their family may owe nothing.
+The sin the doctrine names is hoarding: holding wealth back for its own sake while others go without. A family that keeps a reserve against hard times is not a hoarder, and neither is the Church, which keeps funds for famine and disaster.
+
+The Church teaches that each person gives according to their ability and receives according to their need, and that giving is a civic duty as much as a religious one. All believers are expected to pay tithes, at a rate that rises with income. Tithes are assessed on spendable income, meaning what remains after a household's basic necessities. A person who can barely support their family may owe nothing. What counts as a basic necessity is not yet defined.
 
 ### The Clergy's Vow
 Clergy do not vow poverty. They vow not to lead rich lives.
@@ -34,9 +36,11 @@ Clergy do not vow poverty. They vow not to lead rich lives.
 
 ## Funding & Banking
 
-The Church is not a for profit business. It draws steady income from state contracts, chiefly for organizing and managing public charities such as orphanages and soup kitchens, and the rest comes from donations. Where a state will not pay for its charities, the Church funds them itself and asks donors for fixed pledged amounts. It holds it a moral wrong for a state to demand its charitable works without paying for them, or to reject those works entirely. The Church may also invest for profit, both within its own chancelleries and beyond them in private companies and secular governments. Its clergy are paid by [[The Grade System|grade]], on a scale it holds should be fair, weighed by experience, responsibility, and the effort of the work.
+The Church is not a for-profit business. Its steady income comes from state contracts, mainly for organizing and managing public charities such as orphanages and soup kitchens. The rest comes from donations. Where a state will not pay for its charities, the Church funds them itself and asks donors for fixed pledged amounts. It considers it morally wrong for a state to demand these charitable works without paying for them, or to reject them entirely.
 
-The Church does not run banks. Banking is left to the state, or to private owners where no foul play such as monopoly is present. The Church prefers the state.
+The Church may also invest for profit, both within its own chancelleries and in private companies and secular governments. Clergy are paid by [[The Grade System|grade]], on a scale the Church holds to be fair, weighed by experience, responsibility, and the effort of the work.
+
+The Church does not run banks. It leaves banking to the state, or to private owners where no foul play such as monopoly is present. It prefers the state.
 
 ---
 

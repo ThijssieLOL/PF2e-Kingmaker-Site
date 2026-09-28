@@ -12,7 +12,9 @@ status: Active
 
 ## Overview
 
-The Chancellery of Silent Illumination is the intelligence service of [[The Church of the Eternal Blazing Sun]], and it works on both sides of the Church's borders. At home it is the internal security agency, watching the clergy for corruption and betrayal. Abroad it runs the Church's own field missions: agents placed under cover in hostile lands and cases pursued across borders until they close. Its members are trained for the whole of that work, from investigation and counterintelligence to forensics and the tactical operations that end a case when it turns violent. The Chancellery works quietly behind the faith's public ministry, gathering foreign intelligence, tracking existential threats, and running operations where open force is too loud and standard clergy are too vulnerable.
+The Chancellery of Silent Illumination is the intelligence service of [[The Church of the Eternal Blazing Sun]], and it works on both sides of the Church's borders. At home it is the internal security agency, watching the clergy for corruption and betrayal. Abroad it runs the Church's own field missions, placing agents under cover in hostile lands and pursuing cases across borders until they close.
+
+Its members are trained for all of this work, from investigation and counterintelligence to forensics and the tactical operations that end a case when it turns violent. The Chancellery works quietly behind the faith's public ministry. It gathers foreign intelligence, tracks threats to the Church's survival, and runs operations where open force would be too loud and standard clergy too vulnerable.
 
 ### Quick Facts
 - **Parent Organization:** [[The Church of the Eternal Blazing Sun]]
@@ -26,12 +28,12 @@ The Chancellery of Silent Illumination is the intelligence service of [[The Chur
 ## Mandate & Responsibilities
 
 ### Internal Investigation & Anti-Corruption
-- **The Internal Purge:** Agents of Silent Illumination quietly monitor priests, bishops, and secular officials, acting on the Church's zero-tolerance policy for corruption and wealth hoarding.
+- **The Internal Purge:** Agents quietly monitor priests, bishops, and secular officials, following the Church's zero-tolerance policy on corruption and wealth hoarding.
 - **Ecclesiastical Audits:** Agents may investigate high-ranking clergy suspected of betraying holy tenets, embezzling tithes, or misusing relics.
 
 ### Foreign Investigation & Field Operations
-- **Hostile Surveillance:** Operatives are placed in foreign lands (especially regions where the Church is banned or heavily suppressed) to gather intelligence on hostile regimes, cult activity, and necromantic threats.
-- **Field Investigation Abroad:** The investigative method the Chancellery turns on its own clergy is turned on targets beyond the border. Agents work under cover for months or years, trace a network to the people who run it, and build the case before the Chancellery acts.
+- **Hostile Surveillance:** Operatives are placed in foreign lands, especially where the Church is banned or heavily suppressed, to gather intelligence on hostile regimes, cult activity, and necromantic threats.
+- **Field Investigation Abroad:** The Chancellery uses the same investigative method on foreign targets that it uses on its own clergy. Agents work under cover for months or years, trace a network to the people who run it, and build the case before the Chancellery acts.
 - **Counter-Espionage:** The Chancellery neutralizes foreign spies, protects the sacred archives, and keeps the Church's research and instruments out of enemy hands.
 
 ### Covert Operations
@@ -42,16 +44,18 @@ The Chancellery of Silent Illumination is the intelligence service of [[The Chur
 
 ## Recruitment & The Orphan Cohorts
 
-Silent Illumination is the only chancellery that takes orphans and no one else; the other eight admit children of any family as well. It also selects the hardest of the nine, because its work carries the most responsibility. Its recruits come out of [[The Church Schooling Program|the Church's schooling program]], where a convicted orphan may choose a chancellery in place of a prison sentence. Entry rests on consent, and a recruit keeps the right to refuse and the right to leave.
+Silent Illumination is the only chancellery that takes orphans and no one else. The other eight also admit children of any family. It is also the most selective of the nine, because its work carries the most responsibility.
+
+Its recruits come out of [[The Church Schooling Program|the Church's schooling program]], where a convicted orphan may choose a chancellery instead of a prison sentence. Entry is by consent, and a recruit keeps the right to refuse and the right to leave.
 
 ### Selection of the Gifted
 - **The Strictest Gate:** The Chancellery asks more of its children than any other chancellery, and it takes only those it is sure of. A child it passes over usually finds a place in another chancellery.
-- **Innate Potential:** Among the children who choose it, recruitment looks for exceptional physical resilience, tactical instincts, or rare spiritual and magical gifts.
+- **Innate Potential:** Among the children who choose it, recruiters look for exceptional physical resilience, tactical instincts, or rare spiritual and magical gifts.
 
 ### The Seven-Member Cohorts
-- **Upbringing:** Recruits are placed into small, tight-knit cohorts of exactly seven. They live, train, and study together, and they come to trust one another like siblings.
-- **Confidentiality:** Cohorts are not cut off from the outside world. They keep their own names and their ties to family and community, and are bound to keep only the Chancellery's sensitive information secret.
-- **The Vigil:** The Chancellery calls each cohort a Vigil, a watch kept through the night until first light. Each Vigil is numbered in sequence, so the most recent cohort raised in Restov is the Twenty-First Vigil.
+- **Upbringing:** Recruits are placed in small cohorts of exactly seven. They live, train, and study together, and they come to trust one another like siblings.
+- **Confidentiality:** Cohorts are not cut off from the outside world. They keep their own names and their ties to family and community, and they are bound only to keep the Chancellery's sensitive information secret.
+- **The Vigil:** The Chancellery calls each cohort a Vigil, a watch kept through the night until first light. Vigils are numbered in sequence, so the most recent cohort raised in Restov is the Twenty-First Vigil.
 
 ### Rights of the Cohorts
 - **Refusal:** No child is bound to the Chancellery against their will, and no operative is bound to a mission. A recruit may decline the order, and an agent may decline the assignment.
@@ -61,21 +65,21 @@ Silent Illumination is the only chancellery that takes orphans and no one else; 
 
 ## Training Curriculum & Education
 
-The Chancellery trains its cohorts in a rigorous, multi-faceted curriculum meant to produce versatile, self-reliant operatives. Its graduates work as spies and investigators rather than assassins, and instruction is fitted to each recruit, pushing their limits without going beyond them. On top of that training, its members are examined to the academic standard set in [[The Chancellery Curriculum]].
+Cohorts are trained to work as versatile, self-reliant operatives. Graduates work as spies and investigators rather than assassins. Instruction is tailored to each recruit and pushes their limits without breaking them. Members are also examined to the academic standard set in [[The Chancellery Curriculum]].
 
-- **Martial & Covert Mastery:** Unarmed martial arts, marksmanship, endurance conditioning, stealth, wilderness survival, and escape techniques.
-- **Esoteric & Divine Casting:** Specialized instruction in spirit-binding, divine martial magic, animism, and anti-magic countermeasures.
-- **Theological & Civil Law:** Deep study of Church law, canonical ethics, and international statecraft, so agents know precisely when and how to enforce moral justice.
-- **Intellectual Precision:** Rigorous training in espionage, investigative methods, alchemy, and forensic analysis.
+- **Martial & Covert Skills:** Unarmed martial arts, marksmanship, endurance conditioning, stealth, wilderness survival, and escape techniques.
+- **Spellcasting:** Specialized instruction in spirit-binding, divine martial magic, animism, and anti-magic countermeasures.
+- **Law & Statecraft:** Church law, canonical ethics, and international statecraft, so agents know when and how to enforce moral justice.
+- **Investigation:** Espionage, investigative methods, alchemy, and forensic analysis.
 
 ### [[The Silent Illumination Schooling]]
-The Chancellery schools its cohorts apart from the Church's public schools, since its training and its missions carry more of the Church's secrets. Each Vigil is taught privately at the chancellery's regional hub by a tutor for each area, and the lessons follow the public outline with a harder edge and one added subject.
+The Chancellery schools its cohorts apart from the Church's public schools, since its training and missions involve more of the Church's secrets. Each Vigil is taught privately at the chancellery's regional hub, with a tutor for each subject. The lessons follow the public outline but are harder, with one added subject.
 
 ---
 
 ## Known Operatives: The Twenty-First Vigil
 
-The most recent graduating cohort. Of the seven, four remain in active service to the Chancellery under public cover; one has transferred to another Chancellery, and two are counted among the fallen.
+The Twenty-First Vigil is the most recent graduating cohort. Of its seven members, four remain in active service to the Chancellery under public cover, one has transferred to another Chancellery, and two are counted among the fallen.
 
 ### Current Members
 | Member | Path | Public Cover |
