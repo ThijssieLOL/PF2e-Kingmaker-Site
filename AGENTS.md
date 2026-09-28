@@ -106,9 +106,14 @@ user, and treat unclear ownership as not editable.
 
 ### 4.1 Voice & canon
 
-- Write like the existing wiki: in-world, evocative, precise prose, lore that feels lived-in and
-  consistent. Match the register of notes such as `Aurelius.md` and
-  `The Church of the Eternal Blazing Sun.md`.
+- **The human-voice benchmark.** Write like the existing wiki: in-world, evocative, precise prose,
+  lore that feels lived-in and consistent. Four pages the user has revised to strip out the AI tells
+  are the standard for how a note in this vault should sound: `Aurelius.md`,
+  `The Church of the Eternal Blazing Sun.md`, `The Shared Hearth Economy.md`, and
+  `The Chancellery of Silent Illumination.md`. Read them before you draft, and take your register,
+  sentence rhythm, and word choice from them over any habit of your own, so that a new note on
+  similar ground reads as though it came from the same hand. Take the sound, not the sentences: do
+  not lift their wording onto other pages (§4.4).
 - The Church's clergy speak in the **Liturgical Cadence** (see `The Liturgical Cadence.md`): formal
   and structured, with no modern contractions or slang.
 - **Canon anchors:** Aurelius (Animist, church commando, Trias Politicas philosophy, tattoos of
@@ -125,7 +130,8 @@ user, and treat unclear ownership as not editable.
   (`.agents/skills/humanizer/SKILL.md`) before it is saved, new notes and edits alike. No AI tells
   (inflated claims, sales language, forced triads, shallow -ing analysis, "not only X but Y", name
   cycling, vague sources), plain active verbs, and never add, drop, or alter a fact, name, number,
-  date, or quote.
+  date, or quote. Read the benchmark pages named in §4.1 first: they are the user's own revised
+  prose, and they show what the skill's advice looks like in this vault's voice.
 - **Dashes.** The em dash survives only in the vault's structured spots: rank labels
   (`Grade 8 — Cinder`), blockquote attributions (`> "..." — Name`), and heading-style list labels
   (`**[[Name]] — Role:**`, `Tier 1 — Parish`). Remove em and en dashes from running prose, and never
