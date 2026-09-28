@@ -4,7 +4,7 @@ tags:
   - Giant
 ---
 
-![[wolfchild.jpg|300]]
+![[forest.png|300]]
 
 
 ### Quick Facts
