@@ -61,10 +61,10 @@ The verses that the [[Custodian of Groves and Gardens]] lends [[Aurelius]], set 
 
 *Spell 1 · Concentrate, Manipulate, Plant, Wood · two actions · range 30 feet · duration 1 minute*
 
-- **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, almost made from ethereal light, its leaves pale and glowing.
+- **Manifestation:** White-lit wood pushes up out of the soil and spreads into a broad tree, its leaves pale and glowing.
 - **Verbal Component:** "Thou who keepest every growing thing, set the tree over them and let it hold."
 - **Somatic Component:** The Mother -> The Lantern Bearer
-- **Sensation:** A cool pull in the wrist and the smell of turned soil and cut stems, the same smell the Tangle Vine casting carries.
+- **Sensation:** A cool pull in the wrist, and the smell of turned soil and cut stems.
 - **Residue:** When the tree falls it withers into white ash and a ring of fresh-turned soil.
 
 ### Gentle Breeze

@@ -15,7 +15,7 @@ status: Alive
 
 ## Overview
 
-Lyra is an eccentric, enthusiastic researcher fascinated by the physical properties of divine magic. She works as a combat medic, demolitions expert, and tech support, and she is always looking for ways to merge physical science with spiritual energy.
+Lyra is a researcher and a field tinkerer. She works as a combat medic, a demolitions expert, and tech support, and she keeps trying to merge physical science with spiritual energy.
 
 ### Quick Facts
 - **Full Name:** Lyra
@@ -40,7 +40,7 @@ Lyra rarely stands completely still. She carries herself with a bouncy, forward-
 
 ## Personality
 
-Lyra is eccentric and enthusiastic, endlessly curious about the physical properties of divine magic, and always looking for ways to merge physical science with spiritual energy. She speaks [[The Liturgical Cadence]] at a rapid, excited pace, so her archaic phrases come out tumbling rather than measured, especially when she is rambling about her alchemical theories.
+Lyra is eccentric and enthusiastic, endlessly curious about the physical properties of divine magic and always looking for a new way to bend it to her work. She speaks [[The Liturgical Cadence]] at a rapid, excited pace, so her archaic phrases come out tumbling rather than measured, especially when she is rambling about her alchemical theories.
 
 ---
 

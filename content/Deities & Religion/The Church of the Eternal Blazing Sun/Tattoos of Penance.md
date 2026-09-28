@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[The Church of the Eternal Blazing Sun]]. They are a physical, indelible record of a person's past sins, of the sun goddess' capacity for redemptive mercy, and of the bearer's commitment to humility. The core practice is universal across the faith, though individual churches vary slightly in how they administer it.
+The **Tattoos of Penance** are a sacred, church-wide tradition practiced by [[The Church of the Eternal Blazing Sun]]. They are a permanent, public record of a person's past sins and of the goddess's mercy, worn as a vow of humility. The core practice is universal across the faith, though individual churches vary slightly in how they administer it.
 
 ### Quick Facts
 - **Practiced By:** [[The Church of the Eternal Blazing Sun]]
@@ -28,7 +28,7 @@ The tattoos are typically applied by a clergy member of Grade 8 (Cinder) or high
 
 The design of the tattoo is chosen directly by the goddess. As the holy water is applied, it reveals the recipient's specific sins and each sin's personal meaning to the person, shaping the tattoo. The officiating priests choose where the tattoos sit, favoring highly visible areas of the body to emphasize public humility.
 
-Because the designs come from the goddess, there are no standardized symbols. They only share a distinct, cohesive style, and in their resting state they are a warm, reddish-brown, like rust, close to traditional criminal brands. The patterns never resolve into a clear picture. A bearer can see what the design likely means, and others can read it too, but it stays a vague collection of streaks and shapes that only suggest the sin. The tattoos do not change over time. They stay an unyielding reflection of a history already fixed.
+Because the designs come from the goddess, there are no standardized symbols. They only share a distinct, cohesive style, and in their resting state they are a warm, reddish-brown, like rust, close to traditional criminal brands. The patterns never resolve into a clear picture. A bearer can see what the design likely means, and others can read it too, but it stays a vague collection of streaks and shapes that only suggest the sin. The tattoos do not change over time.
 
 ---
 

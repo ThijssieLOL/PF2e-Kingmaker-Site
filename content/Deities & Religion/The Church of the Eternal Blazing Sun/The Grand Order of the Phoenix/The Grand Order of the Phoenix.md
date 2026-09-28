@@ -36,7 +36,7 @@ The Order shares the orthodox creed of the parent church: the sun goddess is the
 At some point in the church's long history, a body of clergy and faithful parted from the main hierarchy over differences in practice. The split was conducted without enmity; the Order keeps its own clergy and hierarchy, and the main church still recognizes its members as fellow faithful rather than heretics.
 
 ### Blood-Blessed Binding
-The Order's most distinctive tradition is a holy necromancy that never touches the dead. Its practitioners bind living thralls, summoned guardians wreathed in a dim holy light, and infuse them with their own blood, so each thrall carries a measure of its binder's will and can be turned against the unrighteous. Because no corpse is raised and no soul is disturbed, the Order holds its art to be blessed by the goddess's grace rather than a mockery of the deceased. The church does not practice the art itself, but neither does it number it among the anathema of undeath.
+The Order's most distinctive tradition is a holy necromancy that never touches the dead. Its practitioners bind living thralls and summoned guardians, each lit by a dim holy light, and infuse them with their own blood, so each thrall carries a measure of its binder's will and can be turned against the unrighteous. Because no corpse is raised and no soul is disturbed, the Order holds its art to be blessed by the goddess's grace rather than a mockery of the deceased. The church does not practice the art itself, but neither does it number it among the anathema of undeath.
 
 ### Vestments
 The Order keeps its own line of vestments, separate from the [[The Vestments of the Clergy|orthodox vestments]] of the parent church.

@@ -15,7 +15,7 @@ status: Alive
 
 ## Overview
 
-Gideon is the emotional anchor and self-appointed "big brother" of the surviving orphans. He went through the same commando training in [[The Chancellery of Silent Illumination]], but he does not see himself as an executioner. He is a living shield, there to preserve his siblings and guide them through their trauma.
+Gideon is the emotional anchor of the surviving orphans, and he calls himself their big brother. He went through the same commando training in [[The Chancellery of Silent Illumination]], but he does not see himself as an executioner. He is a shield for his siblings, and he guides them through their trauma.
 
 ### Quick Facts
 - **Full Name:** Gideon
@@ -36,13 +36,13 @@ His [[Tattoos of Penance]], which he calls "The Heavy Yoke," pool heavily over h
 
 ## Personality
 
-Gideon is calm and reassuring, grounded in pastoral care. He does not push and he does not leave; when one of his siblings is struggling, he stays nearby until they are ready to talk. He speaks [[The Liturgical Cadence]] warm, patient, and pastoral, the register of a reassuring sanctuary priest rather than a commander.
+Gideon is calm and reassuring, and he works the way a chaplain does. He does not push and he does not leave; when one of his siblings is struggling, he stays nearby until they are ready to talk. He speaks [[The Liturgical Cadence]] warm and patient, the register of a sanctuary priest.
 
 ---
 
 ## Abilities
 
-He went through the same commando training as his siblings but focuses on defensive martial arts, using his shield and body to redirect attacks away from his allies. When he channels magic, his tattoos ignite into Aureolin White like every bearer's, though on him the light pulses slow and gentle, so the brand looks less like a punishment and more like a glowing mantle of responsibility.
+He went through the same commando training as his siblings but focuses on defensive martial arts, using his shield and body to redirect attacks away from his allies. When he channels magic, his tattoos ignite into Aureolin White like every bearer's, though on him it pulses slow and gentle, and the brand looks like a mantle he chose to carry.
 
 ---
 

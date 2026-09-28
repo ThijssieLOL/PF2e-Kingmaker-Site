@@ -33,7 +33,7 @@ A church rises in tier only with approval from above: the Tier 1-2 upgrade by a 
 
 ## The Nine-Fold Staff (Tier 2 and above)
 
-Every Cinder (Grade 8) must hold active assignment to a Chancellery, so a Tier 2 church's staff is, by design, a microcosm of the Church itself.
+Every Cinder (Grade 8) must hold active assignment to a Chancellery, so a Tier 2 church keeps a member from each by design.
 
 - **One Seat per Pillar:** Each of the nine High Chancelleries holds at least one seat among the church's permanent clergy: the parish council, seeing to tithes and relief ([[The Chancellery of the Shared Hearth]]), schooling and examinations ([[The Chancellery of Sacred Canon]]), infirmaries and cremation rites ([[The Chancellery of Consecrated Solace]]), and so on.
 - **The Responsible:** Each seat is held by a full-time resident responsible, one per chancellery, Grade 8 or higher, so that no single member carries an unmanageable workload.

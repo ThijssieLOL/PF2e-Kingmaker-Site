@@ -37,7 +37,7 @@ The primary goddess of [[The Church of the Eternal Blazing Sun]]. Erisol, often 
 
 ## Divine Nature
 
-Church doctrine teaches that the literal sun and every other star in the cosmos are physical avatars of Erisol, our sun a uniquely sacred and primary avatar. High-ranking clergy know that she occupies "Grade 0" of the cosmic hierarchy; the position is hers, so it marks the ultimate state of divine ascension, though it stays unreachable for mortals while she reigns.
+Church doctrine teaches that the literal sun and every other star in the cosmos are physical avatars of Erisol, our sun a uniquely sacred and primary avatar. High-ranking clergy know that she occupies "Grade 0" of the cosmic hierarchy; the position is hers, so it is the highest grade, and it stays unreachable for mortals while she reigns.
 
 ---
 
@@ -61,7 +61,7 @@ Church doctrine teaches that the literal sun and every other star in the cosmos 
 
 ## Relationships
 
-Erisol obviously has various relationships with her star saints as she is the one to raise them to sainthood.
+Erisol raises the star saints herself, so she keeps a relationship with each of them.
 
 In some mythologies she has two daughters:
 - [[Kallya]], the god of nature

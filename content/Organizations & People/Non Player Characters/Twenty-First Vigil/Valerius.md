@@ -13,7 +13,7 @@ status: Presumed Deceased
 
 ## Overview
 
-Valerius was the impulsive, fiery vanguard of the Twenty-First Vigil, a Fighter who lived for the clash of blades. He was competitive with everyone around him, always trying to prove himself, though he never meant it as cruelty. [[Tristan]]'s loss hit him hardest of all, and he is presumed to have died a few years later defending the city walls during an invasion.
+Valerius was the vanguard of the Twenty-First Vigil, a Fighter who lived for a fight. He was competitive with everyone around him and always trying to prove himself, though he never meant it as cruelty. [[Tristan]]'s loss hit him hardest of all, and he is presumed to have died a few years later defending the city walls during an invasion.
 
 ### Quick Facts
 - **Full Name:** Valerius
@@ -34,7 +34,7 @@ Valerius was the impulsive, fiery vanguard of the Twenty-First Vigil, a Fighter 
 
 ## Personality
 
-A man who needed to prove himself, in a way that never turned malicious. He met every challenge head-on and never backed away from one.
+He needed to prove himself, and the need never turned malicious. He met every challenge head-on and never backed away from one.
 
 ---
 

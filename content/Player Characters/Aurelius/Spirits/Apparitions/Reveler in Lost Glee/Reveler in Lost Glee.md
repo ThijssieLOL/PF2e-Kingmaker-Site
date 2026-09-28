@@ -11,7 +11,7 @@ status: Active
 
 ## Overview
 
-Spirits of the Reveler in Lost Glee are twisted spirits of joy that once was, and of mirth that now wounds.
+Spirits of the Reveler in Lost Glee are twisted spirits of joy and mirth that have turned to harm.
 
 ### Quick Facts
 - **Domain:** Joy that wounds

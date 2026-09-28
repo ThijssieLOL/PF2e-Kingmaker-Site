@@ -15,7 +15,7 @@ status: In Development
 
 ## Overview
 
-The **Holy Ground Project** is [[Aurelius]]'s grandest ambition, at once magical, spiritual, and political. Conceived as a theoretical, kingdom-scale spiritual defense network, it aims to shield entire mortal populations from spiritual corruption, parasitic entity possession, and undead incursions.
+The **Holy Ground Project** is [[Aurelius]]'s largest ambition, and it is magical, spiritual, and political at once. He designed it as a spiritual defense network on a kingdom's scale, meant to shield whole populations from spiritual corruption, possession by parasitic entities, and undead incursions.
 
 It draws on divine theology, animist spirit manipulation, and advanced alchemical engineering to plan a massive interconnected grid of spiritual nodes and energy batteries across a nation's borders. The system also carries a manual political override aligned with Aurelius's preferred framework, the [[Trias Politicas]], so that national security remains tied to moral governance.
 
@@ -34,7 +34,7 @@ It draws on divine theology, animist spirit manipulation, and advanced alchemica
 The grid is designed around massive batteries meant to hold pure divine radiant energy from [[Erisol]] and release it through the night, keeping the protective barrier unbroken.
 
 ### The Cleansing Barrier
-The boundary acts as an automated filter for any spirit entering or residing within the protected territory, scanning constantly for parasitic, malicious, or unholy spirits. Holy fire forcibly separates and cleanses evil or parasitic spirits at the border, without physical trauma or psychological damage to the host.
+The boundary filters any spirit that enters or lives inside the protected territory, and it scans constantly for parasitic, malicious, or unholy ones. Holy fire forcibly separates and cleanses evil or parasitic spirits at the border, without physical trauma or psychological damage to the host.
 
 ### Engineering & High Alchemy
 While Aurelius provides the theoretical framework, spiritual doctrine, and spirit-binding protocols, his sister [[Lyra]] serves as the lead technical engineer. She designs the physical machinery, crystalline optical arrays, and alchemical conduit systems needed to store and stabilize raw divine power without risking catastrophic energy feedback. The network's mechanical design adapts scientific and optical research developed by [[The Chancellery of Prismatic Inquiry]].
@@ -43,7 +43,7 @@ While Aurelius provides the theoretical framework, spiritual doctrine, and spiri
 
 ## Funding & Resource Allocation
 
-Because encircling an entire kingdom demands colossal infrastructure, the project relies on several sources of funding.
+Encircling a whole kingdom takes enormous infrastructure, so the project relies on several sources of funding.
 
 ### State Defensive Taxes
 The project is marketed to secular governments and ruling monarchs as a defense initiative built to safeguard populations against undead plagues and planar incursions.

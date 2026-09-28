@@ -9,7 +9,7 @@ status: Active
 
 ## Overview
 
-The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. No messenger rides and no raven flies. A letter written in the right ink and committed to flame crosses any distance as a swirl of embers, then condenses once more out of the fire of the one it was meant for.
+The Church binds its far-flung parishes and its agents in the field with a divine correspondence older than any courier road: the Ember Post. A letter written in the right ink and committed to flame crosses any distance as a swirl of embers, then condenses once more out of the fire of the one it was meant for.
 
 ### Quick Facts
 - **Operator:** [[The Chancellery of the Meridian Cadastre]]
@@ -34,7 +34,7 @@ Attuning to a fire is an act of prayer, not mere proximity. The flame is holy, a
 
 > *"Praise the Sun. I am [Name], a child of her light. Let this hearth remember me, that her radiance may find me wherever I stand."* 
 
-The fire responds as only it can: a surge of warmth against the face, a settling of the embers, a whisper of her name on the air. Only then does it take note of the soul before it, and from that moment any message committed to the Ember Post for that person arrives at that fire.
+The fire answers with a surge of warmth against the face and a settling of the embers. Only then does it take note of the soul before it, and from that moment any message committed to the Ember Post for that person arrives at that fire.
 
 Attunement passes from fire to fire as the traveler moves, so itinerant clergy and field agents such as [[Aurelius]] carry their correspondence with them, pausing at each church's hearth along the road to offer the Prayer of Attunement anew and collect what has arrived. A recipient who holds no current attunement receives their mail at their last attuned hearth, for most clergy the message hearth of their home parish, where it is held until they return or pray anew.
 
@@ -44,4 +44,4 @@ Every local church keeps a dedicated **message hearth** in its communication off
 
 ## The Hearth Keepers
 
-The member of [[The Chancellery of the Meridian Cadastre]] posted to each local church serves as its **hearth keeper**, tending the message hearth, receiving all correspondence addressed to the parish, and sorting it for delivery. Every inbound message is logged in the parish register, delivered to its intended recipient, and, once resolved, filed in the church's archive for the Cadastre's historical vaults. Nothing is lost to the fire; everything returns to the ledgers. The ember path itself is swift and untraceable, so the Church layers its own codes over sensitive correspondence, the "encrypted Church missives" of its covert agents, trusting the fire to keep even the existence of a message secret.
+The member of [[The Chancellery of the Meridian Cadastre]] posted to each local church serves as its **hearth keeper**, tending the message hearth, receiving all correspondence addressed to the parish, and sorting it for delivery. Every inbound message is logged in the parish register, delivered to its intended recipient, and, once resolved, filed in the church's archive for the Cadastre's historical vaults. Nothing is lost to the fire, and everything returns to the ledgers. The ember path itself is swift and untraceable, so the Church layers its own codes over sensitive correspondence, the "encrypted Church missives" of its covert agents, trusting the fire to keep even the existence of a message secret.

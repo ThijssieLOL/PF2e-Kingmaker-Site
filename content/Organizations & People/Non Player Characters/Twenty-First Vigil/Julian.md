@@ -15,7 +15,7 @@ status: Alive
 
 ## Overview
 
-Julian is the class's resident morale booster. Beneath his jokes he hides a highly observant mind and a deadly agile fighting style that uses mockery to unbalance his enemies.
+Julian keeps the class laughing. The jokes cover an observant mind, and he fights with a mocking, agile style built to unbalance his enemies.
 
 ### Quick Facts
 - **Full Name:** Julian
@@ -34,13 +34,13 @@ Julian is lean and wire-muscled, with a very expressive face. He has sharp, misc
 
 ## Personality
 
-He is theatrical and irreverent. He adopted the persona to keep his siblings laughing; early in their brutal training he saw that despair was as lethal as any blade. Julian fills [[The Liturgical Cadence|the Cadence]] with theatrical flair and expressive, poetic rhythm. As a Cantor he plays with it, turning out sharp, archaic wit and lighthearted banter so his formal speech sounds lively rather than stiff.
+He is theatrical and irreverent. He took up the persona to keep his siblings laughing; early in their brutal training he saw where despair would lead them. Julian fills [[The Liturgical Cadence|the Cadence]] with theatrical flair and expressive, poetic rhythm. As a Cantor he plays with it, turning out sharp, archaic wit and lighthearted banter so his formal speech sounds lively rather than stiff.
 
 ---
 
 ## Abilities
 
-He fights unarmored in flexible leather, using fluid, acrobatic movements. He lands rapid, stinging strikes to disarm and frustrate opponents rather than relying on brute force. When he channels, his voice carries the light of truth.
+He fights unarmored in flexible leather, using fluid, acrobatic movements. He lands rapid, stinging strikes to disarm and frustrate opponents rather than relying on brute force. When he channels, light rides his voice.
 
 ---
 
