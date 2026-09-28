@@ -2,6 +2,7 @@
 tags:
   - myth
   - Fandarra
+  - BookofMyths
 ---
 
 ![[greatlabor.jpg|300]]

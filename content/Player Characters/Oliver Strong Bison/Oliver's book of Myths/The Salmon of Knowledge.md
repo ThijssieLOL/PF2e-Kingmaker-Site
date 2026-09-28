@@ -2,6 +2,7 @@
 tags:
   - myth
   - fih
+  - BookofMyths
 aliases:
   - Salmon of Knowledge
 ---

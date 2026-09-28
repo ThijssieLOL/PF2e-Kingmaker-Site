@@ -2,6 +2,7 @@
 tags:
   - myth
   - Ymir
+  - BookofMyths
 ---
 
 ![[thefirststar.jpg|300]]

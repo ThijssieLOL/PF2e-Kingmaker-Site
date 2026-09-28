@@ -2,6 +2,7 @@
 tags:
   - myth
   - Ymir
+  - BookofMyths
 ---
 
 ![[flyinggirl.jpg|300]]

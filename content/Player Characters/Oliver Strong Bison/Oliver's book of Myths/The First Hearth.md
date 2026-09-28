@@ -2,6 +2,7 @@
 tags:
   - myth
   - Fandarra
+  - BookofMyths
 ---
 
 ![[thefirsthearth.jpg|300]]

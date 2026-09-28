@@ -2,6 +2,7 @@
 tags:
   - myth
   - Groetus
+  - BookofMyths
 ---
 
 ![[tombstones.png|300]]

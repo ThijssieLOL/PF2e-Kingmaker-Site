@@ -2,6 +2,7 @@
 tags:
   - myth
   - Giant
+  - BookofMyths
 ---
 
 ![[giantholdingsky.jpg|300]]

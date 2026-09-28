@@ -2,6 +2,7 @@
 tags:
   - myth
   - Giant
+  - BookofMyths
 ---
 
 ![[forest 1.png|300]]
