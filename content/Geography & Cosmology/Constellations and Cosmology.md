@@ -2,6 +2,7 @@
 tags:
   - Constellation
   - Cosmology
+  - Moon
 ---
 
 ## Overview
@@ -11,7 +12,7 @@ In addition to Kaelerum's various planes it also has an expansive cosmology. Tho
 
 ## Astral Bodies
 ### Moons
-The planet of Kaelerum has two moons, 
+The planet of Kaelerum has two moons. These two moons are called [[Minerva]] and [[Majorus]]. Minerva being the smaller of the two moons and Majorus the larger. 
 
 ### Constellations and Starsigns:
 - [[The North Star]]
