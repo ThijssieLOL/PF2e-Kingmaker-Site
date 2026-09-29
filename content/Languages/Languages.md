@@ -22,14 +22,13 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 
 
 ### Rare languages
+- **[[Draconic]]** - A language spoken by dragons and their closest disciples. 
+- **[[Gnomish]]** - The language of [[Gnomes|gnomes]].
 - **[[Primordial]]** - The language of the ancient Primordials of the [[Elemental Planes|elemental Planes]]. The primordial languages have no standard written form. Any written form of these languages may resemble hieroglyphics in an attempt to depict the movements made to produce the language.
 	- **[[Cinderai]]** - A language of crackling flames and smoke signals used by fire elementals. A variant of this language is used by dragonborn or factory workers. In situations where they cannot speak they substitute the crackling of flames with the tapping of claws or tools to convey warnings and directions.
 	- **[[Thallasair]]** - A language of waves spoken in the [[Plane of Water|elemental Plane of water]]. It's communication is very similar to that of whales.
 	- **[[Terrakai]]** - The language of the [[Plane of Earth|Plane of earth]]. 
 	- **[[Zephyric]]** - A language of whispering winds spoken on the [[Plane of Air|elemental Plane of air]]. A language of often high shrieks or hummed melodies. Can often sound like birdsong to people unfamiliar with the language.
-- **[[Draconic]]** - A language spoken by dragons and their closest disciples. 
-- **[[Infernal]]** - The language of the hells.
-- **[[Gnomish]]** - The language of [[Gnomes|gnomes]].
 - **[[Necril]]** - A language spoken by intelligent undead and powerful necromancers.
 
 ### Ancient/Scholarly languages and Codes
