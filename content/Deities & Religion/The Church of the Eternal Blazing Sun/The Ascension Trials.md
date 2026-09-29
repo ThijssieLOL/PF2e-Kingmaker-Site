@@ -30,11 +30,11 @@ The first step of the ladder is the general education every member completes ([[
 
 A trial is built from three areas, and a candidate must clear all three in full to rise. The areas stay the same at every grade; only the bar rises, so each step demands more than the one below it in every field. Each area is one an examiner can watch or measure, which keeps a trial to what a candidate can demonstrate.
 
-| Area | What it tests | The examination inside it |
-| :--- | :------------ | :------------------------ |
-| **Combat** | Combat, martial discipline, and endurance | The Combat Examination |
-| **Specialization** | The work of the candidate's chancellery, in knowledge and in practice | The Chancellery Examination |
-| **Doctrine** | The faith's body of knowledge: theology, scripture, history, canon law, and liturgy | The Theological Examination |
+| Area               | What it tests                                                                       | The examination inside      |
+| :----------------- | :---------------------------------------------------------------------------------- | :-------------------------- |
+| **Combat**         | Combat, martial discipline, and endurance                                           | The Combat Examination      |
+| **Specialization** | The work of the candidate's chancellery, in knowledge and in practice               | The Chancellery Examination |
+| **Doctrine**       | The faith's body of knowledge: theology, scripture, history, canon law, and liturgy | The Theological Examination |
 
 ### Combat
 The Combat Examination is a physical trial of combat prowess and martial discipline. A candidate may be exempted from it if they hold a highly specialized, non-combat usefulness, such as exceptional diplomatic, scholarly, or administrative genius.
