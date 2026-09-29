@@ -42,3 +42,5 @@ The Kagos zone is the area closer to the sun than the Earth. The Kagos are thus 
 
 #### Borren zone
 The Borren are the planets within the Borren zone. These are the planets further from the sun than ours.
+
+- Elaris %%A planet with an unusual orbit. It spends most of it's time far away form earth but periodically approaches relatively closely making it much brighter every couple years.%%
