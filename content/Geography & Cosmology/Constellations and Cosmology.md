@@ -41,7 +41,7 @@ The Borren are the planets within the Borren zone. These are the planets further
 - Elaris 
 - Reyen
 
-- Earth/Kaelerum
+#### Earth/Kaelerum
 
 #### Kagos zone
 The Kagos zone is the area closer to the sun than the Earth. The Kagos are thus the planets closer to the sun than Earth itself.
