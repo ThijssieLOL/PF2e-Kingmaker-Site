@@ -16,11 +16,11 @@ The campaign is following an adventuring party of heroes on their quest to found
 
 | Character                     | Player | Class / Future Role              | Focus & Description                                          |
 | ----------------------------- | ------ | -------------------------------- | ------------------------------------------------------------ |
-| **[[Alea]]**                  | Esther | Gunslinger /                     |                                                              |
+| **[[Alea]]**                  | Esther | Gunslinger / ?                   |                                                              |
 | **[[Aurelius]]**              | Thijs  | Animist / High Priest (Magister) | Missionary for the [[The Church of the Eternal Blazing Sun]] |
 | **[[Jock Finch]]**            | Noella | Bard / Treasurer                 | Runaway noble chasing a pirate's life in a land with no sea  |
 | **[[Oliver Strong Bison]]**   | Bram   | Commander / General              | Kellid warrior of the [[The Jotnar Five]]                    |
-| **[[Selion]]**                | Angelo | Necromancer /        | Necromancer of the Grand Order of the Phoenix                |
+| **[[Selion]]**                | Angelo | Necromancer / ?                  | Necromancer of the Grand Order of the Phoenix                |
 | **[[Zephan\|Zephan Ásteri]]** | Berend | Swashbuckler / Ruler             | Dashing hero chosen by fate                                  |
 
 ---
