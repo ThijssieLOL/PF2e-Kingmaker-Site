@@ -38,4 +38,7 @@ The planet of Kaelerum has two moons. These two moons are called [[Minerva]] and
 - Earth/Kaelerum
 
 #### Kagos zone
-The Kagos zone is the 
+The Kagos zone is the area closer to the sun than the Earth. The Kagos are thus the planets closer to the sun than Earth itself.
+
+#### Borren zone
+The Borren are the planets within the Borren zone. These are the planets further from the sun than ours.
