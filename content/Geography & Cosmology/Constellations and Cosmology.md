@@ -1,6 +1,7 @@
 ---
 tags:
   - Constellation
+  - Cosmology
 ---
 
 ### Constellations and Starsigns:
