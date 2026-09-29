@@ -34,3 +34,8 @@ The planet of Kaelerum has two moons. These two moons are called [[Minerva]] and
 - [[The Chalice]]
 - [[The Dragon]]
 
+### Planets
+- Earth/Kaelerum
+
+#### Kagos zone
+The Kagos zone is the 
