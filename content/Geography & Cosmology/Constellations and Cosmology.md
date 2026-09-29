@@ -5,7 +5,7 @@ tags:
 ---
 
 ## Overview
-In addition to Kaelerum's various planes it also has an expansive cosmology 
+In addition to Kaelerum's various planes it also has an expansive cosmology. Though in the daytime 
 
 ### Quick Facts
 
