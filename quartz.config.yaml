@@ -95,10 +95,10 @@ plugins:
   - source: "@quartz-community/description"
     enabled: true
     order: 70
-  # No math in the vault: the latex plugin still pulls KaTeX CSS/JS from a CDN
-  # on every page, so it is off. Re-enable if `$...$` math is ever added.
+  # Used for `$...$` inline math, e.g. the arrows in The Liturgical Cadence.
+  # The plugin pulls KaTeX CSS/JS from a CDN on every page.
   - source: "@quartz-community/latex"
-    enabled: false
+    enabled: true
     options:
       renderEngine: katex
     order: 80
