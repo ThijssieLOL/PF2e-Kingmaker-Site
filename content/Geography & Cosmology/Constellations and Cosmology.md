@@ -5,11 +5,13 @@ tags:
 ---
 
 ## Overview
-In addition to Kaelerum's various planes it also has an expansive cosmology. Though in the daytime 
+In addition to Kaelerum's various planes it also has an expansive cosmology. Though in the daytime the sun overshadows most, the night sky is filled with planets, stars and constellations. 
 
 ### Quick Facts
 
 ## Astral Bodies
+### Moons
+The planet of Kaelerum has two moons, 
 
 ### Constellations and Starsigns:
 - [[The North Star]]
@@ -31,4 +33,3 @@ In addition to Kaelerum's various planes it also has an expansive cosmology. Tho
 - [[The Chalice]]
 - [[The Dragon]]
 
-### Moons
