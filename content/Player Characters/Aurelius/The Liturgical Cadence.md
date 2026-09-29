@@ -1,5 +1,6 @@
 ---
 agent-editable: true
+draft: true
 tags:
   - lore
 ---
