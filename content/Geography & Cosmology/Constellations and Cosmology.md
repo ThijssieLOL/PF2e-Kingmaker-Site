@@ -4,6 +4,13 @@ tags:
   - Cosmology
 ---
 
+## Overview
+In addition to Kaelerum's various planes it also has an expansive cosmology 
+
+### Quick Facts
+
+## Astral Bodies
+
 ### Constellations and Starsigns:
 - [[The North Star]]
 - The Cosmic Caravan %% https://pathfinderwiki.com/wiki/Cosmic_Caravan %%
@@ -23,3 +30,5 @@ tags:
 - [[The Archer]]
 - [[The Chalice]]
 - [[The Dragon]]
+
+### Moons
