@@ -30,7 +30,7 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 	- **[[Thallasair]]** - A language of waves spoken in the [[Plane of Water|elemental Plane of water]]. It's communication is very similar to that of whales.
 	- **[[Terrakai]]** - The language of the [[Plane of Earth|Plane of earth]]. 
 	- **[[Zephyric]]** - A language of whispering winds spoken on the [[Plane of Air|elemental Plane of air]]. A language of often high shrieks or hummed melodies. Can often sound like birdsong to people unfamiliar with the language.
-- **[[Necril]]** - A language spoken by intelligent undead and powerful necromancers.
+
 
 ### Ancient/Scholarly languages and Codes
 - **[[Athalayan]]** - The language of [[Athalan]], an ancient civilization in the eastern region of [[Iorak]]. The empire spanned most of the region east of the [[Red Mountains]]. It's spoken form is no longer remembered but there are still written texts from [[Athalan|the old empire]].
