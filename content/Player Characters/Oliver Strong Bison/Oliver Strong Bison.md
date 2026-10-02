@@ -21,7 +21,7 @@ aliases:
 > "A memorable quote." - Oliver Strong Bison
 
 ## Overview
-**Oliver** is the adopted son of the [[The Jotnar Five|Jotnar Four]], raised by four giants who each taught him a different way to understand the world. Though shaped by hardship and trained as a formidable warrior, Oliver's greatest strength lies in the balance between Zagaakwaa's wisdom, Bapakine's discipline, Daga's joy, and Niigani's compassion.
+**Oliver** is the adopted son of the [[The Jotnar Five|Jotnar Four]], raised by four giants who each taught him a different way to understand the world. Though shaped by hardship and trained as a formidable warrior, Oliver's greatest strength lies in the balance between Zagaakwaa's wisdom, [[Bapakine Iwe Ishkode|Bapakine]]'s discipline, Daga's joy, and Niigani's compassion.
 ### Quick Facts
 - **Full Name:** Oliver Strong Bison / Sa’be Beshwaji’ // *Close friend of the giants*
 - **Ancestry/Species:** Human (Kellid) /  Aiuvarin
