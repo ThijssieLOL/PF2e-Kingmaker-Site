@@ -25,7 +25,7 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 - **[[Draconic]]** - A language spoken by dragons and their closest disciples. 
 - **[[Gnomish]]** - The language of [[Gnomes|gnomes]].
 - **[[Infernal]]** - The language of the hells.
-- **[[Necril]]** - A language spoken by intelligent undead and powerful necromancers. *(foei Thom, imagine niet kunnen spellen) -Bram*
+- **[[Necril]]** - A language spoken by intelligent undead and powerful necromancers.
 - **[[Primordial]]** - The language of the ancient Primordials of the [[Elemental Planes|elemental Planes]]. The primordial languages have no standard written form. Any written form of these languages may resemble hieroglyphics in an attempt to depict the movements made to produce the language.
 	- **[[Cinderai]]** - A language of crackling flames and smoke signals used by fire elementals. A variant of this language is used by dragonborn or factory workers. In situations where they cannot speak they substitute the crackling of flames with the tapping of claws or tools to convey warnings and directions.
 	- **[[Thallasair]]** - A language of waves spoken in the [[Plane of Water|elemental Plane of water]]. It's communication is very similar to that of whales.
