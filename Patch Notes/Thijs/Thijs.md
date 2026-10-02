@@ -8,7 +8,7 @@ aliases:
 
 ## Overview
 
-Daily patch notes for Thijs, who plays [[Aurelius]]. Each note covers one day of commits, from 16 September 2026 to 26 September 2026. The gap on 23 September is a day with no commits.
+Daily patch notes for Thijs, who plays [[Aurelius]]. Each note covers one day of commits, from 16 September 2026 to 2 October 2026. The gaps on 23 September, 30 September, and 1 October are days with no commits.
 
 ### Daily Notes
 
@@ -22,3 +22,7 @@ Daily patch notes for Thijs, who plays [[Aurelius]]. Each note covers one day of
 - [[Patch Notes/Thijs/2026-09-24|2026-09-24]] — the Shared Hearth Economy, layout experiments, and the AGENTS rewrite
 - [[Patch Notes/Thijs/2026-09-25|2026-09-25]] — chancellery curriculum and tracks
 - [[Patch Notes/Thijs/2026-09-26|2026-09-26]] — the Hymnal split and the Ascension Trials
+- [[Patch Notes/Thijs/2026-09-27|2026-09-27]] — chancellery tracks, the plane template, and the Spirit Realm
+- [[Patch Notes/Thijs/2026-09-28|2026-09-28]] — the benchmark pages replaced with the revised prose
+- [[Patch Notes/Thijs/2026-09-29|2026-09-29]] — a humanizing pass and the cohort table
+- [[Patch Notes/Thijs/2026-10-02|2026-10-02]] — the Church hub's unmet religions

@@ -6,7 +6,7 @@ tags:
 
 ## Overview
 
-Patch notes for the Kingmaker vault, kept per player. Each note records what one player changed on one day, grouped by area, with links to the notes themselves.
+Patch notes for the Kingmaker vault, kept per player and for the Dungeon Master. Each note records what one person changed on one day, grouped by area, with links to the notes themselves.
 
 The folder sits at the vault root, outside `content/`, so Quartz never builds it and it stays off the published site. It is meant for the table, and mainly for the DM, to see what moved without opening the whole vault.
 
@@ -18,6 +18,10 @@ The folder sits at the vault root, outside `content/`, so Quartz never builds it
 - [[Bram]] (plays [[Oliver Strong Bison]])
 - [[Angelo]] (plays [[Selion]])
 - [[Berend]] (plays [[Zephan]])
+
+### Dungeon Master
+
+- [[Thom]]
 
 ---
 
