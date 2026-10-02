@@ -144,8 +144,15 @@ It counts [[The Church of the Everlasting Moonlight]] and [[The Order of the Sac
 ### [[The Grand Order of the Phoenix]]
 A smaller denomination that split from the Church on good terms and remains in its good graces. It venerates the same sun goddess and departs from orthodoxy in practice rather than doctrine. Its most distinctive departure is the blood-blessed tradition of thrall-binding, a holy necromancy that never touches the dead.
 
+### Other Religions
+The Church keeps a file on the faiths it has not yet met, and nothing more. None is active in the lands where the Church is, so no relations have been opened.
+
+- **[[The Celestial Calling]]:** A Neutral Good faith of spirits and callings, led by the greater spirit called the Sovereign Muse. It is not established where the Church is, so it exists for the Church only as a file and a name.
+
 ### Cults & Heresies
 - **Cults of False Gods:** Cults of demon lords, evil deities, or entities that practice sacrifice and necromancy are treated as absolute threats. The Church sends its intelligence and military arms to dismantle them.
+- **[[The Heralds of the Moon Incarnate]]:** A Groetus cult that works to hasten the end of the world, with demonic forces and ritual where preaching will not serve. It has not reached the lands where the Church is, so the Church holds a file on it and has not moved.
+- **[[Followers of the Gray Sign]]:** A Groetus sect that preaches the end of the world without hastening it, and turns violent only rarely. The Church keeps a file on it and has had no dealings with it.
 - **Heretics of the sun church:** The Church faces no rival sun-worshipping sect. Its heresies come from groups that claim to belong to the Church itself. These false brethren pose as orthodox clergy or faithful communities and preach doctrines the Church condemns, deceiving the laity from within. The Church treats them as the gravest form of heresy and hunts them through its inquisitorial and intelligence arms. They differ from [[The Grand Order of the Phoenix]], which split openly and remains in good standing. The false brethren are impostors, and the Church shows them none of the charity it gives to kindred denominations.
 
 ### Magic & Secularists
