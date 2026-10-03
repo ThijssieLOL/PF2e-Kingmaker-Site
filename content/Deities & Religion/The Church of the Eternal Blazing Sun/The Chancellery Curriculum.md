@@ -38,14 +38,18 @@ The chancellery counts follow [[The Grade System]]. Each grade carries a heavier
 
 The climb costs time as well: for most members each step up takes far longer than the one before, and the Curriculum fixes no years. It holds the standard reachable only through real ability and years of study. The bachelor's is not merely undertaken before Grade 7; it must be finished, and its end examination forms part of the ascension trial for that step. A member who falls short of the qualification does not sit the ascension trials and holds their grade ([[The Ascension Trials]]).
 
+Ability sets the pace. A gifted member who climbs without pause reaches Grade 7 around twenty-four, Grade 6 around thirty, Grade 5 around thirty-eight, Grade 4 around forty-six, and Grade 3 around fifty-five. The less gifted arrive later or never, so the top grades tend to be held by the most capable rather than the oldest.
+
 ### Degrees & Standing
 The Church's qualifications take the names of the wider world's degrees: bachelor, master, and doctorate, and the Church awards them itself, through its chancelleries. It ranks high in prestige, and its programs are built for its own work, so a qualification won in the chancelleries serves a member best within them. The Church funds the programs from its own coffers.
+
+The doctorate belongs to the chancellery's whole field rather than the member's track. A member who took the Chemistry track of [[The Chancellery of Prismatic Inquiry]] earns the doctorate in Prismatic Inquiry.
 
 ---
 
 ## Tracks & Attributes
 
-Each chancellery admits a field that fits its work, or one adjacent to it, and divides its bachelor study into three specialised tracks. A member takes up one track on joining the chancellery. The master's deepens that same field under its own name, and a member who wants a different track passes through a transition program. [[The Chancellery of Sacred Canon]] rules on whether a subject counts as adjacent. The work also rewards certain aptitudes, and a chancellery's members tend to be strong in the matching attributes. Where a chancellery's line names two sets, a member reaches the standard through one of them rather than both. The pattern is the norm rather than a rule: a capable member may hold a post on other strengths.
+Each chancellery admits a field that fits its work, or one adjacent to it, and divides its bachelor study into three specialised tracks. A member takes up one track on joining the chancellery. The master's deepens that same field under its own name. A member who wants a different track passes through a transition program: a year covering the core of the new track alongside the master's work, examined at the end. [[The Chancellery of Sacred Canon]] rules on whether a subject counts as adjacent. The work also rewards certain aptitudes, and a chancellery's members tend to be strong in the matching attributes. Where a chancellery's line names two sets, a member reaches the standard through one of them rather than both. The pattern is the norm rather than a rule: a capable member may hold a post on other strengths.
 
 No member is exempted from a qualification. From Grade 8 upward every cleric serves a chancellery, and the grade above their own calls for the degree that chancellery sets.
 
@@ -66,4 +70,4 @@ No member is exempted from a qualification. From Grade 8 upward every cleric ser
 ## House Notes
 
 - This page records the standard as it is set: the ladder from Grade 8 through Grade 5 and upward, the degree each transition stands for, the three specialised tracks each chancellery sets, and the aptitudes each chancellery rewards.
-- Open items: the years each level takes; the transition program for switching track; the master's and doctorate titles; which track the other Vigil members hold; and whether the settled standard changes anything already written for serving members other than [[Aurelius]].
+- Open items: which track the other Vigil members hold; and whether the settled standard changes anything already written for serving members other than [[Aurelius]].

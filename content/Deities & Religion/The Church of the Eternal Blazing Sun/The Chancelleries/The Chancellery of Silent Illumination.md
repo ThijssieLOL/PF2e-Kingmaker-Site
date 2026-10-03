@@ -55,6 +55,7 @@ Its recruits come out of [[The Church Schooling Program|the Church's schooling p
 ### The Seven-Member Cohorts
 - **Upbringing:** Recruits are placed in small cohorts of exactly seven. They live, train, and study together, and they come to trust one another like siblings.
 - **Confidentiality:** Cohorts are not cut off from the outside world. They keep their own names and their ties to family and community, and they are bound only to keep the Chancellery's sensitive information secret.
+- **Public Cover:** No operative announces the Chancellery. Each claims a cover chancellery that fits the work they are seen to do, and the Chancellery keeps the false credentials. The claim is chosen person by person.
 - **The Vigil:** The Chancellery calls each cohort a Vigil, a watch kept through the night until first light. Vigils are numbered in sequence, so the most recent cohort raised in Restov is the Twenty-First Vigil.
 
 ### Rights of the Cohorts
@@ -82,12 +83,12 @@ The Chancellery schools its cohorts apart from the Church's public schools, sinc
 The Twenty-First Vigil is the most recent graduating cohort. Of its seven members, four remain in active service to the Chancellery under public cover, one has transferred to another Chancellery, and two are counted among the fallen.
 
 ### Current Members
-| Member | Path | Public Cover |
-| :----- | :--- | :----------- |
-| [[Vespera]] | Investigator | Grade 8 Legal Scribe and Archival Assistant |
-| [[Lyra]] | Alchemist | Grade 8 Apothecary and Sacristan |
-| [[Gideon]] | Warpriest | Grade 8 Hospitaler and Chaplain |
-| [[Julian]] | Swashbuckler | Grade 8 Cantor and Choir Lead |
+| Member | Path | Public Cover | Cover Chancellery |
+| :----- | :--- | :----------- | :---------------- |
+| [[Vespera]] | Investigator | Grade 8 Legal Scribe and Archival Assistant | [[The Chancellery of the Meridian Cadastre]] |
+| [[Lyra]] | Alchemist | Grade 8 Apothecary and Sacristan | [[The Chancellery of Consecrated Solace]] |
+| [[Gideon]] | Warpriest | Grade 8 Hospitaler and Chaplain | [[The Chancellery of Consecrated Solace]] |
+| [[Julian]] | Swashbuckler | Grade 8 Cantor and Choir Lead | [[The Chancellery of Sacred Canon]] |
 
 ### Former Members
 | Member | Path | Now |
@@ -96,4 +97,4 @@ The Twenty-First Vigil is the most recent graduating cohort. Of its seven member
 | [[Tristan]] | Champion (Redeemer) | Presumed deceased |
 | [[Valerius]] | Fighter | Presumed deceased |
 
-The Vigil keeps a shrine to its fallen in the church graveyard garden of Restov, tended by [[Lucian|Father Lucian Soler]].
+The Vigil keeps a shrine to its fallen in the church graveyard garden of Restov, tended by [[Lucian|Father Lucian Soler]]. The father, who runs the branch in Restov, is known to the parish only as a priest, and he claims [[The Chancellery of Sacred Canon]] outside it.

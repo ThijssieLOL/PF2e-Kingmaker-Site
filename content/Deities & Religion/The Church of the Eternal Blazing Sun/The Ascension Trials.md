@@ -37,7 +37,7 @@ A trial is built from three areas, and a candidate must clear all three in full 
 | **Doctrine**       | The faith's body of knowledge: theology, scripture, history, canon law, and liturgy | The Theological Examination |
 
 ### Combat
-The Combat Examination is a physical trial of combat prowess and martial discipline. A candidate may be exempted from it if they hold a highly specialized, non-combat usefulness, such as exceptional diplomatic, scholarly, or administrative genius. [[The Chancellery of Sacred Canon]] grants the exemption.
+The Combat Examination is a physical trial of combat prowess and martial discipline. A candidate may be exempted from it if they hold a highly specialized, non-combat usefulness, such as exceptional diplomatic, scholarly, or administrative genius. [[The Chancellery of Sacred Canon]] grants the exemption, and it asks for three things: a filed record of the candidate's non-combat service, written support from the chancellery head and the candidate's mentor, and one public demonstration before Sacred Canon, whether a disputation, a portfolio, or a documented diplomatic success.
 
 ### Specialization
 The Chancellery Examination is set by each chancellery in the discipline it serves and is taken alongside the other two areas. A member of [[The Chancellery of the Shared Hearth]], for example, is examined in economics. A candidate must hold [[The Chancellery Curriculum|the qualification their chancellery requires]] to sit. One who cannot reach it does not sit the trials at all, holds their current grade, and may attempt the qualification again the following year.
@@ -89,5 +89,4 @@ A pass changes a cleric's vestment to the grade they have won and hands them its
 ## House Notes
 
 - This page owns the ascension trials; [[The Grade System]] keeps only the summary.
-- Open item: the board's size, and how many candidates each member considers.
-- Open item: the evidence that earns the combat exemption.
+- Open item: the number of candidates at each step, and the board's size.
