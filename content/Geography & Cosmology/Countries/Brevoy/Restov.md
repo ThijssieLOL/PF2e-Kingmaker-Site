@@ -47,11 +47,11 @@ In relation to the many dueling schools in Restov dueling culture is much more p
 ## Notable Locations and Residents
 ### Locations
 **Aldori Academy** - The most prestigious and well known dueling school and war college in the region.
-**Name** - reason of importance
+**The Aldori Mansion** - reason of importance
 **Name** - reason of importance
 
 ### Residents
-**[[Ioseph Sellemius]]** - Lord Mayor of Restov
+**[[Ioseph Sellemius]]** - The Lord Mayor of Restov. Notably does not belong to any noble house.
 **[[Jamandi Aldori]]** - She is an Aldori Swordlord and a prevalent figure in city politics. She also hosted the call to adventure that will lead to the expedition into the stolen lands.
 **Name** - reason of importance
 
