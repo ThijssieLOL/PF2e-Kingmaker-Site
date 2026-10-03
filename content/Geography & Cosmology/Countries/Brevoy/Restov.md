@@ -41,7 +41,7 @@ Restov is primarily a [[Human|human]] settlement though it also has plenty of [[
 
 ---
 ## Culture/Relations
-In relation to the many dueling schools in Restov dueling culture is much more prevalent than in the rest of the country. 
+In relation to the many dueling schools in Restov dueling culture is much more prevalent than in the rest of the country. In addition to this the city and [[Rostland|the region]] in general has a different culture from 
 
 ---
 ## Notable Locations and Residents
