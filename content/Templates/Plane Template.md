@@ -3,7 +3,6 @@ tags:
   - Plane
 aliases:
 plane-type: 
-ruler: 
 status: 
 ---
 
