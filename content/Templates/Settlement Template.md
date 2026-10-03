@@ -1,6 +1,6 @@
 ---
 tags:
-  - Settlemen
+  - Settlement
   - Location
 settlement type:
 government:
