@@ -14,7 +14,7 @@ aliases:
 ---
 
 ## Overview
-Restov is one of the major cities of [[Brevoy]]. Sometimes called the Free City of Restov though it's independence is questionable it is either way strongly allied with [[Brevoy]]. It is mostly known for it's dueling schools primarily in the there founded Aldori dueling style, primary of these being the Aldori Academy.
+Restov is one of the major cities of [[Brevoy]] and lies in the [[Rostland]] region. Sometimes called the Free City of Restov though it's independence is questionable it is either way strongly allied with [[Brevoy]]. It is mostly known for it's dueling schools primarily in the there founded Aldori dueling style, primary of these being the Aldori Academy.
 
 ### Quick Facts
 - **Leader:** Lord Mayor Ioseph Sellemius
