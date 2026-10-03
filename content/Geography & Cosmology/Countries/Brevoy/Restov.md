@@ -4,6 +4,7 @@ tags:
   - Location
   - Brevoy
   - Restov
+  - Unfinished
 settlement type: City
 government: Mayor
 country: "[[Brevoy]]"
@@ -40,7 +41,7 @@ Restov is primarily a [[Human|human]] settlement though it also has plenty of [[
 
 ---
 ## Culture/Relations
-Culture and relations of this settlement if they differ greatly/significantly from that of the country/region.
+In relation to the many dueling schools in Restov dueling culture is much more prevalent than in the rest of the country. 
 
 ---
 ## Notable Locations and Residents
