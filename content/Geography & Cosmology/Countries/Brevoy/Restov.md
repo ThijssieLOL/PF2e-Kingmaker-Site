@@ -46,7 +46,7 @@ In relation to the many dueling schools in Restov dueling culture is much more p
 ---
 ## Notable Locations and Residents
 ### Locations
-**Name** - reason of importance
+**Aldori Academy** - The most prestigious and well known dueling school and war college in the region.
 **Name** - reason of importance
 **Name** - reason of importance
 
