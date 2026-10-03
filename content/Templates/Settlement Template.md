@@ -36,3 +36,20 @@ What kind of people live in this settlement? How many?
 
 ---
 ## Culture/Relations
+Culture and relations of this settlement if they differ greatly/significantly from that of the country/region.
+
+---
+## Notable Locations and Residents
+### Locations
+**Name** - reason of importance
+
+### Residents
+**Name** - reason of importance
+
+---
+## History
+**Founding:** How and when the country was founded
+**Early History:** Important events from its early history
+**Major Events:** Wars, revolutions, disasters, golden ages, etc.
+**Recent History:** Important events in the recent past
+**Current Situation:** What is currently happening within the country
