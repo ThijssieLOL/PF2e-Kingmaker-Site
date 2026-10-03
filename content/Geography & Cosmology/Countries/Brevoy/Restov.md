@@ -14,14 +14,14 @@ status: Active
 Restov is one of the major cities of [[Brevoy]]. Sometimes called the Free City of Restov though it's independance is questionable it is either way strongly allied with [[Brevoy]]. It is mostly known for it's dueling schools primarily in the there founded Aldori dueling style, primary of these being the Aldori Academy.
 
 ### Quick Facts
-- **Leader:**
-- **Settlement type:**
-- **Country:**
-- **Government:**
-- **Affiliation / Alliances:** 
+- **Leader:** Lord Mayor Ioseph Sellemius
+- **Settlement type:** City
+- **Country:** [[Brevoy]]
+- **Government:** Mayor helped by a council of Swordlords
+- **Affiliation / Alliances:** allied with [[Brevoy]]
 
 ## Location
-- **Position:** (Where on the continent/world is it located?)
+- **Position:** Restov lies on [[Brevoy|Brevoy
 - **Notable Locations:** (Important landmarks, regions, or natural features)
 
 ---
