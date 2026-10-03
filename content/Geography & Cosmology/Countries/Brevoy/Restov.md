@@ -6,12 +6,12 @@ tags:
   - Restov
 settlement type: City
 government: Mayor
-country:
+country: Brevoy
 status: Active
 ---
 
 ## Overview
-A brief 1-2 sentence summary of what this settlement is, what it is known for, and its main role in the world.
+Restov is one of the major cities of [[Brevoy]]
 
 ### Quick Facts
 - **Leader:**
