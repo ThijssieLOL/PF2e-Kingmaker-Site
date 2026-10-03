@@ -26,18 +26,13 @@ The hub page's House Notes hold most of these, and the DM settles them.
 
 ### Hierarchy & advancement
 
-- [ ] The Review Board's size: one member for each fixed number of candidates
-- [ ] The combat exemption: what evidence earns it from [[The Chancellery of Sacred Canon]]
-- [ ] The years each qualification level takes, and the ages a member normally reaches Grades 7, 6, and 5
-- [ ] The master's and doctorate titles: how the master's name deepens the bachelor's field, and whether the doctorate belongs to the member's track or the chancellery's whole field
-- [ ] The transition program for switching track at the master's
+- [ ] The candidates at each trial step, and the Review Board's size
 - [ ] Whether Kaelerum's secular academies award degrees like the Church's, or the tracks are church-only
 - [ ] Which track the other Vigil members hold ([[Vespera]], [[Lyra]], [[Gideon]], [[Julian]]), and whether [[Lucian]] holds a bachelor in a Silent Illumination track
 - [ ] Whether the settled standard changes anything already written for serving members other than [[Aurelius]]
 - [ ] What makes a child count as a solite for admission, and the exact share of non-solites in the schools
 - [ ] In-world names for the stages beyond middle school and high school
 - [ ] Where the specialised tracks are taught
-- [ ] The Silent Illumination cover chancelleries: confirm which chancellery each member claims at large, and record it on [[The Chancellery of Silent Illumination]]
 
 ### Economy
 
