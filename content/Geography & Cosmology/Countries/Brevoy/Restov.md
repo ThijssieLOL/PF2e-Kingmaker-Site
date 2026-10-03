@@ -6,12 +6,14 @@ tags:
   - Restov
 settlement type: City
 government: Mayor
-country: Brevoy
+country: "[[Brevoy]]"
 status: Active
+aliases:
+  - Free City of Restov
 ---
 
 ## Overview
-Restov is one of the major cities of [[Brevoy]]. Sometimes called the Free City of Restov though it's independance is questionable it is either way strongly allied with [[Brevoy]]. It is mostly known for it's dueling schools primarily in the there founded Aldori dueling style, primary of these being the Aldori Academy.
+Restov is one of the major cities of [[Brevoy]]. Sometimes called the Free City of Restov though it's independence is questionable it is either way strongly allied with [[Brevoy]]. It is mostly known for it's dueling schools primarily in the there founded Aldori dueling style, primary of these being the Aldori Academy.
 
 ### Quick Facts
 - **Leader:** Lord Mayor Ioseph Sellemius
@@ -34,7 +36,7 @@ The settlement is governed primarily by [[Ioseph Sellemius|Lord Mayor Ioseph Sel
 
 ---
 ## Population
-Restov is primarily a huma
+Restov is primarily a [[Human|human]] settlement though it also has plenty of [[Dwarves|dwarves]], [[Halfling|halflings]] and various half-races.
 
 ---
 ## Culture/Relations
