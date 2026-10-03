@@ -31,4 +31,8 @@ The government and ruling situation of this settlement.
 **district name** - what is in this district and the reason of importance.
 
 ---
-##
+## Population
+What kind of people live in this settlement? How many?
+
+---
+## Culture/Relations
