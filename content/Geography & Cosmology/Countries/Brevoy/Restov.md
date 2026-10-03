@@ -52,7 +52,7 @@ In relation to the many dueling schools in Restov dueling culture is much more p
 
 ### Residents
 **[[Ioseph Sellemius]]** - Lord Mayor of Restov
-**[[Jamandi Aldori]]** - She is an Aldori Swordlord and a prevalent figure in city politics. She also hosts our adventurers
+**[[Jamandi Aldori]]** - She is an Aldori Swordlord and a prevalent figure in city politics. She also hosted the call to adventure that will lead to the expedition into the stolen lands.
 **Name** - reason of importance
 
 ---
