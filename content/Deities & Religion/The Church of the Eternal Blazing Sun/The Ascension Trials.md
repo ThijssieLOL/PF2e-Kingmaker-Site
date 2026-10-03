@@ -53,7 +53,16 @@ The Church holds one examination period a year, for the whole faith at once, and
 
 A candidate chooses whether to sit and where, but only with their mentor's approval. A mentor may withhold it, whether the candidate is not ready or for another reason, and a candidate who is refused may appeal. A higher grade brings higher pay, more standing, and a heavier share of the Church's work, and the Church encourages the member to reach for it, but the choice stays with the member.
 
-A sitting shrinks as the grade rises. The crowds at the Grade 9 to Grade 8 and Grade 8 to Grade 7 steps are enormous, and each step above draws fewer candidates, so a high-grade sitting fills a smaller room than a low-grade one.
+A sitting shrinks as the grade rises. The crowds at the Grade 9 to Grade 8 and Grade 8 to Grade 7 steps are enormous, and each step above draws fewer candidates, so a high-grade sitting fills a smaller room than a low-grade one. A typical year draws roughly:
+
+| Step | Candidates |
+| :--- | :--------- |
+| Grade 9 → 8 | 750 |
+| Grade 8 → 7 | 200 |
+| Grade 7 → 6 | 60 |
+| Grade 6 → 5 | 20 |
+| Grade 5 → 4 | 8 |
+| Grade 4 → 3 | 3 |
 
 No examination can kill. High-grade healers attend every sitting, and the trials are held to be entirely safe with them at hand; without that care the work would be extremely dangerous. The examiners push each candidate to their limit, because the trial exists to show whether they can carry the grade above.
 
@@ -62,6 +71,8 @@ No examination can kill. High-grade healers attend every sitting, and the trials
 ## The Review Board
 
 A candidate who clears the three areas is interviewed by an appointed council of clergy one grade above the rank being sought, and the officer who oversees the board sits two grades above. The council confirms the examination results and grants ascension. It does not weigh character; the candidate's mentor carries that judgement, since the mentor decides whether the candidate may sit at all.
+
+Boards sit in panels of three, spread across the districts as the crowds demand. A panel interviews each candidate for about ten minutes and clears roughly two hundred over the trial week, so the first step convenes four panels, the step above it one, and every higher step a single panel.
 
 A recommendation is a formality, a spoken or written word from a higher-up that the council hears rather than leans on. A board member may be the candidate's own superior or mentor, but no member grades their own student.
 
@@ -89,4 +100,3 @@ A pass changes a cleric's vestment to the grade they have won and hands them its
 ## House Notes
 
 - This page owns the ascension trials; [[The Grade System]] keeps only the summary.
-- Open item: the number of candidates at each step, and the board's size.

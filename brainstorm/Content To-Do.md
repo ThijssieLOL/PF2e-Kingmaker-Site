@@ -26,8 +26,6 @@ The hub page's House Notes hold most of these, and the DM settles them.
 
 ### Hierarchy & advancement
 
-- [ ] The candidates at each trial step, and the Review Board's size
-- [ ] Whether Kaelerum's secular academies award degrees like the Church's, or the tracks are church-only
 - [ ] Which track the other Vigil members hold ([[Vespera]], [[Lyra]], [[Gideon]], [[Julian]]), and whether [[Lucian]] holds a bachelor in a Silent Illumination track
 - [ ] Whether the settled standard changes anything already written for serving members other than [[Aurelius]]
 - [ ] What makes a child count as a solite for admission, and the exact share of non-solites in the schools
