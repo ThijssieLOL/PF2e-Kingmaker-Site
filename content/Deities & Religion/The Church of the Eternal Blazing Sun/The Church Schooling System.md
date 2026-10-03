@@ -44,7 +44,7 @@ Above the diploma, the specialised track and the degrees belong to the chancelle
 
 ## Access
 
-The Church funds the study of its own from its coffers, and it opens the schools to outsiders as well. A non-solite may attend the general education and the high school and finish with the diploma, and a reasonable share of the students in those years are not solites.
+The general education and the high school do not charge, for a solite or an outsider. Who pays for them depends on the country: the state carries them where it holds the schooling contract, and [[The Church of the Eternal Blazing Sun|the Church]] carries them where the contract is its own. A non-solite may attend both stages and finish with the diploma, and a reasonable share of the students in those years are not solites.
 
 The specialised tracks are a different matter. A non-solite may take one up, but the Church will not fund it, on the plain reasoning that an outsider will not carry the expertise back into the Church's work. With no subsidy behind it, the cost keeps nearly all of them away, and a non-solite in a track is almost unknown.
 
@@ -54,4 +54,4 @@ The specialised tracks are a different matter. A non-solite may take one up, but
 
 - This page gives the shape of the whole road and hands the detail to its two subnotes; it should not grow a second copy of either.
 - The Curriculum fixes no years past the diploma, so the table names an age only where canon sets one.
-- Open items: whether the schools charge non-solites or are free to all; what makes a child count as a solite for admission; the exact share of non-solites in the schools; whether the stages carry their own in-world names beyond middle school and high school; and where the specialised tracks are taught.
+- Open items: what makes a child count as a solite for admission; the exact share of non-solites in the schools; whether the stages carry their own in-world names beyond middle school and high school; and where the specialised tracks are taught.

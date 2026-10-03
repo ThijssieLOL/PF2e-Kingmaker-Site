@@ -19,9 +19,9 @@ The first step of the ladder is the general education every member completes ([[
 - **Owner:** [[The Church of the Eternal Blazing Sun]]
 - **Overseer:** [[The Chancellery of Sacred Canon]]
 - **Grades Tested:** Grade 9 (Spark) to Grade 3 (Zenith)
-- **Frequency:** Once a year
+- **Frequency:** Once a year, for one week
 - **Areas:** Combat, Specialization, and Doctrine
-- **Gate:** [[The Chancellery Curriculum|The qualification each chancellery requires]]
+- **Gate:** [[The Chancellery Curriculum|The qualification each chancellery requires]], and a mentor's approval to sit
 - **Status:** Active
 
 ---
@@ -37,7 +37,7 @@ A trial is built from three areas, and a candidate must clear all three in full 
 | **Doctrine**       | The faith's body of knowledge: theology, scripture, history, canon law, and liturgy | The Theological Examination |
 
 ### Combat
-The Combat Examination is a physical trial of combat prowess and martial discipline. A candidate may be exempted from it if they hold a highly specialized, non-combat usefulness, such as exceptional diplomatic, scholarly, or administrative genius.
+The Combat Examination is a physical trial of combat prowess and martial discipline. A candidate may be exempted from it if they hold a highly specialized, non-combat usefulness, such as exceptional diplomatic, scholarly, or administrative genius. [[The Chancellery of Sacred Canon]] grants the exemption.
 
 ### Specialization
 The Chancellery Examination is set by each chancellery in the discipline it serves and is taken alongside the other two areas. A member of [[The Chancellery of the Shared Hearth]], for example, is examined in economics. A candidate must hold [[The Chancellery Curriculum|the qualification their chancellery requires]] to sit. One who cannot reach it does not sit the trials at all, holds their current grade, and may attempt the qualification again the following year.
@@ -49,9 +49,9 @@ The Theological Examination is a mandatory, comprehensive written exam covering 
 
 ## The Annual Sitting
 
-The Church holds one examination period a year, for the whole faith at once. It is held across several districts rather than at a single site, so candidates sit near home and the work spreads through the order. [[The Chancellery of Sacred Canon]] convenes and presides over the period.
+The Church holds one examination period a year, for the whole faith at once, and it lasts a week. It is held across several districts rather than at a single site, so candidates sit near home and the work spreads through the order. [[The Chancellery of Sacred Canon]] convenes and presides over the period.
 
-A candidate chooses whether to sit and where. A higher grade brings higher pay, more standing, and a heavier share of the Church's work, and the Church encourages the member to reach for it, but the choice stays with the member.
+A candidate chooses whether to sit and where, but only with their mentor's approval. A mentor may withhold it, whether the candidate is not ready or for another reason, and a candidate who is refused may appeal. A higher grade brings higher pay, more standing, and a heavier share of the Church's work, and the Church encourages the member to reach for it, but the choice stays with the member.
 
 A sitting shrinks as the grade rises. The crowds at the Grade 9 to Grade 8 and Grade 8 to Grade 7 steps are enormous, and each step above draws fewer candidates, so a high-grade sitting fills a smaller room than a low-grade one.
 
@@ -61,7 +61,7 @@ No examination can kill. High-grade healers attend every sitting, and the trials
 
 ## The Review Board
 
-A candidate who clears the three areas is interviewed by an appointed council of clergy one grade higher than the rank being sought. The council weighs the results, character, and moral standing before granting ascension.
+A candidate who clears the three areas is interviewed by an appointed council of clergy one grade above the rank being sought, and the officer who oversees the board sits two grades above. The council confirms the examination results and grants ascension. It does not weigh character; the candidate's mentor carries that judgement, since the mentor decides whether the candidate may sit at all.
 
 A recommendation is a formality, a spoken or written word from a higher-up that the council hears rather than leans on. A board member may be the candidate's own superior or mentor, but no member grades their own student.
 
@@ -80,11 +80,14 @@ Results are public, and a failed attempt is recorded on the member, but the anno
 
 ---
 
+## The Rite of Ascension
+
+A pass changes a cleric's vestment to the grade they have won and hands them its duties. The Church marks the moment with a ceremony in the manner of a graduation. The [[The Liturgical Cadence|Liturgical Cadence]] carries the spoken parts, as it carries all formal speech within the Church.
+
+---
+
 ## House Notes
 
 - This page owns the ascension trials; [[The Grade System]] keeps only the summary.
-- Open item: how the Grade System's level column and the Combat Examination relate to the phrase "strict power and combat requirements", and whether a separate gate sits behind it.
-- Open item: the board's composition, how many sit on it, and how far above the candidate they stand. The written reading is one grade higher; the working answer is two ranks up, and the two need reconciling.
-- Open item: whether the Review Board keeps its character role alongside the results.
-- Open item: the combat exemption, who grants it and on what evidence, held for the DM.
-- Open item: the ceremony that follows a passed trial.
+- Open item: the board's size, and how many candidates each member considers.
+- Open item: the evidence that earns the combat exemption.

@@ -35,6 +35,8 @@ The hierarchy of [[The Church of the Eternal Blazing Sun]] runs on a strict, fir
 | **1** | Star                    |        | Ascended mortals: [[The Star Saints]]                                                                              |                                                                       |
 | **0** | The Eternal Blazing Sun |        | The Goddess herself.                                                                                              |                                                                       |
 
+The level column is a reference for play rather than a rule the Church enforces. It shows the power a grade tends to carry, and a member's career usually follows it. The Church keeps no measure called a level and grants no grade by one, and rare exceptions exist where ability and record outrun the column. No cleric speaks of a colleague by a number.
+
 ---
 
 ## The Shape of the Order

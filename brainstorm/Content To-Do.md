@@ -26,20 +26,18 @@ The hub page's House Notes hold most of these, and the DM settles them.
 
 ### Hierarchy & advancement
 
-- [ ] Reconcile [[The Grade System]]'s level column and the Combat Examination with the phrase "strict power and combat requirements", and decide whether a separate gate sits behind it
-- [ ] Fix [[The Ascension Trials]]' Review Board: its size, and how far above the candidate it sits (the page reads one grade higher, the working answer is two ranks)
-- [ ] Decide whether the Review Board keeps its character role alongside the results
-- [ ] The combat exemption: who grants it, and on what evidence (DM)
-- [ ] The ceremony that follows a passed trial
-- [ ] Decide who rules on whether a subject counts as adjacent
-- [ ] Whether a member can be exempted from a qualification
-- [ ] The years each qualification level takes
-- [ ] Whether the settled standard changes anything already written for serving members such as [[Aurelius]]
-- [ ] [[The Church Schooling System]]: whether the schools charge non-solites or are free to all
+- [ ] The Review Board's size: one member for each fixed number of candidates
+- [ ] The combat exemption: what evidence earns it from [[The Chancellery of Sacred Canon]]
+- [ ] The years each qualification level takes, and the ages a member normally reaches Grades 7, 6, and 5
+- [ ] The master's and doctorate titles: how the master's name deepens the bachelor's field, and whether the doctorate belongs to the member's track or the chancellery's whole field
+- [ ] The transition program for switching track at the master's
+- [ ] Whether Kaelerum's secular academies award degrees like the Church's, or the tracks are church-only
+- [ ] Which track the other Vigil members hold ([[Vespera]], [[Lyra]], [[Gideon]], [[Julian]]), and whether [[Lucian]] holds a bachelor in a Silent Illumination track
+- [ ] Whether the settled standard changes anything already written for serving members other than [[Aurelius]]
 - [ ] What makes a child count as a solite for admission, and the exact share of non-solites in the schools
 - [ ] In-world names for the stages beyond middle school and high school
 - [ ] Where the specialised tracks are taught
-- [ ] Work through the open questions in [[Chancellery Education Brainstorm]] (1 to 3, 9, 12, 13, 19 to 25, and 27)
+- [ ] The Silent Illumination cover chancelleries: confirm which chancellery each member claims at large, and record it on [[The Chancellery of Silent Illumination]]
 
 ### Economy
 
@@ -72,6 +70,7 @@ The hub page's House Notes hold most of these, and the DM settles them.
 - [ ] [[The Shepherd]]: the chapters, and the exercises in the margins
 - [ ] [[Spirit Sealing]]: how sealing looks to a bystander and to spirit-sight, and how the look of divine magic differs from spirit magic
 - [ ] [[Holy Ground Project]]: how divine radiant energy is gathered and stored at kingdom scale
+- [ ] The in-world name for the Church's light-and-prism work, replacing the retired "solar-prism" term ([[Chancellery Education Brainstorm]] 25)
 - [ ] [[The Spirit Realm]]: where the rank line falls for crossing into the material world (the page leaves this to the DM)
 - [ ] [[Aurelius]]: the Grade 8 Cinder vestment line is still "work in progress"
 - [ ] Fill the TBD fields on the individual apparition spirits: [[The Piper]], [[The Court of One]], [[The Reflection]], [[The Grazer]], [[The Hedge]], [[The Reacher]], and [[The Swallower]]. Each needs a binding status, own name, first meeting, personality, relationship with Aurelius, and personal gift
