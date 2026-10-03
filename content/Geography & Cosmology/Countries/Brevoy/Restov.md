@@ -21,12 +21,12 @@ Restov is one of the major cities of [[Brevoy]]. Sometimes called the Free City 
 - **Affiliation / Alliances:** allied with [[Brevoy]]
 
 ## Location
-- **Position:** Restov lies on [[Brevoy|Brevoy
+- **Position:** Restov lies on [[Brevoy|Brevoy's]] border with the river kingdoms, particularly the stolen lands.
 - **Notable Locations:** (Important landmarks, regions, or natural features)
 
 ---
 ## Government
-The government and ruling situation of this settlement.
+The settlement is governed primarily by [[Ioseph Sellemius|Lord Mayor Ioseph Sellemius]]. He is aided by a council of Swordlords. He himself is also part of this council and acts as its representative.
 
 ---
 ## Districts
@@ -34,7 +34,7 @@ The government and ruling situation of this settlement.
 
 ---
 ## Population
-What kind of people live in this settlement? How many?
+Restov is primarily a huma
 
 ---
 ## Culture/Relations
