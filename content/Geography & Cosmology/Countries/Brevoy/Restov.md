@@ -11,7 +11,7 @@ status: Active
 ---
 
 ## Overview
-Restov is one of the major cities of [[Brevoy]]
+Restov is one of the major cities of [[Brevoy]]. Sometimes called the Free City of Restov though it's independance is questionable it is either way strongly allied with [[Brevoy]]. It is mostly known for it's dueling schools primarily in the there founded Aldori dueling style, primary of these being the Aldori Academy.
 
 ### Quick Facts
 - **Leader:**
