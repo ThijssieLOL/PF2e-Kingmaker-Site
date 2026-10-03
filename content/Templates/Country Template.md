@@ -19,16 +19,19 @@ A brief 1-2 sentence summary of what this country is, what it is known for, and 
 - **Affiliation / Alliances:** 
 
 ## Location
-- **Borders:** (What countries, regions, or geographical features border the country?)
-- **Position:** (Where on the continent/world is it located?)
-- **Notable Locations:** (Important landmarks, regions, or natural features)
+**Borders:** (What countries, regions, or geographical features border the country?)
+**Position:** (Where on the continent/world is it located?)
+**Notable Locations:** (Important landmarks, regions, or natural features)
 
 ---
 ## Geography
 **Terrain:** (Mountains, forests, plains, deserts, coastlines, etc.)
 **Climate:** (General climate and notable seasonal conditions)
 **Natural Resources:** (Important resources found within the country)
-**Notable Features:** (Major rivers, mountain ranges, forests, lakes, landmarks, etc.)
+
+### Notable Features:
+(Major rivers, mountain ranges, forests, lakes, landmarks, etc.)
+**Name** - description of landmark
 
 ---
 ## Capital and important cities
