@@ -47,8 +47,12 @@ In relation to the many dueling schools in Restov dueling culture is much more p
 ## Notable Locations and Residents
 ### Locations
 **Name** - reason of importance
+**Name** - reason of importance
+**Name** - reason of importance
 
 ### Residents
+**[[Ioseph Sellemius]]** - Lord Mayor of Restov
+**[[Jamandi Aldori]]** - She is an Aldori Swordlord and a prevalent figure in city politics
 **Name** - reason of importance
 
 ---
