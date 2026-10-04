@@ -54,7 +54,7 @@ A brief 1-2 sentence summary of the key events of the session.
 - [[Tartuccio]]:
 - [[Valerie]]:
 - [[Maegar Varn]]:
-	- W
+	- **Weakness:** History
 
 - [[Jamandi Aldori]]:
 
