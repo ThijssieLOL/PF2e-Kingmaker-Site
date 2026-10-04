@@ -29,6 +29,7 @@ A brief 1-2 sentence summary of the key events of the session.
 	- Aurelius and Zephan got shipped by Valerie
 	- Selion started fucking fishing above the table
 	- Going to bed after the speech of Jamandi
+	- Selion fishes for Zephan, he rejects it
 
 ---
 
