@@ -22,6 +22,7 @@ A brief 1-2 sentence summary of the key events of the session.
 - **Events:** 
 	- Entered the Aldori mansion 
 	- Talking to introduced NPC's at our table
+	- Music started playing and people started dancing
 	- 
 
 ---
