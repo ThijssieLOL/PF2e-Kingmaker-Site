@@ -5,6 +5,7 @@ tags:
 settlement type:
 government:
 country:
+region: 
 status: Active
 ---
 

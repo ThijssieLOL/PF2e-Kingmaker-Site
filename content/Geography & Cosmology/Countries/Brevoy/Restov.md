@@ -8,6 +8,7 @@ tags:
 settlement type: City
 government: Mayor
 country: "[[Brevoy]]"
+region: "[[Rostland]]"
 status: Active
 aliases:
   - Free City of Restov
