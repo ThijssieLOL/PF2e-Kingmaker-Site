@@ -59,7 +59,7 @@ Late in the night, Aurelius wakes first. A loud noise has him on his feet, and h
 ## Active Characters
 
 ### Player Characters
-- [v] Alea
+- [v] [[Alea]]
 - [v] [[Aurelius]]
 - [v] [[Jock Finch]]
 - [v] [[Oliver Strong Bison]]
