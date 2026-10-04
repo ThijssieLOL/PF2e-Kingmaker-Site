@@ -51,11 +51,14 @@ A brief 1-2 sentence summary of the key events of the session.
 - [[Harrim]]: 
 - [[Jaethal]]:
 	- **Weakness**: Intimidation
-	- **Influence**: 1 - Selion
+	- **Influence**: 2 - Selion
 - [[Linzi]]:
 - [[Tartuccio]]:
+	- Weakness:
+	- **Influence:** 1 - Jock Finch
 - [[Valerie]]:
 	- **Weakness**: Honorable/Lawful +2
+	- **Influence:** 1 - Aurelius
 - [[Maegar Varn]]:
 	- **Weakness:** History
 
