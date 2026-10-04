@@ -52,6 +52,8 @@ A brief 1-2 sentence summary of the key events of the session.
 	- **Weakness:** Athletics
 	- **Influence:** 3 - Oliver
 - [[Harrim]]: 
+	- Weakness:
+	- Influence: 1 - Oliver
 - [[Jaethal]]:
 	- **Weakness**: Intimidation
 	- **Influence**: 3 - Selion
