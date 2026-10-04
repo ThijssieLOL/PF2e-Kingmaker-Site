@@ -21,9 +21,13 @@ A brief 1-2 sentence summary of the key events of the session.
 ## Recap
 - **Events:** 
 	- Entered the Aldori mansion 
+	- Oliver is suspicious about everyone (especially aurelius and )
 	- Talking to introduced NPC's at our table
 	- Music started playing and people started dancing
 	- Continued talking to the introduced NPCs
+	- Aurelius fucked up trying to socialize
+	- Aurelius and Zephan got shipped by Valerie
+	- Selion started fucking fishing above the table
 	- Going to bed after the speech of Jamandi
 
 ---
@@ -60,16 +64,16 @@ A brief 1-2 sentence summary of the key events of the session.
 	- **Weakness**: Intimidation
 	- **Influence**: 4 - Selion
 - [[Linzi]]:
-	- **Influence:** 2 - Jock finch
-	- **Influence:** 2 - Alea
+	- **Influence:** 3 - Jock finch, 2 - Alea
 - [[Tartuccio]]:
-	- **Weakness:**
+	- **Weakness:** -
 	- **Influence:** 2 - Jock Finch
 - [[Valerie]]:
 	- **Weakness**: Honorable/Lawful +2
-	- **Influence:** 0 - Aurelius
+	- **Influence:** -
 - [[Maegar Varn]]:
 	- **Weakness:** History
+	- Influence: -
 
 - [[Jamandi Aldori]]:
 
