@@ -46,12 +46,15 @@ A brief 1-2 sentence summary of the key events of the session.
 
 ### NPCs
 - [[Amiri]]:
+	- **Weakness:** Athletics
+	- 
 - [[Harrim]]: 
 - [[Jaethal]]:
 - [[Linzi]]:
 - [[Tartuccio]]:
 - [[Valerie]]:
 - [[Maegar Varn]]:
+	- W
 
 - [[Jamandi Aldori]]:
 
