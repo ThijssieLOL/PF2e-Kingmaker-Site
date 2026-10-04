@@ -30,7 +30,7 @@ The sin the doctrine names is hoarding: holding wealth back for its own sake whi
 The Church teaches that each person gives according to their ability and receives according to their need, and that giving is a civic duty as much as a religious one. All believers are expected to pay tithes, at a rate that rises with income. Tithes are assessed on spendable income, meaning what remains after a household's basic necessities. A person who can barely support their family may owe nothing. What counts as a basic necessity is not yet defined.
 
 ### The Clergy's Vow
-Clergy do not vow poverty. They vow not to lead rich lives.
+Clergy do not vow poverty. They vow not to lead rich lives. The vow is the **Irenian Oath**, named for [[Saint Irena]], who holds the Hearth, the Home, and Family. Every cleric swears it aloud at induction. The words bind them to never chase the love of money, and to put their money to the good of the people.
 
 ---
 
@@ -48,5 +48,5 @@ The Church does not run banks. It leaves banking to the state, or to private own
 
 - This page is a live capture from an ongoing brainstorm on the Church's economics, and holds only what has been settled so far.
 - The name is provisional: "the Shared Hearth" is the working term for the whole economic system, and a dedicated name may replace it.
-- Open items: the term for the clergy's vow against rich living; the definition of "basic necessities"; the pledge system; whether lending at interest is allowed; the place of inheritance in the doctrine; how the Church's freedom to invest squares with its rule that it owns no means of production.
+- Open items: the definition of "basic necessities"; the pledge system; whether lending at interest is allowed; the place of inheritance in the doctrine; how the Church's freedom to invest squares with its rule that it owns no means of production.
 - Related thread: the rule that clergy of a given grade must hold a qualification in their chancellery's field. [[The Chancellery Curriculum]] sets that standard, and the Shared Hearth's bachelor study runs through accounting, economics, or actuarial science.
