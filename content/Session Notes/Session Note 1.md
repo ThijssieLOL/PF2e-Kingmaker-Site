@@ -54,7 +54,7 @@ A brief 1-2 sentence summary of the key events of the session.
 - [[Linzi]]:
 - [[Tartuccio]]:
 - [[Valerie]]:
-	- **Weakness**: Honorable/Lawful +_
+	- **Weakness**: Honorable/Lawful +2
 - [[Maegar Varn]]:
 	- **Weakness:** History
 
