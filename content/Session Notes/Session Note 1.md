@@ -45,7 +45,14 @@ A brief 1-2 sentence summary of the key events of the session.
 
 
 ### NPCs
-- **[[NPC Link]]:** Notable actions or character beats from the session.
+- [[Amiri]]:
+- [[Harrim]]: 
+- [[Jaethal]]:
+- [[Linzi]]:
+- [[Tartuccio]]:
+- [[Valerie]]:
+- [[Maegar Varn]]:
+- 
 
 ---
 
