@@ -71,7 +71,7 @@ A brief 1-2 sentence summary of the key events of the session.
 	- **Influence:** 2 - Jock Finch
 - [[Valerie]]:
 	- **Weakness**: Honorable/Lawful +2
-	- **Influence:** -
+	- **Influence:** 1 - Zephan
 - [[Maegar Varn]]:
 	- **Weakness:** History
 	- **Influence:** -
@@ -79,6 +79,10 @@ A brief 1-2 sentence summary of the key events of the session.
 - [[Jamandi Aldori]]:
 
 - [[Iron wraeths]]: 
+
+- Guard #1:
+	- **Weakness:**
+	- **Influence:** 1 - Zephan
 
 ---
 
