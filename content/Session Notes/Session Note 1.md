@@ -65,7 +65,7 @@ A brief 1-2 sentence summary of the key events of the session.
 	- **Influence:** 2 - Jock Finch
 - [[Valerie]]:
 	- **Weakness**: Honorable/Lawful +2
-	- **Influence:** 1 - Aurelius
+	- **Influence:** 0 - Aurelius
 - [[Maegar Varn]]:
 	- **Weakness:** History
 
