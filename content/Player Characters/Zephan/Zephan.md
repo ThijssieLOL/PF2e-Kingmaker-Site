@@ -25,6 +25,7 @@ Zephan is a charismatic Swashbuckler who is beloved by the world, stars, sun and
 - **Full Name:** Zephan
 - **Ancestry/Species:** Human
 - **Class/Profession:** Swashbuckler
+- **Age**: 22
 - **Affiliation:** -
 - **Role/Rank:** Vigilante
 
