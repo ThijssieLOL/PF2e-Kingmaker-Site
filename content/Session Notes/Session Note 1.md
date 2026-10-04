@@ -19,17 +19,18 @@ A brief 1-2 sentence summary of the key events of the session.
 
 
 ## Recap
-- **Events:** (Chronological summary of what took place during the session)
+- **Events:** 
+	- Entered the 
 
 ---
 
 ## Combat & Encounters
-- **Encounters:** (Enemies faced, hazards overcome, and rewards obtained)
+- **Encounters:** -
 
 ---
 
 ## Kingdom & Quest Updates
-- **Progress:** (Updates on active quests, settlement developments, or kingdom changes)
+- **Progress:** -
 
 ---
 
@@ -54,8 +55,8 @@ A brief 1-2 sentence summary of the key events of the session.
 	- **Influence**: 2 - Selion
 - [[Linzi]]:
 - [[Tartuccio]]:
-	- Weakness:
-	- **Influence:** 1 - Jock Finch
+	- **Weakness:**
+	- **Influence:** 2 - Jock Finch
 - [[Valerie]]:
 	- **Weakness**: Honorable/Lawful +2
 	- **Influence:** 1 - Aurelius
@@ -67,4 +68,5 @@ A brief 1-2 sentence summary of the key events of the session.
 ---
 
 ## Quotes
-- **"Quote text."** — Character Name
+- **"I don't think it's very impressive to lift a twink"** -Thom
+- 
