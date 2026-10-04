@@ -56,7 +56,7 @@ He shows the marks openly in public, as proof of the sun goddess's capacity for 
 ## Personality & Psychology
 
 ### Interpersonal Dynamics
-In daily life Aurelius is warm, patient, and lightly humorous. He is easy to approach, looks for the good in everyone, and listens well. His compassion is not naive or distracted. Even while sharing dry clerical humor, he stays alert and disciplined, and his kindness is a deliberate choice rather than passivity.
+In daily life Aurelius is sociable first. He likes people and likes being around them, and he has none of the usual hesitation about walking up to a stranger and starting a conversation. He has a sociable dad's ease, glad to be in the room and unbothered about who else is in it. He is charismatic. Warmth and patience come easily to him. He is easy to approach, and he listens well. He looks for the good in everyone, and his compassion is not naive. Even while sharing a clerical joke he stays alert and disciplined, and the kindness is chosen.
 
 His humor leans on an archaic, dry wit shaped by [[The Liturgical Cadence]], but his vows of temperance and his clerical boundaries do not bend. He keeps a quiet dignity that earns respect without asking for it.
 
