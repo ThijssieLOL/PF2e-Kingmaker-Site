@@ -47,7 +47,7 @@ In relation to the many dueling schools in Restov dueling culture is much more p
 ## Notable Locations and Residents
 ### Locations
 **Aldori Academy** - The most prestigious and well known dueling school and war college in the region.
-**The Aldori Mansion** - The mansion of lady Jamandi Aldori. 
+**The Aldori Mansion** - The mansion of [[Jamandi Aldori|lady Jamandi Aldori]]. It lies just outside the city and is surrounded by some small forests and farmland.
 **Name** - reason of importance
 
 ### Residents
