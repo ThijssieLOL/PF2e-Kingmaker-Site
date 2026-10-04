@@ -20,7 +20,9 @@ A brief 1-2 sentence summary of the key events of the session.
 
 ## Recap
 - **Events:** 
-	- Entered the 
+	- Entered the Aldori mansion 
+	- Talking to introduced NPC's at our table
+	- 
 
 ---
 
@@ -64,6 +66,8 @@ A brief 1-2 sentence summary of the key events of the session.
 	- **Weakness:** History
 
 - [[Jamandi Aldori]]:
+
+- [[Iron wraeths]]: 
 
 ---
 
