@@ -54,7 +54,7 @@ A brief 1-2 sentence summary of the key events of the session.
 	- **Influence:** 2 - Selion
 - [[Linzi]]:
 - [[Tartuccio]]:
-	- **Influence:** 2 - O
+	- **Influence:** 2 - Jock finch
 - [[Valerie]]:
 	- **Weakness**: Honorable/Lawful +2
 - [[Maegar Varn]]:
