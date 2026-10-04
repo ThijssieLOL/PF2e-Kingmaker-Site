@@ -7,7 +7,7 @@ date: 04/10/26
 in_game_date: "-"
 ---
 
-> "The funniest / most notable quote of the session." — Character Name
+> "I don't think it's very impressive to lift a twink" — Thom
 
 ## Overview
 
@@ -29,16 +29,16 @@ The party is not a party yet. They wait in a queue outside the Aldori mansion as
 ### The Influence Game
 While Aurelius talks with Harrim, a follower of [[Groetus]], he lets slip that "Tomorrow is not promised." Oliver hears it and questions him on the spot; the phrase belongs to Groetus, and Oliver does not take it lightly. Aurelius knows the words the moment they leave him. He apologizes profusely and tells Oliver he did not mean it that way. Oliver's opinion of him comes back to neutral, but he stays suspicious of Aurelius and Harrim for the rest of the day.
 
-Food and drink arrive, and the influence game begins. The party works the guests one conversation at a time.
+Food and drink arrive, and the influence game begins.
 
-The game runs until Jamandi's nephew walks in and starts to play. Jock knows him from his travels and joins in, and the music pulls Zephan and Aurelius onto the floor to dance together. The rest stay at the table and keep talking. Jamandi, embarrassed, sends her uninvited relative away, and the feast continues.
+Amiri and Oliver talk swords, then settle the question with an arm-wrestling match. Harrim gets onto religion with Oliver. Jaethal stays on religion with Selion. Jock plays for Linzi, and Alea talks poetry with her. Later Jock writes and plays a forty-minute performance about Tartuccio, and it impresses him. Zephan gets Valerie onto warfare. Aurelius takes Valerie from religion into warfare and fumbles the last exchange badly.
 
-Jock and Oliver work the room best. Aurelius and Zephan fare worst. Aurelius wins one point of influence with Valerie and loses it again on a critical failure. Watching the two of them dance, Valerie ships Aurelius and Zephan together.
+The game runs until Jamandi's cousin walks in and starts to play. Jock knows him from his travels and joins in, and the music pulls Zephan and Aurelius onto the floor to dance together. The rest stay at the table. Jamandi, embarrassed, sends her uninvited cousin away, and the feast goes on.
 
-Selion spends the evening with Jaethal. To push his influence higher, he casts the fishing spot cantrip and hauls a fish out of the air for her, right over the dining table.
+Jock and Oliver work the room best. Aurelius and Zephan fare worst. Watching the two of them dance, Valerie ships Aurelius and Zephan together. Selion closes his evening with Jaethal by casting the fishing spot cantrip and hauling a fish out of the air for her, right over the dining table.
 
 ### The Night Ends
-The feast closes. Jamandi announces that she will settle the charters tomorrow, so everyone should make an early night of it. The party is given one room and turns in.
+The feast closes. Jamandi announces that she will settle the charters tomorrow, so everyone should make an early night of it. The party is given one room, though Zephan first stays up outside to watch the stars with one of the guards.
 
 In their room they talk a while, and Selion keeps fishing with the cantrip, this time for Zephan and Oliver. Both turn the fish down.
 
@@ -67,22 +67,14 @@ Late in the night, Aurelius wakes first. A loud noise has him on his feet, and h
 - [v] [[Zephan|Zephan Ásteri]]
 
 ### The Table Guests
-| Guest | Weakness | Influence |
-| --- | --- | --- |
-| [[Amiri]] | Athletics | 4 (Oliver) |
-| [[Harrim]] | Unknown | 1 (Oliver) |
-| [[Jaethal]] | Intimidation | 4 (Selion) |
-| [[Linzi]] | Unknown | 3 (Jock Finch), 2 (Alea) |
-| [[Tartuccio]] | Unknown | 2 (Jock Finch) |
-| [[Valerie]] | Honorable/Lawful +2 | 1 (Zephan) |
-| [[Maegar Varn]] | History | - |
+- [[Amiri]]
+- [[Harrim]]
+- [[Jaethal]]
+- [[Linzi]]
+- [[Tartuccio]]
+- [[Valerie]]
+- [[Maegar Varn]]
 
 ### Other Attendees
-- **[[Jamandi Aldori]]:** Host of the feast. She sends her uninvited relative away and announces the charters for the next day.
-- **[[Iron wraeths]]:** -
-- **Guard #1:** Unnamed. Influence: 1 (Zephan).
-
----
-
-## Quotes
-- **"I don't think it's very impressive to lift a twink"** — Thom
+- **[[Jamandi Aldori]]:** Host of the feast.
+- **Iron Wraeths:** A professional mercenary band seated at another table. The party did not speak with them.
