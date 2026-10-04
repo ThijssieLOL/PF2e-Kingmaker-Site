@@ -58,7 +58,8 @@ A brief 1-2 sentence summary of the key events of the session.
 	- **Weakness**: Intimidation
 	- **Influence**: 4 - Selion
 - [[Linzi]]:
-	- Influence: 2 - Jock finch
+	- **Influence:** 2 - Jock finch
+	- **Influence:** 2 - Alea
 - [[Tartuccio]]:
 	- **Weakness:**
 	- **Influence:** 2 - Jock Finch
