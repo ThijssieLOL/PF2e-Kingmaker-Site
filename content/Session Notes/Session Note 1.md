@@ -77,4 +77,5 @@ Late in the night, Aurelius wakes first. A loud noise has him on his feet, and h
 
 ### Other Attendees
 - **[[Jamandi Aldori]]:** Host of the feast.
-- **Iron Wraeths:** A professional mercenary band seated at another table. The party did not speak with them.
+- **Iron Wraiths:** A professional mercenary band seated at another table. The party did not speak with them.
+- **Hannis Drelev:** 
