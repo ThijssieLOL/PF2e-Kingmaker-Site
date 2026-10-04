@@ -31,7 +31,7 @@ While Aurelius talks with Harrim, a follower of [[Groetus]], he lets slip that "
 
 Food and drink arrive, and the influence game begins.
 
-Amiri and Oliver talk swords, then settle the question with an arm-wrestling match. Harrim gets onto religion with Oliver. Jaethal stays on religion with Selion. Jock plays for Linzi, and Alea talks poetry with her. Later Jock writes and plays a forty-minute performance about Tartuccio, and it impresses him. Zephan gets Valerie onto warfare. Aurelius takes Valerie from religion into warfare and fumbles the last exchange badly.
+Amiri and Oliver talk swords, then settle the question with an arm-wrestling match. Harrim gets onto religion with Oliver. Jaethal stays on religion with Selion. Jock plays for Linzi, and Alea talks poetry with her. Jock also writes and plays a forty-minute performance about Tartuccio, and it impresses him. Zephan gets Valerie onto warfare. Aurelius takes Valerie from religion into warfare and fumbles the last exchange badly.
 
 The game runs until Jamandi's cousin walks in and starts to play. Jock knows him from his travels and joins in, and the music pulls Zephan and Aurelius onto the floor to dance together. The rest stay at the table. Jamandi, embarrassed, sends her uninvited cousin away, and the feast goes on.
 
