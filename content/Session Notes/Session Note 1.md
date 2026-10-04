@@ -50,13 +50,13 @@ A brief 1-2 sentence summary of the key events of the session.
 ### NPCs
 - [[Amiri]]:
 	- **Weakness:** Athletics
-	- **Influence:** 3 - Oliver
+	- **Influence:** 4 - Oliver
 - [[Harrim]]: 
 	- Weakness:
 	- Influence: 1 - Oliver
 - [[Jaethal]]:
 	- **Weakness**: Intimidation
-	- **Influence**: 3 - Selion
+	- **Influence**: 4 - Selion
 - [[Linzi]]:
 	- Influence: 2 - Jock finch
 - [[Tartuccio]]:
