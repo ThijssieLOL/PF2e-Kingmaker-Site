@@ -9,6 +9,8 @@ faction:
 status: Alive
 ---
 
+![[Maegar Varn.png|375]]
+
 > "A memorable quote."
 
 ## Overview
@@ -26,7 +28,7 @@ Maegar Varn sat at the party's table during the feast at the Aldori mansion. The
 
 ## Appearance
 
-Not enough information.
+Maegar Varn is a broad, dark-haired man with a short beard, his hair tied back into a topknot. He wears a black coat and cloak with a high collar, one hand resting on the hilt of his sword and one boot up on a stone step.
 
 ---
 

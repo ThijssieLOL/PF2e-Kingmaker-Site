@@ -9,6 +9,8 @@ faction:
 status: Alive
 ---
 
+![[Jaethal.png|375]]
+
 > "A memorable quote."
 
 ## Overview
@@ -26,7 +28,7 @@ Jaethal sat at the party's table during the feast at the Aldori mansion, and she
 
 ## Appearance
 
-Not enough information.
+Jaethal is a tall, pale elven woman with black hair and a high, dark collar framing her face. She wears dark armor over a tattered red-and-black cloak, and she carries a long-hafted scythe with a curved blade. She stands in a dead grey forest.
 
 ---
 

@@ -9,6 +9,8 @@ faction:
 status: Alive
 ---
 
+![[Valerie.png|375]]
+
 > "A memorable quote."
 
 ## Overview
@@ -26,7 +28,7 @@ Valerie sat at the party's table during the feast at the Aldori mansion.
 
 ## Appearance
 
-Not enough information.
+Valerie is a woman with short, honey-blonde hair and a serious, level gaze. She wears full plate armor with a red cloak and sash and holds a longsword point-up in both hands. She stands on a green hill with a fortress in the distance.
 
 ---
 

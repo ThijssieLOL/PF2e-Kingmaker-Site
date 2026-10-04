@@ -9,6 +9,8 @@ faction: House Aldori
 status: Alive
 ---
 
+![[Jamandi Aldori.png|375]]
+
 > "A memorable quote."
 
 ## Overview
@@ -26,7 +28,7 @@ Jamandi Aldori is an Aldori Swordlord and a leading figure in the politics of [[
 
 ## Appearance
 
-Not enough information.
+Jamandi is a woman with dark hair pulled back and a composed, assessing look. She wears polished plate armor over deep red sleeves and holds a long, curved Aldori dueling sword low at her side. She stands on stone battlements above a distant castle.
 
 ---
 

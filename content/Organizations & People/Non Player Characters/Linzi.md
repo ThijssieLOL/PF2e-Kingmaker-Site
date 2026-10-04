@@ -9,6 +9,8 @@ faction:
 status: Alive
 ---
 
+![[Linzi.png|375]]
+
 > "A memorable quote."
 
 ## Overview
@@ -26,7 +28,7 @@ Linzi sat at the party's table during the feast at the Aldori mansion.
 
 ## Appearance
 
-Not enough information.
+Linzi is a small halfling woman with curly brown hair and a yellow band in her hair, dressed in dark green and brown. She holds a quill in one hand and an open book in the other.
 
 ---
 

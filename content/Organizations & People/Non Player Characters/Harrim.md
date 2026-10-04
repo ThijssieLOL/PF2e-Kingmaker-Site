@@ -9,6 +9,8 @@ faction:
 status: Alive
 ---
 
+![[Harrim.png|375]]
+
 > "A memorable quote."
 
 ## Overview
@@ -26,7 +28,7 @@ Harrim is a follower of [[Groetus]]. He sat at the party's table during the feas
 
 ## Appearance
 
-Not enough information.
+Harrim is a stout dwarf with a bald crown and a thick, braided grey beard. He wears heavy, much-patched armor, with pouches, tools, and charms strapped across his chest and belt, and he stands sunk in mountain snow.
 
 ---
 

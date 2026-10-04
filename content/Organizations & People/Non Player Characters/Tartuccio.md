@@ -9,6 +9,8 @@ faction:
 status: Alive
 ---
 
+![[Tartuccio.png|375]]
+
 > "A memorable quote."
 
 ## Overview
@@ -26,7 +28,7 @@ Tartuccio sat at the party's table during the feast at the Aldori mansion.
 
 ## Appearance
 
-Not enough information.
+Tartuccio is a gnome with a receding hairline, pointed ears, and a sharp smirk. He wears layered purple-and-blue robes with a white cravat and green gloves, and a rapier hangs at his belt.
 
 ---
 

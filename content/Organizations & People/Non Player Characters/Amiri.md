@@ -9,6 +9,8 @@ faction:
 status: Alive
 ---
 
+![[Amiri.png|375]]
+
 > "A memorable quote."
 
 ## Overview
@@ -26,7 +28,7 @@ Amiri sat at the party's table during the feast at the Aldori mansion. She and [
 
 ## Appearance
 
-Not enough information.
+Amiri is a tall, muscular woman with dark, windswept hair. She wears fur-trimmed leather armor that leaves her midriff bare, a necklace of bone and teeth at her throat, and studded bands on her arms. She stands in a misty northern forest, resting a serrated greatsword point-down before her.
 
 ---
 
