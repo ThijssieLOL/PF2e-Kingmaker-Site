@@ -184,7 +184,7 @@ Sommige zijn toegevoegd vanwege lyrics, sommige vanwege vibes, vogel zelf maar u
 | 55   | You truly live a noble life. In comparison with you, thine compatriots  look almost average.                                                                                                                                                                 |
 | 56   | A Tripkee might faint just by placing their gaze upon you.                                                                                                                                                                                                   |
 | 57   | You are as troublesome as a Vanara with none of the charm.                                                                                                                                                                                                   |
-| 58   | I mourn the loss of life for the tree that shall become your fou                                                                                                                                                                                             |
+| 58   | I mourn the loss of life for the tree that shall become your coffin                                                                                                                                                                                          |
 ### Personality Quizes
 ![[Zephan_Big five 1.png]]
 ![[Zephan_Bigfive2.png]]![[Zephan_Bigfive3.png]]![[Zephan_Bigfive4.png]]![[Zephan_Bigfive5.png]]![[Zephan_Bigfive6.png]]
