@@ -17,13 +17,45 @@ Harrim is a follower of [[Groetus]]. He sat at the party's table during the feas
 
 ### Quick Facts
 - **Full Name:** Harrim
+- **Ancestry/Species:**
+- **Class/Profession:**
+- **Affiliation:**
+- **Role/Rank:**
 
 ---
 
-## At the Feast
+## Appearance
 
-Harrim talked with [[Oliver Strong Bison]] about religion. When [[Aurelius]] let a Groetan phrase slip while speaking with him, Oliver came away suspicious of the two of them, and the suspicion lasted the rest of the day.
+Not enough information.
 
-### Influence
+---
+
+## Personality
+
+Not enough information.
+
+---
+
+## Abilities
+
+Not enough information.
+
+---
+
+## History
+
+Not enough information.
+
+---
+
+## Relationships
+
+- **[[Aurelius]]:** Aurelius let a Groetan phrase slip while the two of them were talking.
+- **[[Oliver Strong Bison]]:** Talked religion with him. The Groetus talk left Oliver suspicious of Harrim for the rest of the day.
+
+---
+
+## Influence
+
 - **Weakness:** Unknown
 - **Influence:** 1 (Oliver)

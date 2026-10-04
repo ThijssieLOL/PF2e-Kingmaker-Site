@@ -13,17 +13,48 @@ status: Alive
 
 ## Overview
 
-Jaethal sat at the party's table during the feast at the Aldori mansion. She spent the evening in a religious discussion with [[Selion]].
+Jaethal sat at the party's table during the feast at the Aldori mansion, and she spent the evening in a religious discussion with [[Selion]].
 
 ### Quick Facts
 - **Full Name:** Jaethal
+- **Ancestry/Species:**
+- **Class/Profession:**
+- **Affiliation:**
+- **Role/Rank:**
 
 ---
 
-## At the Feast
+## Appearance
 
-Jaethal stayed on religion with Selion for most of the feast. He closed the conversation by casting the fishing spot cantrip and conjuring a fish for her over the dining table.
+Not enough information.
 
-### Influence
+---
+
+## Personality
+
+Not enough information.
+
+---
+
+## Abilities
+
+Not enough information.
+
+---
+
+## History
+
+Not enough information.
+
+---
+
+## Relationships
+
+- **[[Selion]]:** Held the talk on religion through the evening. He closed it by conjuring a fish for her over the dining table.
+
+---
+
+## Influence
+
 - **Weakness:** Intimidation
 - **Influence:** 4 (Selion)

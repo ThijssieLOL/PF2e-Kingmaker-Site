@@ -17,13 +17,44 @@ Amiri sat at the party's table during the feast at the Aldori mansion. She and [
 
 ### Quick Facts
 - **Full Name:** Amiri
+- **Ancestry/Species:**
+- **Class/Profession:**
+- **Affiliation:**
+- **Role/Rank:**
 
 ---
 
-## At the Feast
+## Appearance
 
-Amiri talked with Oliver about her sword, and the two of them settled the question with an arm-wrestling match.
+Not enough information.
 
-### Influence
+---
+
+## Personality
+
+Not enough information.
+
+---
+
+## Abilities
+
+Not enough information.
+
+---
+
+## History
+
+Not enough information.
+
+---
+
+## Relationships
+
+- **[[Oliver Strong Bison]]:** Talked swords, then settled it with an arm-wrestling match.
+
+---
+
+## Influence
+
 - **Weakness:** Athletics
 - **Influence:** 4 (Oliver)

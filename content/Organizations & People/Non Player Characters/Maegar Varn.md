@@ -17,9 +17,44 @@ Maegar Varn sat at the party's table during the feast at the Aldori mansion. The
 
 ### Quick Facts
 - **Full Name:** Maegar Varn
+- **Ancestry/Species:**
+- **Class/Profession:**
+- **Affiliation:**
+- **Role/Rank:**
+
+---
+
+## Appearance
+
+Not enough information.
+
+---
+
+## Personality
+
+Not enough information.
+
+---
+
+## Abilities
+
+Not enough information.
+
+---
+
+## History
+
+Not enough information.
+
+---
+
+## Relationships
+
+Not enough information.
 
 ---
 
 ## Influence
+
 - **Weakness:** History
 - **Influence:** None

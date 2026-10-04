@@ -17,13 +17,45 @@ Linzi sat at the party's table during the feast at the Aldori mansion.
 
 ### Quick Facts
 - **Full Name:** Linzi
+- **Ancestry/Species:**
+- **Class/Profession:**
+- **Affiliation:**
+- **Role/Rank:**
 
 ---
 
-## At the Feast
+## Appearance
 
-[[Jock Finch]] played for Linzi, and [[Alea]] talked poetry with her.
+Not enough information.
 
-### Influence
+---
+
+## Personality
+
+Not enough information.
+
+---
+
+## Abilities
+
+Not enough information.
+
+---
+
+## History
+
+Not enough information.
+
+---
+
+## Relationships
+
+- **[[Jock Finch]]:** Jock played for her.
+- **Alea:** Talked poetry with her.
+
+---
+
+## Influence
+
 - **Weakness:** Unknown
 - **Influence:** 3 (Jock Finch), 2 (Alea)
