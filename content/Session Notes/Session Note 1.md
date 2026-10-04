@@ -51,6 +51,7 @@ A brief 1-2 sentence summary of the key events of the session.
 - [[Harrim]]: 
 - [[Jaethal]]:
 	- **Weakness**: Intimidation
+	- Influence: 1 - 
 - [[Linzi]]:
 - [[Tartuccio]]:
 - [[Valerie]]:
