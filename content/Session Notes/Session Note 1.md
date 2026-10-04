@@ -76,9 +76,11 @@ A brief 1-2 sentence summary of the key events of the session.
 	- **Weakness:** History
 	- **Influence:** -
 
-- [[Jamandi Aldori]]:
+_ _ _
 
-- [[Iron wraeths]]: 
+- [[Jamandi Aldori]]: -
+
+- [[Iron wraeths]]: -
 
 - Guard #1:
 	- **Weakness:**
