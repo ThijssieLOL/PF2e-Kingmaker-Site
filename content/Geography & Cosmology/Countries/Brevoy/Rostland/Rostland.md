@@ -10,7 +10,7 @@ status: Active
 ---
 
 ## Overview
-The fertile region of Rostland is one of the two nations conglomerated into the modern-day state of [[Brevoy]]. It is known for it's master swordsmen
+The fertile region of Rostland is one of the two nations conglomerated into the modern-day state of [[Brevoy]]. It is known for it's master swordsmen and proud, defiant citizenry. Rostland stands on the verge of civil war with it's northern neighbor [[]], which gained political control of the region since the disappearance of Brevoy's ruling house.
 
 ### Quick Facts
 - **Capital:** 
