@@ -10,7 +10,7 @@ status: Active
 ---
 
 ## Overview
-A brief 1-2 sentence summary of what this region is, what it is known for, and its main role in the country and the world at large.
+The fertile region of Rostland is one of the two nations conglomerated into the modern-day state of [[Brevoy]]. It is known for it's master swordsmen
 
 ### Quick Facts
 - **Capital:** 
@@ -39,14 +39,6 @@ A brief 1-2 sentence summary of what this region is, what it is known for, and i
 ### Important cities:
 City name - reason of importance
 City name - reason of importance
-
----
-## Method of Rule
-**Government:** (Monarchy, republic, council, theocracy, etc.)
-**Ruler:** (Who holds the highest position of authority? Do they follow the country's leadership?)
-**Succession:** (How is the next ruler chosen? (if different ruler than the country))
-**Political Structure:** (How is the region actually governed?)
-**Nobility / Social Classes:** (How influential are nobles, merchants, guilds, etc.?)
 
 ---
 ## Culture
