@@ -12,6 +12,7 @@ deity: "[[Groetus]]"
 aliases:
   - Heralds
   - herald
+  - arch enemy
 ---
 
 
