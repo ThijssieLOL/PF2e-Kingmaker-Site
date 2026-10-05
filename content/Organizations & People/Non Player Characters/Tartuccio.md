@@ -8,7 +8,7 @@ class:
 faction:
 status: Alive
 aliases:
-  - self absorbed gnome
+  - egomaniac self absorbed gnome
 ---
 
 ![[Tartuccio.png|375]]
@@ -36,7 +36,7 @@ Tartuccio is a gnome with a receding hairline, pointed ears, and a sharp smirk. 
 
 ## Personality
 
-self absorbed egomaniac freak
+egomaniac self absorbed freak
 
 ---
 
