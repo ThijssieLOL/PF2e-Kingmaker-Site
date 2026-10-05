@@ -8,6 +8,8 @@ headquarters: Unknown
 alignment: Chaotic Neutral
 status: Active
 deity: "[[Groetus]]"
+aliases:
+  - grey sign
 ---
 
 
