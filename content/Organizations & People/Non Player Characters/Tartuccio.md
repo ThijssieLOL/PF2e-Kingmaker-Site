@@ -7,6 +7,8 @@ ancestry:
 class:
 faction:
 status: Alive
+aliases:
+  - self absorbed gnome
 ---
 
 ![[Tartuccio.png|375]]
