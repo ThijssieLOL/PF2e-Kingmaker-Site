@@ -2,4 +2,8 @@ Dear family,
 
 today I arrived at the Aldori mansion. Security was honestly kind of questionable since they let us inside rather quickly because it was raining without doing a patdown for our weapons. 
 
-I met some strange fellows that I shall probably travel with: 2 members of the sun church, selion and Aurelius; A failed pirate who gave me some gold for a med kit; a nobles called zephan and alea. In the mansion I met a fellow barbarian named Amari. She was pretty cool. There was also this egomaniac self absorbed gnome who tried to make everything about him. Sadly, the pirate tried to humor him… it did not go great. Lastly, I might have found two followers of the arch enemy. This dwarf named Harrim has some ties to Groetus. He could just be a grey sign however. More data needed. Moreover, the sunboy Aurelius also said a herald dogwistle. I must investigate his allegiance further. May we meet again, Oliver
+I met some strange fellows that I shall probably travel with: 2 members of the sun church, selion and Aurelius; A failed pirate who gave me some gold for a med kit; a nobles called  alea and some sort of theater kid named Zephan. 
+
+In the mansion I met a fellow barbarian named Amari. She was pretty cool. There was also this egomaniac self absorbed gnome who tried to make everything about him. Sadly, the pirate tried to humor him… it did not go great. 
+
+Lastly, I might have found two followers of the arch enemy. This dwarf named Harrim has some ties to [[Groetus]]. He could just be a grey sign however. More data needed. Moreover, the sunboy Aurelius also said a herald dogwistle. I must investigate his allegiance further. May we meet again, Oliver
