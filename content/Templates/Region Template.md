@@ -1,6 +1,6 @@
 ---
 tags:
-  - Country
+  - Region
   - Location
 continent:
 country:
@@ -24,7 +24,7 @@ A brief 1-2 sentence summary of what this region is, what it is known for, and i
 ## Geography
 **Terrain:** (Mountains, forests, plains, deserts, coastlines, etc.)
 **Climate:** (General climate and notable seasonal conditions)
-**Natural Resources:** (Important resources found within the country)
+**Natural Resources:** (Important resources found within the region)
 
 ### Notable Features:
 (Major rivers, mountain ranges, forests, lakes, landmarks, etc.)
@@ -57,11 +57,11 @@ City name - reason of importance
 
 ---
 ## History
-**Founding:** (How and when the country was founded)
+**Founding:** (How and when the region was founded)
 **Early History:** (Important events from its early history)
 **Major Events:** (Wars, revolutions, disasters, golden ages, etc.)
 **Recent History:** (Important events in the recent past)
-**Current Situation:** (What is currently happening within the country)
+**Current Situation:** (What is currently happening within the region)
 
 ## Relations
 The region's relations with other regions in the country and it's neighbors.
