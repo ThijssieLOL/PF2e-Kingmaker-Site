@@ -43,7 +43,7 @@ City name - reason of importance
 **Government:** (Monarchy, republic, council, theocracy, etc.)
 **Ruler:** (Who holds the highest position of authority?)
 **Succession:** (How is the next ruler chosen?)
-**Political Structure:** (How is the country actually governed?)
+**Political Structure:** (How is the region actually governed?)
 **Nobility / Social Classes:** (How influential are nobles, merchants, guilds, etc.?)
 
 ---
@@ -63,7 +63,7 @@ City name - reason of importance
 **Recent History:** (Important events in the recent past)
 **Current Situation:** (What is currently happening within the country)
 
-## Foreign Relations
+## Relations
 **Allies:** (Countries and organizations that maintain friendly relations)
 **Rivals:** (Countries and organizations with hostile or competitive relations)
 **Neutral Relations:** (Countries with which the nation maintains neutrality)
