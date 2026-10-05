@@ -7,6 +7,8 @@ ancestry:
 class:
 faction: House Aldori
 status: Alive
+aliases:
+  - Aldori
 ---
 
 ![[Jamandi Aldori.png|375]]

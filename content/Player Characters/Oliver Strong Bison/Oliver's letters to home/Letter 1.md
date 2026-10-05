@@ -1,6 +1,6 @@
 Dear family, 
 
-today I arrived at the Aldori mansion. Security was honestly kind of questionable since they let us inside rather quickly because it was raining without doing a patdown for our weapons. 
+today I arrived at the [[Jamandi Aldori|Aldori]] mansion. Security was honestly kind of questionable since they let us inside rather quickly because it was raining without doing a patdown for our weapons. 
 
 I met some strange fellows that I shall probably travel with: two members of the sun church, [[Selion]] and [[Aurelius]]; A [[Jock Finch|failed pirate]] who gave me some gold for a med kit; a noble called  [[Alea]] and some sort of theater kid named [[Zephan]]. 
 
@@ -10,3 +10,4 @@ Lastly, I might have found two followers of the arch enemy. This dwarf named [[H
 
 May we meet again, 
 [[Oliver Strong Bison|Oliver]]
+

@@ -9,7 +9,6 @@ faction:
 status: Alive
 aliases:
   - self absorbed gnome
-  - pirate
 ---
 
 ![[Tartuccio.png|375]]
