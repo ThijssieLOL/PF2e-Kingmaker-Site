@@ -31,7 +31,7 @@ A brief 1-2 sentence summary of what this region is, what it is known for, and i
 **Name** - description of landmark
 
 ---
-## Capital and important cities
+## Capital and important settlements
 ### Capital: 
 **Capital name** - Brief description of the capital and why it is important.
 ### Important cities:
@@ -41,13 +41,15 @@ City name - reason of importance
 ---
 ## Method of Rule
 **Government:** (Monarchy, republic, council, theocracy, etc.)
-**Ruler:** (Who holds the highest position of authority?)
-**Succession:** (How is the next ruler chosen?)
+**Ruler:** (Who holds the highest position of authority? Do they follow the country's leadership?)
+**Succession:** (How is the next ruler chosen? (if different ruler than the country))
 **Political Structure:** (How is the region actually governed?)
 **Nobility / Social Classes:** (How influential are nobles, merchants, guilds, etc.?)
 
 ---
 ## Culture
+The culture of this region if it is significantly different from that of the country.
+**Population:** (Races that commonly live in this region)
 **Languages:** (Languages commonly spoken)
 **Religion:** (Major religions, gods, or religious practices)
 **Traditions:** (Important cultural traditions, festivals, or customs)
