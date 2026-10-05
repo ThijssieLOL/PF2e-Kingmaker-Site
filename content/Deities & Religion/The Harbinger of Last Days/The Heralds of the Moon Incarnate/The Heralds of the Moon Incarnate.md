@@ -11,6 +11,7 @@ status: Active
 deity: "[[Groetus]]"
 aliases:
   - Heralds
+  - herald
 ---
 
 
