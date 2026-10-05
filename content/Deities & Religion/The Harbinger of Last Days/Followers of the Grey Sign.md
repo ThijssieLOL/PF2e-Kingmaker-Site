@@ -18,13 +18,13 @@ aliases:
 > "The end is nigh"
 
 ## Overview
-The **Followers of the Gray Sign** are a sect devoted to [[Groetus]] who view him not as a destroyer of the world, but as its harbinger.
+The **Followers of the Grey Sign** are a sect devoted to [[Groetus]] who view him not as a destroyer of the world, but as its harbinger.
 
 They believe that the end of the world is inevitable and that all things eventually reach their natural conclusion. Kingdoms will fall, civilizations will disappear, stars will die, and eventually the universe itself will come to an end. To them, this is not something to prevent, nor is it something that needs to be hastened.
 
 It simply is.
 
-Unlike more extreme followers of [[Groetus]], the **Followers of the Gray Sign** do not seek to bring about the apocalypse. They preach about it, watch for signs of its arrival, and encourage others to accept that nothing lasts forever.
+Unlike more extreme followers of [[Groetus]], the **Followers of the Grey Sign** do not seek to bring about the apocalypse. They preach about it, watch for signs of its arrival, and encourage others to accept that nothing lasts forever.
 
 Because they rarely commit acts of violence or destruction in the name of their faith, they are generally not considered a dangerous cult. Most people view them as gloomy, fatalistic, and perhaps a little strange.
 
