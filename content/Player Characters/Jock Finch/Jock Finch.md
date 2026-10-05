@@ -5,6 +5,8 @@ tags:
   - pc
 aliases:
   - Jovian Larmelli
+  - failed pirate
+  - pirate
 ancestry: Human/Aiuvarin
 class: Bard
 faction: "-"
