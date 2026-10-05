@@ -36,7 +36,7 @@ Tartuccio is a gnome with a receding hairline, pointed ears, and a sharp smirk. 
 
 ## Personality
 
-Not enough information.
+self absorbed egomaniac freak
 
 ---
 
