@@ -64,6 +64,7 @@ City name - reason of importance
 **Current Situation:** (What is currently happening within the country)
 
 ## Relations
+The region's relations with other regions in the country and it's neighbors.
 **Allies:** (Countries and organizations that maintain friendly relations)
 **Rivals:** (Countries and organizations with hostile or competitive relations)
 **Neutral Relations:** (Countries with which the nation maintains neutrality)
