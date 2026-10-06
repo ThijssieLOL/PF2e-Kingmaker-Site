@@ -43,7 +43,7 @@ City name - reason of importance
 ---
 ## Culture
 The culture of this region if it is significantly different from that of the country.
-**Population:** (Races that commonly live in this region)
+**Population:** This region is mostly inhabited by Humans. There are also a good number of Dwarves, Halflings and 
 **Languages:** (Languages commonly spoken)
 **Religion:** (Major religions, gods, or religious practices)
 **Traditions:** (Important cultural traditions, festivals, or customs)
