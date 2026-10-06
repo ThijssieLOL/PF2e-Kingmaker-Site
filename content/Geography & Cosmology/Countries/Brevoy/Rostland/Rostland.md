@@ -13,13 +13,13 @@ status: Active
 The fertile region of Rostland is one of the two nations conglomerated into the modern-day state of [[Brevoy]]. It is known for it's master swordsmen and proud, defiant citizenry. Rostland stands on the verge of civil war with it's northern neighbor [[Irea]], which gained political control of the region since the disappearance of [[Brevoy|Brevoy's]] ruling [[House Rogarvia]].
 
 ### Quick Facts
-- **Capital:** 
+- **Capital:** [[Restov]]
 - **Continent:** 
-- **Country:** 
+- **Country:** [[Brevoy]]
 - **Affiliation / Alliances:** 
 
 ## Location
-**Borders:** (What countries, regions, or geographical features border the region?)
+**Borders:** [[Irea]], the stolen lands
 **Position:** (Where on the continent/world is it located?)
 
 ---
