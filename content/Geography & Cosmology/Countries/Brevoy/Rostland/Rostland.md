@@ -19,7 +19,7 @@ The fertile region of Rostland is one of the two nations conglomerated into the 
 - **Affiliation / Alliances:** 
 
 ## Location
-**Borders:** [[Irea]], the stolen lands
+**Borders:** [[Irea]], The Stolen Lands(River Kingdoms)
 **Position:** (Where on the continent/world is it located?)
 
 ---
