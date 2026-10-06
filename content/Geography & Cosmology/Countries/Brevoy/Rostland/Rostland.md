@@ -20,7 +20,7 @@ The fertile region of Rostland is one of the two nations conglomerated into the 
 
 ## Location
 **Borders:** [[Irea]], The Stolen Lands(River Kingdoms)
-**Position:** (Where on the continent/world is it located?)
+**Position:** Rostland occupies the southern half of [[Brevoy]].
 
 ---
 ## Geography
