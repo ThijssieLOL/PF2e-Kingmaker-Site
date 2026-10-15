@@ -28,7 +28,7 @@ Jock Finch is a runaway noble and a wandering bard chasing a pirate's life in a 
 - **Class/Profession:** Bard
 - **Affiliation:** None
 - **Role/Rank:** None
-- **Home Town:** Eryndale
+- **Home Town:** [[Eryndale]]
 
 ---
 
