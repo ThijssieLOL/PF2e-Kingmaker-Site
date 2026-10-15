@@ -25,7 +25,7 @@ Selion Helisar is a necromancer who works for an alternative version of the chur
 - **Full Name:** Selion Helisar
 - **Ancestry/Species:** Human
 - **Class/Profession:** Necromancer
-- **Affiliation:** Church of the eternal blazing sun
+- **Affiliation:** [[The Church of the Eternal Blazing Sun|Church of the eternal blazing sun]]
 - **Role/Rank:** Grade 7.99 (just to be better then thijs)
 
 ## Appearance
@@ -36,7 +36,7 @@ Selion Helisar is a necromancer who works for an alternative version of the chur
 
 ## Personality
 
-- **Demeanor:** They're a bit cocky but overall kind and belief they have to make the world a place where no evil shall exist and above all else finds it most important that those who cannot protect themselves must be protected
+- **Demeanor:** They're a bit cocky but overall kind and believe they have to make the world a place where no evil shall exist and above all else finds it most important that those who cannot protect themselves must be protected
 - **Core beliefs:** The sun goddess is the 1 true powerful god, Those that cannot protect themselves must be protected at all costs
 - **Hates:** all things related to evil/unholy, parents who are abusers/don't care about their children
 
