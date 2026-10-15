@@ -19,7 +19,7 @@ status: Alive
 
 ## Overview
 
-Jock Finch is a runaway noble and a wandering bard chasing a pirate's life in a land with no sea. He pays his way by performing, stealing, gambling, and bargaining, and he has come to the Stolen Lands for coin, for adventure, and for distance from his family.
+Jock Finch is a runaway noble and a wandering bard chasing a pirate's life in a land with no sea. He pays his way by performing, stealing, gambling, and bargaining, and he has come to the [[The Stolen Lands|Stolen Lands]] for coin, for adventure, and for distance from his family.
 
 ### Quick Facts
 - **Full Name:** Jock Finch (born Jovian Larmelli)
