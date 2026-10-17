@@ -254,12 +254,12 @@ A manor house standing in a valley, four floors, with a slate roof and forty win
 
 ### The Ford, Vanguard of Roaring Waters, Rank 1 (Hydraulic Push)
 
-A river crossing, knee-deep and brown, with the stones showing through. Two handprints stand in the surface, pressed up from underneath: pale, wide as a door, the fingers splayed. The water bulges where the palms push against it, as if the river were a pane of glass. There is no wrist and no arm, and the current runs around the prints without moving them. The skin has creases in it, lined like a real palm, and the nails are cut short and square, the way someone who works with rope keeps them. Wade toward them and the push reaches you before you do, steady as a hand on the chest.
+A river crossing, knee-deep and brown, with the stones showing through. Two handprints stand in the surface, pressed up from underneath: pale, wide as a door, the fingers splayed. The water bulges where the palms push against it, as if the river were a pane of glass. There is no wrist and no arm, and the current runs around the prints without moving them. The skin has creases in it, lined like a real palm, and the nails are smooth and flat, like river stone. Wade toward them and the push reaches you before you do, steady as a hand on the chest.
 
 - **Body plan:** Hands, no body.
 - **Signature wrongness:** The palms turn to face whoever is wading, and the surface never breaks.
 - **Behaviour:** It pushes you back to the bank you came from and has never let anyone across. The push follows the river: in a dry August it is a nudge, and in a flood it throws a grown man onto the shore. It does not hold you or pull you under. It only shoves, every time, until you stop trying. Children in the nearest village throw sticks in to see how far the hands send them, and read the river by it.
-- **Origin:** A ferrywoman who kept the crossing for forty years and turned back anyone who came when the river was up. She drowned shoving a carter away from a flooded ford, and the carter lived. The hands are still telling people no, and nobody has told them the river is down.
+- **Origin:** The river's objection to being crossed. The ford has been waded by every traveller on this road for longer than the road has had a name, and each crossing wore a little off the bed. The river kept count. The hands are what that count looks like when it pushes back.
 
 ### The Heron, Vanguard of Roaring Waters, Rank 2 (Mist)
 
@@ -268,7 +268,7 @@ A heron the height of a church tower, standing on one leg in slow shallow water.
 - **Body plan:** Beast.
 - **Signature wrongness:** The neck breathes fog through gills, and the bill never opens.
 - **Behaviour:** It never fishes and never moves its feet. It stands over one place and breathes fog until the place is covered. Anyone who walks into the fog is turned around without noticing and comes out on the bank they started from. The only ones it troubles are those who keep going. The eye is on them from then on, and the bill stays shut.
-- **Origin:** A fen where a village put its dead into one pit in a fever year, and a heron that stood over the pit all that winter. The gills on its neck open onto the pit, and the fog is what the pit breathes out. The heron lets it through.
+- **Origin:** The fear of the fen. For as long as a road ran along it, travellers were told not to walk into the fog, and every few years someone did and the bog did not give them back. The fear gathered in the tallest thing standing in the fen and took its shape. The gills on its neck open onto the peat, and the fog is what the peat breathes out.
 
 ### The Run, Vanguard of Roaring Waters, Rank 4 (Hydraulic Torrent)
 
@@ -277,7 +277,7 @@ A column of salmon swimming straight up through the open air. Each is the size o
 - **Body plan:** Swarm.
 - **Signature wrongness:** The teeth in every mouth are human.
 - **Behaviour:** It climbs to the height of a weir that was torn down generations ago. Past that height there is nothing left to climb, so the column turns and falls, and the fall is the torrent: the whole river comes down where the column ends. Then it starts again from the bottom. The column drifts across the land as it does this, finding the low ground like a river does, and whatever stands under it when it falls is hit by all of it at once.
-- **Origin:** A lord's weir that shut a river to the salmon run, with traps at the top. The village above it went hungry. The starving broke into the traps and were drowned in the trapping pool by the lord's wardens, and the salmon that fed there afterwards kept the teeth. The weir came down in the next reign. The fish are still trying to get over it.
+- **Origin:** The will of a salmon run. A lord's weir shut this river for two hundred years, and his household ate the run at the top of it, season after season. The weir came down in a later reign. The wanting to get over it stayed, and so did the household's teeth, which is what a run that has been eaten that long grows in its mouth.
 
 ---
 
