@@ -3,7 +3,6 @@ tags:
   - character
   - God
   - Groetus
-faction: "[[The Heralds of the Moon Incarnate]]"
 Pantheon: The Old Gods
 Godly Domains:
   - Darkness
