@@ -252,6 +252,33 @@ A manor house standing in a valley, four floors, with a slate roof and forty win
 - **Behaviour:** It keeps guests. It gives you a room, a fire, a meal, and clothes that fit, and it wants nothing from you except that you stay, and it will not say for how long. A guest who tries to leave finds that the house has grown a corridor where the door was, and the corridor is warm and well lit and very long. It is a good host. It is patient. The ones who have been here longest have stopped being guests and started being rooms.
 - **Origin:** A house that was promised to a family forever, and took the promise literally.
 
+### The Ford, Vanguard of Roaring Waters, Rank 1 (Hydraulic Push)
+
+A river crossing, knee-deep and brown, with the stones showing through. Two handprints stand in the surface, pressed up from underneath: pale, wide as a door, the fingers splayed. The water bulges where the palms push against it, as if the river were a pane of glass. There is no wrist and no arm, and the current runs around the prints without moving them. The skin has creases in it, lined like a real palm. Wade toward them and the push reaches you before you do, steady as a hand on the chest.
+
+- **Body plan:** Hands, no body.
+- **Signature wrongness:** The palms turn to face whoever is wading, and the surface never breaks.
+- **Behaviour:** It pushes you back to the bank you came from. It does not hold you or pull you under. It only shoves, every time, until you stop trying.
+- **Origin:** TBD.
+
+### The Heron, Vanguard of Roaring Waters, Rank 2 (Mist)
+
+A heron the height of a church tower, standing on one leg in slow shallow water. The plumage is the grey of the fog around it. The legs are thin as masts, and the knee sits higher than a house. Down both sides of the neck, from the collar to the skull, runs a row of slits like a fish's gills, opening and closing in turn, and the fog comes out of them. The bill is shut and never opens. The eye is small, round, and yellow, set to the side, so it watches with one eye at a time, and it is always the one facing you. The fog pools round the leg and thickens and spreads until the water is gone. The heron is the only thing left to see, and only because it stands taller than the fog.
+
+- **Body plan:** Beast.
+- **Signature wrongness:** The neck breathes fog through gills, and the bill never opens.
+- **Behaviour:** It never fishes and never moves its feet. The fog is all it does, and it spreads for as long as the heron stands.
+- **Origin:** TBD.
+
+### The Run, Vanguard of Roaring Waters, Rank 4 (Hydraulic Torrent)
+
+A column of salmon swimming straight up through the open air. Each is the size of a hound, silver gone grey, and the column is thousands deep. They climb nose to tail in a slow spiral, and a torrent rises from the ground at the foot of it and runs up beside them, thick as a mill-race. They swim the way salmon take a weir: throwing themselves up, falling back, throwing themselves up again. Their flanks are scraped raw and their backs are torn, and they keep climbing. Every mouth is full of small, straight, white human teeth. The noise is a mill-race heard from inside the wheel.
+
+- **Body plan:** Swarm.
+- **Signature wrongness:** The teeth in every mouth are human.
+- **Behaviour:** It climbs. The column drifts across the land as it goes, finding the low ground like a river does, and whatever stands in the line of the torrent is hit by the whole river at once.
+- **Origin:** TBD.
+
 ---
 
 *Related: [[Spirits Ledger]], [[Spirit Template]], [[Stalker in Darkened Boughs]], [[Lurker in Devouring Dark]].*
