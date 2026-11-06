@@ -9,7 +9,7 @@ faction:
 status: Alive
 ---
 
-![[Amiri.png|375]]
+![[Amiri HQ.webp|375]]
 
 > "A memorable quote."
 

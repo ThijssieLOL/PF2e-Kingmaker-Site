@@ -9,7 +9,7 @@ faction:
 status: Alive
 ---
 
-![[Maegar Varn.png|375]]
+![[Maegar Varn HQ.webp|375]]
 
 > "A memorable quote."
 

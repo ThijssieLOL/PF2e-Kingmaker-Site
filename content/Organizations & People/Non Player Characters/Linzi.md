@@ -9,7 +9,7 @@ faction:
 status: Alive
 ---
 
-![[Linzi.png|375]]
+![[Linzi HQ.webp|375]]
 
 > "A memorable quote."
 

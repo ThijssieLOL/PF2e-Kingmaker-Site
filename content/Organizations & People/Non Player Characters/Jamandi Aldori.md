@@ -11,7 +11,7 @@ aliases:
   - Aldori
 ---
 
-![[Jamandi Aldori.png|375]]
+![[Jamandi Aldori HQ.webp|375]]
 
 > "A memorable quote."
 

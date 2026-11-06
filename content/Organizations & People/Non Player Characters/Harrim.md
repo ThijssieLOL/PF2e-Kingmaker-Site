@@ -9,7 +9,7 @@ faction:
 status: Alive
 ---
 
-![[Harrim.png|375]]
+![[Harrim HQ.webp|375]]
 
 > "A memorable quote."
 

@@ -9,7 +9,7 @@ faction:
 status: Alive
 ---
 
-![[Valerie.png|375]]
+![[Valerie HQ.webp|375]]
 
 > "A memorable quote."
 

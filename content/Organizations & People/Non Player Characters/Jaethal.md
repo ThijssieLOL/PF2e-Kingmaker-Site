@@ -9,7 +9,7 @@ faction:
 status: Alive
 ---
 
-![[Jaethal.png|375]]
+![[Jaethal HQ.webp|375]]
 
 > "A memorable quote."
 

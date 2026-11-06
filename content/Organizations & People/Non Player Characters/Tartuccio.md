@@ -11,7 +11,7 @@ aliases:
   - egomaniac self absorbed gnome
 ---
 
-![[Tartuccio.png|375]]
+![[Tartuccio HQ.webp|375]]
 
 > "A memorable quote."
 
