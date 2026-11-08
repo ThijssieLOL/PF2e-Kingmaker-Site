@@ -25,11 +25,4 @@ The [[Dwarves|Dwarven]] pantheon of the First Family is so named because it is b
 | [[Gundrast]]             | The Elder     | Lawful Good     | Death, Afterlife, Fate                            | ???    | Creation, Death, Family, Fate, Soul, Vigil       |
 | [[Torag]]                | The Father    | Lawful Good     | Forge, Protection, Strategy, Sacrifice            | Dead   | Creation, Duty, Earth, Family, Metal, Protection |
 
-%%The construct - a construct created by Torag to become a bridge between peoples and to show the other races the goods of the dwarven family.
-The Aunt
-The Cousin / The Nephew
-
-God of Artisans (craftsmen but also cooking, art etc.)
-%%
-
 ---
