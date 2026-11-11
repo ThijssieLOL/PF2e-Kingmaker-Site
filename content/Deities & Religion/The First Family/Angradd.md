@@ -11,8 +11,6 @@ Godly Domains:
   - Fire
   - Might
   - Zeal
-Edicts:
-Anathema: Allow weaker evils to survive due to the presence of larger evils
 aliases:
   - The Younger
 ---

@@ -11,8 +11,6 @@ Godly Domains:
   - Water
   - Healing
   - Dreams
-Edicts: Aid fellow travelers, explore new places, express yourself through art and song, find what life has to offer
-Anathema: Foster despair or terror in the innocent, cast nightmare or use similar magic to corrupt dreams, engage in bigoted behavior
 status: Alive
 ---
 

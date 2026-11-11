@@ -9,8 +9,6 @@ Godly Domains:
   - Introspection
   - Metal
   - Truth
-Edicts:
-Anathema:
 aliases:
   - The Construct
 ---
