@@ -1,6 +1,27 @@
 ## Overview
 The world of Kaelerum is home to many cultures and was home to many more in it's many years of history. With these many cultures come an equally high number of languages. Some languages are still spoken by many or few and some are long extinct. Below are a list of relevant languages.
 
+
+###
+| Language           | Rarity   | Alphabet/Script | Primary Speakers |
+| ------------------ | -------- | --------------- | ---------------- |
+| **[[Common]]**     | Common   |                 |                  |
+| **[[Dwarvish]]**   | Common   |                 |                  |
+| **[[Elvish]]**     | Common   |                 |                  |
+| **[[Halfling]]**   | Common   |                 |                  |
+| **[[Orcish]]**     | Common   |                 |                  |
+| **[[Arboreal]]**   | Uncommon |                 |                  |
+| **[[Aklo]]**       | Uncommon |                 |                  |
+| **[[Darrowain]]**  | Uncommon |                 |                  |
+| **[[Ghadalian]]**  | Uncommon |                 |                  |
+| **[[Goblin]]**     | Uncommon |                 |                  |
+| **[[Hallid]]**     | Uncommon |                 |                  |
+| **[[River Cant]]** | Uncommon |                 |                  |
+| **[[Sylvan]]**     | Uncommon |                 |                  |
+| **[[Draconic]]**   | Rare     |                 |                  |
+| **[[Gnomish]]**    |          |                 |                  |
+|  **[[Infernal]]**  |          |                 |                  |
+
 ---
 ## Language list
 ### Common languages
