@@ -3,31 +3,31 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 
 
 ###
-| Language                     | Rarity   | Alphabet/Script            | Primary Speakers | Language Type |
-| ---------------------------- | -------- | -------------------------- | ---------------- | ------------- |
-| **[[Common]]**               | Common   | Human                      |                  |               |
-| **[[Dwarvish]]**             | Common   | Darrunic (runic Darrowain) |                  |               |
-| **[[Elvish]]**               | Common   | Sylvan                     |                  |               |
-| **[[Halfling]]**             | Common   | Human                      |                  |               |
-| **[[Orcish]]**               | Common   |                            |                  |               |
-| **[[Arboreal]]**             | Uncommon |                            |                  |               |
-| **[[Aklo]]**                 | Uncommon | Sylvan                     |                  |               |
-| **[[Darrowain]]**            | Uncommon | Darrunic (runic Darrowain) |                  |               |
-| **[[Ghadalian]]**            | Uncommon | Human                      |                  | Regional      |
-| **[[Goblin]]**               | Uncommon |                            |                  |               |
-| **[[Hallid]]**               | Uncommon |                            |                  | Regional      |
-| **[[River Cant]]**           | Uncommon |                            |                  |               |
-| **[[Sylvan]]**               | Uncommon | Sylvan                     |                  |               |
-| **[[Draconic]]**             | Rare     |                            |                  |               |
-| **[[Gnomish]]**              | Rare     | Sylvan                     |                  |               |
-| **[[Infernal]]**             | Rare     |                            |                  |               |
-| **[[Necril]]**               | Rare     |                            |                  |               |
-| **[[Primordial]]**           | Rare     |                            |                  |               |
-| **[[Athalayan]]**            | Rare     |                            |                  |               |
-| **[[Isayan military sign]]** | Common   |                            |                  | Sign          |
-| **[[Starcode]]**             | Uncommon |                            |                  | Code          |
-| **[[Sphinxic]]**             | Rare     |                            |                  |               |
-| **[[Thieves' Cant]]**        | Uncommon |                            |                  | Code          |
+| Language                     | Rarity   | Alphabet/Script            | Primary Speakers              | Language Type |
+| ---------------------------- | -------- | -------------------------- | ----------------------------- | ------------- |
+| **[[Common]]**               | Common   | Human                      | Everything                    | Common        |
+| **[[Dwarvish]]**             | Common   | Darrunic (runic Darrowain) | Dwarves                       |               |
+| **[[Elvish]]**               | Common   | Sylvan                     | Elves                         |               |
+| **[[Halfling]]**             | Common   | Human                      | Halflings                     |               |
+| **[[Orcish]]**               | Common   |                            | Orcs                          |               |
+| **[[Arboreal]]**             | Uncommon |                            | Treefolk                      |               |
+| **[[Aklo]]**                 | Uncommon | Sylvan                     | "evil" fey                    |               |
+| **[[Darrowain]]**            | Uncommon | Darrunic (runic Darrowain) | Giants and other Darrowborn   | Common        |
+| **[[Ghadalian]]**            | Uncommon | Human                      | Ghadalians                    | Regional      |
+| **[[Goblin]]**               | Uncommon |                            | Goblins                       |               |
+| **[[Hallid]]**               | Uncommon | Human                      | Kellids                       | Regional      |
+| **[[River Cant]]**           | Uncommon |                            | River merchants and fishermen |               |
+| **[[Sylvan]]**               | Uncommon | Sylvan                     | Fey                           | Common        |
+| **[[Draconic]]**             | Rare     |                            | Dragons                       |               |
+| **[[Gnomish]]**              | Rare     | Sylvan                     | Gnomes                        |               |
+| **[[Infernal]]**             | Rare     |                            | Devils                        |               |
+| **[[Necril]]**               | Rare     |                            | Intelligent undead            |               |
+| **[[Primordial]]**           | Rare     |                            | Elementals                    |               |
+| **[[Athalayan]]**            | Rare     |                            | None                          |               |
+| **[[Isayan military sign]]** | Common   |                            | Soldiers                      | Sign          |
+| **[[Starcode]]**             | Uncommon |                            | Astronomers                   | Code          |
+| **[[Sphinxic]]**             | Rare     |                            | Sphinxes                      |               |
+| **[[Thieves' Cant]]**        | Uncommon |                            | Criminals                     | Code          |
 
 ---
 ## Language list
