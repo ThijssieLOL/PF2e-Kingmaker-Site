@@ -10,6 +10,8 @@ Welcome to the official campaign vault for **Pathfinder 2e: Kingmaker**. This wi
 
 The campaign is following an adventuring party of heroes on their quest to found a new nation in the stolen lands. It takes place in the homebrew world of Kaelerum following a modified version of the Pathfinder Kingmaker module. 
 
+Reminder that this is still a work in progress and not all information in this wiki is known by all (or even any) player characters.
+
 ---
 
 ## 👥 Key Characters (The Cohort)
