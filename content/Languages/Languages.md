@@ -3,24 +3,31 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 
 
 ###
-| Language           | Rarity   | Alphabet/Script | Primary Speakers |
-| ------------------ | -------- | --------------- | ---------------- |
-| **[[Common]]**     | Common   |                 |                  |
-| **[[Dwarvish]]**   | Common   |                 |                  |
-| **[[Elvish]]**     | Common   |                 |                  |
-| **[[Halfling]]**   | Common   |                 |                  |
-| **[[Orcish]]**     | Common   |                 |                  |
-| **[[Arboreal]]**   | Uncommon |                 |                  |
-| **[[Aklo]]**       | Uncommon |                 |                  |
-| **[[Darrowain]]**  | Uncommon |                 |                  |
-| **[[Ghadalian]]**  | Uncommon |                 |                  |
-| **[[Goblin]]**     | Uncommon |                 |                  |
-| **[[Hallid]]**     | Uncommon |                 |                  |
-| **[[River Cant]]** | Uncommon |                 |                  |
-| **[[Sylvan]]**     | Uncommon |                 |                  |
-| **[[Draconic]]**   | Rare     |                 |                  |
-| **[[Gnomish]]**    |          |                 |                  |
-|  **[[Infernal]]**  |          |                 |                  |
+| Language                     | Rarity   | Alphabet/Script | Primary Speakers | Language Type |
+| ---------------------------- | -------- | --------------- | ---------------- | ------------- |
+| **[[Common]]**               | Common   | Human           |                  |               |
+| **[[Dwarvish]]**             | Common   | Darrow          |                  |               |
+| **[[Elvish]]**               | Common   |                 |                  |               |
+| **[[Halfling]]**             | Common   |                 |                  |               |
+| **[[Orcish]]**               | Common   |                 |                  |               |
+| **[[Arboreal]]**             | Uncommon |                 |                  |               |
+| **[[Aklo]]**                 | Uncommon |                 |                  |               |
+| **[[Darrowain]]**            | Uncommon |                 |                  |               |
+| **[[Ghadalian]]**            | Uncommon |                 |                  |               |
+| **[[Goblin]]**               | Uncommon |                 |                  |               |
+| **[[Hallid]]**               | Uncommon |                 |                  |               |
+| **[[River Cant]]**           | Uncommon |                 |                  |               |
+| **[[Sylvan]]**               | Uncommon |                 |                  |               |
+| **[[Draconic]]**             | Rare     |                 |                  |               |
+| **[[Gnomish]]**              | Rare     |                 |                  |               |
+| **[[Infernal]]**             | Rare     |                 |                  |               |
+| **[[Necril]]**               | Rare     |                 |                  |               |
+| **[[Primordial]]**           | Rare     |                 |                  |               |
+| **[[Athalayan]]**            | Rare     |                 |                  |               |
+| **[[Isayan military sign]]** | Common   |                 |                  | Sign          |
+| **[[Starcode]]**             | Uncommon |                 |                  | Code          |
+| **[[Sphinxic]]**             | Rare     |                 |                  |               |
+| **[[Thieves' Cant]]**        | Uncommon |                 |                  | Code          |
 
 ---
 ## Language list
