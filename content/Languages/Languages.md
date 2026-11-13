@@ -13,9 +13,9 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 | **[[Arboreal]]**             | Uncommon |                            |                  |               |
 | **[[Aklo]]**                 | Uncommon | Sylvan                     |                  |               |
 | **[[Darrowain]]**            | Uncommon | Darrunic (runic Darrowain) |                  |               |
-| **[[Ghadalian]]**            | Uncommon | Human                      |                  |               |
+| **[[Ghadalian]]**            | Uncommon | Human                      |                  | Regional      |
 | **[[Goblin]]**               | Uncommon |                            |                  |               |
-| **[[Hallid]]**               | Uncommon |                            |                  |               |
+| **[[Hallid]]**               | Uncommon |                            |                  | Regional      |
 | **[[River Cant]]**           | Uncommon |                            |                  |               |
 | **[[Sylvan]]**               | Uncommon | Sylvan                     |                  |               |
 | **[[Draconic]]**             | Rare     |                            |                  |               |
