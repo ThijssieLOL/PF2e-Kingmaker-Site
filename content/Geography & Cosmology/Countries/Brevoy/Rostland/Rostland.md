@@ -45,7 +45,7 @@ City name - reason of importance
 The culture of this region if it is significantly different from that of the country.
 **Population:** This region is mostly inhabited by Humans. There are also a good number of Dwarves, Halflings and various half-races(particularly half-elves) are also very common.
 **Languages:** [[Common]], [[Hallid]], [[Halfling]], [[Dwarvish]]
-**Religion:** (Major religions, gods, or religious practices)
+**Religion:** The **Rostland** is a very traditional area and thus the [[The Old Gods|Old Gods]] enjoy relatively high popularity in this region.
 **Traditions:** (Important cultural traditions, festivals, or customs)
 **Values:** (What traits and ideals are commonly valued?)
 **Cuisine:** (Notable foods, drinks, or culinary traditions)
