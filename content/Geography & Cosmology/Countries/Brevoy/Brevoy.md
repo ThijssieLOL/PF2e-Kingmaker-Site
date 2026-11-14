@@ -11,7 +11,7 @@ status: Active
 ---
 ![[Brevoy.png]]
 ## Overview
-Though Brevoy is named one country it is really a mash of two countries forcefully united and long on the brink of civil war. It's two regions [[Rostland]] and 
+Though Brevoy is named one country it is really a mash of two countries forcefully united and long on the brink of civil war. It's two regions [[Rostland]] and [[Irea]] were conquered and united into Brevoy by Choral the Conqueror.
 
 ### Quick Facts
 - **Leader:**
@@ -53,7 +53,7 @@ City name - reason of importance
 
 ---
 ## Culture
-**Languages:** (Languages commonly spoken)
+**Languages:** [[Common]], [[Halfling]], [[Dwarvish]], [[Elvish]]
 **Religion:** (Major religions, gods, or religious practices)
 **Traditions:** (Important cultural traditions, festivals, or customs)
 **Values:** (What traits and ideals are commonly valued?)
