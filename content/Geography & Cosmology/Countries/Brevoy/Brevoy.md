@@ -21,7 +21,7 @@ Though **Brevoy** is named one country it is really a mash of two countries forc
 - **Affiliation / Alliances:** 
 
 ## Location
-**Borders:** (What countries, regions, or geographical features border the country?)
+**Borders:** The River Kingdoms
 **Position:** (Where on the continent/world is it located?)
 **Notable Locations:** (Important landmarks, regions, or natural features)
 
