@@ -7,6 +7,9 @@ tags:
 continent:
 country:
 status: Active
+aliases:
+  - The Rostland
+  - the Rostland
 ---
 
 ## Overview

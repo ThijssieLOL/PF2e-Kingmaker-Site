@@ -11,7 +11,7 @@ status: Active
 ---
 ![[Brevoy.png]]
 ## Overview
-A brief 1-2 sentence summary of what this country is, what it is known for, and its main role in the world.
+Though Brevoy is named one country it is really a mash of two countries forcefully united and long on the brink of civil war. It's two regions [[Rostland]] and 
 
 ### Quick Facts
 - **Leader:**
