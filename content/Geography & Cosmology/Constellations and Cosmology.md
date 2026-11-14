@@ -3,6 +3,7 @@ tags:
   - Constellation
   - Cosmology
   - Moon
+  - Star
 ---
 
 ## Overview
