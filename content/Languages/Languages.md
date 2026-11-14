@@ -10,23 +10,23 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 | **[[Elvish]]**               | Common   | Sylvan                     | Elves                         |               |
 | **[[Halfling]]**             | Common   | Human                      | Halflings                     |               |
 | **[[Orcish]]**               | Common   |                            | Orcs                          |               |
-| **[[Arboreal]]**             | Uncommon |                            | Treefolk                      |               |
+| **[[Arboreal]]**             | Uncommon | Sylvan                     | Treefolk                      |               |
 | **[[Aklo]]**                 | Uncommon | Sylvan                     | "evil" fey                    |               |
 | **[[Darrowain]]**            | Uncommon | Darrunic (runic Darrowain) | Giants and other Darrowborn   | Common        |
 | **[[Ghadalian]]**            | Uncommon | Human                      | Ghadalians                    | Regional      |
 | **[[Goblin]]**               | Uncommon |                            | Goblins                       |               |
 | **[[Hallid]]**               | Uncommon | Human                      | Kellids                       | Regional      |
-| **[[River Cant]]**           | Uncommon |                            | River merchants and fishermen |               |
+| **[[River Cant]]**           | Uncommon | None                       | River merchants and fishermen |               |
 | **[[Sylvan]]**               | Uncommon | Sylvan                     | Fey                           | Common        |
-| **[[Draconic]]**             | Rare     |                            | Dragons                       |               |
+| **[[Draconic]]**             | Rare     | Draconic                   | Dragons                       |               |
 | **[[Gnomish]]**              | Rare     | Sylvan                     | Gnomes                        |               |
-| **[[Infernal]]**             | Rare     |                            | Devils                        |               |
+| **[[Infernal]]**             | Rare     | Infernal                   | Devils                        |               |
 | **[[Necril]]**               | Rare     |                            | Intelligent undead            |               |
-| **[[Primordial]]**           | Rare     |                            | Elementals                    |               |
-| **[[Athalayan]]**            | Rare     |                            | None                          |               |
-| **[[Isayan military sign]]** | Common   |                            | Soldiers                      | Sign          |
-| **[[Starcode]]**             | Uncommon |                            | Astronomers                   | Code          |
-| **[[Sphinxic]]**             | Rare     |                            | Sphinxes                      |               |
+| **[[Primordial]]**           | Rare     | Primordial                 | Elementals                    |               |
+| **[[Athalayan]]**            | Rare     | Human                      | None                          |               |
+| **[[Isayan military sign]]** | Common   | None                       | Soldiers                      | Sign          |
+| **[[Starcode]]**             | Uncommon | None                       | Astronomers                   | Code          |
+| **[[Sphinxic]]**             | Rare     | Sphinxic                   | Sphinxes                      |               |
 | **[[Thieves' Cant]]**        | Uncommon |                            | Criminals                     | Code          |
 
 ---
