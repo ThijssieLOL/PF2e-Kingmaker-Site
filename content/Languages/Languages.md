@@ -1,8 +1,8 @@
 ## Overview
 The world of Kaelerum is home to many cultures and was home to many more in it's many years of history. With these many cultures come an equally high number of languages. Some languages are still spoken by many or few and some are long extinct. Below are a list of relevant languages.
 
+### Table
 
-###
 | Language                     | Rarity   | Alphabet/Script            | Primary Speakers              | Language Type |
 | ---------------------------- | -------- | -------------------------- | ----------------------------- | ------------- |
 | **[[Common]]**               | Common   | Human                      | Everything                    | Common        |
@@ -27,7 +27,7 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 | **[[Isayan military sign]]** | Common   | None                       | Soldiers                      | Sign          |
 | **[[Starcode]]**             | Uncommon | None                       | Astronomers                   | Code          |
 | **[[Sphinxic]]**             | Rare     | Sphinxic                   | Sphinxes                      |               |
-| **[[Thieves' Cant]]**        | Uncommon |                            | Criminals                     | Code          |
+| **[[Thieves' Cant]]**        | Uncommon | *Varies*                   | Criminals                     | Code          |
 
 ---
 ## Language list
