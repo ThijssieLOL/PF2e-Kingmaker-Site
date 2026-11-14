@@ -10,7 +10,7 @@ The world of Kaelerum is home to many cultures and was home to many more in it's
 | **[[Elvish]]**               | Common   | Sylvan                     | Elves                                    |               |
 | **[[Halfling]]**             | Common   | Human                      | Halflings                                |               |
 | **[[Orcish]]**               | Common   |                            | Orcs                                     |               |
-| **[[Arboreal]]**             | Uncommon | Sylvan                     | Treefolk                                 |               |
+| **[[Arboreal]]**             | Uncommon | Sylvan                     | Treefolk and sentient plants             |               |
 | **[[Aklo]]**                 | Uncommon | Sylvan                     | "evil" fey                               |               |
 | **[[Darrowain]]**            | Uncommon | Darrunic (runic Darrowain) | Giants and other Darrowborn              | Common        |
 | **[[Ghadalian]]**            | Uncommon | Human                      | Ghadalians                               | Regional      |
