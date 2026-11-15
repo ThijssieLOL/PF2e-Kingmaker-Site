@@ -3,7 +3,7 @@
 Swashbuckler
 
 2. What is your character's species/race(Ancestry)
-Human.
+Human...
 
 3. Are there any (lore)skill proficiencies you find particularly interesting/important for this character?
 Fortune telling though i wont invest in it al to much, diplomacy and intimidation
