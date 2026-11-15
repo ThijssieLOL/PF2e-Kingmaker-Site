@@ -59,14 +59,33 @@ The hub page's House Notes hold most of these, and the DM settles them.
 
 ## Aurelius
 
+### The character page
+- [ ] [[Aurelius]]: nothing from play is on the page yet. [[Session Note 1]] gives the Groetus slip to [[Harrim]], the dance with [[Zephan]], and his waking first when the intruder came
+- [ ] [[Aurelius]]: the Relationships section covers only the Church and the Vigil. Nothing yet on [[Zephan]], [[Selion]], [[Oliver Strong Bison]], [[Jock Finch]], or [[Alea]]
+- [ ] Why Aurelius knows the Groetan saying "Tomorrow is not promised", which left [[Oliver Strong Bison]] suspicious of him
+- [ ] His own tattoo design. Every sibling's brand has a motif (Gideon's yoke, Julian's serpent, Vespera's scale, Lyra's handprints, Tristan's koi); his page only says criminal brands on the forearms and shins
+- [ ] His age in Quick Facts. "21" appears only in the Relationships lead
+- [ ] [[Aurelius]]: the Grade 8 Cinder vestment line is still "work in progress"
+- [ ] [[Character building questions (Aurelius)]]: Q7 (grooming), Q62 (most controversial opinion), Q65 (most valuable possession), and Q67 (worst joke) are unanswered, and Q4 still reads "spirit language (?)"
+
+### Canon conflicts
+- [ ] Tattoos by choice or by law: [[Aurelius]] says he took the ritual voluntarily, while [[Tattoos of Penance]] makes it mandatory for all clergy
+- [ ] Clear or vague designs: [[Tattoos of Penance]] says the patterns never resolve into a clear picture, but the Vigil pages each describe a clear motif
+- [ ] [[Valerius]]: [[Aurelius]] states his death at the city walls as fact, while his own page and the DM cheatsheet say presumed dead
+- [ ] [[Character building questions (Aurelius)]] Q26 counts five surviving siblings; the Vigil has four (Gideon, Julian, Vespera, Lyra)
+
+### Books & projects
 - [ ] Write the verse wording across [[The Hymnal]]'s pages. The record is complete; each family and each divine rank still waits on its verses
 - [ ] [[The Shepherd]]: the chapters, and the exercises in the margins
-- [ ] [[Spirit Sealing]]: how sealing looks to a bystander and to spirit-sight, and how the look of divine magic differs from spirit magic
 - [ ] [[Holy Ground Project]]: how divine radiant energy is gathered and stored at kingdom scale
 - [ ] The in-world name for the Church's light-and-prism work, replacing the retired "solar-prism" term ([[Chancellery Education Brainstorm]] 25)
-- [ ] [[The Spirit Realm]]: where the rank line falls for crossing into the material world (the page leaves this to the DM)
-- [ ] [[Aurelius]]: the Grade 8 Cinder vestment line is still "work in progress"
+- [ ] [[The Liturgical Cadence]] carries `draft: true`, so the site does not build it, yet eleven published pages link to it. Publish it or accept the dead links
+
+### Spirits
+- [ ] [[Spirits Ledger]]: no record of which spirits he has bound so far, so the ledger cannot say what he attunes
 - [ ] Fill the TBD fields on the individual apparition spirits: [[The Piper]], [[The Court of One]], [[The Reflection]], [[The Grazer]], [[The Hedge]], [[The Reacher]], and [[The Swallower]]. Each needs a binding status, own name, first meeting, personality, relationship with Aurelius, and personal gift
+- [ ] [[Spirit Sealing]]: how sealing looks to a bystander and to spirit-sight, and how the look of divine magic differs from spirit magic
+- [ ] [[The Spirit Realm]]: where the rank line falls for crossing into the material world (the page leaves this to the DM)
 
 ## Erisol & the other gods
 
@@ -77,7 +96,8 @@ The hub page's House Notes hold most of these, and the DM settles them.
 
 ## The Twenty-First Vigil
 
-- [ ] [[Valerius]]: the Appearance section still holds the template placeholder, and the ancestry field is blank
+- [ ] [[Valerius]]: the Appearance, Abilities, and History sections still hold the template placeholders, and the ancestry field is blank
+- [ ] [[Vespera]]: the History section still holds the template placeholder
 
 ## Placeholder quotes to write
 

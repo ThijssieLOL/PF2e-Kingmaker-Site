@@ -51,6 +51,7 @@ City name - reason of importance
 
 ---
 ## Culture
+**Population:** (Races that commonly live in this country)
 **Languages:** (Languages commonly spoken)
 **Religion:** (Major religions, gods, or religious practices)
 **Traditions:** (Important cultural traditions, festivals, or customs)

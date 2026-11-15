@@ -31,7 +31,7 @@ Let me read a few more anchor notes to ground the questions: the Grade System (p
 
 ### Claudian (2026-09-24 15:13)
 
-I read the [[content/Deities & Religion/The Church of the Eternal Blazing Sun/The Chancelleries/The Chancellery of the Shared Hearth.md|Shared Hearth]] page, the parent [[The Church of the Eternal Blazing Sun]] note (its "Political & Economic Philosophy" section), the [[Church Tiers]], [[The Grade System|Grade System]], [[The Church Schooling Program|Schooling Program]], and the [[Holy Ground Project]] funding section.
+I read the [[The Chancellery of the Shared Hearth|Shared Hearth]] page, the parent [[The Church of the Eternal Blazing Sun]] note (its "Political & Economic Philosophy" section), the [[Church Tiers]], [[The Grade System|Grade System]], [[The Church Schooling Program|Schooling Program]], and the [[Holy Ground Project]] funding section.
 
 Two notes before the questions:
 - **What already exists.** The economics currently live only in the parent church note (anti-poverty, condemnation of hoarding, social programs, partnerships with secular states). I searched the whole vault: there is **no dedicated economics note, and no mention of "socialism" or "pledges" anywhere.** So this would be new canon, not an extension of something already written.
@@ -190,7 +190,7 @@ Processed. Your answers 1 to 16 are now captured in the vault, and the existing 
 
 **Written (uncommitted, for your review):**
 - New note [[The Shared Hearth Economy]] under the church folder. It holds only what you settled: means of production stay with the state (private owners allowed, corruption condemned); no income ceiling, hoarding is the sin; giving as civic duty; progressive tithe on spendable income; the "give by ability, receive by need" creed; non-profit funding through state charity contracts plus donations; churches fund their own charities when a state refuses; banking left to the state or honest private owners; the clergy's vow against rich living.
-- [[content/Deities & Religion/The Church of the Eternal Blazing Sun/The Chancelleries/The Chancellery of the Shared Hearth.md|The Chancellery of the Shared Hearth]] gained one line pointing to the doctrine note.
+- [[The Chancellery of the Shared Hearth|The Chancellery of the Shared Hearth]] gained one line pointing to the doctrine note.
 - The edit guard passes (`OK`, exit 0). Nothing is committed. I have not touched [[The Church Schooling Program]], [[The Grade System]], or the parent church note yet, because your schooling-qualification idea is still a proposal and the rest is mid-brainstorm.
 
 **One thing I did not do:** I created the doctrine note rather than growing the chancellery page, because the economics now spans the whole Church. If you would rather it live on the Shared Hearth page, say so and I will merge them. That is question 77 again below.

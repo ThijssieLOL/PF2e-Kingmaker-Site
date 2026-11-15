@@ -3,7 +3,6 @@ tags:
   - character
   - God
   - Groetus
-faction: "[[The Heralds of the Moon Incarnate]]"
 Pantheon: The Old Gods
 Godly Domains:
   - Darkness
@@ -11,8 +10,6 @@ Godly Domains:
   - Destruction
   - Nightmares
   - Nothingness
-Edicts: Preach of the upcoming end times, destroy that which has outlived its usefulness, put the suffering out of their misery
-Anathema: Artificially extend something's existence or life span, spread hope
 status: Alive
 ---
 

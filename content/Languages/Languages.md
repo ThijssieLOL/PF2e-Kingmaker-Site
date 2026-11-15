@@ -1,5 +1,35 @@
+## Overview
 The world of Kaelerum is home to many cultures and was home to many more in it's many years of history. With these many cultures come an equally high number of languages. Some languages are still spoken by many or few and some are long extinct. Below are a list of relevant languages.
 
+
+###
+| Language                     | Rarity   | Alphabet/Script            | Primary Speakers              | Language Type |
+| ---------------------------- | -------- | -------------------------- | ----------------------------- | ------------- |
+| **[[Common]]**               | Common   | Human                      | Everything                    | Common        |
+| **[[Dwarvish]]**             | Common   | Darrunic (runic Darrowain) | Dwarves                       |               |
+| **[[Elvish]]**               | Common   | Sylvan                     | Elves                         |               |
+| **[[Halfling]]**             | Common   | Human                      | Halflings                     |               |
+| **[[Orcish]]**               | Common   |                            | Orcs                          |               |
+| **[[Arboreal]]**             | Uncommon |                            | Treefolk                      |               |
+| **[[Aklo]]**                 | Uncommon | Sylvan                     | "evil" fey                    |               |
+| **[[Darrowain]]**            | Uncommon | Darrunic (runic Darrowain) | Giants and other Darrowborn   | Common        |
+| **[[Ghadalian]]**            | Uncommon | Human                      | Ghadalians                    | Regional      |
+| **[[Goblin]]**               | Uncommon |                            | Goblins                       |               |
+| **[[Hallid]]**               | Uncommon | Human                      | Kellids                       | Regional      |
+| **[[River Cant]]**           | Uncommon |                            | River merchants and fishermen |               |
+| **[[Sylvan]]**               | Uncommon | Sylvan                     | Fey                           | Common        |
+| **[[Draconic]]**             | Rare     |                            | Dragons                       |               |
+| **[[Gnomish]]**              | Rare     | Sylvan                     | Gnomes                        |               |
+| **[[Infernal]]**             | Rare     |                            | Devils                        |               |
+| **[[Necril]]**               | Rare     |                            | Intelligent undead            |               |
+| **[[Primordial]]**           | Rare     |                            | Elementals                    |               |
+| **[[Athalayan]]**            | Rare     |                            | None                          |               |
+| **[[Isayan military sign]]** | Common   |                            | Soldiers                      | Sign          |
+| **[[Starcode]]**             | Uncommon |                            | Astronomers                   | Code          |
+| **[[Sphinxic]]**             | Rare     |                            | Sphinxes                      |               |
+| **[[Thieves' Cant]]**        | Uncommon |                            | Criminals                     | Code          |
+
+---
 ## Language list
 ### Common languages
 - **[[Common]]** - The most commonly spoken language on Kaelerum. It is a mixture of many of the languages of Kaelerum primarily based on the human language.

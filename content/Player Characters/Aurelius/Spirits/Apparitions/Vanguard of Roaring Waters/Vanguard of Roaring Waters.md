@@ -24,14 +24,14 @@ Spirits of the Vanguard of Roaring Waters are chaotic spirits of rapids, breaker
 
 ## The Nine Ranks
 
-| Rank | Spell | Spirit |
-| :---: | :--- | :--- |
-| 1 | *Hydraulic Push* (cantrip: Rousing Splash) | |
-| 2 | *Mist* | |
-| 3 | *Crashing Wave* | |
-| 4 | *Hydraulic Torrent* | |
-| 5 | *Control Water* | |
-| 6 | *Personal Ocean* | |
-| 7 | *Dancing Fountain* | |
-| 8 | *Whirlpool* | |
-| 9 | *Wrathful Storm* | |
+| Rank | Spell                                      | Spirit |
+| :--: | :----------------------------------------- | :----- |
+|  1   | *Hydraulic Push* (cantrip: Rousing Splash) |        |
+|  2   | *Mist*                                     |        |
+|  3   | *Crashing Wave*                            |        |
+|  4   | *Hydraulic Torrent*                        |        |
+|  5   | *Control Water*                            |        |
+|  6   | *Personal Ocean*                           |        |
+|  7   | *Dancing Fountain*                         |        |
+|  8   | *Whirlpool*                                |        |
+|  9   | *Wrathful Storm*                           |        |

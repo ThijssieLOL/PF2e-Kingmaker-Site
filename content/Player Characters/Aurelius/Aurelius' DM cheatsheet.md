@@ -88,10 +88,13 @@ The knives are what the DM can threaten, take, or pull on: the people Aurelius l
 
 ## Open Questions for the DM
 
-- His languages are still recorded as "Common and spirit language (?)" ([[Character building questions (Aurelius)]]).
-- The Church's central headquarters has no location yet: "To be determined / Coordinated with DM" ([[The Church of the Eternal Blazing Sun]]).
-- What the whispers that called him are, and what order of spirit stands above Rank 9 ([[Spirits#Rank]]).
-- Whether Tristan is dead ([[Tristan]]).
+- **The Whispers:** what called him to the Stolen Lands, and what order of spirit stands above Rank 9 ([[Spirits#Rank]]).
+- **Tristan:** whether he is dead ([[Tristan]]).
+- **The Prophecies:** the prophecy his parents learned of the night they died has no content yet, and neither does the Church's End Times prophecy. Nothing says whether they are the same one ([[Ocular of Kaelen#The Murder of Aurelius's Parents]], [[The Church of the Eternal Blazing Sun#Apocalyptic Prophecy]]).
+- **The Crossing Line:** the Rank at which a spirit can cross into the material world is left to you ([[The Spirit Realm]]).
+- **Languages:** still "Common and spirit language (?)". [[Spirits]] now gives every spirit one shared tongue; whether it goes on his sheet as a language is your ruling.
+- **The Bound Spirits:** none of his apparitions has a first meeting recorded yet, so which spirits he can attune is not on paper ([[Spirits Ledger]]).
+- **The Headquarters:** the Church's central headquarters has no name or location yet ([[The Church of the Eternal Blazing Sun]]).
 
 ---
 

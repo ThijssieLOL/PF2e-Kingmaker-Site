@@ -10,8 +10,6 @@ Godly Domains:
   - Plant
   - Earth
   - Water
-Edicts:
-Anathema: Kill unnecessarily
 aliases:
 ---
 

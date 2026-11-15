@@ -5,6 +5,8 @@ tags:
   - pc
 aliases:
   - Jovian Larmelli
+  - failed pirate
+  - pirate
 ancestry: Human/Aiuvarin
 class: Bard
 faction: "-"
@@ -17,7 +19,7 @@ status: Alive
 
 ## Overview
 
-Jock Finch is a runaway noble and a wandering bard chasing a pirate's life in a land with no sea. He pays his way by performing, stealing, gambling, and bargaining, and he has come to the Stolen Lands for coin, for adventure, and for distance from his family.
+Jock Finch is a runaway noble and a wandering bard chasing a pirate's life in a land with no sea. He pays his way by performing, stealing, gambling, and bargaining, and he has come to the [[The Stolen Lands|Stolen Lands]] for coin, for adventure, and for distance from his family.
 
 ### Quick Facts
 - **Full Name:** Jock Finch (born Jovian Larmelli)
@@ -26,7 +28,7 @@ Jock Finch is a runaway noble and a wandering bard chasing a pirate's life in a 
 - **Class/Profession:** Bard
 - **Affiliation:** None
 - **Role/Rank:** None
-- **Home Town:** Eryndale
+- **Home Town:** [[Eryndale]]
 
 ---
 
@@ -76,7 +78,7 @@ The magic runs through the lute rather than living in it, and it takes its look 
 He keeps no written music. Every song he knows is in his head, and he is self-assured enough to leave it there.
 
 ### Combat
-Jock fights somewhere between a charge and a plan. He goes with the flow and stays laidback in an ordinary scrap, and panics when a real boss takes the field. He fights with a rapier and wears no armour. Part of his style comes from the training he grew up under and from duels with Mercius, the butler boy; the rest he improvised over the years.
+Jock fights somewhere between a charge and a plan. He goes with the flow and stays laidback in an ordinary scrap, and panics when a real boss takes the field. He fights with a rapier and wears no armor. Part of his style comes from the training he grew up under and from duels with Mercius, the butler boy; the rest he improvised over the years.
 
 His experience is thin: a few fights in training, and duels he entered because he was drunk, cocky, or both. He keeps some honour in a fight, not much. He accepts a surrender when the circumstances suit him, and he is happy to play dirty.
 

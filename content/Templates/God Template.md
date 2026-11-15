@@ -4,8 +4,6 @@ tags:
   - God
 Pantheon:
 Godly Domains:
-Edicts:
-Anathema:
 aliases:
 ---
 
