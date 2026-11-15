@@ -1,1 +1,1 @@
-We got attacked by bandits. We killed some bandits 
+We got attacked by bandits. We killed some bandits that raided or 
