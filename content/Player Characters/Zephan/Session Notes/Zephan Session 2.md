@@ -1,1 +1,1 @@
-We got attacked by bandits. We killed some bandits that raided our room, then some people in the garden. 
+We got attacked by bandits. We killed some bandits that raided our room, then some people in the garden. Then we saved linsey from being killed by a giant. 
