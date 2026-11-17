@@ -9,6 +9,7 @@ in_game_date:
 > "The funniest / most notable quote of the session." — Character Name
 
 ## Overview
+
 A brief 1-2 sentence summary of the key events of the session.
 
 ### Quick Facts
@@ -17,18 +18,26 @@ A brief 1-2 sentence summary of the key events of the session.
 - **In-Game Date:** 
 - **Location:** 
 
+---
 
 ## Recap
-- **Events:** (Chronological summary of what took place during the session)
+
+### First Scene
+Chronological prose account of what took place. Split the session into a few `###` scenes, each named after what happens in it.
+
+### Second Scene
+Prose.
 
 ---
 
 ## Combat & Encounters
+
 - **Encounters:** (Enemies faced, hazards overcome, and rewards obtained)
 
 ---
 
 ## Kingdom & Quest Updates
+
 - **Progress:** (Updates on active quests, settlement developments, or kingdom changes)
 
 ---
@@ -36,7 +45,7 @@ A brief 1-2 sentence summary of the key events of the session.
 ## Active Characters
 
 ### Player Characters
-- [v] Alea
+- [v] [[Alea]]
 - [v] [[Aurelius]]
 - [v] [[Jock Finch]]
 - [v] [[Oliver Strong Bison]]

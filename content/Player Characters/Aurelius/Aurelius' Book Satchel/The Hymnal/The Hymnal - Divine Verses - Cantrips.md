@@ -9,7 +9,7 @@ aliases:
   - Hymnal - Divine Verses - Cantrips
 status: Active
 ---
-
+  
 ## Overview
 
 The divine cantrips, cast from the sun goddess's own gift rather than from a spirit. [[Aurelius]] sets them down in [[The Hymnal]].

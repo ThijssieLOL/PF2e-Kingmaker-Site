@@ -13,6 +13,7 @@ aliases:
   - Sa’be Beshwaji
   - Oliver
   - Sa’be Beshwaji’
+  - Jester
 ---
 
 
