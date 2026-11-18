@@ -1,6 +1,7 @@
 ---
 tags:
   - faction
+  - Surtova
 current leaders:
 headquarters:
 alignment:
@@ -36,6 +37,8 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 ## Key Members
 - **[[Noleski Surtova]]:** The head of the House and current king of [[Brevoy]].
 - **[[Domani Surtova]]:** An uncle to king Noleski who serves as [[Port Ice|Port Ice's]] caretaker.
+- **Myrna Surtova:** Wife to [[Choral the Conqueror]] whose betrothal allowed her house to save its power and holdings in [[Irea]].
+- 
 
 ---
 
