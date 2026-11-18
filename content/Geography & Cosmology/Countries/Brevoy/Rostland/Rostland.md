@@ -17,7 +17,7 @@ The fertile region of **Rostland** is one of the two nations conglomerated into 
 
 ### Quick Facts
 - **Capital:** [[Restov]]
-- **Continent:** 
+- **Continent:** [[Odrith]]
 - **Country:** [[Brevoy]]
 - **Affiliation / Alliances:** 
 
