@@ -28,12 +28,12 @@ status: Active
 
 ### Notable Features:
 (Major rivers, mountain ranges, forests, lakes, landmarks, etc.)
-**[[The Lake of Mists and Veils]]** - A massive lake or inner sea within the continent of [[Odrith]]
+**[[The Lake of Mists and Veils]]** - A massive lake or inner sea within the continent of [[Odrith]] marking **ireas** northern border.
 
 ---
 ## Capital and important settlements
 ### Capital: 
-**Capital name** - Brief description of the capital and why it is important.
+**[[Port Ice]]** - The seat of [[House Surtova]] that became [[Brevoy|the country]]'s ruler upon the vanishing of its previous ruling [[House Rogarvia]].
 ### Important cities:
 City name - reason of importance
 City name - reason of importance
