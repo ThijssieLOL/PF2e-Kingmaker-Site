@@ -15,7 +15,7 @@ Though **Brevoy** is named one country it is really a mash of two countries forc
 
 ### Quick Facts
 - **Leader:** [[Noleski Surtova]]
-- **Capital:**
+- **Capital:** [[New Stetven]]
 - **Continent:** [[Odrith]]
 - **Government:** A monarchy held by [[House Surtova]]
 - **Affiliation / Alliances:** 
