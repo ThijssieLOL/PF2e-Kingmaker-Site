@@ -16,7 +16,7 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 
 ### Quick Facts
 - **Leader:** [[Noleski Surtova]]
-- **Headquarters:** [[
+- **Headquarters:** White manor in [[Port Ice]]
 - **Alignment:** 
 - **Affiliation / Alliances:** 
 
@@ -34,7 +34,8 @@ A brief 1-2 sentence summary of what this faction is and its main role.
 ---
 
 ## Key Members
-- **[[Character Link]]:** Brief description of their role within the faction.
+- **[[Noleski Surtova]]:** The head of the House and current king of [[Brevoy]].
+- **[[Domani Surtova]]:** An uncle to king Noleski who serves as [[Port Ice|Port Ice's]] caretaker.
 
 ---
 

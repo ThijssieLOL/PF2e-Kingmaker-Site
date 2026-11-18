@@ -17,7 +17,7 @@ The House Ásteri is a noble house known for their oracles, crystal mines and of
 
 ### Quick Facts
 - **Current Leader:** Lyra Ásteri and Castor Ásteri
-- **Headquarters:** Lowell
+- **Headquarters:** [[Lowell]]
 - **Alignment:** Lawfull good
 - **Affiliation / Alliances:** [[The Church of the Everlasting Moonlight]]
 
