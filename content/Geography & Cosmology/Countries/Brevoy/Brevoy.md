@@ -3,9 +3,9 @@ tags:
   - Country
   - Location
   - Brevoy
-  - Unfinished
+  - Odrith
 government:
-continent:
+continent: Odrith
 capital:
 status: Active
 ---

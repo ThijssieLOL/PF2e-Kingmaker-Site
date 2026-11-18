@@ -4,7 +4,7 @@ tags:
   - Location
   - Rostland
   - Brevoy
-continent:
+continent: Odrith
 country:
 status: Active
 aliases:
