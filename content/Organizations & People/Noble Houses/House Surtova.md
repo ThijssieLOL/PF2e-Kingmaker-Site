@@ -1,0 +1,42 @@
+---
+tags:
+  - faction
+current leaders:
+headquarters:
+alignment:
+status: Active
+---
+
+%%![[Faction Emblem.jpg|300]]%%
+
+> "Ours Is the Right."
+
+## Overview
+A brief 1-2 sentence summary of what this faction is and its main role.
+
+### Quick Facts
+- **Leader:** [[Noleski Surtova]]
+- **Headquarters:** [[
+- **Alignment:** 
+- **Affiliation / Alliances:** 
+
+## Founding and Lore
+- **Founding** (Are there any myths or legends surrounding the founding of this house?)
+- **History:** (Important current or historical events surrounding this house)
+
+---
+
+## Geography, Economy and Demographics
+- **Geography:** (In what city or town does this noble house lie and what terrain surrounds it)
+- **Economy**: (How do the people under this house earn a living.)
+- **Demographics:** (What kinds of species live in and under this noble house)
+
+---
+
+## Key Members
+- **[[Character Link]]:** Brief description of their role within the faction.
+
+---
+
+## Relations
+- **Faction Dynamics:** (Their relationship with the party, kingdom, or rival groups)
