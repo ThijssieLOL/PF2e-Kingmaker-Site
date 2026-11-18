@@ -38,7 +38,7 @@ Though **Brevoy** is named one country it is really a mash of two countries forc
 ---
 ## Capital and important cities
 ### Capital: 
-**Capital name** - Brief description of the capital and why it is important.
+**[[New Stetven]]** - The seat of the region's rule and 
 ### Important cities:
 City name - reason of importance
 City name - reason of importance
