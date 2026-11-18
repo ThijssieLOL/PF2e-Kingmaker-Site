@@ -33,7 +33,7 @@ Though **Brevoy** is named one country it is really a mash of two countries forc
 
 ### Notable Features:
 (Major rivers, mountain ranges, forests, lakes, landmarks, etc.)
-**Name** - description of landmark
+**Lake Reykal** - A large lake next to **Brevoys** capital city of [[New Stetven]].
 
 ---
 ## Capital and important cities
