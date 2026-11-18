@@ -5,7 +5,7 @@ tags:
   - Rostland
   - Brevoy
 continent: Odrith
-country:
+country: "[[Brevoy]]"
 status: Active
 aliases:
   - The Rostland
@@ -13,7 +13,7 @@ aliases:
 ---
 
 ## Overview
-The fertile region of Rostland is one of the two nations conglomerated into the modern-day state of [[Brevoy]]. It is known for it's master swordsmen and proud, defiant citizenry. Rostland stands on the verge of civil war with it's northern neighbor [[Irea]], which gained political control of the region since the disappearance of [[Brevoy|Brevoy's]] ruling [[House Rogarvia]].
+The fertile region of **Rostland** is one of the two nations conglomerated into the modern-day state of [[Brevoy]]. It is known for it's master swordsmen and proud, defiant citizenry. **Rostland** stands on the verge of civil war with it's northern neighbor [[Irea]], which gained political control of the region since the disappearance of [[Brevoy|Brevoy's]] ruling [[House Rogarvia]].
 
 ### Quick Facts
 - **Capital:** [[Restov]]
@@ -23,7 +23,7 @@ The fertile region of Rostland is one of the two nations conglomerated into the 
 
 ## Location
 **Borders:** [[Irea]], The Stolen Lands(River Kingdoms)
-**Position:** Rostland occupies the southern half of [[Brevoy]].
+**Position:** **Rostland** occupies the southern half of [[Brevoy]].
 
 ---
 ## Geography
