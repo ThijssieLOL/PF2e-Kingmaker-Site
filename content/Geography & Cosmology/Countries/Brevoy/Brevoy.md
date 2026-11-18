@@ -48,8 +48,8 @@ City name - reason of importance
 **Government:** Monarchy
 **Ruler:** [[Noleski Surtova]]
 **Succession:** Hereditary
-**Political Structure:** It is ruled by the [[House Surtova|Surtova family]]
-**Nobility / Social Classes:** (How influential are nobles, merchants, guilds, etc.?)
+**Political Structure:** It is ruled by the [[House Surtova|Surtova family]] since the disappearance of the ruling [[House Rogarvia]] some 27 years ago.
+**Nobility / Social Classes:** The political scene of **Brevoy** is largely set by its Noble Houses.
 
 ---
 ## Culture
