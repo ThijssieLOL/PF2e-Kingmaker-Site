@@ -45,10 +45,10 @@ City name - reason of importance
 
 ---
 ## Method of Rule
-**Government:** (Monarchy, republic, council, theocracy, etc.)
-**Ruler:** (Who holds the highest position of authority?)
-**Succession:** (How is the next ruler chosen?)
-**Political Structure:** (How is the country actually governed?)
+**Government:** Monarchy
+**Ruler:** [[Noleski Surtova]]
+**Succession:** Hereditary
+**Political Structure:** It is ruled by the [[House Surtova|Surtova family]]
 **Nobility / Social Classes:** (How influential are nobles, merchants, guilds, etc.?)
 
 ---
