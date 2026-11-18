@@ -38,7 +38,7 @@ Though **Brevoy** is named one country it is really a mash of two countries forc
 ---
 ## Capital and important cities
 ### Capital: 
-**[[New Stetven]]** - The seat of the region's rule and 
+**[[New Stetven]]** - The seat of the region's rule and a bustling trade city. It is known as the city of wooden palaces due to its large number of wooden buildings.
 ### Important cities:
 City name - reason of importance
 City name - reason of importance
