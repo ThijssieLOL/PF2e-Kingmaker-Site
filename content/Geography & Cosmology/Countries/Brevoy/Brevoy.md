@@ -16,7 +16,7 @@ Though **Brevoy** is named one country it is really a mash of two countries forc
 ### Quick Facts
 - **Leader:**
 - **Capital:**
-- **Continent:**
+- **Continent:** [[Odrith]]
 - **Government:**
 - **Affiliation / Alliances:** 
 
