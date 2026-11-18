@@ -38,7 +38,7 @@ The fertile region of **Rostland** is one of the two nations conglomerated into 
 ---
 ## Capital and important settlements
 ### Capital: 
-**Capital name** - Brief description of the capital and why it is important.
+**[[Restov]]** - A city renowned for its dueling schools. Both in its own Aldori dueling style and other prominent styles.
 ### Important cities:
 City name - reason of importance
 City name - reason of importance
