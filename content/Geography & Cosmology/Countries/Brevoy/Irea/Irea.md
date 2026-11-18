@@ -2,6 +2,8 @@
 tags:
   - Region
   - Location
+  - Brevoy
+  - Irea
 continent: Odrith
 country: "[[Brevoy]]"
 status: Active
