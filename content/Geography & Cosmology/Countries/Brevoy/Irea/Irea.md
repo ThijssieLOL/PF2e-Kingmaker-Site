@@ -8,7 +8,7 @@ status: Active
 ---
 
 ## Overview
-**Irea** is the northern region of [[Brevoy]], forcefully united with its southern neighbor [[Rostland]] by [[Choral the Conqueror]]. It is a re
+**Irea** is the northern region of [[Brevoy]], forcefully united with its southern neighbor [[Rostland]] by [[Choral the Conqueror]]. It is a region facing frequent raids by pirates from the [[The Lake of Mists and Veils|Lake of Mists and Veils]] and many a ruffian. Despite this and its poor fertility, the region managed to take control of the country 
 
 ### Quick Facts
 - **Capital:** [[Port Ice]]
