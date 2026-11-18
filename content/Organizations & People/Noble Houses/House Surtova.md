@@ -10,12 +10,12 @@ alignment:
 status: Active
 ---
 
-%%![[Faction Emblem.jpg|300]]%%
+![[Surtova_coat_of_arms.webp]]
 
 > "Ours Is the Right."
 
 ## Overview
-**House Surtova** is the current ruling family of [[Brevoy]], and the oldest and most influential Brevic noble family.⁠ Their original holdings are the environs of [[Port Ice]] in northern [[Irea]] on the shores of the [[The Lake of Mists and Veils|Lake of Mists and Veils]]. The Surtovans are known as careful and cunning diplomats. Before Choral the Conqueror invaded, the Surtovans were pirates and raiders, and the family still has many connections with the pirates and brigands of the region, many of whom are distant relations of the Surtova clan.
+**House Surtova** is the current ruling family of [[Brevoy]], and the oldest and most influential Brevic noble family.⁠ Their original holdings are the environs of [[Port Ice]] in northern [[Irea]] on the shores of the [[The Lake of Mists and Veils|Lake of Mists and Veils]]. The Surtovas are known as careful and cunning diplomats. Before [[Choral the Conqueror]] invaded, the Surtovas made their first fortune as pirates and raiders, and the family still has many connections with the pirates and brigands of the region, many of whom are distant relations of the Surtova clan.
 
 ### Quick Facts
 - **Leader:** [[Noleski Surtova]]
