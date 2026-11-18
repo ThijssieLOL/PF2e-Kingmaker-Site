@@ -41,7 +41,7 @@ Though **Brevoy** is named one country it is really a mash of two countries forc
 **[[New Stetven]]** - The seat of the region's rule and a bustling trade city. It is known as the city of wooden palaces due to its large number of wooden buildings.
 ### Important cities:
 [[Restov]] - A city renowned for its many dueling schools. It is also the capital of [[Rostland]].
-[[Port Ice]] - Located in the north of **Brevoy** and capital of its northern region of [
+[[Port Ice]] - Located in the north of **Brevoy** and capital of its northern region of [[Irea]]. It is a refuge for the regions many ruffians and lake pirates. It is also the home of the current ruling family [[House Surtova]].
 
 ---
 ## Method of Rule
