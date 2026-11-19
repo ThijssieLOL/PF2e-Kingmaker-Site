@@ -30,7 +30,7 @@ status: Active
 ---
 
 ## Geography, Economy and Demographics
-- **Geography:** This noble house resides over a region in northern [[Irea]]. Its main settlement is [[Port Ice]] which the house has held for many generations
+- **Geography:** This noble house resides over a region in northern [[Irea]]. Its main settlement is [[Port Ice]] which the house has held for many generations. 
 - **Economy**: Most of the House's money is made from the taxes it claims from the [[Brevoy|kingdom it now rules]].
 - **Demographics:** The noble house itself is mostly [[Humans|Human]] though it has some [[Elves|Elven]] heritage as is quite common in the region.
 
