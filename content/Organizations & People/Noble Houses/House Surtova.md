@@ -25,7 +25,7 @@ status: Active
 
 ## Founding and Lore
 - **Founding:** (Are there any myths or legends surrounding the founding of this house?)
-- **History:** (Important current or historical events surrounding this house)
+- **Choral's conquest:** (Important current or historical events surrounding this house)
 
 ---
 
