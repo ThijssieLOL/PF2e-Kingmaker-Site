@@ -24,7 +24,7 @@ status: Active
 - **Affiliation / Alliances:** 
 
 ## Founding and Lore
-- **Founding:** Before the invasion of [[Choral the Conqueror]] and the creation of [[Brevoy]] the surtovas were pirates and raiders. Though not terribly established as a "noble house" at the time, it already had considerable holdings in the region. It was officially established as **House Surtova** some 260 years ago 
+- **Founding:** Before the invasion of [[Choral the Conqueror]] and the creation of [[Brevoy]] the surtovas were pirates and raiders. Though not terribly established as a "noble house" at the time, it already had considerable holdings in the region. It was officially established as **House Surtova** some 260 years ago when Nikos Surtova promised his daughter Myrna Surtova
 - **Choral's conquest:** (Important current or historical events surrounding this house)
 
 ---
