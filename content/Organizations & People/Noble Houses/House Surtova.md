@@ -24,7 +24,7 @@ status: Active
 - **Affiliation / Alliances:** 
 
 ## Founding and Lore
-- **Founding:** Before the invasion of [[Choral the Conqueror]] and the creation of [[Brevoy]] the surtovas were pirates and raiders
+- **Founding:** Before the invasion of [[Choral the Conqueror]] and the creation of [[Brevoy]] the surtovas were pirates and raiders. Though not terribly established as a "noble house" it already 
 - **Choral's conquest:** (Important current or historical events surrounding this house)
 
 ---
