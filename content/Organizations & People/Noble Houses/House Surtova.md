@@ -24,7 +24,7 @@ status: Active
 - **Affiliation / Alliances:** 
 
 ## Founding and Lore
-- **Founding:** (Are there any myths or legends surrounding the founding of this house?)
+- **Founding:** Before the invasion of [[Choral the Conqueror]] and the creation of [[Brevoy]]
 - **Choral's conquest:** (Important current or historical events surrounding this house)
 
 ---
