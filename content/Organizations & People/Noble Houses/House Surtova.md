@@ -40,6 +40,7 @@ status: Active
 - **[[Noleski Surtova]]:** The head of the House and current king of [[Brevoy]].
 - **[[Domani Surtova]]:** An uncle to king Noleski who serves as [[Port Ice|Port Ice's]] caretaker.
 - **Myrna Surtova:** Wife to [[Choral the Conqueror]] whose betrothal allowed her house to save its power and holdings in [[Irea]] and serve as a vassal under [[House Rogarvia]].
+- **Nikos Surtova:** Father of Myrna Surtova and argued to be the founder of the House.
 - **[[Natala Surtova]]:** The king's sister and de facto queen of [[Brevoy]] as the king has no husband. She is arguably more politically influential than her brother and is rumored to *'dissuade'* potential brides.
 
 ---
